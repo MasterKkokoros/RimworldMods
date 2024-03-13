@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   <!--=============================== Tier 2 ===================================-->
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicNoseBeauty</defName>
+      <label>bionic beautiful nose</label>
+	  <labelNoun>a bionic beautiful nose</labelNoun>
+	  <description>An installed bionic beautiful nose.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicNoseBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicNoseBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+		    <SocialImpact>0.1</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicEarBeauty</defName>
+      <label>bionic beautiful ear</label>
+	  <labelNoun>a bionic beautiful ear</labelNoun>
+	  <description>An installed bionic beautiful ear.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicEarBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicEarBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.1</PawnBeauty>
+          <NegotiationAbility>0.05</NegotiationAbility>
+          <TradePriceImprovement>0.05</TradePriceImprovement>
+		    <SocialImpact>0.05</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicEyeBeauty</defName>
+      <label>bionic beautiful eye</label>
+	  <labelNoun>a bionic beautiful eye</labelNoun>
+	  <description>An installed bionic beautiful eye.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicEyeBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicEyeBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.1</PawnBeauty>
+          <TradePriceImprovement>0.05</TradePriceImprovement>
+		    <SocialImpact>0.05</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicJawBeauty</defName>
+      <label>bionic beautiful jaw</label>
+	  <labelNoun>a bionic beautiful jaw</labelNoun>
+	  <description>An installed bionic beautiful jaw.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicJawBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicJawBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+          <NegotiationAbility>0.1</NegotiationAbility>
+          <TradePriceImprovement>0.1</TradePriceImprovement>
+		    <SocialImpact>0.1</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicSpineBeauty</defName>
+      <label>bionic beautiful spine</label>
+	  <labelNoun>a bionic beautiful spine</labelNoun>
+	  <description>An installed bionic beautiful spine.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicSpineBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicSpineBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicSternumBeauty</defName>
+      <label>bionic beautiful sternum</label>
+	  <labelNoun>a bionic beautiful sternum</labelNoun>
+	  <description>An installed bionic beautiful sternum.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicSternumBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicSternumBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicRibcageBeauty</defName>
+      <label>bionic beautiful ribcage</label>
+	  <labelNoun>a bionic beautiful ribcage</labelNoun>
+	  <description>An installed bionic beautiful ribcage.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicRibcageBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicRibcageBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.10</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <!--=============================== Tier 3 ===================================--> 
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicNoseBeauty</defName>
+      <label>advanced bionic beautiful nose</label>
+	  <labelNoun>an advanced bionic beautiful nose</labelNoun>
+	  <description>An installed advanced bionic beautiful nose.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicNoseBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicNoseBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.4</PawnBeauty>
+		    <SocialImpact>0.2</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicEarBeauty</defName>
+      <label>advanced bionic beautiful ear</label>
+	  <labelNoun>an advanced bionic beautiful ear</labelNoun>
+	  <description>An installed advanced bionic beautiful ear.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicEarBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicEarBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+          <NegotiationAbility>0.1</NegotiationAbility>
+          <TradePriceImprovement>0.1</TradePriceImprovement>
+		    <SocialImpact>0.1</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicEyeBeauty</defName>
+      <label>advanced bionic beautiful eye</label>
+	  <labelNoun>an advanced bionic beautiful eye</labelNoun>
+	  <description>An installed bionic beautiful eye.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicEyeBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicEyeBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.2</PawnBeauty>
+          <TradePriceImprovement>0.1</TradePriceImprovement>
+		    <SocialImpact>0.1</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicJawBeauty</defName>
+      <label>advanced bionic beautiful jaw</label>
+	  <labelNoun>an advanced bionic beautiful jaw</labelNoun>
+	  <description>An installed advanced bionic beautiful jaw.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicJawBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicJawBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.4</PawnBeauty>
+          <NegotiationAbility>0.2</NegotiationAbility>
+          <TradePriceImprovement>0.15</TradePriceImprovement>
+		    <SocialImpact>0.2</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicSpineBeauty</defName>
+      <label>advanced bionic beautiful spine</label>
+	  <labelNoun>an advanced bionic beautiful spine</labelNoun>
+	  <description>An installed bionic beautiful spine.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicSpineBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicSpineBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.4</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicSternumBeauty</defName>
+      <label>advanced bionic beautiful sternum</label>
+	  <labelNoun>an advanced bionic beautiful sternum</labelNoun>
+	  <description>An installed advanced bionic beautiful sternum.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicSternumBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicSternumBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.4</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicRibcageBeauty</defName>
+      <label>advanced bionic beautiful ribcage</label>
+	  <labelNoun>an advanced bionic beautiful ribcage</labelNoun>
+	  <description>An installed advanced bionic beautiful ribcage.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicRibcageBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicRibcageBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.30</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.4</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <!--=============================== Tier 4 ===================================--> 
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicNoseBeauty</defName>
+      <label>ultra bionic beautiful nose</label>
+	  <labelNoun>an ultra bionic beautiful nose</labelNoun>
+	  <description>An installed ultra bionic beautiful nose.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicNoseBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicNoseBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.6</PawnBeauty>
+		    <SocialImpact>0.3</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicEarBeauty</defName>
+      <label>ultra bionic beautiful ear</label>
+	  <labelNoun>an ultra bionic beautiful ear</labelNoun>
+	  <description>An installed ultra bionic beautiful ear.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicEarBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicEarBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.3</PawnBeauty>
+          <NegotiationAbility>0.15</NegotiationAbility>
+          <TradePriceImprovement>0.15</TradePriceImprovement>
+		    <SocialImpact>0.15</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicEyeBeauty</defName>
+      <label>ultra bionic beautiful eye</label>
+	  <labelNoun>an ultra bionic beautiful eye</labelNoun>
+	  <description>An installed ultra bionic beautiful eye.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicEyeBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicEyeBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.3</PawnBeauty>
+          <TradePriceImprovement>0.15</TradePriceImprovement>
+		    <SocialImpact>0.15</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicJawBeauty</defName>
+      <label>ultra bionic beautiful jaw</label>
+	  <labelNoun>an ultra bionic beautiful jaw</labelNoun>
+	  <description>An installed ultra bionic beautiful jaw.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicJawBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicJawBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.6</PawnBeauty>
+          <NegotiationAbility>0.3</NegotiationAbility>
+          <TradePriceImprovement>0.2</TradePriceImprovement>
+		    <SocialImpact>0.3</SocialImpact>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicSpineBeauty</defName>
+      <label>ultra bionic beautiful spine</label>
+	  <labelNoun>an ultra bionic beautiful spine</labelNoun>
+	  <description>An installed ultra bionic beautiful spine.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicSpineBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicSpineBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.6</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicSternumBeauty</defName>
+      <label>ultra bionic beautiful sternum</label>
+	  <labelNoun>an ultra bionic beautiful sternum</labelNoun>
+	  <description>An installed ultra bionic beautiful sternum.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicSternumBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicSternumBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.6</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicRibcageBeauty</defName>
+      <label>ultra bionic beautiful ribcage</label>
+	  <labelNoun>an ultra bionic beautiful ribcage</labelNoun>
+	  <description>An installed ultra bionic beautiful ribcage.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicRibcageBeauty</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicRibcageBeauty</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <statOffsets>
+          <PawnBeauty>0.6</PawnBeauty>
+         </statOffsets>
+      </li>
+      </stages>
+   </HediffDef>
+</Defs>

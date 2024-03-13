@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <!--===============================Tier2===================================-->
+    <HediffDef ParentName="KokuaddedSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuArtificialSpleen</defName>
+        <label>artificial spleen</label>
+        <description>An installed artificial spleen.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuArtificialSpleen</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuArtificialSpleen</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <statOffsets>
+                    <ImmunityGainSpeed>0.10</ImmunityGainSpeed>
+                 </statOffsets>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>0.75</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuArtificialPancreas</defName>
+        <label>artificial pancreas</label>
+        <description>An installed artificial pancreas.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuArtificialPancreas</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuArtificialPancreas</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>0.10</hungerRateFactorOffset>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>0.75</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuArtificialGallbladder</defName>
+        <label>artificial gallbladder</label>
+        <description>An installed artificial gallbladder.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuArtificialGallbladder</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuArtificialGallbladder</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>0.10</hungerRateFactorOffset>
+
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>0.75</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+    <!--===============================Tier3===================================-->
+
+    <HediffDef ParentName="KokuaddedSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuSyntheticSpleen</defName>
+        <label>synthetic spleen</label>
+        <description>An installed synthetic spleen.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuSyntheticSpleen</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuSyntheticSpleen</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <statOffsets>
+                    <ImmunityGainSpeed>0.15</ImmunityGainSpeed>
+                 </statOffsets>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.25</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuSyntheticPancreas</defName>
+        <label>synthetic pancreas</label>
+        <description>An installed synthetic pancreas.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuSyntheticPancreas</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuSyntheticPancreas</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>-0.10</hungerRateFactorOffset>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.25</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuSyntheticGallbladder</defName>
+        <label>synthetic gallbladder</label>
+        <description>An installed synthetic gallbladder.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuSyntheticGallbladder</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuSyntheticGallbladder</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>-0.10</hungerRateFactorOffset>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.25</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <!--===============================Tier4===================================-->
+
+    <HediffDef ParentName="KokuaddedUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuUltraSpleen</defName>
+        <label>ultra spleen</label>
+        <description>An installed ultra spleen.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuUltraSpleen</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuUltraSpleen</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <statOffsets>
+                    <ImmunityGainSpeed>0.2</ImmunityGainSpeed>
+                 </statOffsets>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.5</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuUltraPancreas</defName>
+        <label>ultra pancreas</label>
+        <description>An installed ultra pancreas.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuUltraPancreas</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuUltraPancreas</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>-0.20</hungerRateFactorOffset>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.5</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+    <HediffDef ParentName="KokuaddedUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuUltraGallbladder</defName>
+        <label>ultra gallbladder</label>
+        <description>An installed ultra gallbladder.</description>
+        <descriptionHyperlinks>
+            <ThingDef>KokuUltraGallbladder</ThingDef>
+        </descriptionHyperlinks>
+        <spawnThingOnRemoved>KokuUltraGallbladder</spawnThingOnRemoved>
+        <stages>
+            <li>
+                <hungerRateFactorOffset>-0.25</hungerRateFactorOffset>
+            </li>
+        </stages>
+        <addedPartProps>
+            <solid>true</solid>
+            <partEfficiency>1.5</partEfficiency>
+        </addedPartProps>
+    </HediffDef>
+
+</Defs>

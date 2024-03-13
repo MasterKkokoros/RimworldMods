@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <MVCF.ModDef>
+	<defName>KkokorosCombatorgans</defName>
+	<label>Combat organs</label>
+	<description>Help</description>
+	<ActivateFeatures>
+		<li>HediffVerbs</li>
+	</ActivateFeatures>
+   </MVCF.ModDef>
+    <!--=============================== Tier 2 ===================================-->
+    <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicClaw</defName>
+      <label>Bionic claw</label>
+	  <labelNoun>a bionic claw</labelNoun>
+	  <description>An installed bionic claw.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicClaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicClaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <capMods>
+            <li>
+              <capacity>Moving</capacity>
+              <offset>-0.05</offset>
+            </li>
+          </capMods>
+      </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic claw</label>
+                  <capacities>
+                     <li>Scratch</li>
+                  </capacities>
+                  <power>16</power>
+                  <cooldownTime>2.2</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+                  <soundMeleeHit>Pawn_Melee_PowerClaw_Hit</soundMeleeHit>
+                  <soundMeleeMiss>Pawn_Melee_PowerClaw_Miss</soundMeleeMiss>
+               </li>
+            </tools>
+         </li>
+      </comps>
+    </HediffDef>
+    <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicGunArm</defName>
+      <label>Bionic gun arm</label>
+	  <labelNoun>a bionic gun arm</labelNoun>
+	  <description>An installed bionic gun arm.</description>
+      <descriptionHyperlinks><ThingDef>KokuBionicGunArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicGunArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <capMods>
+            <li>
+              <capacity>Moving</capacity>
+              <offset>-0.05</offset>
+            </li>
+          </capMods>
+      </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic gun arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>2.0</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                 <verbClass>Verb_Shoot</verbClass>
+                 <hasStandardCommand>true</hasStandardCommand>
+                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                 <warmupTime>1.2</warmupTime>
+                 <range>16.0</range>
+                 <soundCast>Shot_Autopistol</soundCast>
+                 <soundCastTail>GunTail_Light</soundCastTail>
+                 <muzzleFlashScale>9</muzzleFlashScale>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+    </HediffDef>
+    <!--=============================== Tier 3 ===================================-->
+    <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicClaw</defName>
+      <label>advanced bionic claw</label>
+	  <labelNoun>an advanced bionic claw</labelNoun>
+	  <description>An installed advanced bionic claw.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicClaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicClaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <capMods>
+            <li>
+              <capacity>Moving</capacity>
+              <offset>-0.025</offset>
+            </li>
+          </capMods>
+      </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic claw</label>
+                  <capacities>
+                     <li>Scratch</li>
+                  </capacities>
+                  <power>18</power>
+                  <cooldownTime>2</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+                  <soundMeleeHit>Pawn_Melee_PowerClaw_Hit</soundMeleeHit>
+                  <soundMeleeMiss>Pawn_Melee_PowerClaw_Miss</soundMeleeMiss>
+               </li>
+            </tools>
+         </li>
+      </comps>
+    </HediffDef>
+    <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicGunArm</defName>
+      <label>advanced bionic gun arm</label>
+	  <labelNoun>an advanced bionic gun arm</labelNoun>
+	  <description>An installed advanced bionic gun arm.</description>
+      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicGunArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicGunArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+      <li>
+         <capMods>
+            <li>
+              <capacity>Moving</capacity>
+              <offset>-0.025</offset>
+            </li>
+          </capMods>
+      </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic gun arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>12</power>
+                  <cooldownTime>1.8</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                 <verbClass>Verb_Shoot</verbClass>
+                 <hasStandardCommand>true</hasStandardCommand>
+                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                 <warmupTime>1.0</warmupTime>
+                 <range>18.0</range>
+                 <soundCast>Shot_Autopistol</soundCast>
+                 <soundCastTail>GunTail_Light</soundCastTail>
+                 <muzzleFlashScale>9</muzzleFlashScale>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+    </HediffDef>
+    <!--=============================== Tier 4 ===================================-->
+    <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicClaw</defName>
+      <label>ultra bionic claw</label>
+	  <labelNoun>an ultra bionic claw</labelNoun>
+	  <description>An installed ultra bionic claw.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicClaw</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicClaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.50</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic claw</label>
+                  <capacities>
+                     <li>Scratch</li>
+                  </capacities>
+                  <power>20</power>
+                  <cooldownTime>1.8</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+                  <soundMeleeHit>Pawn_Melee_PowerClaw_Hit</soundMeleeHit>
+                  <soundMeleeMiss>Pawn_Melee_PowerClaw_Miss</soundMeleeMiss>
+               </li>
+            </tools>
+         </li>
+      </comps>
+    </HediffDef>
+    <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicGunArm</defName>
+      <label>ultra bionic gun arm</label>
+	  <labelNoun>an ultra bionic gun arm</labelNoun>
+	  <description>An installed ultra bionic gun arm.</description>
+      <descriptionHyperlinks><ThingDef>KokuUltraBionicGunArm</ThingDef></descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicGunArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.50</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic gun arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>14</power>
+                  <cooldownTime>1.6</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                 <verbClass>Verb_Shoot</verbClass>
+                 <hasStandardCommand>true</hasStandardCommand>
+                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                 <warmupTime>1.0</warmupTime>
+                 <range>20.0</range>
+                 <soundCast>Shot_Autopistol</soundCast>
+                 <soundCastTail>GunTail_Light</soundCastTail>
+                 <muzzleFlashScale>9</muzzleFlashScale>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+    </HediffDef>
+</Defs>

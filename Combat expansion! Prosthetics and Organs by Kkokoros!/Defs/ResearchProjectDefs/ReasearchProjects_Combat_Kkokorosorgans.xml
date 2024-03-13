@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <ResearchProjectDef Abstract="True" Name="Bruh123">
+    <description>123</description>
+    <techLevel>Spacer</techLevel>
+    </ResearchProjectDef>
+
+    <ResearchProjectDef>
+		<defName>KokuBionicsCombat</defName>
+		<label>Bionic combat addons</label>
+		<description>Adds bionic combat addons like built-in autopistol or claw.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+            <li>KokuBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+
+    <ResearchProjectDef>
+		<defName>KokuAdvancedBionicsCombat</defName>
+		<label>Advanced combat addons</label>
+		<description>Adds advanced bionic combat addons like built-in autopistol or claw.</description>
+		<baseCost>1700</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+            <li>KokuAdvancedBionics</li>
+            <li>KokuBionicsCombat</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+
+    <ResearchProjectDef>
+		<defName>KokuUltraBionicsGun</defName>
+		<label>Ultra combat addons</label>
+		<description>Adds ultra bionic combat addons like built-in autopistol or claw.</description>
+		<baseCost>2200</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+            <li>KokuUltraBionics</li>
+            <li>KokuAdvancedBionicsCombat</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>3</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

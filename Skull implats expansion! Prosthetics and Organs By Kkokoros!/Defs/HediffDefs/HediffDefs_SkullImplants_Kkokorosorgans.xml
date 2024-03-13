@@ -1,0 +1,803 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   
+   <!--================stuff================-->
+   <HediffDef Name="KokuaddedSimpleOrgansSkullImplants" ParentName="KokuaddedSimpleOrgans" Abstract="True">
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedSyntheticOrgansSkullImplants" ParentName="KokuaddedSyntheticOrgans" Abstract="True">
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedUltraOrgansSkullImplants" ParentName="KokuaddedUltraOrgans" Abstract="True">
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--==================================_sleep_less_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1SleepLessSkullImplant</defName>
+      <label>V1 sleepless skull implant</label>
+      <description>An installed V1 sleepless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1SleepLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1SleepLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <restFallFactor>0.50</restFallFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2SleepLessSkullImplant</defName>
+      <label>V2 sleepless skull implant</label>
+      <description>An installed V2 sleepless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2SleepLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2SleepLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <restFallFactor>0.25</restFallFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3SleepLessSkullImplant</defName>
+      <label>V3 sleepless skull implant</label>
+      <description>An installed V3 sleepless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3SleepLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3SleepLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <restFallFactor>0</restFallFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_psychic_less_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1PsychicLessSkullImplant</defName>
+      <label>V1 psychicless skull implant</label>
+      <description>An installed V1 psychicless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1PsychicLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1PsychicLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MentalBreakThreshold>-0.5</MentalBreakThreshold>
+               <PsychicSensitivity>-0.5</PsychicSensitivity>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2PsychicLessSkullImplant</defName>
+      <label>V2 psychicless skull implant</label>
+      <description>An installed V2 psychicless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2PsychicLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2PsychicLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MentalBreakThreshold>-0.75</MentalBreakThreshold>
+               <PsychicSensitivity>-0.75</PsychicSensitivity>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3PsychicLessSkullImplant</defName>
+      <label>V3 psychicless skull implant</label>
+      <description>An installed V3 psychicless skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3PsychicLessSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3PsychicLessSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MentalBreakThreshold>-1</MentalBreakThreshold>
+               <PsychicSensitivity>-1</PsychicSensitivity>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Researcher_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1ResearcherSkullImplant</defName>
+      <label>V1 researcher skull implant</label>
+      <description>An installed V1 researcher skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1ResearcherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1ResearcherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ResearchSpeed>1</ResearchSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2ResearcherSkullImplant</defName>
+      <label>V2 researcher skull implant</label>
+      <description>An installed V2 researcher implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2ResearcherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2ResearcherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ResearchSpeed>2.0</ResearchSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3ResearcherSkullImplant</defName>
+      <label>V3 researcher skull implant</label>
+      <description>An installed V3 researcher skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3ResearcherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3ResearcherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ResearchSpeed>3.0</ResearchSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Miner_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1MinerSkullImplant</defName>
+      <label>V1 miner skull implant</label>
+      <description>An installed V1 miner skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1MinerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1MinerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MiningSpeed>1</MiningSpeed>
+               <MiningYield>1</MiningYield>
+               <DeepDrillingSpeed>1</DeepDrillingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2MinerSkullImplant</defName>
+      <label>V2 miner skull implant</label>
+      <description>An installed V2 miner implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2MinerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2MinerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MiningSpeed>2</MiningSpeed>
+               <MiningYield>2</MiningYield>
+               <DeepDrillingSpeed>2</DeepDrillingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3MinerSkullImplant</defName>
+      <label>V3 miner skull implant</label>
+      <description>An installed V3 miner skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3MinerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3MinerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MiningSpeed>3</MiningSpeed>
+               <MiningYield>3</MiningYield>
+               <DeepDrillingSpeed>3</DeepDrillingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Farmer_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1FarmerSkullImplant</defName>
+      <label>V1 farmer skull implant</label>
+      <description>An installed V1 farmer skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1FarmerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1FarmerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <PlantWorkSpeed>1</PlantWorkSpeed>
+               <PlantHarvestYield>1</PlantHarvestYield>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2FarmerSkullImplant</defName>
+      <label>V2 farmer skull implant</label>
+      <description>An installed V2 farmer implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2FarmerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2FarmerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <PlantWorkSpeed>2</PlantWorkSpeed>
+               <PlantHarvestYield>2</PlantHarvestYield>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3FarmerSkullImplant</defName>
+      <label>V3 farmer skull implant</label>
+      <description>An installed V3 farmer skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3FarmerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3FarmerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <PlantWorkSpeed>3</PlantWorkSpeed>
+               <PlantHarvestYield>3</PlantHarvestYield>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Rancher_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1RancherSkullImplant</defName>
+      <label>V1 rancher skull implant</label>
+      <description>An installed V1 rancher skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1RancherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1RancherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <AnimalGatherSpeed>1</AnimalGatherSpeed>
+               <AnimalGatherYield>1</AnimalGatherYield>
+               <TameAnimalChance>1</TameAnimalChance>
+               <TrainAnimalChance>1</TrainAnimalChance>
+               <BondAnimalChanceFactor>1</BondAnimalChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2RancherSkullImplant</defName>
+      <label>V2 rancher skull implant</label>
+      <description>An installed V2 rancher implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2RancherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2RancherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <AnimalGatherSpeed>2</AnimalGatherSpeed>
+               <AnimalGatherYield>2</AnimalGatherYield>
+               <TameAnimalChance>2</TameAnimalChance>
+               <TrainAnimalChance>2</TrainAnimalChance>
+               <BondAnimalChanceFactor>2</BondAnimalChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3RancherSkullImplant</defName>
+      <label>V3 rancher skull implant</label>
+      <description>An installed V3 rancher skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3RancherSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3RancherSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <AnimalGatherSpeed>3</AnimalGatherSpeed>
+               <AnimalGatherYield>3</AnimalGatherYield>
+               <TameAnimalChance>3</TameAnimalChance>
+               <TrainAnimalChance>3</TrainAnimalChance>
+               <BondAnimalChanceFactor>3</BondAnimalChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Chef_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1ChefSkullImplant</defName>
+      <label>V1 chef skull implant</label>
+      <description>An installed V1 chef skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1ChefSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1ChefSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CookSpeed>1</CookSpeed>
+               <ButcheryFleshSpeed>1</ButcheryFleshSpeed>
+               <ButcheryMechanoidSpeed>1</ButcheryMechanoidSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2ChefSkullImplant</defName>
+      <label>V2 chef skull implant</label>
+      <description>An installed V2 chef implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2ChefSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2ChefSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CookSpeed>2</CookSpeed>
+               <ButcheryFleshSpeed>2</ButcheryFleshSpeed>
+               <ButcheryMechanoidSpeed>2</ButcheryMechanoidSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3ChefSkullImplant</defName>
+      <label>V3 chef skull implant</label>
+      <description>An installed V3 chef skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3ChefSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3ChefSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CookSpeed>3</CookSpeed>
+               <ButcheryFleshSpeed>3</ButcheryFleshSpeed>
+               <ButcheryMechanoidSpeed>3</ButcheryMechanoidSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Builder_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1BuilderSkullImplant</defName>
+      <label>V1 builder skull implant</label>
+      <description>An installed V1 builder skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1BuilderSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1BuilderSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ConstructionSpeed>1</ConstructionSpeed>
+               <ConstructSuccessChance>1</ConstructSuccessChance>
+               <FixBrokenDownBuildingSuccessChance>1</FixBrokenDownBuildingSuccessChance>
+               <SmoothingSpeed>1</SmoothingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2BuilderSkullImplant</defName>
+      <label>V2 builder skull implant</label>
+      <description>An installed V2 builder implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2BuilderSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2BuilderSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ConstructionSpeed>2</ConstructionSpeed>
+               <ConstructSuccessChance>2</ConstructSuccessChance>
+               <FixBrokenDownBuildingSuccessChance>2</FixBrokenDownBuildingSuccessChance>
+               <SmoothingSpeed>2</SmoothingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3BuilderSkullImplant</defName>
+      <label>V3 builder skull implant</label>
+      <description>An installed V3 builder skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3BuilderSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3BuilderSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ConstructionSpeed>3</ConstructionSpeed>
+               <ConstructSuccessChance>3</ConstructSuccessChance>
+               <FixBrokenDownBuildingSuccessChance>3</FixBrokenDownBuildingSuccessChance>
+               <SmoothingSpeed>3</SmoothingSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Maid_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1MaidSkullImplant</defName>
+      <label>V1 maid skull implant</label>
+      <description>An installed V1 maid skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1MaidSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1MaidSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CleaningSpeed>1</CleaningSpeed>
+               <SmeltingSpeed>1</SmeltingSpeed>
+               <MoveSpeed>0.5</MoveSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2MaidSkullImplant</defName>
+      <label>V2 maid skull implant</label>
+      <description>An installed V2 maid implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2MaidSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2MaidSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CleaningSpeed>2</CleaningSpeed>
+               <SmeltingSpeed>2</SmeltingSpeed>
+               <MoveSpeed>1</MoveSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3MaidSkullImplant</defName>
+      <label>V3 maid skull implant</label>
+      <description>An installed V3 maid skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3MaidSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3MaidSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <CleaningSpeed>3</CleaningSpeed>
+               <SmeltingSpeed>3</SmeltingSpeed>
+               <MoveSpeed>1.5</MoveSpeed>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Social_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1SocialSkullImplant</defName>
+      <label>V1 social skull implant</label>
+      <description>An installed V1 social skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1SocialSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1SocialSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <SocialImpact>1</SocialImpact>
+               <NegotiationAbility>1</NegotiationAbility>
+               <PawnBeauty>1</PawnBeauty>
+               <ArrestSuccessChance>1</ArrestSuccessChance>
+               <TradePriceImprovement>0.5</TradePriceImprovement>
+               <DrugSellPriceImprovement>1</DrugSellPriceImprovement>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2SocialSkullImplant</defName>
+      <label>V2 social skull implant</label>
+      <description>An installed V2 social implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2SocialSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2SocialSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <SocialImpact>2</SocialImpact>
+               <NegotiationAbility>2</NegotiationAbility>
+               <PawnBeauty>2</PawnBeauty>
+               <ArrestSuccessChance>2</ArrestSuccessChance>
+               <TradePriceImprovement>1.0</TradePriceImprovement>
+               <DrugSellPriceImprovement>2</DrugSellPriceImprovement>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3SocialSkullImplant</defName>
+      <label>V3 social skull implant</label>
+      <description>An installed V3 social skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3SocialSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3SocialSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <SocialImpact>3</SocialImpact>
+               <NegotiationAbility>3</NegotiationAbility>
+               <PawnBeauty>3</PawnBeauty>
+               <ArrestSuccessChance>3</ArrestSuccessChance>
+               <TradePriceImprovement>1.5</TradePriceImprovement>
+               <DrugSellPriceImprovement>3</DrugSellPriceImprovement>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Medic_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1MedicSkullImplant</defName>
+      <label>V1 medic skull implant</label>
+      <description>An installed V1 medic skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1MedicSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1MedicSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MedicalTendSpeed>0.5</MedicalTendSpeed>
+               <MedicalSurgerySuccessChance>0.5</MedicalSurgerySuccessChance>
+               <MedicalTendQuality>0.5</MedicalTendQuality>
+               <SurgerySuccessChanceFactor>0.5</SurgerySuccessChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2MedicSkullImplant</defName>
+      <label>V2 medic skull implant</label>
+      <description>An installed V2 farmer implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2MedicSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2MedicSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MedicalTendSpeed>1</MedicalTendSpeed>
+               <MedicalSurgerySuccessChance>1</MedicalSurgerySuccessChance>
+               <MedicalTendQuality>1</MedicalTendQuality>
+               <SurgerySuccessChanceFactor>1</SurgerySuccessChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3MedicSkullImplant</defName>
+      <label>V3 medic skull implant</label>
+      <description>An installed V3 medic skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3MedicSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3MedicSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MedicalTendSpeed>1.5</MedicalTendSpeed>
+               <MedicalSurgerySuccessChance>1.5</MedicalSurgerySuccessChance>
+               <MedicalTendQuality>1.5</MedicalTendQuality>
+               <SurgerySuccessChanceFactor>1.5</SurgerySuccessChanceFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Fast_Learner_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1FastLearnerSkullImplant</defName>
+      <label>V1 fast learner skull implant</label>
+      <description>An installed V1 fast learner skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1FastLearnerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1FastLearnerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <GlobalLearningFactor>1.5</GlobalLearningFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2FastLearnerSkullImplant</defName>
+      <label>V2 fast learner skull implant</label>
+      <description>An installed V2 fast learner skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2FastLearnerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2FastLearnerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <GlobalLearningFactor>2.0</GlobalLearningFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3FastLearnerSkullImplant</defName>
+      <label>V3 fast learner skull implant</label>
+      <description>An installed V3 fast learner skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3FastLearnerSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3FastLearnerSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <GlobalLearningFactor>3.0</GlobalLearningFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Melee_Soldier_Learner_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1MeleeSoldierSkullImplant</defName>
+      <label>V1 melee soldier skull implant</label>
+      <description>An installed V1 melee soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1MeleeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1MeleeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MeleeDPS>0.5</MeleeDPS>
+               <MeleeArmorPenetration>0.5</MeleeArmorPenetration>
+               <MeleeHitChance>0.5</MeleeHitChance>
+               <MeleeDodgeChance>0.5</MeleeDodgeChance>
+               <PawnTrapSpringChance>0.75</PawnTrapSpringChance>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2MeleeSoldierSkullImplant</defName>
+      <label>V2 melee soldier skull implant</label>
+      <description>An installed V2 melee soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2MeleeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2MeleeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MeleeDPS>1</MeleeDPS>
+               <MeleeArmorPenetration>1</MeleeArmorPenetration>
+               <MeleeHitChance>1</MeleeHitChance>
+               <MeleeDodgeChance>1</MeleeDodgeChance>
+               <PawnTrapSpringChance>0.50</PawnTrapSpringChance>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3MeleeSoldierSkullImplant</defName>
+      <label>V3 melee soldier skull implant</label>
+      <description>An installed V3 melee soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3MeleeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3MeleeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <MeleeDPS>1.5</MeleeDPS>
+               <MeleeArmorPenetration>1.5</MeleeArmorPenetration>
+               <MeleeHitChance>1.5</MeleeHitChance>
+               <MeleeDodgeChance>1.5</MeleeDodgeChance>
+               <PawnTrapSpringChance>0.25</PawnTrapSpringChance>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--==================================_Range_Soldier_Learner_implant_==================================-->
+   <HediffDef ParentName="KokuaddedSimpleOrgansSkullImplants">
+      <defName>KokuV1RangeSoldierSkullImplant</defName>
+      <label>V1 range soldier skull implant</label>
+      <description>An installed V1 range soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV1RangeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV1RangeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ShootingAccuracyPawn>0.5</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>0.25</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>0.25</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>0.25</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>0.25</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-0.25</AimingDelayFactor>
+               <MortarMissRadiusFactor>-0.25</MortarMissRadiusFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgansSkullImplants">
+      <defName>KokuV2RangeSoldierSkullImplant</defName>
+      <label>V2 range soldier skull implant</label>
+      <description>An installed V2 range soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV2RangeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV2RangeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ShootingAccuracyPawn>1</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>0.5</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>0.5</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>0.5</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>0.5</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-0.5</AimingDelayFactor>
+               <MortarMissRadiusFactor>-0.5</MortarMissRadiusFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgansSkullImplants">
+      <defName>KokuV3RangeSoldierSkullImplant</defName>
+      <label>V3 range soldier skull implant</label>
+      <description>An installed V3 range soldier skull implant.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuV3RangeSoldierSkullImplant</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuV3RangeSoldierSkullImplant</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>0.75</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>0.75</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>0.75</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-0.75</AimingDelayFactor>
+               <MortarMissRadiusFactor>-0.75</MortarMissRadiusFactor>
+            </statOffsets>
+         </li>
+      </stages>
+   </HediffDef>
+
+</Defs>

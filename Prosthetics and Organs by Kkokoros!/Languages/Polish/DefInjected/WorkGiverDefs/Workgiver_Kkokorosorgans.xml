@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOrgansPrinter.verb>drukuje</DoBillsOrgansPrinter.verb>
+  <DoBillsOrgansPrinter.gerund>drukowaniem</DoBillsOrgansPrinter.gerund>
+
+  <DoBillsProstheticPrinter.verb>montuje</DoBillsProstheticPrinter.verb>
+  <DoBillsProstheticPrinter.gerund>montowaniem</DoBillsProstheticPrinter.gerund>
+
+</LanguageData>

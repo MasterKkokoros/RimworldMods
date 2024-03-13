@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuBasicProsthetics.label>Podstawowe protezy</KokuBasicProsthetics.label>
+    <KokuBasicProsthetics.description>Zrozum podstawy nogi i połącz swoją wiedze z podstawą obróbki drewna.</KokuBasicProsthetics.description>
+	
+	<KokuProsthetics.label>Proste protezy</KokuProsthetics.label>
+    <KokuProsthetics.description>Zaawansowane badania anatomiczne i badania metali pozwolą Ci zbudować proste protezy. Odblokowuje stół protetyczny.</KokuProsthetics.description>
+
+	<KokuSimpleOrgans.label>Sztuczne organy</KokuSimpleOrgans.label>
+    <KokuSimpleOrgans.description>Gdy zdobywasz wyższą wiedzę medyczną i techniczną, stworzenie drukarki 3D do tworzenia prostych narządów staje się teraz możliwe.</KokuSimpleOrgans.description>
+
+	<KokuHeadModifications.label>Bioniczne mody głowy</KokuHeadModifications.label>
+    <KokuHeadModifications.description>Używanie bioniki tylko w celu przywrócenia brakujących kończyn wydaje się takim marnotrawstwem. Wykorzystajmy je dla urody! Odblokowuje bioniczne modyfikacje głowy.</KokuHeadModifications.description>
+
+	<KokuBionics.label>Bioniczne mody</KokuBionics.label>
+    <KokuBionics.description>Odkrywając koncepcję bardzo małych silników i obwodów, otwierają się dla Ciebie nowe możliwości lepszych protez. Odblokowuje nowe przepisy przy stole protetycznym.</KokuBionics.description>
+
+	<KokuBionicSpine.label>Bioniczny kręgosłup</KokuBionicSpine.label>
+    <KokuBionicSpine.description>Anatomia ludzkiego kręgosłupa jest radykalnie skomplikowana. Prawdopodobnie powinieneś trochę poszukać, zanim zaczniesz się tym bawić.</KokuBionicSpine.description>
+
+	<KokuTorsoModifications.label>Mody tłowia</KokuTorsoModifications.label>
+    <KokuTorsoModifications.description>Odkrywając koncepcję bardzo małych dozowników, myślisz o włożeniu ich do mostka lub klatki piersiowej. Możesz teraz tworzyć i instalować implanty mostka lub wymieniać klatkę piersiową.</KokuTorsoModifications.description>
+
+	<KokuSyntheticOrgans.label>Syntetyczne organy</KokuSyntheticOrgans.label>
+    <KokuSyntheticOrgans.description>Dalsze badania w dziedzinie nanotechnologii pozwalają drukować niezwykle dobrze zaprojektowane sztuczne narządy. Odblokowuje nowe przepisy na drukarce do tkanek.</KokuSyntheticOrgans.description>
+
+	<KokuBrainSurgery.label>Sztuczny mózg</KokuBrainSurgery.label>
+    <KokuBrainSurgery.description>Odblokowuje możliwość tworzenia i instalowania podstawowych implantów mózgowych.</KokuBrainSurgery.description>
+
+	<KokuAdvancedHeadModifications.label>Zaawansowane mody głowy</KokuAdvancedHeadModifications.label>
+    <KokuAdvancedHeadModifications.description>Używanie bioniki tylko w celu przywrócenia brakujących kończyn wydaje się takim marnotrawstwem. Wykorzystajmy je dla urody! Odblokowuje bioniczne modyfikacje głowy.</KokuAdvancedHeadModifications.description>
+
+	<KokuExoskeleton.label>Egzoszkielet</KokuExoskeleton.label>
+    <KokuExoskeleton.description>Wykorzystaj absolutnie najnowocześniejszą technologię silników i wiedzę z zakresu ergonomii, aby zrozumieć koncepcję egzoszkieletów i powielić ją na ludziach. Pozwala na produkcję i montaż kombinezonów egzoszkieletowych.</KokuExoskeleton.description>
+
+	<KokuAdvancedBionics.label>Zaawansowane bioniczne mody</KokuAdvancedBionics.label>
+    <KokuAdvancedBionics.description>Ulepsz zwykłą bionikę za pomocą zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuAdvancedBionics.description>
+
+	<KokuAdvancedBionicSpine.label>Zaawasowany kręgosłup</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.description>Chcesz wcisnąć jeszcze bardziej złożoną technologię w swój kręgosłup? Poświęć trochę czasu na przestudiowanie zawiłości kręgosłupa.</KokuAdvancedBionicSpine.description>
+
+	<KokuAdvancedTorsoModifications.label>Zaawansowane mody tłowia</KokuAdvancedTorsoModifications.label>
+    <KokuAdvancedTorsoModifications.description>Skosztowałeś doładowania, a teraz chcesz więcej?</KokuAdvancedTorsoModifications.description>
+
+	<KokuAdvancedBrainSurgery.label>Zaawansowany mózg</KokuAdvancedBrainSurgery.label>
+    <KokuAdvancedBrainSurgery.description>Umożliwia tworzenie bardziej zaawansowanych implantów mózgowych i wykonywanie operacji na mózgu.</KokuAdvancedBrainSurgery.description>
+
+	<KokuUltraHeadModifications.label>Ultra mody głowy</KokuUltraHeadModifications.label>
+    <KokuUltraHeadModifications.description>Używanie bioniki tylko w celu przywrócenia brakujących kończyn wydaje się takim marnotrawstwem. Wykorzystajmy je dla urody! Odblokowuje bioniczne modyfikacje głowy.</KokuUltraHeadModifications.description>
+
+	<KokuUltraExoskeleton.label>Ultra egzoszkielet</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.description>Ulepsz zaawansowaną bionikę za pomocą ultra zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuUltraExoskeleton.description>
+	
+	<KokuUltraBionics.label>Ultra bioniczne mody</KokuUltraBionics.label>
+    <KokuUltraBionics.description>Ulepsz zaawansowaną bionikę za pomocą ultra zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuUltraBionics.description>
+	
+	<KokuUltraBionicSpine.label>Ultra kręgosłup</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.description>Ulepsz zaawansowaną bionikę za pomocą ultra zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuUltraBionicSpine.description>
+	
+	<KokuUltraTorsoModifications.label>Ultra mody tłowia</KokuUltraTorsoModifications.label>
+    <KokuUltraTorsoModifications.description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</KokuUltraTorsoModifications.description>
+	
+	<KokuUltraOrgans.label>Ultra organy</KokuUltraOrgans.label>
+    <KokuUltraOrgans.description>Ulepsz zaawansowaną bionikę za pomocą ultra zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuUltraOrgans.description>
+	
+	<KokuUltraBrainSurgery.label>Ultra mózg</KokuUltraBrainSurgery.label>
+    <KokuUltraBrainSurgery.description>Ulepsz zaawansowaną bionikę za pomocą ultra zaawansowanych komponentów, aby uczynić ją jeszcze lepszą. Odblokowuje nowe przepisy przy stole protetycznym.</KokuUltraBrainSurgery.description>
+
+</LanguageData>

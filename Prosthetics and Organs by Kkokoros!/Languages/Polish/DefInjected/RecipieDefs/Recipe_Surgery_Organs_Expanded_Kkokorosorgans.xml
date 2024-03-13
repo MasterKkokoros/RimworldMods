@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+
+    <KokuInstallArtificialSpleen.label>Zainstaluj sztuczną śledzionę</KokuInstallArtificialSpleen.label>
+	<KokuInstallArtificialSpleen.description>Instaluje sztuczną śledzionę.</KokuInstallArtificialSpleen.description>
+	<KokuInstallArtificialSpleen.jobString>Instaluje sztuczną śledzionę</KokuInstallArtificialSpleen.jobString>
+	
+    <KokuInstallSyntheticSpleen.label>Zainstaluj syntetyczną śledzionę</KokuInstallSyntheticSpleen.label>
+	<KokuInstallSyntheticSpleen.description>Instaluje syntetyczną śledzionę.</KokuInstallSyntheticSpleen.description>
+	<KokuInstallSyntheticSpleen.jobString>Instaluje syntetyczną śledzionę</KokuInstallSyntheticSpleen.jobString>
+	
+    <KokuInstallUltraSpleen.label>Zainstaluj ultra śledzionę</KokuInstallUltraSpleen.label>
+	<KokuInstallUltraSpleen.description>Instaluje ultra śledzionę.</KokuInstallUltraSpleen.description>
+	<KokuInstallUltraSpleen.jobString>Instaluje ultra śledzionę</KokuInstallUltraSpleen.jobString>
+
+
+    <!--==========Pancreas==========-->
+    <KokuInstallArtificialPancreas.label>Zainstaluj sztuczną trzustkę</KokuInstallArtificialPancreas.label>
+	<KokuInstallArtificialPancreas.description>Instaluje sztuczną trzustkę.</KokuInstallArtificialPancreas.description>
+	<KokuInstallArtificialPancreas.jobString>Instaluje sztuczną trzustkę</KokuInstallArtificialPancreas.jobString>
+	
+    <KokuInstallSyntheticPancreas.label>Zainstaluj syntetyczną trzustkę</KokuInstallSyntheticPancreas.label>
+	<KokuInstallSyntheticPancreas.description>Instaluje syntetyczną trzustkę.</KokuInstallSyntheticPancreas.description>
+	<KokuInstallSyntheticPancreas.jobString>Instaluje syntetyczną trzustkę</KokuInstallSyntheticPancreas.jobString>
+	
+    <KokuInstallUltraPancreas.label>Zainstaluj ultra trzustkę</KokuInstallUltraPancreas.label>
+	<KokuInstallUltraPancreas.description>Instaluje ultra trzustkę.</KokuInstallUltraPancreas.description>
+	<KokuInstallUltraPancreas.jobString>Instaluje ultra trzustkę</KokuInstallUltraPancreas.jobString>
+
+    <!--==========GallBladder==========-->
+    <KokuInstallArtificialGallbladder.label>Zainstaluj sztuczny pęcherzyk żółciowy</KokuInstallArtificialGallbladder.label>
+	<KokuInstallArtificialGallbladder.description>Instaluje sztuczny pęcherzyk żółciowy.</KokuInstallArtificialGallbladder.description>
+	<KokuInstallArtificialGallbladder.jobString>Instaluje sztuczny pęcherzyk żółciowy</KokuInstallArtificialGallbladder.jobString>
+	
+    <KokuInstallSyntheticGallbladder.label>Zainstaluj syntetyczny pęcherzyk żółciowy</KokuInstallSyntheticGallbladder.label>
+	<KokuInstallSyntheticGallbladder.description>Instaluje syntetyczny pęcherzyk żółciowy.</KokuInstallSyntheticGallbladder.description>
+	<KokuInstallSyntheticGallbladder.jobString>Instaluje syntetyczny pęcherzyk żółciowy</KokuInstallSyntheticGallbladder.jobString>
+	
+    <KokuInstallUltraGallbladder.label>Zainstaluj ultra pęcherzyk żółciowy</KokuInstallUltraGallbladder.label>
+	<KokuInstallUltraGallbladder.description>Instaluje ultra pęcherzyk żółciowy.</KokuInstallUltraGallbladder.description>
+	<KokuInstallUltraGallbladder.jobString>Instaluje ultra pęcherzyk żółciowy</KokuInstallUltraGallbladder.jobString>
+
+</LanguageData>

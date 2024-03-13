@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <BodyPartDef>
+        <defName>KokuExoskeletonSlot</defName>
+        <label>exoskeleton</label>
+        <hitPoints>20</hitPoints>
+        <frostbiteVulnerability>0</frostbiteVulnerability>
+        <skinCovered>false</skinCovered>
+        <beautyRelated>false</beautyRelated>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <destroyableByDamage>true</destroyableByDamage>
+    </BodyPartDef>
+    <BodyPartDef MayRequire="Dubwise.DubsBadHygiene">
+        <defName>KokuBladderSlot</defName>
+        <label>bladder</label>
+        <hitPoints>10</hitPoints>
+        <frostbiteVulnerability>0</frostbiteVulnerability>
+        <skinCovered>false</skinCovered>
+        <beautyRelated>false</beautyRelated>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <destroyableByDamage>true</destroyableByDamage>
+    </BodyPartDef>
+    <BodyPartDef MayRequire="Dubwise.DubsBadHygiene">
+        <defName>KokuHygieneEnhancerSlot</defName>
+        <label>hygiene enhancer</label>
+        <hitPoints>10</hitPoints>
+        <frostbiteVulnerability>0</frostbiteVulnerability>
+        <skinCovered>false</skinCovered>
+        <beautyRelated>false</beautyRelated>
+        <permanentInjuryChanceFactor>0</permanentInjuryChanceFactor>
+        <solid>false</solid>
+        <bleedRate>0</bleedRate>
+        <destroyableByDamage>true</destroyableByDamage>
+    </BodyPartDef>
+
+</Defs>

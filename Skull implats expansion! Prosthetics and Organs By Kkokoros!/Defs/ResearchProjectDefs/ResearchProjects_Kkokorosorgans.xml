@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ResearchProjectDef Abstract="True" Name="Bruh">
+		<description>123</description>
+		<techLevel>Spacer</techLevel>
+	</ResearchProjectDef>
+
+	<!--===============================Tier0===================================-->
+
+	<!--===============================Tier1===================================-->
+
+	<!--===============================Tier2===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuSkullImplantSurgery</defName>
+		<label>artificial skull implants</label>
+		<description>Unlocks the ability to craft skull implants and install them.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBrainSurgery</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>5.5</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===============================Tier3===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedSkullImplantSurgery</defName>
+		<label>advanced skull implants</label>
+		<description>Allows you to craft advanced skull implants.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuSkullImplantSurgery</li>
+			<li>KokuAdvancedBrainSurgery</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>5.5</researchViewY>
+	</ResearchProjectDef>
+
+
+	<!--===============================Tier4===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuUltraSkullImplantSurgery</defName>
+		<label>ultra skull implants</label>
+		<description>Allows you to craft ultra skull implants.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedSkullImplantSurgery</li>
+			<li>KokuUltraBrainSurgery</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>5.5</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

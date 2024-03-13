@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>*/BodyDef/corePart/parts</xpath>
+                <value>
+                    <li>
+                        <def>KokuExoskeletonSlot</def>
+                        <coverage>0.0</coverage>
+                        <depth>Outside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd" MayRequire="Dubwise.DubsBadHygiene">
+                <xpath>*/BodyDef/corePart/parts</xpath>
+                <value>
+                    <li>
+                        <def>KokuBladderSlot</def>
+                        <coverage>0.0</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd" MayRequire="Dubwise.DubsBadHygiene">
+                <xpath>*/BodyDef/corePart/parts</xpath>
+                <value>
+                    <li>
+                        <def>KokuHygieneEnhancerSlot</def>
+                        <coverage>0.0</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

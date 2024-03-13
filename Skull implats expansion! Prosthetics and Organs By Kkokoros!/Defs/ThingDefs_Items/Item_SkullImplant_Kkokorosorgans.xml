@@ -1,0 +1,718 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--================stuff================-->
+   <ThingDef Name="KokuSkullImplants" ParentName="KokuSimpleOrgans" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuSkullImplantSurgery</researchPrerequisite>
+      </recipeMaker>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuSkullImplants</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <comps>
+         <li Class="CompProperties_Usable">
+            <compClass>CompUsableImplant</compClass>
+            <useJob>InstallSkullImplant</useJob>
+            <useLabel>Install {0_label}</useLabel>
+          </li>
+          <li Class="CompProperties_UseEffectDestroySelf" />
+      </comps>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedSkullImplants" ParentName="KokuSyntheticOrgans"
+      Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedSkullImplantSurgery</researchPrerequisite>
+      </recipeMaker>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuAdvancedSkullImplants</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <comps>
+         <li Class="CompProperties_Usable">
+            <compClass>CompUsableImplant</compClass>
+            <useJob>InstallSkullImplant</useJob>
+            <useLabel>Install {0_label}</useLabel>
+          </li>
+          <li Class="CompProperties_UseEffectDestroySelf" />
+      </comps>
+   </ThingDef>
+   <ThingDef Name="KokuUltraSkullImplants" ParentName="KokuUltraOrgans" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraSkullImplantSurgery</researchPrerequisite>
+      </recipeMaker>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuUltraSkullImplants</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <comps>
+         <li Class="CompProperties_Usable">
+            <compClass>CompUsableImplant</compClass>
+            <useJob>InstallSkullImplant</useJob>
+            <useLabel>Install {0_label}</useLabel>
+          </li>
+          <li Class="CompProperties_UseEffectDestroySelf" />
+      </comps>
+   </ThingDef>
+   <!--==================================_sleep_less_implant_==================================-->
+
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1SleepLessSkullImplant</defName>
+      <label>V1 sleepless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+          <li Class="CompProperties_UseEffectInstallImplant">
+            <hediffDef>KokuV1SleepLessSkullImplant</hediffDef>
+            <bodyPart>KokuSkullSlot</bodyPart>
+          </li>
+      </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2SleepLessSkullImplant</defName>
+      <label>V2 sleepless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1SleepLessSkullImplant>1</KokuV1SleepLessSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2SleepLessSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3SleepLessSkullImplant</defName>
+      <label>V3 sleepless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2SleepLessSkullImplant>1</KokuV2SleepLessSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3SleepLessSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_psychic_less_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1PsychicLessSkullImplant</defName>
+      <label>V1 psychicless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1PsychicLessSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2PsychicLessSkullImplant</defName>
+      <label>V2 psychicless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1PsychicLessSkullImplant>1</KokuV1PsychicLessSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2PsychicLessSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3PsychicLessSkullImplant</defName>
+      <label>V3 psychicless Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2PsychicLessSkullImplant>1</KokuV2PsychicLessSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3PsychicLessSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Researcher_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1ResearcherSkullImplant</defName>
+      <label>V1 researcher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1ResearcherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2ResearcherSkullImplant</defName>
+      <label>V2 researcher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1ResearcherSkullImplant>1</KokuV1ResearcherSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2ResearcherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3ResearcherSkullImplant</defName>
+      <label>V3 researcher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2ResearcherSkullImplant>1</KokuV2ResearcherSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3ResearcherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Miner_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1MinerSkullImplant</defName>
+      <label>V1 miner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1MinerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2MinerSkullImplant</defName>
+      <label>V2 miner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1MinerSkullImplant>1</KokuV1MinerSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2MinerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3MinerSkullImplant</defName>
+      <label>V3 miner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2MinerSkullImplant>1</KokuV2MinerSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3MinerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Farmer_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1FarmerSkullImplant</defName>
+      <label>V1 farmer Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1FarmerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2FarmerSkullImplant</defName>
+      <label>V2 farmer Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1FarmerSkullImplant>1</KokuV1FarmerSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2FarmerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3FarmerSkullImplant</defName>
+      <label>V3 farmer Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2FarmerSkullImplant>1</KokuV2FarmerSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3FarmerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Rancher_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1RancherSkullImplant</defName>
+      <label>V1 rancher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1RancherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2RancherSkullImplant</defName>
+      <label>V2 rancher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1RancherSkullImplant>1</KokuV1RancherSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2RancherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3RancherSkullImplant</defName>
+      <label>V3 rancher Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2RancherSkullImplant>1</KokuV2RancherSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3RancherSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Chef_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1ChefSkullImplant</defName>
+      <label>V1 chef Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1ChefSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2ChefSkullImplant</defName>
+      <label>V2 chef Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1ChefSkullImplant>1</KokuV1ChefSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2ChefSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3ChefSkullImplant</defName>
+      <label>V3 chef Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2ChefSkullImplant>1</KokuV2ChefSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3ChefSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Builder_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1BuilderSkullImplant</defName>
+      <label>V1 builder Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1BuilderSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2BuilderSkullImplant</defName>
+      <label>V2 builder Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1BuilderSkullImplant>1</KokuV1BuilderSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2BuilderSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3BuilderSkullImplant</defName>
+      <label>V3 builder Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2BuilderSkullImplant>1</KokuV2BuilderSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3BuilderSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Maid_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1MaidSkullImplant</defName>
+      <label>V1 maid Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1MaidSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2MaidSkullImplant</defName>
+      <label>V2 maid Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1MaidSkullImplant>1</KokuV1MaidSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2MaidSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3MaidSkullImplant</defName>
+      <label>V3 maid Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2MaidSkullImplant>1</KokuV2MaidSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3MaidSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Social_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1SocialSkullImplant</defName>
+      <label>V1 social Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1SocialSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2SocialSkullImplant</defName>
+      <label>V2 social Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1SocialSkullImplant>1</KokuV1SocialSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2SocialSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3SocialSkullImplant</defName>
+      <label>V3 social Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2SocialSkullImplant>1</KokuV2SocialSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3SocialSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Medic_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1MedicSkullImplant</defName>
+      <label>V1 medic Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1MedicSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2MedicSkullImplant</defName>
+      <label>V2 medic Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1MedicSkullImplant>1</KokuV1MedicSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2MedicSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3MedicSkullImplant</defName>
+      <label>V3 medic Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2MedicSkullImplant>1</KokuV2MedicSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3MedicSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Fast_Learner_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1FastLearnerSkullImplant</defName>
+      <label>V1 fast learner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1FastLearnerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2FastLearnerSkullImplant</defName>
+      <label>V2 fast learner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1FastLearnerSkullImplant>1</KokuV1FastLearnerSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2FastLearnerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3FastLearnerSkullImplant</defName>
+      <label>V3 fast learner Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2FastLearnerSkullImplant>1</KokuV2FastLearnerSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3FastLearnerSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Melee_Soldier_Learner_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1MeleeSoldierSkullImplant</defName>
+      <label>V1 melee soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1MeleeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2MeleeSoldierSkullImplant</defName>
+      <label>V2 melee soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1MeleeSoldierSkullImplant>1</KokuV1MeleeSoldierSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2MeleeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3MeleeSoldierSkullImplant</defName>
+      <label>V3 melee soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2MeleeSoldierSkullImplant>1</KokuV2MeleeSoldierSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3MeleeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <!--==================================_Range_Soldier_Learner_implant_==================================-->
+   <ThingDef ParentName="KokuSkullImplants">
+      <defName>KokuV1RangeSoldierSkullImplant</defName>
+      <label>V1 range soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV1RangeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedSkullImplants">
+      <defName>KokuV2RangeSoldierSkullImplant</defName>
+      <label>V2 range soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV1RangeSoldierSkullImplant>1</KokuV1RangeSoldierSkullImplant>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV2RangeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraSkullImplants">
+      <defName>KokuV3RangeSoldierSkullImplant</defName>
+      <label>V3 range soldier Skull Implant</label>
+      <description>A small device that does its best to enchance users abilities.</description>
+      <costList>
+         <KokuV2RangeSoldierSkullImplant>1</KokuV2RangeSoldierSkullImplant>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <comps>
+         <li Class="CompProperties_UseEffectInstallImplant">
+           <hediffDef>KokuV3RangeSoldierSkullImplant</hediffDef>
+           <bodyPart>KokuSkullSlot</bodyPart>
+         </li>
+     </comps>
+   </ThingDef>
+
+
+</Defs>

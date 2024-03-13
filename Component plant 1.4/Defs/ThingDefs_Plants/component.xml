@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ 
+ <Defs>
+ <ThingDef ParentName="PlantBase">
+    <defName>Plant_Component</defName>
+    <label>Component plant</label>
+    <description>Component plant.</description>
+    <statBases>
+      <MaxHitPoints>40</MaxHitPoints>
+      <Nutrition>0.05</Nutrition>
+      <Beauty>-2</Beauty>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/ComponentIndustrial</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <selectable>true</selectable>
+    <pathCost>20</pathCost>
+    <ingestible />
+    <plant>
+      <growDays>20</growDays>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>ComponentIndustrial</harvestedThingDef>
+      <harvestYield>6</harvestYield>
+      <sowMinSkill>12</sowMinSkill>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.0</topWindExposure>
+      <immatureGraphicPath>Things/Plant/ComponentIndustrial_Immature</immatureGraphicPath>
+      <visualSizeRange>0.1~1.00</visualSizeRange>
+      <wildOrder>0</wildOrder>
+    </plant>
+  </ThingDef>
+  </Defs>

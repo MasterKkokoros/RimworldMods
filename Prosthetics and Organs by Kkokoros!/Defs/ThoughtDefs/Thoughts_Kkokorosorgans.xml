@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<Defs>
+
+  <ThoughtDef>
+    <defName>KokuDruggedSternumThought</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>KokuDruggedSternum</hediff>
+    <nullifyingTraits>
+      <li>BodyPurist</li>
+    </nullifyingTraits>
+    <stages>
+      <li>
+        <label>Drugged sternum</label>
+        <description>Uuuu this makes me relaxed!</description>
+        <baseMoodEffect>6</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KokuAdvancedDruggedSternumThought</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>KokuAdvancedDruggedSternum</hediff>
+    <nullifyingTraits>
+      <li>BodyPurist</li>
+    </nullifyingTraits>
+    <stages>
+      <li>
+        <label>Advanced drugged sternum</label>
+        <description>Uuuu this makes me really relaxed!</description>
+        <baseMoodEffect>12</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KokuUltraDruggedSternumThought</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>KokuUltraDruggedSternum</hediff>
+    <nullifyingTraits>
+      <li>BodyPurist</li>
+    </nullifyingTraits>
+    <stages>
+      <li>
+        <label>Ultra drugged sternum</label>
+        <description>THIS IS AWESOME!</description>
+        <baseMoodEffect>20</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+  <ThoughtDef>
+    <defName>KokuMuteJawThought</defName>
+    <workerClass>ThoughtWorker_Hediff</workerClass>
+    <hediff>KokuMuteJaw</hediff>
+    <stages>
+      <li>
+        <label>Muted with force</label>
+        <description>Let me talk :/</description>
+        <baseMoodEffect>-10</baseMoodEffect>
+      </li>
+    </stages>
+  </ThoughtDef>
+
+</Defs>

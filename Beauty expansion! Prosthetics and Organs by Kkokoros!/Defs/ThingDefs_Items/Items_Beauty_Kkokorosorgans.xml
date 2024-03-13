@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--=============================== Stuff ===================================-->
+   <ThingDef Name="KokuBionicsBeautyFace" ParentName="KokuBionicHeadModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuBionicsBeautyFace</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedBionicsBeautyFace" ParentName="KokuAdvancedBionicHeadModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedBionicsBeautyFace</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraBionicsBeautyFace" ParentName="KokuUltraBionicHeadModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraBionicsBeautyFace</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuBionicsBeautyBody" ParentName="KokuTorsoModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuBionicsBeautyBody</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedBionicsBeautyBody" ParentName="KokuAdvancedTorsoModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedBionicsBeautyBody</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraBionicsBeautyBody" ParentName="KokuUltraTorsoModifications" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraBionicsBeautyBody</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <!--=============================== Tier 2 ===================================-->
+   <ThingDef ParentName="KokuBionicsBeautyFace">
+      <defName>KokuBionicNoseBeauty</defName>
+      <label>bionic beautiful nose</label>
+      <description>Bionic nose uses advanced technology to give its owner extreme sense of smell and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicNose>1</KokuBionicNose>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyFace">
+      <defName>KokuBionicEarBeauty</defName>
+      <label>bionic beautiful ear</label>
+      <description>An advanced device that allows you to hear normal again and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicEar>1</KokuBionicEar>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyFace">
+      <defName>KokuBionicEyeBeauty</defName>
+      <label>bionic beautiful eye</label>
+      <description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicEye>1</KokuBionicEye>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyFace">
+      <defName>KokuBionicJawBeauty</defName>
+      <label>bionic beautiful jaw</label>
+      <description>An advanced device that lets you eat normal again, this also comes with a voice modulator and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicJaw>1</KokuBionicJaw>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyBody">
+      <defName>KokuBionicSpineBeauty</defName>
+      <label>bionic beautiful spine</label>
+      <description>An artificial spine that makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicSpine>1</KokuBionicSpine>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyBody">
+      <defName>KokuBionicSternumBeauty</defName>
+      <label>bionic beautiful sternum</label>
+      <description>An artificial sternum that makes its user more beautiful.</description>
+      <costList>
+         <Plasteel>35</Plasteel>
+         <Silver>45</Silver>
+         <Gold>15</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicsBeautyBody">
+      <defName>KokuBionicRibcageBeauty</defName>
+      <label>bionic beautiful ribcage</label>
+      <description>An artificial ribcage that makes its user more beautiful.</description>
+      <costList>
+         <Plasteel>35</Plasteel>
+         <Silver>4</Silver>
+         <Gold>1</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--=============================== Tier 3 ===================================-->
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyFace">
+      <defName>KokuAdvancedBionicNoseBeauty</defName>
+      <label>advanced bionic beautiful nose</label>
+      <description>Bionic nose uses advanced technology to give its owner extreme sense of smell and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicNoseBeauty>1</KokuBionicNoseBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyFace">
+      <defName>KokuAdvancedBionicEarBeauty</defName>
+      <label>advanced bionic beautiful ear</label>
+      <description>An advanced device that allows you to hear normal again and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicEarBeauty>1</KokuBionicEarBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyFace">
+      <defName>KokuAdvancedBionicEyeBeauty</defName>
+      <label>advanced bionic beautiful eye</label>
+      <description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicEyeBeauty>1</KokuBionicEyeBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyFace">
+      <defName>KokuAdvancedBionicJawBeauty</defName>
+      <label>advanced bionic beautiful jaw</label>
+      <description>An advanced device that lets you eat normal again, this also comes with a voice modulator and makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicJawBeauty>1</KokuBionicJawBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyBody">
+      <defName>KokuAdvancedBionicSpineBeauty</defName>
+      <label>advanced bionic beautiful spine</label>
+      <description>An artificial spine that makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicSpineBeauty>1</KokuBionicSpineBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyBody">
+      <defName>KokuAdvancedBionicSternumBeauty</defName>
+      <label>advanced bionic beautiful sternum</label>
+      <description>An artificial sternum that makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicSternumBeauty>1</KokuBionicSternumBeauty>
+         <Silver>75</Silver>
+         <Gold>25</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicsBeautyBody">
+      <defName>KokuAdvancedBionicRibcageBeauty</defName>
+      <label>advanced bionic beautiful ribcage</label>
+      <description>An artificial ribcage that makes its user more beautiful.</description>
+      <costList>
+         <KokuBionicRibcageBeauty>1</KokuBionicRibcageBeauty>
+         <Silver>7</Silver>
+         <Gold>2</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--=============================== Tier 4 ===================================-->  
+   <ThingDef ParentName="KokuUltraBionicsBeautyFace">
+      <defName>KokuUltraBionicNoseBeauty</defName>
+      <label>ultra bionic beautiful nose</label>
+      <description>Bionic nose uses advanced technology to give its owner extreme sense of smell and makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicNoseBeauty>1</KokuAdvancedBionicNoseBeauty>
+         <Silver>1</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyFace">
+      <defName>KokuUltraBionicEarBeauty</defName>
+      <label>ultra bionic beautiful ear</label>
+      <description>An advanced device that allows you to hear normal again and makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicEarBeauty>1</KokuAdvancedBionicEarBeauty>
+         <Silver>10</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyFace">
+      <defName>KokuUltraBionicEyeBeauty</defName>
+      <label>ultra bionic beautiful eye</label>
+      <description>Advanced piece of technology made not only to fully replace natural eye, but also to give supernatural vision abilities and makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicEyeBeauty>1</KokuAdvancedBionicEyeBeauty>
+         <Silver>10</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyFace">
+      <defName>KokuUltraBionicJawBeauty</defName>
+      <label>ultra bionic beautiful jaw</label>
+      <description>An advanced device that lets you eat normal again, this also comes with a voice modulator and makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicJawBeauty>1</KokuAdvancedBionicJawBeauty>
+         <Silver>10</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyBody">
+      <defName>KokuUltraBionicSpineBeauty</defName>
+      <label>ultra bionic beautiful spine</label>
+      <description>An artificial spine that makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicSpineBeauty>1</KokuAdvancedBionicSpineBeauty>
+         <Silver>10</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyBody">
+      <defName>KokuUltraBionicSternumBeauty</defName>
+      <label>ultra bionic beautiful sternum</label>
+      <description>An artificial sternum that makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicSternumBeauty>1</KokuAdvancedBionicSternumBeauty>
+         <Silver>100</Silver>
+         <Gold>35</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicsBeautyBody">
+      <defName>KokuUltraBionicRibcageBeauty</defName>
+      <label>ultra bionic beautiful ribcage</label>
+      <description>An artificial ribcage that makes its user more beautiful.</description>
+      <costList>
+         <KokuAdvancedBionicRibcageBeauty>1</KokuAdvancedBionicRibcageBeauty>
+         <Silver>10</Silver>
+         <Gold>3</Gold>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+   </ThingDef>
+</Defs>

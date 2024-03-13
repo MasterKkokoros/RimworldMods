@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Drewniane ramię</KokuWoodenArm.label>
+    <KokuInstallSimpleHydraulicArm.label>Zainstaluj hydrauliczne ramie</KokuInstallSimpleHydraulicArm.label>
+	<KokuInstallSimpleHydraulicArm.description>Instaluje hydrauliczne ramie.</KokuInstallSimpleHydraulicArm.description>
+	<KokuInstallSimpleHydraulicArm.jobString>Instaluje hydrauliczne ramie</KokuInstallSimpleHydraulicArm.jobString>
+	
+    <KokuInstallBionicArm.label>Zainstaluj bioniczne ramie</KokuInstallBionicArm.label>
+	<KokuInstallBionicArm.description>Instaluje bioniczne ramie.</KokuInstallBionicArm.description>
+	<KokuInstallBionicArm.jobString>Instaluje bioniczne ramie</KokuInstallBionicArm.jobString>
+	
+    <KokuInstallAdvancedBionicArm.label>Zainstaluj zaawansowane ramie</KokuInstallAdvancedBionicArm.label>
+	<KokuInstallAdvancedBionicArm.description>Instaluje zaawansowane ramie.</KokuInstallAdvancedBionicArm.description>
+	<KokuInstallAdvancedBionicArm.jobString>Instaluje zaawansowane ramie</KokuInstallAdvancedBionicArm.jobString>
+	
+    <KokuInstallUltraBionicArm.label>Zainstaluj ultra ramie</KokuInstallUltraBionicArm.label>
+	<KokuInstallUltraBionicArm.description>Instaluje ultra ramie.</KokuInstallUltraBionicArm.description>
+	<KokuInstallUltraBionicArm.jobString>Instaluje ultra ramie</KokuInstallUltraBionicArm.jobString>
+	
+    <!--==========leg==========-->
+    <KokuInstallSimpleHydraulicLeg.label>Zainstaluj hydrauliczną noge</KokuInstallSimpleHydraulicLeg.label>
+	<KokuInstallSimpleHydraulicLeg.description>Instaluje hydrauliczną noge.</KokuInstallSimpleHydraulicLeg.description>
+	<KokuInstallSimpleHydraulicLeg.jobString>Instaluje hydrauliczną noge</KokuInstallSimpleHydraulicLeg.jobString>
+
+    <KokuInstallHydraulicLeg.label>Zainstaluj hydrauliczną noge</KokuInstallHydraulicLeg.label>
+	<KokuInstallHydraulicLeg.description>Instaluje hydrauliczną noge.</KokuInstallHydraulicLeg.description>
+	<KokuInstallHydraulicLeg.jobString>Instaluje hydrauliczną noge</KokuInstallHydraulicLeg.jobString>
+	
+    <KokuInstallBionicLeg.label>Zainstaluj bioniczną noge</KokuInstallBionicLeg.label>
+	<KokuInstallBionicLeg.description>Instaluje bioniczną noge.</KokuInstallBionicLeg.description>
+	<KokuInstallBionicLeg.jobString>Instaluje bioniczną noge</KokuInstallBionicLeg.jobString>
+	
+    <KokuInstallAdvancedBionicLeg.label>Zainstaluj zaawansowaną noge</KokuInstallAdvancedBionicLeg.label>
+	<KokuInstallAdvancedBionicLeg.description>Instaluje zaawansowaną noge.</KokuInstallAdvancedBionicLeg.description>
+	<KokuInstallAdvancedBionicLeg.jobString>Instaluje zaawansowaną noge</KokuInstallAdvancedBionicLeg.jobString>
+		
+    <KokuInstallUltraBionicLeg.label>Zainstaluj ultra noge</KokuInstallUltraBionicLeg.label>
+	<KokuInstallUltraBionicLeg.description>Instaluje ultra noge.</KokuInstallUltraBionicLeg.description>
+	<KokuInstallUltraBionicLeg.jobString>Instaluje ultra noge</KokuInstallUltraBionicLeg.jobString>
+		
+    <!--==========jaw==========-->
+    <KokuInstallWoodenJaw.label>Zainstaluj drewnianą szczęke</KokuInstallWoodenJaw.label>
+	<KokuInstallWoodenJaw.description>Instaluje drewnianą szczęke.</KokuInstallWoodenJaw.description>
+	<KokuInstallWoodenJaw.jobString>Instaluje drewnianą szczęke</KokuInstallWoodenJaw.jobString>
+
+
+    <KokuInstallHydraulicJaw.label>Zainstaluj hydrauliczną szczęke</KokuInstallHydraulicJaw.label>
+	<KokuInstallHydraulicJaw.description>Instaluje hydrauliczną szczęke.</KokuInstallHydraulicJaw.description>
+	<KokuInstallHydraulicJaw.jobString>Instaluje hydrauliczną szczęke</KokuInstallHydraulicJaw.jobString>
+	
+    <KokuInstallBionicJaw.label>Zainstaluj bioniczną szczęke</KokuInstallBionicJaw.label>
+	<KokuInstallBionicJaw.description>Instaluje bioniczną szczęke.</KokuInstallBionicJaw.description>
+	<KokuInstallBionicJaw.jobString>Instaluje bioniczną szczęke</KokuInstallBionicJaw.jobString>
+	
+    <KokuInstallMuteJaw.label>Zainstaluj niemą szczęke</KokuInstallMuteJaw.label>
+	<KokuInstallMuteJaw.description>Instaluje niemą szczęke.</KokuInstallMuteJaw.description>
+	<KokuInstallMuteJaw.jobString>Instaluje niemą szczęke</KokuInstallMuteJaw.jobString>
+
+    <KokuInstallAdvancedBionicJaw.label>Zainstaluj zaawansowaną szczęke</KokuInstallAdvancedBionicJaw.label>
+	<KokuInstallAdvancedBionicJaw.description>Instaluje zaawansowaną szczęke.</KokuInstallAdvancedBionicJaw.description>
+	<KokuInstallAdvancedBionicJaw.jobString>Instaluje zaawansowaną szczęke</KokuInstallAdvancedBionicJaw.jobString>
+	
+    <KokuInstallUltraBionicJaw.label>Zainstaluj ultra szczęke</KokuInstallUltraBionicJaw.label>
+	<KokuInstallUltraBionicJaw.description>Instaluje ultra szczęke.</KokuInstallUltraBionicJaw.description>
+	<KokuInstallUltraBionicJaw.jobString>Instaluje ultra szczęke</KokuInstallUltraBionicJaw.jobString>
+	
+    <!--==========nose==========-->
+    <KokuInstallArtificialNose.label>Zainstaluj sztuczny nos</KokuInstallArtificialNose.label>
+	<KokuInstallArtificialNose.description>Instaluje sztuczny nos.</KokuInstallArtificialNose.description>
+	<KokuInstallArtificialNose.jobString>Instaluje sztuczny nos</KokuInstallArtificialNose.jobString>
+
+    <KokuInstallBionicNose.label>Zainstaluj bioniczny nos</KokuInstallBionicNose.label>
+	<KokuInstallBionicNose.description>Instaluje bioniczny nos.</KokuInstallBionicNose.description>
+	<KokuInstallBionicNose.jobString>Instaluje bioniczny nos</KokuInstallBionicNose.jobString>
+
+    <KokuInstallAdvancedBionicNose.label>Zainstaluj zaawansowany nos</KokuInstallAdvancedBionicNose.label>
+	<KokuInstallAdvancedBionicNose.description>Instaluje zaawansowany nos.</KokuInstallAdvancedBionicNose.description>
+	<KokuInstallAdvancedBionicNose.jobString>Instaluje zaawansowany nos</KokuInstallAdvancedBionicNose.jobString>
+
+    <KokuInstallUltraBionicNose.label>Zainstaluj ultra nos</KokuInstallUltraBionicNose.label>
+	<KokuInstallUltraBionicNose.description>Instaluje ultra nos.</KokuInstallUltraBionicNose.description>
+	<KokuInstallUltraBionicNose.jobString>Instaluje ultra nos</KokuInstallUltraBionicNose.jobString>
+
+    <!--==========ear==========-->
+    <KokuInstallArtificialEar.label>Zainstaluj sztuczne ucho</KokuInstallArtificialEar.label>
+	<KokuInstallArtificialEar.description>Instaluje sztuczne ucho.</KokuInstallArtificialEar.description>
+	<KokuInstallArtificialEar.jobString>Instaluje sztuczne ucho</KokuInstallArtificialEar.jobString>
+
+    <KokuInstallBionicEar.label>Zainstaluj bioniczne ucho</KokuInstallBionicEar.label>
+	<KokuInstallBionicEar.description>Instaluje bioniczne ucho.</KokuInstallBionicEar.description>
+	<KokuInstallBionicEar.jobString>Instaluje bioniczne ucho</KokuInstallBionicEar.jobString>
+
+    <KokuInstallAdvancedBionicEar.label>Zainstaluj zaawansowane ucho</KokuInstallAdvancedBionicEar.label>
+	<KokuInstallAdvancedBionicEar.description>Instaluje zaawansowane ucho.</KokuInstallAdvancedBionicEar.description>
+	<KokuInstallAdvancedBionicEar.jobString>Instaluje zaawansowane ucho</KokuInstallAdvancedBionicEar.jobString>
+
+    <KokuInstallUltraBionicEar.label>Zainstaluj Ultra ucho</KokuInstallUltraBionicEar.label>
+	<KokuInstallUltraBionicEar.description>Instaluje Ultra ucho.</KokuInstallUltraBionicEar.description>
+	<KokuInstallUltraBionicEar.jobString>Instaluje Ultra ucho</KokuInstallUltraBionicEar.jobString>
+
+    <!--==========eye==========-->
+    <KokuInstallKokuArtificialEye.label>Zainstaluj sztuczne oko</KokuInstallKokuArtificialEye.label>
+	<KokuInstallKokuArtificialEye.description>Instaluje sztuczne oko.</KokuInstallKokuArtificialEye.description>
+	<KokuInstallKokuArtificialEye.jobString>Instaluje sztuczne oko</KokuInstallKokuArtificialEye.jobString>
+	
+    <KokuInstallBionicEye.label>Zainstaluj bioniczne oko</KokuInstallBionicEye.label>
+	<KokuInstallBionicEye.description>Instaluje bioniczne oko.</KokuInstallBionicEye.description>
+	<KokuInstallBionicEye.jobString>Instaluje bioniczne oko</KokuInstallBionicEye.jobString>
+	
+    <KokuInstallAdvancedBionicEye.label>Zainstaluj zaawansowane oko</KokuInstallAdvancedBionicEye.label>
+	<KokuInstallAdvancedBionicEye.description>Instaluje zaawansowane oko.</KokuInstallAdvancedBionicEye.description>
+	<KokuInstallAdvancedBionicEye.jobString>Instaluje zaawansowane oko</KokuInstallAdvancedBionicEye.jobString>
+	
+    <KokuInstallUltraBionicEye.label>Zainstaluj ultra oko</KokuInstallUltraBionicEye.label>
+	<KokuInstallUltraBionicEye.description>Instaluje ultra oko.</KokuInstallUltraBionicEye.description>
+	<KokuInstallUltraBionicEye.jobString>Instaluje ultra oko</KokuInstallUltraBionicEye.jobString>
+	
+    <!--==========spine==========-->
+    <KokuInstallBionicSpine.label>Zainstaluj bioniczny kręgosłup</KokuInstallBionicSpine.label>
+	<KokuInstallBionicSpine.description>Instaluje bioniczny kręgosłup.</KokuInstallBionicSpine.description>
+	<KokuInstallBionicSpine.jobString>Instaluje bioniczny kręgosłup</KokuInstallBionicSpine.jobString>
+
+    <KokuInstallAdvancedBionicSpine.label>Zainstaluj zaawansowany kręgosłup</KokuInstallAdvancedBionicSpine.label>
+	<KokuInstallAdvancedBionicSpine.description>Instaluje zaawansowany kręgosłup.</KokuInstallAdvancedBionicSpine.description>
+	<KokuInstallAdvancedBionicSpine.jobString>Instaluje zaawansowany kręgosłup</KokuInstallAdvancedBionicSpine.jobString>
+
+    <KokuInstallUltraBionicSpine.label>Zainstaluj ultra kręgosłup</KokuInstallUltraBionicSpine.label>
+	<KokuInstallUltraBionicSpine.description>Instaluje ultra kręgosłup.</KokuInstallUltraBionicSpine.description>
+	<KokuInstallUltraBionicSpine.jobString>Instaluje ultra kręgosłup</KokuInstallUltraBionicSpine.jobString>
+
+    <!--==========pelvis==========-->
+    <KokuInstallBionicPelvis.label>Zainstaluj bioniczną miednicę</KokuInstallBionicPelvis.label>
+	<KokuInstallBionicPelvis.description>Instaluje bioniczną miednicę.</KokuInstallBionicPelvis.description>
+	<KokuInstallBionicPelvis.jobString>Instaluje bioniczną miednicę</KokuInstallBionicPelvis.jobString>
+
+    <KokuInstallAdvancedBionicPelvis.label>Zainstaluj zaawansowaną miednicę</KokuInstallAdvancedBionicPelvis.label>
+	<KokuInstallAdvancedBionicPelvis.description>Instaluje zaawansowaną miednicę.</KokuInstallAdvancedBionicPelvis.description>
+	<KokuInstallAdvancedBionicPelvis.jobString>Instaluje zaawansowaną miednicę</KokuInstallAdvancedBionicPelvis.jobString>
+
+    <KokuInstallUltraBionicPelvis.label>Zainstaluj ultra miednicę</KokuInstallUltraBionicPelvis.label>
+	<KokuInstallUltraBionicPelvis.description>Instaluje ultra miednicę.</KokuInstallUltraBionicPelvis.description>
+	<KokuInstallUltraBionicPelvis.jobString>Instaluje ultra miednicę</KokuInstallUltraBionicPelvis.jobString>
+    <!--==========neck==========-->
+    <KokuInstallBionicNeck.label>Zainstaluj bioniczną szyję</KokuInstallBionicNeck.label>
+	<KokuInstallBionicNeck.description>Instaluje bioniczną szyję.</KokuInstallBionicNeck.description>
+	<KokuInstallBionicNeck.jobString>Instaluje bioniczną szyję</KokuInstallBionicNeck.jobString>
+
+    <KokuInstallAdvancedBionicNeck.label>Zainstaluj zaawansowaną szyję</KokuInstallAdvancedBionicNeck.label>
+	<KokuInstallAdvancedBionicNeck.description>Instaluje zaawansowaną szyję.</KokuInstallAdvancedBionicNeck.description>
+	<KokuInstallAdvancedBionicNeck.jobString>Instaluje zaawansowaną szyję</KokuInstallAdvancedBionicNeck.jobString>
+
+    <KokuInstallUltraBionicNeck.label>Zainstaluj ultra szyję</KokuInstallUltraBionicNeck.label>
+	<KokuInstallUltraBionicNeck.description>Instaluje ultra szyję.</KokuInstallUltraBionicNeck.description>
+	<KokuInstallUltraBionicNeck.jobString>Instaluje ultra szyję</KokuInstallUltraBionicNeck.jobString>
+    <!--==========medsternum==========-->
+    <KokuInstallMedicalSternum.label>Zainstaluj medyczny mostek</KokuInstallMedicalSternum.label>
+	<KokuInstallMedicalSternum.description>Instaluje medyczny mostek.</KokuInstallMedicalSternum.description>
+	<KokuInstallMedicalSternum.jobString>Instaluje medyczny mostek</KokuInstallMedicalSternum.jobString>
+
+    <KokuInstallAdvancedMedicalSternum.label>Zainstaluj zaawansowany medyczny mostek</KokuInstallAdvancedMedicalSternum.label>
+	<KokuInstallAdvancedMedicalSternum.description>Instaluje zaawansowany medyczny mostek.</KokuInstallAdvancedMedicalSternum.description>
+	<KokuInstallAdvancedMedicalSternum.jobString>Instaluje zaawansowany medyczny mostek</KokuInstallAdvancedMedicalSternum.jobString>
+
+    <KokuInstallUltraMedicalSternum.label>Zainstaluj ultra medyczny mostek</KokuInstallUltraMedicalSternum.label>
+	<KokuInstallUltraMedicalSternum.description>Instaluje ultra medyczny mostek.</KokuInstallUltraMedicalSternum.description>
+	<KokuInstallUltraMedicalSternum.jobString>Instaluje ultra medyczny mostek</KokuInstallUltraMedicalSternum.jobString>
+
+    <!--==========druggsternum==========-->
+    <KokuInstallDruggedSternum.label>Zainstaluj narkotyzujący mostek</KokuInstallDruggedSternum.label>
+	<KokuInstallDruggedSternum.description>Instaluje narkotyzujący mostek.</KokuInstallDruggedSternum.description>
+	<KokuInstallDruggedSternum.jobString>Instaluje narkotyzujący mostek</KokuInstallDruggedSternum.jobString>
+
+    <KokuInstallAdvancedDruggedSternum.label>Zainstaluj zaawansowany narkotyzujący mostek</KokuInstallAdvancedDruggedSternum.label>
+	<KokuInstallAdvancedDruggedSternum.description>Instaluje zaawansowany narkotyzujący mostek.</KokuInstallAdvancedDruggedSternum.description>
+	<KokuInstallAdvancedDruggedSternum.jobString>Instaluje zaawansowany narkotyzujący mostek</KokuInstallAdvancedDruggedSternum.jobString>
+
+    <KokuInstallUltraDruggedSternum.label>Zainstaluj ultra narkotyzujący mostek</KokuInstallUltraDruggedSternum.label>
+	<KokuInstallUltraDruggedSternum.description>Instaluje ultra narkotyzujący mostek.</KokuInstallUltraDruggedSternum.description>
+	<KokuInstallUltraDruggedSternum.jobString>Instaluje ultra narkotyzujący mostek</KokuInstallUltraDruggedSternum.jobString>
+
+    <!--==========adrsternum==========-->
+    <KokuInstallAdrenalineSternum.label>Zainstaluj mostek z adrenaliną</KokuInstallAdrenalineSternum.label>
+	<KokuInstallAdrenalineSternum.description>Instaluje mostek z adrenaliną.</KokuInstallAdrenalineSternum.description>
+	<KokuInstallAdrenalineSternum.jobString>Instaluje mostek z adrenaliną</KokuInstallAdrenalineSternum.jobString>
+
+    <KokuInstallAdvancedAdrenalineSternum.label>Zainstaluj zaawansowany mostek z adrenaliną</KokuInstallAdvancedAdrenalineSternum.label>
+	<KokuInstallAdvancedAdrenalineSternum.description>Instaluje zaawansowany mostek z adrenaliną.</KokuInstallAdvancedAdrenalineSternum.description>
+	<KokuInstallAdvancedAdrenalineSternum.jobString>Instaluje zaawansowany mostek z adrenaliną</KokuInstallAdvancedAdrenalineSternum.jobString>
+
+    <KokuInstallUltraAdrenalineSternum.label>Zainstaluj ultra mostek z adrenaliną</KokuInstallUltraAdrenalineSternum.label>
+	<KokuInstallUltraAdrenalineSternum.description>Instaluje ultra mostek z adrenaliną.</KokuInstallUltraAdrenalineSternum.description>
+	<KokuInstallUltraAdrenalineSternum.jobString>Instaluje ultra mostek z adrenaliną</KokuInstallUltraAdrenalineSternum.jobString>
+
+    <!--==========painsternum==========-->
+    <KokuInstallPainkillerSternum.label>Zainstaluj przeciwbólowy mostek</KokuInstallPainkillerSternum.label>
+	<KokuInstallPainkillerSternum.description>Instaluje przeciwbólowy mostek.</KokuInstallPainkillerSternum.description>
+	<KokuInstallPainkillerSternum.jobString>Instaluje przeciwbólowy mostek</KokuInstallPainkillerSternum.jobString>
+
+    <KokuInstallAdvancedPainkillerSternum.label>Zainstaluj zaawansowany przeciwbólowy mostek</KokuInstallAdvancedPainkillerSternum.label>
+	<KokuInstallAdvancedPainkillerSternum.description>Instaluje zaawansowany przeciwbólowy mostek.</KokuInstallAdvancedPainkillerSternum.description>
+	<KokuInstallAdvancedPainkillerSternum.jobString>Instaluje zaawansowany przeciwbólowy mostek</KokuInstallAdvancedPainkillerSternum.jobString>
+
+    <KokuInstallUltraPainkillerSternum.label>Zainstaluj ultra przeciwbólowy mostek</KokuInstallUltraPainkillerSternum.label>
+	<KokuInstallUltraPainkillerSternum.description>Instaluje ultra przeciwbólowy mostek.</KokuInstallUltraPainkillerSternum.description>
+	<KokuInstallUltraPainkillerSternum.jobString>Instaluje ultra przeciwbólowy mostek</KokuInstallUltraPainkillerSternum.jobString>
+
+    <!--==========ribcage==========-->
+    <KokuInstallNanomachinesRibcage.label>Zainstaluj klatke piersiową z nanomaszynami</KokuInstallNanomachinesRibcage.label>
+	<KokuInstallNanomachinesRibcage.description>Instaluje klatke piersiową z nanomaszynami.</KokuInstallNanomachinesRibcage.description>
+	<KokuInstallNanomachinesRibcage.jobString>Instaluje klatke piersiową z nanomaszynami</KokuInstallNanomachinesRibcage.jobString>
+
+    <KokuInstallAdvancedNanomachinesRibcage.label>Zainstaluj zaawansowaną klatke piersiową z nanomaszynami</KokuInstallAdvancedNanomachinesRibcage.label>
+	<KokuInstallAdvancedNanomachinesRibcage.description>Instaluje zaawansowaną klatke piersiową z nanomaszynami.</KokuInstallAdvancedNanomachinesRibcage.description>
+	<KokuInstallAdvancedNanomachinesRibcage.jobString>Instaluje zaawansowaną klatke piersiową z nanomaszynami</KokuInstallAdvancedNanomachinesRibcage.jobString>
+
+    <KokuInstallUltraNanomachinesRibcage.label>Zainstaluj ultra klatke piersiową z nanomaszynami</KokuInstallUltraNanomachinesRibcage.label>
+	<KokuInstallUltraNanomachinesRibcage.description>Instaluje ultra klatke piersiową z nanomaszynami.</KokuInstallUltraNanomachinesRibcage.description>
+	<KokuInstallUltraNanomachinesRibcage.jobString>Instaluje ultra klatke piersiową z nanomaszynami</KokuInstallUltraNanomachinesRibcage.jobString>
+
+    <!--==========exoskeleton==========-->
+    <KokuInstallExoskeleton.label>Zainstaluj egzoszkielet</KokuInstallExoskeleton.label>
+	<KokuInstallExoskeleton.description>Instaluje egzoszkielet.</KokuInstallExoskeleton.description>
+	<KokuInstallExoskeleton.jobString>Instaluje egzoszkielet</KokuInstallExoskeleton.jobString>
+
+    <KokuInstallUltraExoskeleton.label>Zainstaluj ultra egzoszkielet</KokuInstallUltraExoskeleton.label>
+	<KokuInstallUltraExoskeleton.description>Instaluje ultra egzoszkielet.</KokuInstallUltraExoskeleton.description>
+	<KokuInstallUltraExoskeleton.jobString>Instaluje ultra egzoszkielet</KokuInstallUltraExoskeleton.jobString>
+
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuInstallArtificialBrain.label>Zainstaluj sztuczny mózg</KokuInstallArtificialBrain.label>
+	<KokuInstallArtificialBrain.description>Instaluje sztuczny mózg.</KokuInstallArtificialBrain.description>
+	<KokuInstallArtificialBrain.jobString>Instaluje sztuczny mózg</KokuInstallArtificialBrain.jobString>
+
+    <KokuInstallAdvancedBrain.label>Zainstaluj zaawansowany mózg</KokuInstallAdvancedBrain.label>
+	<KokuInstallAdvancedBrain.description>Instaluje zaawansowany mózg.</KokuInstallAdvancedBrain.description>
+	<KokuInstallAdvancedBrain.jobString>Instaluje zaawansowany mózg</KokuInstallAdvancedBrain.jobString>
+
+    <KokuInstallUltraBrain.label>Zainstaluj ultra mózg</KokuInstallUltraBrain.label>
+	<KokuInstallUltraBrain.description>Instaluje ultra mózg.</KokuInstallUltraBrain.description>
+	<KokuInstallUltraBrain.jobString>Instaluje ultra mózg</KokuInstallUltraBrain.jobString>
+    <!--==========lung==========-->
+    <KokuInstallArtificialLung.label>Zainstaluj sztuczne płuco</KokuInstallArtificialLung.label>
+	<KokuInstallArtificialLung.description>Instaluje sztuczne płuco.</KokuInstallArtificialLung.description>
+	<KokuInstallArtificialLung.jobString>Instaluje sztuczne płuco</KokuInstallArtificialLung.jobString>
+
+    <KokuInstallSyntheticLung.label>Zainstaluj syntetyczne płuco</KokuInstallSyntheticLung.label>
+	<KokuInstallSyntheticLung.description>Instaluje syntetyczne płuco.</KokuInstallSyntheticLung.description>
+	<KokuInstallSyntheticLung.jobString>Instaluje syntetyczne płuco</KokuInstallSyntheticLung.jobString>
+
+    <KokuInstallUltraLung.label>Zainstaluj ultra płuco</KokuInstallUltraLung.label>
+	<KokuInstallUltraLung.description>Instaluje ultra płuco.</KokuInstallUltraLung.description>
+	<KokuInstallUltraLung.jobString>Instaluje ultra płuco</KokuInstallUltraLung.jobString>
+    <!--==========stomach==========-->
+    <KokuInstallArtificialStomach.label>Zainstaluj sztuczny żołądek</KokuInstallArtificialStomach.label>
+	<KokuInstallArtificialStomach.description>Instaluje sztuczny żołądek.</KokuInstallArtificialStomach.description>
+	<KokuInstallArtificialStomach.jobString>Instaluje sztuczny żołądek</KokuInstallArtificialStomach.jobString>
+	
+    <KokuInstallSyntheticStomach.label>Zainstaluj syntetyczny żołądek</KokuInstallSyntheticStomach.label>
+	<KokuInstallSyntheticStomach.description>Instaluje syntetyczny żołądek.</KokuInstallSyntheticStomach.description>
+	<KokuInstallSyntheticStomach.jobString>Instaluje syntetyczny żołądek</KokuInstallSyntheticStomach.jobString>
+	
+    <KokuInstallUltraStomach.label>Zainstaluj ultra żołądek</KokuInstallUltraStomach.label>
+	<KokuInstallUltraStomach.description>Instaluje ultra żołądek.</KokuInstallUltraStomach.description>
+	<KokuInstallUltraStomach.jobString>Instaluje ultra żołądek</KokuInstallUltraStomach.jobString>
+	
+    <!--==========liver==========-->
+    <KokuInstallArtificialLiver.label>Zainstaluj sztuczną wątrobe</KokuInstallArtificialLiver.label>
+	<KokuInstallArtificialLiver.description>Instaluje sztuczną wątrobe.</KokuInstallArtificialLiver.description>
+	<KokuInstallArtificialLiver.jobString>Instaluje sztuczną wątrobe</KokuInstallArtificialLiver.jobString>
+	
+    <KokuInstallSyntheticLiver.label>Zainstaluj syntetyczną wątrobe</KokuInstallSyntheticLiver.label>
+	<KokuInstallSyntheticLiver.description>Instaluje syntetyczną wątrobe.</KokuInstallSyntheticLiver.description>
+	<KokuInstallSyntheticLiver.jobString>Instaluje syntetyczną wątrobe</KokuInstallSyntheticLiver.jobString>
+	
+    <KokuInstallUltraLiver.label>Zainstaluj ultra wątrobe</KokuInstallUltraLiver.label>
+	<KokuInstallUltraLiver.description>Instaluje ultra wątrobe.</KokuInstallUltraLiver.description>
+	<KokuInstallUltraLiver.jobString>Instaluje ultra wątrobe</KokuInstallUltraLiver.jobString>
+	
+    <!--==========kidney==========-->
+    <KokuInstallArtificialKidney.label>Zainstaluj sztuczną nerke</KokuInstallArtificialKidney.label>
+	<KokuInstallArtificialKidney.description>Instaluje sztuczną nerke.</KokuInstallArtificialKidney.description>
+	<KokuInstallArtificialKidney.jobString>Instaluje sztuczną nerke</KokuInstallArtificialKidney.jobString>
+	
+    <KokuInstallSyntheticKidney.label>Zainstaluj syntetyczną nerke</KokuInstallSyntheticKidney.label>
+	<KokuInstallSyntheticKidney.description>Instaluje syntetyczną nerke.</KokuInstallSyntheticKidney.description>
+	<KokuInstallSyntheticKidney.jobString>Instaluje syntetyczną nerke</KokuInstallSyntheticKidney.jobString>
+	
+    <KokuInstallUltraKidney.label>Zainstaluj ultra nerke</KokuInstallUltraKidney.label>
+	<KokuInstallUltraKidney.description>Instaluje ultra nerke.</KokuInstallUltraKidney.description>
+	<KokuInstallUltraKidney.jobString>Instaluje ultra nerke</KokuInstallUltraKidney.jobString>
+	
+    <!--==========heart==========-->
+    <KokuInstallArtificialHeart.label>Zainstaluj sztuczne serce</KokuInstallArtificialHeart.label>
+	<KokuInstallArtificialHeart.description>Instaluje sztuczne serce.</KokuInstallArtificialHeart.description>
+	<KokuInstallArtificialHeart.jobString>Instaluje sztuczne serce</KokuInstallArtificialHeart.jobString>
+
+    <KokuInstallSyntheticHeart.label>Zainstaluj syntetyczne serce</KokuInstallSyntheticHeart.label>
+	<KokuInstallSyntheticHeart.description>Instaluje syntetyczne serce.</KokuInstallSyntheticHeart.description>
+	<KokuInstallSyntheticHeart.jobString>Instaluje syntetyczne serce</KokuInstallSyntheticHeart.jobString>
+
+    <KokuInstallUltraHeart.label>Zainstaluj ultra serce</KokuInstallUltraHeart.label>
+	<KokuInstallUltraHeart.description>Instaluje ultra serce.</KokuInstallUltraHeart.description>
+	<KokuInstallUltraHeart.jobString>Instaluje ultra serce</KokuInstallUltraHeart.jobString>
+
+</LanguageData>

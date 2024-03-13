@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Sztuczna śledziona</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.labelNoun>Sztuczna śledziona</KokuArtificialSpleen.labelNoun>
+    <KokuArtificialSpleen.description>Zamontowana sztuczna śledziona.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Syntetyczna śledziona</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.labelNoun>Syntetyczna śledziona</KokuSyntheticSpleen.labelNoun>
+    <KokuSyntheticSpleen.description>Zamontowana syntetyczna śledziona.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ultra śledziona</KokuUltraSpleen.label>
+    <KokuUltraSpleen.labelNoun>Ultra śledziona</KokuUltraSpleen.labelNoun>
+    <KokuUltraSpleen.description>Zamontowana ultra śledziona.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Sztuczna trzustka</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.labelNoun>Sztuczna trzustka</KokuArtificialPancreas.labelNoun>
+    <KokuArtificialPancreas.description>Zamontowana sztuczna trzustka.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Syntetyczna trzustka</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.labelNoun>Syntetyczna trzustka</KokuSyntheticPancreas.labelNoun>
+    <KokuSyntheticPancreas.description>Zamontowana syntetyczna trzustka.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ultra trzustka</KokuUltraPancreas.label>
+    <KokuUltraPancreas.labelNoun>Ultra trzustka</KokuUltraPancreas.labelNoun>
+    <KokuUltraPancreas.description>Zamontowana ultra trzustka.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Sztuczny pęcherzyk żółciowy</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.labelNoun>Sztuczny pęcherzyk żółciowy</KokuArtificialGallbladder.labelNoun>
+    <KokuArtificialGallbladder.description>Zamontowany sztuczny pęcherzyk żółciowy.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Syntetyczny pęcherzyk żółciowy</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.labelNoun>Syntetyczny pęcherzyk żółciowy</KokuSyntheticGallbladder.labelNoun>
+    <KokuSyntheticGallbladder.description>Zamontowany syntetyczny pęcherzyk żółciowy.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ultra pęcherzyk żółciowy</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.labelNoun>Ultra pęcherzyk żółciowy</KokuUltraGallbladder.labelNoun>
+    <KokuUltraGallbladder.description>Zamontowany ultra pęcherzyk żółciowy.</KokuUltraGallbladder.description>
+
+</LanguageData>

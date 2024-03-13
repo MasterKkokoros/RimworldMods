@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--===============================Tier1===================================-->
+   <HediffDef ParentName="KokuaddedProsthetics" MayRequire="sera.apinialienrace">
+      <defName>KokuHydraulicWing</defName>
+      <label>hydraulic wing</label>
+      <description>An installed simple hydraulic wing.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuHydraulicWing</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuHydraulicWing</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics" MayRequire="sera.apinialienrace">
+      <defName>KokuHydraulicAntenna</defName>
+      <label>hydraulic antenna</label>
+      <description>An installed simple hydraulic antenna.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuHydraulicAntenna</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuHydraulicAntenna</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuHydraulicTail</defName>
+      <label>hydraulic tail</label>
+      <description>An installed simple hydraulic tail.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuHydraulicTail</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuHydraulicTail</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedSimpleOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuArtificialHoneyStomach</defName>
+      <label>artificial honey stomach</label>
+      <description>An installed artificial honey stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialHoneyStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialHoneyStomach</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier2===================================-->
+   <HediffDef ParentName="KokuaddedBionics" MayRequire="sera.apinialienrace">
+      <defName>KokuBionicWing</defName>
+      <label>bionic wing</label>
+      <labelNoun>a bionic wing</labelNoun>
+      <description>An installed bionic wing.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicWing</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicWing</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics" MayRequire="sera.apinialienrace">
+      <defName>KokuBionicAntenna</defName>
+      <label>bionic antenna</label>
+      <labelNoun>a bionic antenna</labelNoun>
+      <description>An installed bionic antenna.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicAntenna</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicAntenna</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuBionicTail</defName>
+      <label>bionic tail</label>
+      <labelNoun>a bionic tail</labelNoun>
+      <description>An installed bionic tail.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicTail</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicTail</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics" MayRequire="sera.apinialienrace">
+      <defName>KokuBionicAbdomen</defName>
+      <label>bionic Abdomen</label>
+      <labelNoun>a bionic abdomen</labelNoun>
+      <description>An installed bionic abdomen.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicAbdomen</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicAntenna</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.15</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <!--===============================Tier3===================================-->
+   <HediffDef ParentName="KokuaddedAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuAdvancedBionicWing</defName>
+      <label>advanced bionic wing</label>
+      <labelNoun>an advanced bionic wing</labelNoun>
+      <description>An installed advanced bionic wing.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicWing</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicWing</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuAdvancedBionicAntenna</defName>
+      <label>advanced bionic antenna</label>
+      <labelNoun>an advanced bionic antenna</labelNoun>
+      <description>An installed advanced bionic antenna.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicAntenna</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicAntenna</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuAdvancedBionicTail</defName>
+      <label>advanced bionic tail</label>
+      <labelNoun>an advanced bionic tail</labelNoun>
+      <description>An installed advanced bionic tail.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicTail</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicTail</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuAdvancedBionicAbdomen</defName>
+      <label>advanced bionic Abdomen</label>
+      <labelNoun>an advanced bionic abdomen</labelNoun>
+      <description>An installed advanced bionic abdomen.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicAbdomen</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicAbdomen</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedSyntheticOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuSyntheticHoneyStomach</defName>
+      <label>synthetic honey stomach</label>
+      <description>An installed synthetic honey stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticHoneyStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticHoneyStomach</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier4===================================-->
+   <HediffDef ParentName="KokuaddedUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuUltraBionicWing</defName>
+      <label>ultra bionic wing</label>
+      <labelNoun>an ultra bionic wing</labelNoun>
+      <description>An installed ultra bionic wing.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicWing</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicWing</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuUltraBionicAntenna</defName>
+      <label>ultra bionic antenna</label>
+      <labelNoun>an ultra bionic antenna</labelNoun>
+      <description>An installed ultra bionic antenna.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicAntenna</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicAntenna</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuUltraBionicTail</defName>
+      <label>ultra bionic tail</label>
+      <labelNoun>an ultra bionic tail</labelNoun>
+      <description>An installed ultra bionic tail.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicTail</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicTail</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuUltraBionicAbdomen</defName>
+      <label>ultra bionic Abdomen</label>
+      <labelNoun>an ultra bionic abdomen</labelNoun>
+      <description>An installed ultra bionic abdomen.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicAbdomen</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicAbdomen</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedUltraOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuUltraHoneyStomach</defName>
+      <label>ultra honey stomach</label>
+      <description>An installed ultra honey stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraHoneyStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraHoneyStomach</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+
+</Defs>

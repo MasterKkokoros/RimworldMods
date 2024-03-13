@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+
+   <ThingDef ParentName="BenchBase">
+      <defName>KokuPrinterOrgans</defName>
+      <label>organs printer</label>
+      <thingClass>Building_WorkTable</thingClass>
+      <description>A workstation, equipped with a 3D printer to craft organs.</description>
+      <graphicData>
+         <texPath>Things/Building/Production/OrgansPrinter</texPath>
+         <graphicClass>Graphic_Multi</graphicClass>
+         <drawSize>(3.5,1.5)</drawSize>
+         <damageData>
+            <cornerTL>Damage/Corner</cornerTL>
+            <cornerTR>Damage/Corner</cornerTR>
+            <cornerBL>Damage/Corner</cornerBL>
+            <cornerBR>Damage/Corner</cornerBR>
+         </damageData>
+      </graphicData>
+      <costList>
+         <Steel>100</Steel>
+         <Plasteel>50</Plasteel>
+         <ComponentIndustrial>3</ComponentIndustrial>
+      </costList>
+      <constructEffect>ConstructMetal</constructEffect>
+      <fillPercent>0.5</fillPercent>
+      <altitudeLayer>Building</altitudeLayer>
+      <useHitPoints>True</useHitPoints>
+      <statBases>
+         <WorkToBuild>2500</WorkToBuild>
+         <MaxHitPoints>200</MaxHitPoints>
+         <Flammability>0.6</Flammability>
+      </statBases>
+      <size>(3,1)</size>
+      <comps>
+         <li Class="CompProperties_Power">
+            <compClass>CompPowerTrader</compClass>
+            <shortCircuitInRain>true</shortCircuitInRain>
+            <basePowerConsumption>450</basePowerConsumption>
+         </li>
+         <li Class="CompProperties_Flickable" />
+         <li Class="CompProperties_AffectedByFacilities">
+            <linkableFacilities>
+               <li>ToolCabinet</li>
+            </linkableFacilities>
+         </li>
+         <li Class="CompProperties_Breakdownable" />
+      </comps>
+      <designationCategory>Production</designationCategory>
+      <passability>PassThroughOnly</passability>
+      <pathCost>100</pathCost>
+      <hasInteractionCell>True</hasInteractionCell>
+      <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+      <surfaceType>Item</surfaceType>
+      <inspectorTabs>
+         <li>ITab_Bills</li>
+      </inspectorTabs>
+      <building>
+         <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      </building>
+      <placeWorkers>
+         <li>PlaceWorker_ShowFacilitiesConnections</li>
+      </placeWorkers>
+      <researchPrerequisites>
+         <li>KokuSimpleOrgans</li>
+      </researchPrerequisites>
+   </ThingDef>
+
+   <ThingDef ParentName="BenchBase">
+      <defName>KokuPrinterProsthetics</defName>
+      <label>prosthetics printer</label>
+      <thingClass>Building_WorkTable</thingClass>
+      <description>A workbench equipped for production of all kinds of prosthetics.</description>
+      <graphicData>
+         <texPath>Things/Building/Production/ProsthericsPrinter</texPath>
+         <graphicClass>Graphic_Multi</graphicClass>
+         <drawSize>(3.5,1.5)</drawSize>
+         <damageData>
+            <cornerTL>Damage/Corner</cornerTL>
+            <cornerTR>Damage/Corner</cornerTR>
+            <cornerBL>Damage/Corner</cornerBL>
+            <cornerBR>Damage/Corner</cornerBR>
+         </damageData>
+      </graphicData>
+      <costList>
+         <Steel>100</Steel>
+         <Plasteel>50</Plasteel>
+         <ComponentIndustrial>4</ComponentIndustrial>
+      </costList>
+      <altitudeLayer>Building</altitudeLayer>
+      <fillPercent>0.5</fillPercent>
+      <useHitPoints>True</useHitPoints>
+      <statBases>
+         <WorkToBuild>3000</WorkToBuild>
+         <MaxHitPoints>200</MaxHitPoints>
+         <Flammability>0.5</Flammability>
+      </statBases>
+      <size>(3,1)</size>
+      <designationCategory>Production</designationCategory>
+      <passability>PassThroughOnly</passability>
+      <pathCost>100</pathCost>
+      <hasInteractionCell>True</hasInteractionCell>
+      <interactionCellOffset>(0,0,-1)</interactionCellOffset>
+      <surfaceType>Item</surfaceType>
+      <inspectorTabs>
+         <li>ITab_Bills</li>
+      </inspectorTabs>
+      <comps>
+         <li Class="CompProperties_Power">
+            <compClass>CompPowerTrader</compClass>
+            <shortCircuitInRain>true</shortCircuitInRain>
+            <basePowerConsumption>500</basePowerConsumption>
+         </li>
+         <li Class="CompProperties_Flickable" />
+         <li Class="CompProperties_AffectedByFacilities">
+            <linkableFacilities>
+               <li>ToolCabinet</li>
+            </linkableFacilities>
+         </li>
+         <li Class="CompProperties_Breakdownable" />
+      </comps>
+      <building>
+         <spawnedConceptLearnOpportunity>BillsTab</spawnedConceptLearnOpportunity>
+      </building>
+      <constructEffect>ConstructMetal</constructEffect>
+      <researchPrerequisites>
+         <li>KokuProsthetics</li>
+      </researchPrerequisites>
+      <placeWorkers>
+         <li>PlaceWorker_ShowFacilitiesConnections</li>
+      </placeWorkers>
+   </ThingDef>
+
+</Defs>

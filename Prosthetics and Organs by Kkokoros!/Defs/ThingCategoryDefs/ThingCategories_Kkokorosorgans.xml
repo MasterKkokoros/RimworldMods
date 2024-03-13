@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingCategoryDef>
+        <defName>KokuTierKits</defName>
+        <label>Koku Tier kits</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+    <ThingCategoryDef>
+        <defName>KokuBodyPartsBasic</defName>
+        <label>Koku Basic</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+    <ThingCategoryDef>
+        <defName>KokuBodyPartsSimple</defName>
+        <label>Koku Simple</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+    <ThingCategoryDef>
+        <defName>KokuBodyPartsBionic</defName>
+        <label>Koku Bionic</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+    <ThingCategoryDef>
+        <defName>KokuBodyPartsAdvanced</defName>
+        <label>Koku Advanced</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+    <ThingCategoryDef>
+        <defName>KokuBodyPartsUltra</defName>
+        <label>Koku Ultra</label>
+        <parent>BodyParts</parent>
+    </ThingCategoryDef>
+</Defs>

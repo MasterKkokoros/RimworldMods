@@ -1,0 +1,1528 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--===============================Colour===================================-->
+   <HediffDef Name="KokuaddedProsteticBasic" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>true</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(71, 46, 9)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>false</betterThanNatural>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedProsthetics" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>true</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(22, 24, 156)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>false</betterThanNatural>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedBionics" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(150, 196, 22)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>true</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>5</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedSimpleOrgans" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(52, 51, 194)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>false</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>5</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedAdvanced" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(22, 161, 64)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>true</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>10</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedSyntheticOrgans" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(106, 12, 138)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>true</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>10</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedUltra" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(22, 179, 196)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>true</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>15</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef Name="KokuaddedUltraOrgans" Abstract="True">
+      <hediffClass>Hediff_AddedPart</hediffClass>
+      <isBad>false</isBad>
+      <countsAsAddedPartOrImplant>true</countsAsAddedPartOrImplant>
+      <defaultLabelColor>(201, 12, 12)</defaultLabelColor>
+      <addedPartProps>
+         <betterThanNatural>true</betterThanNatural>
+      </addedPartProps>
+      <comps>
+         <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
+            <linearAdjustment>15</linearAdjustment>
+         </li>
+      </comps>
+   </HediffDef>
+   <!--===============================Tier0===================================-->
+   <HediffDef ParentName="KokuaddedProsteticBasic">
+      <defName>KokuWoodenJaw</defName>
+      <label>wooden jaw</label>
+      <labelNoun>a wodden jaw</labelNoun>
+      <description>An installed wooden jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuWoodenJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuWoodenJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.4</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsteticBasic">
+      <defName>KokuWoodenArm</defName>
+      <label>wooden shoulder-arm</label>
+      <labelNoun>a wooden arm</labelNoun>
+      <description>An installed wooden arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuWoodenArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuWoodenArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.4</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>Wooden fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsteticBasic">
+      <defName>KokuWoodenLeg</defName>
+      <label>wodden leg</label>
+      <labelNoun>a wooden leg</labelNoun>
+      <description>An installed wooden leg.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuWoodenLeg</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuWoodenLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.4</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier1===================================-->
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuArtificialNose</defName>
+      <label>artificial nose</label>
+      <description>An installed simple artificial nose.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialNose</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuArtificialEar</defName>
+      <label>artificial Ear</label>
+      <description>An installed simple artificial ear.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialEar</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuArtificialEye</defName>
+      <label>artificial eye</label>
+      <description>An installed simple artificial eye.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialEye</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialEye</spawnThingOnRemoved>
+      <woundAnchorRange>0</woundAnchorRange>
+      <displayWound>true</displayWound>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuHydraulicJaw</defName>
+      <label>hydraulic jaw</label>
+      <description>An installed simple hydraulic jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuHydraulicJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuHydraulicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.7</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuSimpleHydraulicArm</defName>
+      <label>simple hydraulic shoulder-arm</label>
+      <description>An installed simple hydraulic arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSimpleHydraulicArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSimpleHydraulicArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>8.2</power>
+                  <cooldownTime>2</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedProsthetics">
+      <defName>KokuSimpleHydraulicLeg</defName>
+      <label>simple hydraulic leg</label>
+      <description>An installed simple hydraulic leg.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSimpleHydraulicLeg</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSimpleHydraulicLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier2===================================-->
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicArm</defName>
+      <label>bionic shoulder-arm</label>
+      <labelNoun>a bionic arm</labelNoun>
+      <description>An installed bionic arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicLeg</defName>
+      <label>Bionic leg</label>
+      <labelNoun>a bionic leg</labelNoun>
+      <description>An installed bionic leg.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicLeg</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicNose</defName>
+      <label>bionic nose</label>
+      <labelNoun>a bionic nose</labelNoun>
+      <description>An installed bionic nose.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicNose</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicEar</defName>
+      <label>bionic ear</label>
+      <labelNoun>a bionic ear</labelNoun>
+      <description>An installed bionic ear.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicEar</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicEye</defName>
+      <label>bionic eye</label>
+      <labelNoun>a bionic eye</labelNoun>
+      <description>An installed bionic eye.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicEye</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicEye</spawnThingOnRemoved>
+      <woundAnchorRange>0</woundAnchorRange>
+      <displayWound>true</displayWound>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicJaw</defName>
+      <label>bionic jaw</label>
+      <labelNoun>a bionic jaw</labelNoun>
+      <description>An installed bionic jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuMuteJaw</defName>
+      <label>mute jaw</label>
+      <labelNoun>a mute jaw</labelNoun>
+      <description>An installed mute jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuMuteJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuMuteJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Talking</capacity>
+                  <offset>-2.0</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicSpine</defName>
+      <label>bionic spine</label>
+      <labelNoun>a bionic spine</labelNoun>
+      <description>An installed bionic spine.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicSpine</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicSpine</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.15</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicPelvis</defName>
+      <label>bionic pelvis</label>
+      <labelNoun>a bionic pelvis</labelNoun>
+      <description>An installed bionic pelvis.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicPelvis</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicPelvis</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.15</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicNeck</defName>
+      <label>bionic neck</label>
+      <labelNoun>a bionic neck</labelNoun>
+      <description>An installed bionic neck.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicNeck</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicNeck</spawnThingOnRemoved>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <addedPartProps>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>-0.30</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuMedicalSternum</defName>
+      <label>medical sternum</label>
+      <labelNoun>a medical sernum</labelNoun>
+      <description>An installed medical sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuMedicalSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuMedicalSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>BloodFiltration</capacity>
+                  <offset>0.1</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuDruggedSternum</defName>
+      <label>drugged sternum</label>
+      <labelNoun>a drugged sternum</labelNoun>
+      <description>An installed drugged sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuDruggedSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuDruggedSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>-0.1</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuAdrenalineSternum</defName>
+      <label>adrenaline sternum</label>
+      <labelNoun>an adrenaline sternum</labelNoun>
+      <description>An installed adrenaline sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdrenalineSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuAdrenalineSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.1</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuPainkillerSternum</defName>
+      <label>painkiller sternum</label>
+      <labelNoun>a painkiller sternum</labelNoun>
+      <description>An installed painkiller sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuPainkillerSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuPainkillerSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <painFactor>0.9</painFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuNanomachinesRibcage</defName>
+      <label>nanomachines ribcage</label>
+      <labelNoun>a nanomachines ribcage</labelNoun>
+      <description>An installed nanomachines ribcage.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuNanomachinesRibcage</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuNanomachinesRibcage</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <totalBleedFactor>0.9</totalBleedFactor>
+            <statOffsets>
+               <ImmunityGainSpeed>0.1</ImmunityGainSpeed>
+               <InjuryHealingFactor>0.1</InjuryHealingFactor>
+            </statOffsets>
+            <capMods>
+               <li>
+                  <offset>+0.10</offset>
+                  <capacity>Consciousness</capacity>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <hediffClass>Hediff_Implant</hediffClass>
+      <defName>KokuArtificialBrain</defName>
+      <label>artificial brain</label>
+      <description>An installed artificial brain.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialBrain</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialBrain</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <partIgnoreMissingHP>true</partIgnoreMissingHP>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>1</offset>
+               </li>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>1.0</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <defName>KokuArtificialLung</defName>
+      <label>artificial lung</label>
+      <description>An installed artificial lung.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialLung</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialLung</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ComfyTemperatureMax>-5</ComfyTemperatureMax>
+               <ComfyTemperatureMin>5</ComfyTemperatureMin>
+               <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.2</ToxicEnvironmentResistance>
+					<ToxicResistance MayRequire="Ludeon.RimWorld.Biotech">0.2</ToxicResistance>
+            </statOffsets>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <defName>KokuArtificialStomach</defName>
+      <label>artificial stomach</label>
+      <description>An installed artificial stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialStomach</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <makeImmuneTo>
+               <li>FoodPoisoning</li>
+            </makeImmuneTo>
+            <statOffsets>
+               <FoodPoisonChance>-1.0</FoodPoisonChance>
+               
+            </statOffsets>
+            <hungerRateFactorOffset>0.25</hungerRateFactorOffset>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <defName>KokuArtificialLiver</defName>
+      <label>artificial liver</label>
+      <description>An installed artificial liver.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialLiver</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialLiver</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <defName>KokuArtificialKidney</defName>
+      <label>artificial kidney</label>
+      <description>An installed artificial kidney.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialKidney</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialKidney</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSimpleOrgans">
+      <defName>KokuArtificialHeart</defName>
+      <label>artificial heart</label>
+      <description>An installed artificial heart.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuArtificialHeart</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuArtificialHeart</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>0.75</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier3===================================-->
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicArm</defName>
+      <label>advanced bionic shoulder-arm</label>
+      <labelNoun>an advanced bionic arm</labelNoun>
+      <description>An installed advanced bionic arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>13</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicLeg</defName>
+      <label>advanced bionic leg</label>
+      <labelNoun>an advanced bionic leg</labelNoun>
+      <description>An installed advanced bionic leg.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicLeg</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicNose</defName>
+      <label>advanced bionic nose</label>
+      <labelNoun>an advanced bionic nose</labelNoun>
+      <description>An installed advanced bionic nose.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicNose</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicEar</defName>
+      <label>advanced bionic ear</label>
+      <labelNoun>an advanced bionic ear</labelNoun>
+      <description>An installed advanced bionic ear.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicEar</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicEye</defName>
+      <label>advanced bionic eye</label>
+      <labelNoun>an advanced bionic eye</labelNoun>
+      <description>An installed advanced bionic eye.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicEye</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicEye</spawnThingOnRemoved>
+      <woundAnchorRange>0</woundAnchorRange>
+      <displayWound>true</displayWound>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicJaw</defName>
+      <label>advanced bionic jaw</label>
+      <labelNoun>an advanced bionic jaw</labelNoun>
+      <description>An installed advanced bionic jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicSpine</defName>
+      <label>advanced bionic spine</label>
+      <labelNoun>an advanced bionic spine</labelNoun>
+      <description>An installed advanced bionic spine.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicSpine</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicSpine</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicPelvis</defName>
+      <label>advanced bionic pelvis</label>
+      <labelNoun>an advanced bionic pelvis</labelNoun>
+      <description>An installed advanced bionic pelvis.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicPelvis</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicPelvis</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicNeck</defName>
+      <label>advanced bionic neck</label>
+      <labelNoun>an advanced bionic neck</labelNoun>
+      <description>An installed advanced bionic neck.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicNeck</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicNeck</spawnThingOnRemoved>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <addedPartProps>
+         <partEfficiency>1.45</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>-0.15</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedMedicalSternum</defName>
+      <label>advanced medical sternum</label>
+      <labelNoun>an advanced medical sernum</labelNoun>
+      <description>An installed advanced medical sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedMedicalSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuAdvancedMedicalSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>BloodFiltration</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedDruggedSternum</defName>
+      <label>advanced drugged sternum</label>
+      <labelNoun>an advanced drugged sternum</labelNoun>
+      <description>An installed advanced drugged sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedDruggedSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuAdvancedDruggedSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>-0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedAdrenalineSternum</defName>
+      <label>advanced adrenaline sternum</label>
+      <labelNoun>an advanced adrenaline sternum</labelNoun>
+      <description>An installed advanced adrenaline sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedAdrenalineSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuAdvancedAdrenalineSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedPainkillerSternum</defName>
+      <label>advanced painkiller sternum</label>
+      <labelNoun>an advanced painkiller sternum</labelNoun>
+      <description>An installed advanced painkiller sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedPainkillerSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuAdvancedPainkillerSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <painFactor>0.75</painFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedNanomachinesRibcage</defName>
+      <label>advanced nanomachines ribcage</label>
+      <labelNoun>an advanced nanomachines ribcage</labelNoun>
+      <description>An installed advanced nanomachines ribcage.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedNanomachinesRibcage</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedNanomachinesRibcage</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <totalBleedFactor>0.75</totalBleedFactor>
+            <statOffsets>
+               <ImmunityGainSpeed>0.25</ImmunityGainSpeed>
+               <InjuryHealingFactor>0.25</InjuryHealingFactor>
+            </statOffsets>
+            <capMods>
+               <li>
+                  <offset>+0.25</offset>
+                  <capacity>Consciousness</capacity>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuExoskeleton</defName>
+      <label>exoskeleton suit</label>
+      <labelNoun>an exoskeleton suit</labelNoun>
+      <description>An installed exoskeleton suit.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuExoskeleton</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuExoskeleton</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <statOffsets>
+               <CarryingCapacity>25</CarryingCapacity>
+            </statOffsets>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.25</offset>
+               </li>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.25</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <hediffClass>Hediff_Implant</hediffClass>
+      <defName>KokuAdvancedBrain</defName>
+      <label>Advanced brain</label>
+      <description>An installed Advanced brain.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBrain</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBrain</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <partIgnoreMissingHP>true</partIgnoreMissingHP>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>1.2</offset>
+               </li>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>1.2</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <defName>KokuSyntheticLung</defName>
+      <label>synthetic lung</label>
+      <description>An installed synthetic lung.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticLung</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticLung</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ComfyTemperatureMax>5</ComfyTemperatureMax>
+               <ComfyTemperatureMin>-5</ComfyTemperatureMin>
+               <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.4</ToxicEnvironmentResistance>
+					<ToxicResistance MayRequire="Ludeon.RimWorld.Biotech">0.4</ToxicResistance>
+            </statOffsets>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <defName>KokuSyntheticStomach</defName>
+      <label>synthetic stomach</label>
+      <description>An installed synthetic stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticStomach</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <makeImmuneTo>
+               <li>FoodPoisoning</li>
+            </makeImmuneTo>
+            <statOffsets>
+               <FoodPoisonChance>-1.0</FoodPoisonChance>
+               
+            </statOffsets>
+            <hungerRateFactorOffset>-0.25</hungerRateFactorOffset>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <defName>KokuSyntheticLiver</defName>
+      <label>synthetic liver</label>
+      <description>An installed synthetic liver.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticLiver</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticLiver</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <defName>KokuSyntheticKidney</defName>
+      <label>synthetic kidney</label>
+      <description>An installed synthetic kidney.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticKidney</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticKidney</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedSyntheticOrgans">
+      <defName>KokuSyntheticHeart</defName>
+      <label>synthetic heart</label>
+      <description>An installed synthetic heart.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuSyntheticHeart</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuSyntheticHeart</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.25</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <!--===============================Tier4===================================-->
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicArm</defName>
+      <label>ultra bionic shoulder-arm</label>
+      <labelNoun>an ultra bionic arm</labelNoun>
+      <description>An installed ultra bionic arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic fist</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>15</power>
+                  <cooldownTime>1.8</cooldownTime>
+               </li>
+            </tools>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicLeg</defName>
+      <label>ultra bionic leg</label>
+      <labelNoun>an ultra bionic leg</labelNoun>
+      <description>An installed ultra bionic leg.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicLeg</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicLeg</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicNose</defName>
+      <label>ultra bionic nose</label>
+      <labelNoun>an ultra bionic nose</labelNoun>
+      <description>An installed ultra bionic nose.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicNose</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicNose</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicEar</defName>
+      <label>ultra bionic ear</label>
+      <labelNoun>an ultra bionic ear</labelNoun>
+      <description>An installed ultra bionic ear.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicEar</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicEar</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicEye</defName>
+      <label>ultra bionic eye</label>
+      <labelNoun>an ultra bionic eye</labelNoun>
+      <description>An installed ultra bionic eye.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicEye</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicEye</spawnThingOnRemoved>
+      <woundAnchorRange>0</woundAnchorRange>
+      <displayWound>true</displayWound>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicJaw</defName>
+      <label>ultra bionic jaw</label>
+      <labelNoun>an ultra bionic jaw</labelNoun>
+      <description>An installed ultra bionic jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicJaw</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicJaw</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicSpine</defName>
+      <label>ultra bionic spine</label>
+      <labelNoun>an ultra bionic spine</labelNoun>
+      <description>An installed ultra bionic spine.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicSpine</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicSpine</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicPelvis</defName>
+      <label>ultra bionic pelvis</label>
+      <labelNoun>an ultra bionic pelvis</labelNoun>
+      <description>An installed ultra bionic pelvis.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicPelvis</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicPelvis</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicNeck</defName>
+      <label>ultra bionic neck</label>
+      <labelNoun>an ultra bionic neck</labelNoun>
+      <description>An installed ultra bionic neck.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicNeck</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicNeck</spawnThingOnRemoved>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <addedPartProps>
+         <partEfficiency>1.55</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraMedicalSternum</defName>
+      <label>ultra medical sternum</label>
+      <labelNoun>an ultra medical sernum</labelNoun>
+      <description>An installed ultra medical sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraMedicalSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuUltraMedicalSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>BloodFiltration</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraDruggedSternum</defName>
+      <label>ultra drugged sternum</label>
+      <labelNoun>an ultra drugged sternum</labelNoun>
+      <description>An installed ultra drugged sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraDruggedSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuUltraDruggedSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>-0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraAdrenalineSternum</defName>
+      <label>ultra adrenaline sternum</label>
+      <labelNoun>an ultra adrenaline sternum</labelNoun>
+      <description>An installed ultra adrenaline sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraAdrenalineSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuUltraAdrenalineSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraPainkillerSternum</defName>
+      <label>ultra painkiller sternum</label>
+      <labelNoun>an ultra painkiller sternum</labelNoun>
+      <description>An installed ultra painkiller sternum.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraPainkillerSternum</ThingDef>
+      </descriptionHyperlinks>
+      <hediffClass>Hediff_Implant</hediffClass>
+      <spawnThingOnRemoved>KokuUltraPainkillerSternum</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <painFactor>0.5</painFactor>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraNanomachinesRibcage</defName>
+      <label>ultra nanomachines ribcage</label>
+      <labelNoun>an ultra nanomachines ribcage</labelNoun>
+      <description>An installed ultra nanomachines ribcage.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraNanomachinesRibcage</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraNanomachinesRibcage</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <totalBleedFactor>0.5</totalBleedFactor>
+            <statOffsets>
+               <ImmunityGainSpeed>0.50</ImmunityGainSpeed>
+               <InjuryHealingFactor>0.50</InjuryHealingFactor>
+            </statOffsets>
+            <capMods>
+               <li>
+                  <offset>+0.50</offset>
+                  <capacity>Consciousness</capacity>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraExoskeleton</defName>
+      <label>ultra exoskeleton suit</label>
+      <labelNoun>an ultra exoskeleton suit</labelNoun>
+      <description>An installed ultra exoskeleton suit.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraExoskeleton</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraExoskeleton</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <statOffsets>
+               <CarryingCapacity>35</CarryingCapacity>
+            </statOffsets>
+            <capMods>
+               <li>
+                  <capacity>Manipulation</capacity>
+                  <offset>0.5</offset>
+               </li>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>0.5</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <!--organs-->
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <hediffClass>Hediff_Implant</hediffClass>
+      <defName>KokuUltraBrain</defName>
+      <label>ultra brain</label>
+      <description>An installed ultra brain.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBrain</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBrain</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.0</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <partIgnoreMissingHP>true</partIgnoreMissingHP>
+            <capMods>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <offset>1.5</offset>
+               </li>
+               <li>
+                  <capacity>Consciousness</capacity>
+                  <setMax>1.5</setMax>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <defName>KokuUltraLung</defName>
+      <label>ultra lung</label>
+      <description>An installed ultra lung.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraLung</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraLung</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <statOffsets>
+               <ComfyTemperatureMax>10</ComfyTemperatureMax>
+               <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+               <ToxicEnvironmentResistance MayRequire="Ludeon.RimWorld.Biotech">0.5</ToxicEnvironmentResistance>
+					<ToxicResistance MayRequire="Ludeon.RimWorld.Biotech">0.5</ToxicResistance>
+            </statOffsets>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <defName>KokuUltraStomach</defName>
+      <label>ultra stomach</label>
+      <description>An installed ultra stomach.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraStomach</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraStomach</spawnThingOnRemoved>
+      <stages>
+         <li>
+            <makeImmuneTo>
+               <li>FoodPoisoning</li>
+            </makeImmuneTo>
+            <statOffsets>
+               <FoodPoisonChance>-1.0</FoodPoisonChance>
+               
+            </statOffsets>
+            <hungerRateFactorOffset>-0.50</hungerRateFactorOffset>
+         </li>
+      </stages>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <defName>KokuUltraLiver</defName>
+      <label>ultra liver</label>
+      <description>An installed ultra liver.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraLiver</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraLiver</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <defName>KokuUltraKidney</defName>
+      <label>ultra kidney</label>
+      <description>An installed ultra kidney.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraKidney</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraKidney</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltraOrgans">
+      <defName>KokuUltraHeart</defName>
+      <label>ultra heart</label>
+      <description>An installed ultra heart.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraHeart</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraHeart</spawnThingOnRemoved>
+      <addedPartProps>
+         <solid>true</solid>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+   </HediffDef>
+</Defs>

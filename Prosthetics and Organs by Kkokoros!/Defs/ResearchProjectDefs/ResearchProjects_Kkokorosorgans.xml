@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+
+	<ResearchProjectDef Abstract="True" Name="Bruh">
+		<description>123</description>
+		<techLevel>Spacer</techLevel>
+	</ResearchProjectDef>
+
+	<!--===============================Tier0===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuBasicProsthetics</defName>
+		<label>Basic prosthetics</label>
+		<description>Understanding the shape of a leg and combining that knowledge with basic woodworking.</description>
+		<baseCost>500</baseCost>
+		<techLevel>Neolithic</techLevel>
+		<tags>
+			<li>ClassicStart</li>
+		</tags>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>0</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===============================Tier1===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuProsthetics</defName>
+		<label>Simple prosthetics</label>
+		<description>Advanced anatomy studies and metal testing will allow you to build simple
+			prostheses. Unlocks the prosthetics table.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Industrial</techLevel>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+			<li>KokuBasicProsthetics</li>
+			<li>Machining</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>0.75</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuSimpleOrgans</defName>
+		<label>Artificial organs</label>
+		<description>As you gain higher medical and technical knowledge, creating a 3D printer to craft simple organs now becomes possible.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+			<li>MicroelectronicsBasics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>1.5</researchViewX>
+		<researchViewY>4.5</researchViewY>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+	</ResearchProjectDef>
+
+	<!--===============================Tier2===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuHeadModifications</defName>
+		<label>Bionic head mods</label>
+		<description>Using bionics just the way to restore missing limbs seems like such a waste. Let's use them for beauty! Unlocks bionic head modifications.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuBionics</defName>
+		<label>bionics</label>
+		<description>Discovering the concept of very small motors and circuits, new possibilities of better prostheses are now open for you. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<prerequisites>
+			<li>KokuProsthetics</li>
+			<li>Fabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>1.5</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuBionicSpine</defName>
+		<label>bionic spine</label>
+		<description>The anatomy of the human spine is ridiculously complicated. You should probably research a little bit before messing with it.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>1.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuTorsoModifications</defName>
+		<label>Bionic torso mods</label>
+		<description>Discovering the concept of very small dispensers, you think about putting them in sternum or ribcage. You can now craft and install sternum implants or replace ribcage.</description>
+		<baseCost>1200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuSyntheticOrgans</defName>
+		<label>synthetic organs</label>
+		<description>Further research in nano-technology allows you to print incredibly well-engineered artificial organs. Unlocks new recipes on the tissue printer.</description>
+		<baseCost>1400</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuSimpleOrgans</li>
+			<li>Fabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>4.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuBrainSurgery</defName>
+		<label>artificial brain</label>
+		<description>Unlocks the ability to craft basic basic brain implants and install them.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuSimpleOrgans</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>2.25</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+
+	<!--===============================Tier3===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedHeadModifications</defName>
+		<label>Advanced head mods</label>
+		<description>Using bionics just the way to restore missing limbs seems like such a waste. Let's use them for beauty! Unlocks bionic head modifications.</description>
+		<baseCost>1700</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedBionics</li>
+			<li>KokuHeadModifications</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuExoskeleton</defName>
+		<label>exoskeleton</label>
+		<description>Utilise absolute cutting-edge motor technology and the knowledge of ergonomics to understand the concept of exoskeletons and replicate this with humans. Allows for the production and installation of exoskeleton suits.</description>
+		<baseCost>2200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedBionics</defName>
+		<label>advanced bionics</label>
+		<description>Upgrade regular bionics with advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedBionicSpine</defName>
+		<label>advanced spine</label>
+		<description>You want to cram even more complex tech into your spine? Just take some time to study the intricacies of the spinal column.</description>
+		<baseCost>1700</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedBionics</li>
+			<li>KokuBionicSpine</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>1.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedTorsoModifications</defName>
+		<label>Advanced torso mods</label>
+		<description>You've tasted the boost and now you want more?</description>
+		<baseCost>1700</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuTorsoModifications</li>
+			<li>KokuAdvancedBionics</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedBrainSurgery</defName>
+		<label>advanced brain</label>
+		<description>Allows you to craft more advanced brain implants and perform surgery on the brain.</description>
+		<baseCost>1800</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuBrainSurgery</li>
+			<li>KokuSyntheticOrgans</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3.75</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+
+
+	<!--===============================Tier4===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuUltraHeadModifications</defName>
+		<label>Ultra head mods</label>
+		<description>Using bionics just the way to restore missing limbs seems like such a waste. Let's use them for beauty! Unlocks bionic head modifications.</description>
+		<baseCost>2200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuUltraBionics</li>
+			<li>KokuAdvancedHeadModifications</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraExoskeleton</defName>
+		<label>ultra exoskeleton</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2700</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuExoskeleton</li>
+			<li>KokuUltraBionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>1</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraBionics</defName>
+		<label>ultra bionics</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedBionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>4.5</researchViewX>
+		<researchViewY>0.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraBionicSpine</defName>
+		<label>ultra spine</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedBionicSpine</li>
+			<li>KokuUltraBionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>1.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraTorsoModifications</defName>
+		<label>Ultra torso mods</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2200</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuAdvancedTorsoModifications</li>
+			<li>KokuUltraBionics</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>2</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraOrgans</defName>
+		<label>ultra organs</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>1800</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuSyntheticOrgans</li>
+			<li>AdvancedFabrication</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>4.5</researchViewX>
+		<researchViewY>4.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraBrainSurgery</defName>
+		<label>ultra brain</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better. Unlocks new recipes at the prosthetics table.</description>
+		<baseCost>2100</baseCost>
+		<techLevel>Spacer</techLevel>
+		<requiredResearchBuilding>HiTechResearchBench</requiredResearchBuilding>
+		<requiredResearchFacilities>
+			<li>MultiAnalyzer</li>
+		</requiredResearchFacilities>
+		<prerequisites>
+			<li>KokuUltraOrgans</li>
+			<li>AdvancedFabrication</li>
+			<li>KokuAdvancedBrainSurgery</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>5.25</researchViewX>
+		<researchViewY>5</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

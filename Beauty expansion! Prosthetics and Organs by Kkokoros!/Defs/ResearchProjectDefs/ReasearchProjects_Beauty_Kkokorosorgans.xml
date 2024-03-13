@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <ResearchProjectDef Abstract="True" Name="Bruh321">
+    <description>321</description>
+    <techLevel>Spacer</techLevel>
+    </ResearchProjectDef>
+
+	<!--=============================== Tier 2 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuBionicsBeautyFace</defName>
+		<label>Bionic head beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuBionics</li>
+			<li>KokuHeadModifications</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuBionicsBeautyBody</defName>
+		<label>Bionic body beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>1000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuBionics</li>
+			<li>KokuTorsoModifications</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>3</researchViewX>
+		<researchViewY>1.75</researchViewY>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 3 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedBionicsBeautyFace</defName>
+		<label>Advanced head beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuAdvancedBionics</li>
+			<li>KokuAdvancedHeadModifications</li>
+			<li>KokuBionicsBeautyFace</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>4.5</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuAdvancedBionicsBeautyBody</defName>
+		<label>Advanced body beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>1500</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuAdvancedBionics</li>
+			<li>KokuAdvancedTorsoModifications</li>
+			<li>KokuBionicsBeautyBody</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>4.5</researchViewX>
+		<researchViewY>1.75</researchViewY>
+	</ResearchProjectDef>
+
+	<!--=============================== Tier 4 ===================================-->
+
+	<ResearchProjectDef>
+		<defName>KokuUltraBionicsBeautyFace</defName>
+		<label>Ultra head beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuUltraBionics</li>
+			<li>KokuUltraHeadModifications</li>
+			<li>KokuAdvancedBionicsBeautyFace</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>6</researchViewX>
+		<researchViewY>2.5</researchViewY>
+	</ResearchProjectDef>
+
+	<ResearchProjectDef>
+		<defName>KokuUltraBionicsBeautyBody</defName>
+		<label>Ultra body beauty</label>
+		<description>Upgrade advanced bionics with ultra advanced components to make them even better also is equpped with a built-in claw.</description>
+		<baseCost>2000</baseCost>
+		<techLevel>Spacer</techLevel>
+		<prerequisites>
+            <li>KokuUltraBionics</li>
+			<li>KokuUltraTorsoModifications</li>
+			<li>KokuAdvancedBionicsBeautyBody</li>
+		</prerequisites>
+		<tab>Kkokorosorgans</tab>
+		<researchViewX>6</researchViewX>
+		<researchViewY>1.75</researchViewY>
+	</ResearchProjectDef>
+
+</Defs>

@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Drewniane ramie</KokuWoodenArm.label>
+	<KokuWoodenArm.Description>Bardzo słaba alternatywa ramienia. Źle wygląda, czuje, że jest zła.</KokuWoodenArm.Description>
+
+    <KokuSimpleHydraulicArm.label>Hydraliczne ramie</KokuSimpleHydraulicArm.label>
+	<KokuSimpleHydraulicArm.Description>Zastępuje brakujące ramię. O wiele wygodniejszy i bardziej użyteczny niż drewniany.</KokuSimpleHydraulicArm.Description>
+
+    <KokuBionicArm.label>Bioniczne ramie</KokuBionicArm.label>
+	<KokuBionicArm.Description>Jedna z najbardziej wyrafinowanych zamienników ramion. Daje użytkownikowi ekstremalną siłę.</KokuBionicArm.Description>
+
+    <KokuAdvancedBionicArm.label>Zaawansowane bioniczne ramie</KokuAdvancedBionicArm.label>
+	<KokuAdvancedBionicArm.Description>Czy to wciąż ramię? Daje użytkownikowi ekstremalną siłę.</KokuAdvancedBionicArm.Description>
+
+    <KokuAdvancedBionicArm.label>Zaawansowana bioniczne ramię</KokuAdvancedBionicArm.label>
+    <KokuUltraBionicArm.label>Ultra bioniczne ramie</KokuUltraBionicArm.label>
+	<KokuUltraBionicArm.Description>To jest P%^$^%#E.</KokuUltraBionicArm.Description>
+
+    <!--==========leg==========-->
+    <KokuWoodenLeg.label>Drewniana noga</KokuWoodenLeg.label>
+	<KokuWoodenLeg.Description>Bardzo słaba alternatywa nogi. Źle wygląda, czuje, że jest zła.</KokuWoodenLeg.Description>
+
+    <KokuSimpleHydraulicLeg.label>Hydrauliczna noga</KokuSimpleHydraulicLeg.label>
+	<KokuSimpleHydraulicLeg.Description>Zastępuje brakującą nogę. O wiele wygodniejszy i bardziej użyteczny niż drewniany.</KokuSimpleHydraulicLeg.Description>
+
+    <KokuBionicLeg.label>Bioniczna noga</KokuBionicLeg.label>
+	<KokuBionicLeg.Description>Bionic noga wykorzystuje najnowocześniejszą technologię, aby zapewnić właścicielowi ekstremalny komfort chodzenia i siłę.</KokuBionicLeg.Description>
+
+    <KokuAdvancedBionicLeg.label>Zaawansowana bioniczna noga</KokuAdvancedBionicLeg.label>
+	<KokuAdvancedBionicLeg.Description>Czy pamiętasz, czym było chodzenie? Ja również nie.</KokuAdvancedBionicLeg.Description>
+
+    <KokuUltraBionicLeg.label>Ultra bioniczna noga</KokuUltraBionicLeg.label>
+	<KokuUltraBionicLeg.Description>Jestem tak szybki, że żyję w ciemności.</KokuUltraBionicLeg.Description>
+
+    <!--==========jaw==========-->
+    <KokuWoodenJaw.label>Drewniana szczęka</KokuWoodenJaw.label>
+	<KokuWoodenJaw.Description>Zastępuje brakującą szczękę drewnianą szczęką. Pachnie obrzydliwie, a smakuje jeszcze gorzej.</KokuWoodenJaw.Description>
+
+	<KokuHydraulicJaw.Description>Zastępuje brakującą szczękę. Już nie pachnie i pozwala użytkownikowi poczuć proste smaki!</KokuHydraulicJaw.Description>
+
+    <KokuBionicJaw.label>Bioniczna szczęka</KokuBionicJaw.label>
+	<KokuBionicJaw.Description>Zaawansowane urządzenie, które pozwala znowu jeść normalnie, jest również wyposażone w modulator głosu.</KokuBionicJaw.Description>
+
+    <KokuMuteJaw.label>Niema szczęka</KokuMuteJaw.label>
+	<KokuMuteJaw.Description>Ta wersja bionicznej szczęki jest dostarczana bez modulatora głosu, przydatnego dla głośnych pacjentów.</KokuMuteJaw.Description>
+
+    <KokuAdvancedBionicJaw.label>Zaawansowana bioniczna szczęka</KokuAdvancedBionicJaw.label>
+	<KokuAdvancedBionicJaw.Description>Zaawansowane urządzenie, które pozwala jeść jak potwór!</KokuAdvancedBionicJaw.Description>
+
+    <KokuAdvancedBionicJaw.label>Zaawansowana bioniczna szczęka</KokuAdvancedBionicJaw.label>
+    <KokuUltraBionicJaw.label>Ultra bioniczna szczęka</KokuUltraBionicJaw.label>
+	<KokuUltraBionicJaw.Description>Hej, pogryź mi tą kanapke!</KokuUltraBionicJaw.Description>
+
+    <!--==========nose==========-->
+    <KokuArtificialNose.label>Sztuczny nos</KokuArtificialNose.label>
+	<KokuArtificialNose.Description>Zastępuje brakujący nos. Zakrywa otwór w twarzy, a także umożliwia wąchanie prostych substancji.</KokuArtificialNose.Description>
+    
+    <KokuBionicNose.label>Bioniczny nos</KokuBionicNose.label>
+	<KokuBionicNose.Description>Bionic nose wykorzystuje zaawansowaną technologię, aby dać właścicielowi ekstremalny zmysł węchu.</KokuBionicNose.Description>
+		
+    <KokuAdvancedBionicNose.label>Zaawansowany bioniczny nos</KokuAdvancedBionicNose.label>
+	<KokuAdvancedBionicNose.Description>Bionic nose wykorzystuje zaawansowaną technologię, aby dać właścicielowi ekstremalny zmysł węchu.</KokuAdvancedBionicNose.Description>
+		
+    <KokuUltraBionicNose.label>Ultra bioniczny nos</KokuUltraBionicNose.label>
+	<KokuUltraBionicNose.Description>Czy ktoś pierdnął? Och, najeźdźcy...</KokuUltraBionicNose.Description>
+		
+    <!--==========ear==========-->
+    <KokuArtificialEar.label>Sztuczne ucho</KokuArtificialEar.label>
+	<KokuArtificialEar.Description>Zastępuje brakujące ucho. Zakrywa otwór w głowie, a także pozwala użytkownikowi słyszeć proste dźwięki.</KokuArtificialEar.Description>
+
+    <KokuBionicEar.label>Bionicze ucho</KokuBionicEar.label>
+	<KokuBionicEar.Description>Zaawansowane urządzenie, które pozwala ponownie słyszeć normalne.</KokuBionicEar.Description>
+	
+    <KokuAdvancedBionicEar.label>Zaawansowane bionicze ucho</KokuAdvancedBionicEar.label>
+	<KokuAdvancedBionicEar.Description>Zaawansowane urządzenie, które pozwala słyszeć jeszcze lepiej!</KokuAdvancedBionicEar.Description>
+
+    <KokuUltraBionicEar.label>Ultra bionicze ucho</KokuUltraBionicEar.label>
+	<KokuUltraBionicEar.Description>Słyszę Cię!</KokuUltraBionicEar.Description>
+	
+    <!--==========eye==========-->
+    <KokuArtificialEye.label>Sztuczne oko</KokuArtificialEye.label>
+	<KokuArtificialEye.Description>Zastępuje brakujące oko. Potrafi wykryć światło, a nawet odległość. Jak patrzenie przez kamerę, ale bez kolorów.</KokuArtificialEye.Description>
+
+    <KokuBionicEye.label>Bioniczne oko</KokuBionicEye.label>
+	<KokuBionicEye.Description>Zaawansowany kawałek technologii stworzony nie tylko po to, aby w pełni zastąpić naturalne oko, ale także nadać nadprzyrodzone zdolności widzenia.</KokuBionicEye.Description>
+	
+    <KokuAdvancedBionicEye.label>Zaawansowane bioniczne oko</KokuAdvancedBionicEye.label>
+	<KokuAdvancedBionicEye.Description>Zaawansowany kawałek technologii stworzony nie tylko po to, aby w pełni zastąpić naturalne oko, ale także nadać nadprzyrodzone zdolności widzenia.</KokuAdvancedBionicEye.Description>
+	
+    <KokuUltraBionicEye.label>Ultra bioniczne oko</KokuUltraBionicEye.label>
+	<KokuUltraBionicEye.Description>Czy to nie oszukiwanie?</KokuUltraBionicEye.Description>
+	
+    <!--==========spine==========-->
+    <KokuBionicSpine.label>Bioniczy kręgosłup</KokuBionicSpine.label>
+	<KokuBionicSpine.Description>To lekkie i efektowne urządzenie może zastąpić uszkodzony kręgosłup.</KokuBionicSpine.Description>
+
+    <KokuAdvancedBionicSpine.label>Zaawansowany bioniczy kręgosłup</KokuAdvancedBionicSpine.label>
+	<KokuAdvancedBionicSpine.Description>To lekkie urządzenie jest niesamowite!</KokuAdvancedBionicSpine.Description>
+
+    <KokuUltraBionicSpine.label>Ultra bioniczy kręgosłup</KokuUltraBionicSpine.label>
+	<KokuUltraBionicSpine.Description>Czy zawsze byłem taki lekki?</KokuUltraBionicSpine.Description>
+
+    <!--==========pelvis==========-->
+    <KokuBionicPelvis.label>Bionicza miednica</KokuBionicPelvis.label>
+	<KokuBionicPelvis.Description>To lekkie i efektowne urządzenie może zastąpić uszkodzoną miednicę.</KokuBionicPelvis.Description>
+
+    <KokuAdvancedBionicPelvis.label>Zaawansowana bionicza miednica</KokuAdvancedBionicPelvis.label>
+	<KokuAdvancedBionicPelvis.Description>To lekkie urządzenie jest niesamowite!</KokuAdvancedBionicPelvis.Description>
+
+    <KokuUltraBionicPelvis.label>Ultra bionicza miednica</KokuUltraBionicPelvis.label>
+	<KokuUltraBionicPelvis.Description>Czy zawsze byłem taki lekki?</KokuUltraBionicPelvis.Description>
+    <!--==========neck==========-->
+    <KokuBionicNeck.label>Bionicza szyja</KokuBionicNeck.label>
+	<KokuBionicNeck.Description>To lekkie i efektowne urządzenie może zastąpić uszkodzoną szyję. Ma niską prędkość transferu.</KokuBionicNeck.Description>
+
+    <KokuAdvancedBionicNeck.label>Zaawansowana bionicza szyja</KokuAdvancedBionicNeck.label>
+	<KokuAdvancedBionicNeck.Description>To lekkie urządzenie jest niesamowite! Ma średnio dobrą prędkość transferu.</KokuAdvancedBionicNeck.Description>
+
+    <KokuUltraBionicNeck.label>Ultra bionicza szyja</KokuUltraBionicNeck.label>
+	<KokuUltraBionicNeck.Description>Czy zawsze byłem taki lekki?</KokuUltraBionicNeck.Description>
+    <!--==========medsternum==========-->
+    <KokuMedicalSternum.label>Medyczny mostek</KokuMedicalSternum.label>
+	<KokuMedicalSternum.Description>Sztuczny mostek, wyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuMedicalSternum.Description>
+
+    <KokuAdvancedMedicalSternum.label>Zaawansowany medyczny mostek</KokuAdvancedMedicalSternum.label>
+	<KokuAdvancedMedicalSternum.Description>Zaawansowany sztuczny mostek, wyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuAdvancedMedicalSternum.Description>
+
+    <KokuUltraMedicalSternum.label>Ultra medyczny mostek</KokuUltraMedicalSternum.label>
+	<KokuUltraMedicalSternum.Description>Ultra zaawansowany sztuczny mostek, wyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuUltraMedicalSternum.Description>
+
+    <!--==========druggsternum==========-->
+    <KokuDruggedSternum.label>Narkotyzujący mostek</KokuDruggedSternum.label>
+	<KokuDruggedSternum.Description>Sztuczny mostek wyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuDruggedSternum.Description>
+
+    <KokuAdvancedDruggedSternum.label>Zaawansowany narkotyzujący mostek</KokuAdvancedDruggedSternum.label>
+	<KokuAdvancedDruggedSternum.Description>Zaawansowany sztuczny mostek, wyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuAdvancedDruggedSternum.Description>
+
+    <KokuUltraDruggedSternum.label>Ultra narkotyzujący mostek</KokuUltraDruggedSternum.label>
+	<KokuUltraDruggedSternum.Description>Ultra zaawansowany sztuczny mostek, wyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuUltraDruggedSternum.Description>
+
+    <!--==========adrsternum==========-->
+    <KokuAdrenalineSternum.label>Mostek z adrenaliną</KokuAdrenalineSternum.label>
+	<KokuAdrenalineSternum.Description>Sztuczny mostek, wyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i pobudzać.</KokuAdrenalineSternum.Description>
+
+    <KokuAdvancedAdrenalineSternum.label>Zaawansowany mostek z adrenaliną</KokuAdvancedAdrenalineSternum.label>
+	<KokuAdvancedAdrenalineSternum.Description>Zaawansowany sztuczny mostek, wyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i pobudzać.</KokuAdvancedAdrenalineSternum.Description>
+
+    <KokuUltraAdrenalineSternum.label>Ultra mostek z adrenaliną</KokuUltraAdrenalineSternum.label>
+	<KokuUltraAdrenalineSternum.Description>Ultra zaawansowany sztuczny mostek, wyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i pobudzać.</KokuUltraAdrenalineSternum.Description>
+
+    <!--==========painsternum==========-->
+    <KokuPainkillerSternum.label>Przeciwbólowy mostek</KokuPainkillerSternum.label>
+	<KokuPainkillerSternum.Description>Sztuczny mostek wyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuPainkillerSternum.Description>
+
+    <KokuAdvancedPainkillerSternum.label>Zaawansowany przeciwbólowy mostek</KokuAdvancedPainkillerSternum.label>
+	<KokuAdvancedPainkillerSternum.Description>Zaawansowany sztuczny mostek wyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuAdvancedPainkillerSternum.Description>
+
+    <KokuUltraPainkillerSternum.label>Ultra przeciwbólowy mostek</KokuUltraPainkillerSternum.label>
+	<KokuUltraPainkillerSternum.Description>Ultra zaawansowany sztuczny mostek wyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuUltraPainkillerSternum.Description>
+
+    <!--==========ribcage==========-->
+    <KokuNanomachinesRibcage.label>Klatka piersiowa z nanomaszynami</KokuNanomachinesRibcage.label>
+	<KokuNanomachinesRibcage.Description>Sztuczna klatka piersiowa, wyposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuNanomachinesRibcage.Description>
+
+    <KokuAdvancedNanomachinesRibcage.label>Zaawansowana klatka piersiowa z nanomaszynami</KokuAdvancedNanomachinesRibcage.label>
+	<KokuAdvancedNanomachinesRibcage.Description>Zaawansowana sztuczna klatka piersiowa, wyposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuAdvancedNanomachinesRibcage.Description>
+
+    <KokuUltraNanomachinesRibcage.label>Ultra klatka piersiowa z nanomaszynami</KokuUltraNanomachinesRibcage.label>
+	<KokuUltraNanomachinesRibcage.Description>Ultra zaawansowana sztuczna klatka piersiowa, wyposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuUltraNanomachinesRibcage.Description>
+
+    <!--==========exoskeleton==========-->
+    <KokuExoskeleton.label>Egzoszkielet</KokuExoskeleton.label>
+	<KokuExoskeleton.Description>Zaawansowane technologicznie urządzenie składające się z dwóch elementów: lekkiej konstrukcji szkieletowej odciążającej plecy oraz serwomotorów, które wzmacniają użytkownika.</KokuExoskeleton.Description>
+
+    <KokuUltraExoskeleton.label>Ultra egzoszkielet</KokuUltraExoskeleton.label>
+	<KokuUltraExoskeleton.Description>Czuję się silny jak mrówka!</KokuUltraExoskeleton.Description>
+
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuArtificialBrain.label>Sztuczny mózg</KokuArtificialBrain.label>
+	<KokuArtificialBrain.Description>Małe urządzenie, które dokłada wszelkich starań, aby mózg użytkownika działał. Zalecany tylko w przypadku poważnych uszkodzeń mózgu.</KokuArtificialBrain.Description>
+
+    <KokuAdvancedBrain.label>Zaawansowany mózg</KokuAdvancedBrain.label>
+	<KokuAdvancedBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika znów działa i nieznacznie go ulepsza.</KokuAdvancedBrain.Description>
+
+    <KokuUltraBrain.label>Ultra mózg</KokuUltraBrain.label>
+	<KokuUltraBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika pracuje jak geniusz.</KokuUltraBrain.Description>
+
+    <!--==========lung==========-->
+    <KokuArtificialLung.label>Sztuczne płuco</KokuArtificialLung.label>
+	<KokuArtificialLung.Description>Prosta alternatwa płuc. Wydaje głośny dźwięk.</KokuArtificialLung.Description>
+	
+    <KokuSyntheticLung.label>Syntetyczne płuco</KokuSyntheticLung.label>
+	<KokuSyntheticLung.Description>Zaawansowana technologicznie alternatywa płuc. Wydaje cichy dźwięk.</KokuSyntheticLung.Description>
+	
+    <KokuUltraLung.label>Ultra płuco</KokuUltraLung.label>
+	<KokuUltraLung.Description>Ultranowoczesna alternatywa płuc. Nie wydaje żadnych dźwięków.</KokuUltraLung.Description>
+	
+    <!--==========stomach==========-->
+    <KokuArtificialStomach.label>Sztuczny żołądek</KokuArtificialStomach.label>
+	<KokuArtificialStomach.Description>Prosta alternatwa żołądka. Nie wąchałbym tego!</KokuArtificialStomach.Description>
+	
+    <KokuSyntheticStomach.label>Syntetyczny żołądek</KokuSyntheticStomach.label>
+	<KokuSyntheticStomach.Description>Zaawansowana technologicznie alternatywa żołądka. Już nie śmierdzi.</KokuSyntheticStomach.Description>
+	
+    <KokuUltraStomach.label>Ultra żołądek</KokuUltraStomach.label>
+	<KokuUltraStomach.Description>Ultra-technologiczna alternatywa żołądka. Pierdy stały się Zabójczymi O-O.</KokuUltraStomach.Description>
+	
+    <!--==========liver==========-->
+    <KokuArtificialLiver.label>Sztuczna wątroba</KokuArtificialLiver.label>
+	<KokuArtificialLiver.Description>Prosty filtr krwi. Niewiele lepszy niż zwykły filtr do kawy.</KokuArtificialLiver.Description>
+	
+    <KokuSyntheticLiver.label>Syntetyczna wątroba</KokuSyntheticLiver.label>
+	<KokuSyntheticLiver.Description>Zaawansowany technologicznie filtr krwi. Bardzo dobrze filtruje krew.</KokuSyntheticLiver.Description>
+	
+    <KokuUltraLiver.label>Ultra wątroba</KokuUltraLiver.label>
+	<KokuUltraLiver.Description>Ultranowoczesny filtr krwi. Czy to wciąż krew czy coś innego?</KokuUltraLiver.Description>
+	
+    <!--==========kidney==========-->
+    <KokuArtificialKidney.label>Sztuczna nerka</KokuArtificialKidney.label>
+	<KokuArtificialKidney.Description>Prosta alternatywa nerki. Lepsze niż dializa, zaufaj mi!</KokuArtificialKidney.Description>
+	
+    <KokuSyntheticKidney.label>Syntetyczna nerka</KokuSyntheticKidney.label>
+	<KokuSyntheticKidney.Description>Zaawansowany technologicznie zamiennik nerki. Możesz znowu pić bez problemów!</KokuSyntheticKidney.Description>
+	
+    <KokuUltraKidney.label>Ultra nerka</KokuUltraKidney.label>
+	<KokuUltraKidney.Description>Ultra-technologiczna zamiennik nerki. „Napoje” to tylko woda!</KokuUltraKidney.Description>
+	
+    <!--==========heart==========-->
+    <KokuArtificialHeart.label>Sztuczne serce</KokuArtificialHeart.label>
+	<KokuArtificialHeart.Description>Prosta pompka do podtrzymania przepływu krwi.</KokuArtificialHeart.Description>
+
+    <KokuSyntheticHeart.label>Syntetyczne serce</KokuSyntheticHeart.label>
+	<KokuSyntheticHeart.Description>Zaawansowana technologicznie pompa podtrzymująca przepływ krwi.</KokuSyntheticHeart.Description>
+
+    <KokuUltraHeart.label>Ultra serce</KokuUltraHeart.label>
+	<KokuUltraHeart.Description>Ultra-technologiczna pompa podtrzymująca przepływ krwi.</KokuUltraHeart.Description>
+
+
+</LanguageData>

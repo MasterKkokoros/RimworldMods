@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+
+  <TraderKindDef>
+    <defName>KokuKkokorosorgansTrader</defName>
+    <label>Kkokorosorgans parts trader :P</label>
+    <orbital>true</orbital>
+    <stockGenerators>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Silver</thingDef>
+        <countRange>10000~15000</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineIndustrial</thingDef>
+        <countRange>50~100</countRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>MedicineUltratech</thingDef>
+        <countRange>10~50</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuBasicProstheses</tradeTag>
+        <thingDefCountRange>1~5</thingDefCountRange>
+        <countRange>1~1</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuSimpleProstheses</tradeTag>
+        <thingDefCountRange>1~5</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuBionicProstheses</tradeTag>
+        <thingDefCountRange>1~5</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuAdvancedProstheses</tradeTag>
+        <thingDefCountRange>1~2</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuUltraProstheses</tradeTag>
+        <thingDefCountRange>0~2</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuSimpleOrgan</tradeTag>
+        <thingDefCountRange>1~5</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuSyntheticOrgan</tradeTag>
+        <thingDefCountRange>1~2</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Tag">
+        <tradeTag>KokuUltraOrgan</tradeTag>
+        <thingDefCountRange>0~2</thingDefCountRange>
+        <countRange>1~5</countRange>
+      </li>
+      <li Class="StockGenerator_Category">
+        <categoryDef>Textiles</categoryDef>
+        <thingDefCountRange>50~300</thingDefCountRange>
+        <totalPriceRange>2000~5000</totalPriceRange>
+      </li>
+      <li Class="StockGenerator_SingleDef">
+        <thingDef>Hyperweave</thingDef>
+        <countRange>10~400</countRange>
+      </li>
+    </stockGenerators>
+  </TraderKindDef>
+
+</Defs>

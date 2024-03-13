@@ -1,0 +1,1032 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    
+     <!--================stuff================-->
+     <!--==================================_sleep_less_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1SleepLessSkullImplant</defName>
+      <label>install V1 sleepless skull implant</label>
+      <description>Installs V1 sleepless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1SleepLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1SleepLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1SleepLessSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2SleepLessSkullImplant</defName>
+      <label>install V2 sleepless skull implant</label>
+      <description>Installs V2 sleepless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2SleepLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2SleepLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2SleepLessSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3SleepLessSkullImplant</defName>
+      <label>install V3 sleepless skull implant</label>
+      <description>Installs V3 sleepless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3SleepLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3SleepLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3SleepLessSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_psychic_less_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1PsychicLessSkullImplant</defName>
+      <label>install V1 psychicless skull implant</label>
+      <description>Installs V1 psychicless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1PsychicLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1PsychicLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1PsychicLessSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2PsychicLessSkullImplant</defName>
+      <label>install V2 psychicless skull implant</label>
+      <description>Installs V2 psychicless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2PsychicLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2PsychicLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2PsychicLessSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3PsychicLessSkullImplant</defName>
+      <label>install V3 psychicless skull implant</label>
+      <description>Installs V3 psychicless skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3PsychicLessSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3PsychicLessSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3PsychicLessSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Researcher_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1ResearcherSkullImplant</defName>
+      <label>install V1 researcher skull implant</label>
+      <description>Installs V1 researcher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1ResearcherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1ResearcherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1ResearcherSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2ResearcherSkullImplant</defName>
+      <label>install V2 researcher skull implant</label>
+      <description>Installs V2 researcher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2ResearcherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2ResearcherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2ResearcherSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3ResearcherSkullImplant</defName>
+      <label>install V3 researcher skull implant</label>
+      <description>Installs V3 researcher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3ResearcherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3ResearcherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3ResearcherSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Miner_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1MinerSkullImplant</defName>
+      <label>install V1 miner skull implant</label>
+      <description>Installs V1 miner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1MinerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1MinerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1MinerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2MinerSkullImplant</defName>
+      <label>install V2 miner skull implant</label>
+      <description>Installs V2 miner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2MinerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2MinerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2MinerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3MinerSkullImplant</defName>
+      <label>install V3 miner skull implant</label>
+      <description>Installs V3 miner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3MinerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3MinerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3MinerSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Farmer_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1FarmerSkullImplant</defName>
+      <label>install V1 farmer skull implant</label>
+      <description>Installs V1 farmer skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1FarmerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1FarmerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1FarmerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2FarmerSkullImplant</defName>
+      <label>install V2 farmer skull implant</label>
+      <description>Installs V2 farmer skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2FarmerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2FarmerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2FarmerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3FarmerSkullImplant</defName>
+      <label>install V3 farmer skull implant</label>
+      <description>Installs V3 farmer skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3FarmerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3FarmerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3FarmerSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Rancher_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1RancherSkullImplant</defName>
+      <label>install V1 rancher skull implant</label>
+      <description>Installs V1 rancher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1RancherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1RancherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1RancherSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2RancherSkullImplant</defName>
+      <label>install V2 rancher skull implant</label>
+      <description>Installs V2 rancher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2RancherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2RancherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2RancherSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3RancherSkullImplant</defName>
+      <label>install V3 rancher skull implant</label>
+      <description>Installs V3 rancher skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3RancherSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3RancherSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3RancherSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Chef_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1ChefSkullImplant</defName>
+      <label>install V1 chef skull implant</label>
+      <description>Installs V1 chef skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1ChefSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1ChefSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1ChefSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2ChefSkullImplant</defName>
+      <label>install V2 chef skull implant</label>
+      <description>Installs V2 chef skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2ChefSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2ChefSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2ChefSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3ChefSkullImplant</defName>
+      <label>install V3 chef skull implant</label>
+      <description>Installs V3 chef skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3ChefSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3ChefSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3ChefSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Builder_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1BuilderSkullImplant</defName>
+      <label>install V1 builder skull implant</label>
+      <description>Installs V1 builder skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1BuilderSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1BuilderSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1BuilderSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2BuilderSkullImplant</defName>
+      <label>install V2 builder skull implant</label>
+      <description>Installs V2 builder skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2BuilderSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2BuilderSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2BuilderSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3BuilderSkullImplant</defName>
+      <label>install V3 builder skull implant</label>
+      <description>Installs V3 builder skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3BuilderSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3BuilderSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3BuilderSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Maid_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1MaidSkullImplant</defName>
+      <label>install V1 maid skull implant</label>
+      <description>Installs V1 maid skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1MaidSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1MaidSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1MaidSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2MaidSkullImplant</defName>
+      <label>install V2 maid skull implant</label>
+      <description>Installs V2 maid skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2MaidSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2MaidSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2MaidSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3MaidSkullImplant</defName>
+      <label>install V3 maid skull implant</label>
+      <description>Installs V3 maid skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3MaidSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3MaidSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3MaidSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Social_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1SocialSkullImplant</defName>
+      <label>install V1 social skull implant</label>
+      <description>Installs V1 social skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1SocialSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1SocialSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1SocialSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2SocialSkullImplant</defName>
+      <label>install V2 social skull implant</label>
+      <description>Installs V2 social skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2SocialSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2SocialSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2SocialSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3SocialSkullImplant</defName>
+      <label>install V3 social skull implant</label>
+      <description>Installs V3 social skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3SocialSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3SocialSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3SocialSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Medic_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1MedicSkullImplant</defName>
+      <label>install V1 medic skull implant</label>
+      <description>Installs V1 medic skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1MedicSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1MedicSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1MedicSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2MedicSkullImplant</defName>
+      <label>install V2 medic skull implant</label>
+      <description>Installs V2 medic skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2MedicSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2MedicSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2MedicSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3MedicSkullImplant</defName>
+      <label>install V3 medic skull implant</label>
+      <description>Installs V3 medic skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3MedicSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3MedicSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3MedicSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Fast_Learner_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1FastLearnerSkullImplant</defName>
+      <label>install V1 fast learner skull implant</label>
+      <description>Installs V1 fast learner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1FastLearnerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1FastLearnerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1FastLearnerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2FastLearnerSkullImplant</defName>
+      <label>install V2 fast learner skull implant</label>
+      <description>Installs V2 fast learner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2FastLearnerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2FastLearnerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2FastLearnerSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3FastLearnerSkullImplant</defName>
+      <label>install V3 fast learner skull implant</label>
+      <description>Installs V3 fast learner skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3FastLearnerSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3FastLearnerSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3FastLearnerSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Melee_Soldier_Learner_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1MeleeSoldierSkullImplant</defName>
+      <label>install V1 melee soldier skull implant</label>
+      <description>Installs V1 melee soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1MeleeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1MeleeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1MeleeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2MeleeSoldierSkullImplant</defName>
+      <label>install V2 melee soldier skull implant</label>
+      <description>Installs V2 melee soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2MeleeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2MeleeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2MeleeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3MeleeSoldierSkullImplant</defName>
+      <label>install V3 melee soldier skull implant</label>
+      <description>Installs V3 melee soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3MeleeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3MeleeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3MeleeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+     <!--==================================_Range_Soldier_Learner_implant_==================================-->
+     <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallV1RangeSoldierSkullImplant</defName>
+      <label>install V1 range soldier skull implant</label>
+      <description>Installs V1 range soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV1RangeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV1RangeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV1RangeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallV2RangeSoldierSkullImplant</defName>
+      <label>install V2 range soldier skull implant</label>
+      <description>Installs V2 range soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV2RangeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV2RangeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV2RangeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallV3RangeSoldierSkullImplant</defName>
+      <label>install V3 range soldier skull implant</label>
+      <description>Installs V3 range soldier skull implant.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuV3RangeSoldierSkullImplant</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuV3RangeSoldierSkullImplant</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuSkullSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuV3RangeSoldierSkullImplant</addsHediff>
+   </RecipeDef>
+
+
+
+
+
+</Defs>

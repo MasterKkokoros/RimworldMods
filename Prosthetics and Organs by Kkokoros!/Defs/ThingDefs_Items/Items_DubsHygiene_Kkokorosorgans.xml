@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<!--===============================Tier2===================================-->
+    <ThingDef ParentName="KokuBionic" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuBionicBladder</defName>
+		<label>bionic bladder</label>
+		<description>An artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallBionicBladder</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuTier1kit>2</KokuTier1kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+    <ThingDef ParentName="KokuBionic" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuHygieneEnhancer</defName>
+		<label>hygiene enhancer</label>
+		<description>Releases mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallHygieneEnhancer</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuTier1kit>2</KokuTier1kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+	
+	<!--===============================Tier3===================================-->
+	<ThingDef ParentName="KokuAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuAdvancedBionicBladder</defName>
+		<label>advanced bionic bladder</label>
+		<description>An advanced artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallAdvancedBionicBladder</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuBionicBladder>1</KokuBionicBladder>
+			<KokuTier2kit>2</KokuTier2kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+    <ThingDef ParentName="KokuAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuAdvancedHygieneEnhancer</defName>
+		<label>advanced hygiene enhancer</label>
+		<description>Releases advanced mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallAdvancedHygieneEnhancer</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuHygieneEnhancer>1</KokuHygieneEnhancer>
+			<KokuTier2kit>2</KokuTier2kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+	<!--===============================Tier4===================================-->
+	<ThingDef ParentName="KokuUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuUltraBionicBladder</defName>
+		<label>ultra bionic bladder</label>
+		<description>An ultra artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallUltraBionicBladder</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuAdvancedBionicBladder>1</KokuAdvancedBionicBladder>
+			<KokuTier3kit>1</KokuTier3kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+    <ThingDef ParentName="KokuUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuUltraHygieneEnhancer</defName>
+		<label>ultra hygiene enhancer</label>
+		<description>Releases ultra mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<descriptionHyperlinks>
+			<RecipeDef>KokuInstallUltraHygieneEnhancer</RecipeDef>
+		</descriptionHyperlinks>
+		<costList>
+			<KokuAdvancedHygieneEnhancer>1</KokuAdvancedHygieneEnhancer>
+			<KokuTier3kit>1</KokuTier3kit>
+		</costList>
+		<statBases>
+			<Mass>2</Mass>
+		</statBases>
+		<recipeMaker>
+			<researchPrerequisite MayRequire="dbhlitemode">HygieneBionics</researchPrerequisite>
+		</recipeMaker>
+	</ThingDef>
+</Defs>

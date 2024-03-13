@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <ThingDef ParentName="OrganicProductBase">
+        <defName>Fake_Meat</defName>
+        <label>Fake Meat</label>
+        <description>Fake meat grown from plant.</description>
+        <graphicData>
+          <texPath>Things/Item/Resource/PlantFoodRaw/FakeMeat</texPath>
+        </graphicData>
+        <socialPropernessMatters>true</socialPropernessMatters>
+        <statBases>
+          <MarketValue>2.0</MarketValue>
+          <Mass>0.05</Mass>
+          <MaxHitPoints>100</MaxHitPoints>
+          <Flammability>0.5</Flammability>
+          <Nutrition>0.05</Nutrition>
+          <FoodPoisonChanceFixedHuman>0.00</FoodPoisonChanceFixedHuman>
+        </statBases>
+        <comps>
+          <li Class="CompProperties_Rottable">
+            <daysToRotStart>20</daysToRotStart>
+            <rotDestroys>true</rotDestroys>
+          </li>
+        </comps>
+        <ingestible>
+          <preferability>RawTasty</preferability>
+          <foodType>Meat</foodType>
+        </ingestible>
+        <thingCategories>
+          <li>MeatRaw</li>
+        </thingCategories>
+      </ThingDef>
+</Defs>

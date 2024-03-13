@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <!--=============================== Stuff ===================================-->
+    <ThingDef Name="KokuBionicsCombat" ParentName="KokuBionic" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuBionicsCombat</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+    </ThingDef>
+    <ThingDef Name="KokuAdvancedBionicsCombat" ParentName="KokuAdvanced" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedBionicsCombat</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+    </ThingDef>
+    <ThingDef Name="KokuUltraBionicsGun" ParentName="KokuUltra" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraBionicsGun</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+    </ThingDef>
+    <!--=============================== Tier 2 ===================================-->
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicClaw</defName>
+      <label>bionic claw</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <Plasteel>45</Plasteel>
+         <ComponentIndustrial>6</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicGunArm</defName>
+      <label>bionic gun arm</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in autopistol.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <Plasteel>45</Plasteel>
+         <ComponentIndustrial>5</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <!--=============================== Tier 3 ===================================-->
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicClaw</defName>
+      <label>advanced bionic claw</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength.</description>
+      <costList>
+         <KokuBionicClaw>1</KokuBionicClaw>
+         <ComponentSpacer>6</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicGunArm</defName>
+      <label>advanced bionic gun arm</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength with a built-in autopistol.</description>
+      <costList>
+         <KokuBionicGunArm>1</KokuBionicGunArm>
+         <ComponentSpacer>5</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <!--=============================== Tier 4 ===================================-->
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicClaw</defName>
+      <label>ultra bionic claw</label>
+      <description>This one is F%^$^ng insane.</description>
+      <costList>
+         <KokuAdvancedBionicClaw>1</KokuAdvancedBionicClaw>
+         <ComponentSpacer>11</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicGunArm</defName>
+      <label>ultra bionic gun arm</label>
+      <description>This one is F%^$^ng insane also is equipped with a built-in autopistol.</description>
+      <costList>
+         <KokuAdvancedBionicGunArm>1</KokuAdvancedBionicGunArm>
+         <ComponentSpacer>10</ComponentSpacer>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+</Defs>

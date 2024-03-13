@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="PatchOperationFindMod">
+		<mods>
+			<li>Core</li>
+		</mods>
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<!-- Eye -->
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/HediffDef[defName="KokuArtificialEye"]</xpath>
+					<value>
+						<eyeGraphicSouth>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuArtificialEye_south</texPath>
+						</eyeGraphicSouth>
+						<eyeGraphicEast>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuArtificialEye_east</texPath>
+						</eyeGraphicEast>
+						<eyeGraphicScale>0.2</eyeGraphicScale>
+					</value>
+				</li>
+
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/HediffDef[defName="KokuBionicEye"]</xpath>
+					<value>
+						<eyeGraphicSouth>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuBionicEye_south</texPath>
+						</eyeGraphicSouth>
+						<eyeGraphicEast>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuBionicEye_east</texPath>
+						</eyeGraphicEast>
+						<eyeGraphicScale>0.2</eyeGraphicScale>
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/HediffDef[defName="KokuAdvancedBionicEye"]</xpath>
+					<value>
+						<eyeGraphicSouth>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuAdvancedBionicEye_south</texPath>
+						</eyeGraphicSouth>
+						<eyeGraphicEast>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuAdvancedBionicEye_east</texPath>
+						</eyeGraphicEast>
+						<eyeGraphicScale>0.2</eyeGraphicScale>
+					</value>
+				</li>
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/HediffDef[defName="KokuUltraBionicEye"]</xpath>
+					<value>
+						<eyeGraphicSouth>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuUltraBionicEye_south</texPath>
+						</eyeGraphicSouth>
+						<eyeGraphicEast>
+							<graphicClass>Graphic_Single</graphicClass>
+							<texPath>Things/Pawn/Wounds/Eyes/KokuUltraBionicEye_east</texPath>
+						</eyeGraphicEast>
+						<eyeGraphicScale>0.2</eyeGraphicScale>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>

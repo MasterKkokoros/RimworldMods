@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+   
+   <InstallNaturalSpleen.label>zainstaluj śledzionę</InstallNaturalSpleen.label>
+   <InstallNaturalSpleen.description>Zainstaluj biologiczną śledzionę</InstallNaturalSpleen.description>
+   <InstallNaturalSpleen.jobString>Instalowanie śledziony</InstallNaturalSpleen.jobString>
+
+   <InstallNaturalPancreas.label>zainstaluj trzustkę</InstallNaturalPancreas.label>
+   <InstallNaturalPancreas.description>Zainstaluj biologiczną trzustkę</InstallNaturalPancreas.description>
+   <InstallNaturalPancreas.jobString>Instalowanie trzustki</InstallNaturalPancreas.jobString>
+
+   <InstallNaturalGallbladder.label>zainstaluj pęcherzyk żółciowy</InstallNaturalGallbladder.label>
+   <InstallNaturalGallbladder.description>Zainstaluj biologiczny pęcherzyk żółciowy</InstallNaturalGallbladder.description>
+   <InstallNaturalGallbladder.jobString>Instalowanie pęcherzyka żółciowego</InstallNaturalGallbladder.jobString>
+
+
+</LanguageData>

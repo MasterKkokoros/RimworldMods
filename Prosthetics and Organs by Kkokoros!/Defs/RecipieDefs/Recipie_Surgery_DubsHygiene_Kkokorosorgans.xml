@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<!--===============================Tier2===================================-->
+    <RecipeDef ParentName="KokuSurgeryBionic" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallBionicBladder</defName>
+		<label>install bionic bladder</label>
+		<description>Install a bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuBionicBladder</ThingDef>
+			<HediffDef>KokuBionicBladder</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing bionic bladder.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicBladder</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuBionicBladder</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuBionicBladder</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuBladderSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+
+    <RecipeDef ParentName="KokuSurgeryBionic" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallHygieneEnhancer</defName>
+		<label>install hygiene enhancer</label>
+		<description>Install a hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuHygieneEnhancer</ThingDef>
+			<HediffDef>KokuHygieneEnhancer</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing hygiene enhancer.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuHygieneEnhancer</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuHygieneEnhancer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuHygieneEnhancer</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuHygieneEnhancerSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+	<!--===============================Tier3===================================-->
+	<RecipeDef ParentName="KokuSurgeryAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallAdvancedBionicBladder</defName>
+		<label>install advanced bionic bladder</label>
+		<description>Install an advanced bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuAdvancedBionicBladder</ThingDef>
+			<HediffDef>KokuAdvancedBionicBladder</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing advanced bionic bladder.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicBladder</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuAdvancedBionicBladder</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuAdvancedBionicBladder</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuBladderSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+
+    <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallAdvancedHygieneEnhancer</defName>
+		<label>install advanced hygiene enhancer</label>
+		<description>Install an advanced hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuAdvancedHygieneEnhancer</ThingDef>
+			<HediffDef>KokuAdvancedHygieneEnhancer</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing advanced hygiene enhancer.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedHygieneEnhancer</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuAdvancedHygieneEnhancer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuAdvancedHygieneEnhancer</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuHygieneEnhancerSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+	<!--===============================Tier4===================================-->
+	<RecipeDef ParentName="KokuSurgeryUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallUltraBionicBladder</defName>
+		<label>install ultra bionic bladder</label>
+		<description>Install an ultra bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuUltraBionicBladder</ThingDef>
+			<HediffDef>KokuUltraBionicBladder</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing ultra bionic bladder.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicBladder</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuUltraBionicBladder</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuUltraBionicBladder</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuBladderSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+
+    <RecipeDef ParentName="KokuSurgeryUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuInstallUltraHygieneEnhancer</defName>
+		<label>install ultra hygiene enhancer</label>
+		<description>Install an ultra hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuUltraHygieneEnhancer</ThingDef>
+			<HediffDef>KokuUltraHygieneEnhancer</HediffDef>
+		</descriptionHyperlinks>
+		<jobString>Installing ultra hygiene enhancer.</jobString>
+		<ingredients>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraHygieneEnhancer</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<thingDefs>
+				<li>KokuUltraHygieneEnhancer</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<addsHediff>KokuUltraHygieneEnhancer</addsHediff>
+		<appliedOnFixedBodyParts>
+			<li>KokuHygieneEnhancerSlot</li>
+		</appliedOnFixedBodyParts>
+	</RecipeDef>
+</Defs>

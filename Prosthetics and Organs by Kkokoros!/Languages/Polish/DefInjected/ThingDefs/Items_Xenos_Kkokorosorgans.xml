@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Hydrauliczne skrzydło</KokuHydraulicWing.label>
+    <KokuHydraulicWing.Description>Zastępuje brakujące skrzydło, wystarczająco dobre, aby można je było wykorzystać.</KokuHydraulicWing.Description>
+    <KokuBionicWing.label>Bioniczne skrzydło</KokuBionicWing.label>
+    <KokuBionicWing.Description>Zastępuje brakujące skrzydło, lepiej niż zwykłe.</KokuBionicWing.Description>
+    <KokuAdvancedBionicWing.label>Zaawansowane bioniczne skrzydło</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.Description>Zastępuje brakujące skrzydło, lepiej niż bioniczne.</KokuAdvancedBionicWing.Description>
+    <KokuUltraBionicWing.label>Ultra bioniczne skrzydło</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.Description>Zastępuje brakujące skrzydło, lepiej niż zaawansowane.</KokuUltraBionicWing.Description>
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Hydrauliczna antenka</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.Description>Zastępuje brakującą antenkę, wystarczająco dobre, aby można je było wykorzystać.</KokuHydraulicAntenna.Description>
+    <KokuBionicAntenna.label>Bioniczna antenka</KokuBionicAntenna.label>
+    <KokuBionicAntenna.Description>Zastępuje brakującą antenkę, lepiej niż zwykłą.</KokuBionicAntenna.Description>
+    <KokuAdvancedBionicAntenna.label>Zaawansowana bioniczna antenka</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.Description>Zastępuje brakującą antenkę, lepiej niż bioniczną.</KokuAdvancedBionicAntenna.Description>
+    <KokuUltraBionicAntenna.label>Ultra bioniczna antenka</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.Description>Zastępuje brakującą antenkę, lepiej niż zaawansowaną.</KokuUltraBionicAntenna.Description>
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Hydrauliczny ogon</KokuHydraulicTail.label>
+    <KokuHydraulicTail.Description>Zastępuje brakujący ogon, wystarczająco dobre, aby można je było wykorzystać.</KokuHydraulicTail.Description>
+    <KokuBionicTail.label>Bioniczny ogon</KokuBionicTail.label>
+    <KokuBionicTail.Description>Zastępuje brakujący ogon, lepiej niż zwykły.</KokuBionicTail.Description>
+    <KokuAdvancedBionicTail.label>Zaawansowany bioniczny ogon</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.Description>Zastępuje brakujący ogon, lepiej niż bioniczny.</KokuAdvancedBionicTail.Description>
+    <KokuUltraBionicTail.label>Ultra bioniczny ogon</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.Description>Zastępuje brakujący ogon, lepiej niż zaawansowany.</KokuUltraBionicTail.Description>
+
+    <!--==========abodmen==========-->
+    <KokuBionicAbdomen.label>Bioniczny odwłok</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.Description>Zastępuje brakujący odwłok, lepiej niż zwykły.</KokuBionicAbdomen.Description>
+    <KokuAdvancedBionicAbdomen.label>Zaawansowany bioniczny odwłok</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.Description>Zastępuje brakujący odwłok, lepiej niż bioniczny.</KokuAdvancedBionicAbdomen.Description>
+    <KokuUltraBionicAbdomen.label>Ultra bioniczny odwłok</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.Description>Zastępuje brakujący odwłok, lepiej niż zaawansowany.</KokuUltraBionicAbdomen.Description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Sztuczny miodowy żołądek</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.Description>Prosty zamiennik miodowego żołądka. Nie wąchałbym tego!</KokuArtificialHoneyStomach.Description>
+    <KokuSyntheticHoneyStomach.label>Syntetyczny miodowy żołądek</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.Description>Zaawansowany technologicznie zamiennik miodowego żołądka. Już nie śmierdzi.</KokuSyntheticHoneyStomach.Description>
+    <KokuUltraHoneyStomach.label>Ultra miodowy żołądek</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.Description>Ultra-technologiczny zamiennik miodowego żołądka.</KokuUltraHoneyStomach.Description>
+
+</LanguageData>

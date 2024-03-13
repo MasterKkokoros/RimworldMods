@@ -1,0 +1,2336 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--===============================remove==================================-->
+   <RecipeDef Name="KokuSurgeryRemoval" ParentName="SurgeryFlesh" Abstract="True">
+      <deathOnFailedSurgeryChance>0.1</deathOnFailedSurgeryChance>
+      <workAmount>2500</workAmount>
+      <workerClass>Recipe_RemoveHediff</workerClass>
+      <skillRequirements>
+         <Medicine>7</Medicine>
+      </skillRequirements>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <disallowedThingDefs>
+            <li>MedicineHerbal</li>
+         </disallowedThingDefs>
+      </fixedIngredientFilter>
+      <recipeUsers>
+         <li>Human</li>
+      </recipeUsers>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryBasic" ParentName="SurgeryFlesh" Abstract="True">
+      <surgerySuccessChanceFactor>1</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0</deathOnFailedSurgeryChance>
+      <recipeUsers>
+         <li>Human</li>
+      </recipeUsers>
+      <dontShowIfAnyIngredientMissing>true</dontShowIfAnyIngredientMissing>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgerySimple" ParentName="SurgeryInstallBodyPartProstheticBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.01</deathOnFailedSurgeryChance>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryBionic" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.90</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+      <skillRequirements>
+         <Medicine>5</Medicine>
+      </skillRequirements>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgerySternum" ParentName="KokuSurgeryBionic" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryNeck" ParentName="KokuSurgeryBionic" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="SurgerySimpleOrgans" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.95</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.20</deathOnFailedSurgeryChance>
+      <jobString>Installing simple organ.</jobString>
+      <workAmount>2000</workAmount>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryAdvanced" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.02</deathOnFailedSurgeryChance>
+      <skillRequirements>
+         <Medicine>7</Medicine>
+      </skillRequirements>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryAdvancedNeck" ParentName="KokuSurgeryAdvanced" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryAdvancedSternum" ParentName="KokuSurgeryAdvanced" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="SurgeryAdvancedOrgans" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.90</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.20</deathOnFailedSurgeryChance>
+      <jobString>Installing Advanced organ.</jobString>
+      <workAmount>2500</workAmount>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryUltra" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.80</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.025</deathOnFailedSurgeryChance>
+      <skillRequirements>
+         <Medicine>10</Medicine>
+      </skillRequirements>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryUltraNeck" ParentName="KokuSurgeryUltra" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="KokuSurgeryUltraSternum" ParentName="KokuSurgeryUltra" Abstract="True">
+      <workerClass>Recipe_InstallImplant</workerClass>
+   </RecipeDef>
+   <RecipeDef Name="SurgeryUltraOrgans" ParentName="SurgeryInstallBodyPartArtificialBase"
+      Abstract="True">
+      <surgerySuccessChanceFactor>0.85</surgerySuccessChanceFactor>
+      <deathOnFailedSurgeryChance>0.25</deathOnFailedSurgeryChance>
+      <jobString>Installing Ultra organ.</jobString>
+      <workAmount>3000</workAmount>
+   </RecipeDef>
+   <!--Parts-->
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveArtificialBrain</defName>
+      <label>remove artificial brain</label>
+      <description>Removes artificial brain.</description>
+      <jobString>Removing artificial brain.</jobString>
+      <removesHediff>KokuArtificialBrain</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s artificial brain.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedBrain</defName>
+      <label>remove advanced brain</label>
+      <description>Removes advanced brain.</description>
+      <jobString>Removing advanced brain.</jobString>
+      <removesHediff>KokuAdvancedBrain</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced brain.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraBrain</defName>
+      <label>remove ultra brain</label>
+      <description>Removes ultra brain.</description>
+      <jobString>Removing ultra brain.</jobString>
+      <removesHediff>KokuUltraBrain</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra brain.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveNeck</defName>
+      <label>remove bionic neck</label>
+      <description>Removes bionic neck.</description>
+      <jobString>Removing bionic neck.</jobString>
+      <removesHediff>KokuBionicNeck</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s bionic neck.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedNeck</defName>
+      <label>remove advanced bionic neck</label>
+      <description>Removes advanced bionic neck.</description>
+      <jobString>Removing advanced bionic neck.</jobString>
+      <removesHediff>KokuAdvancedBionicNeck</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced bionic neck.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraNeck</defName>
+      <label>remove ultra bionic neck</label>
+      <description>Removes ultra bionic neck.</description>
+      <jobString>Removing ultra bionic neck.</jobString>
+      <removesHediff>KokuUltraBionicNeck</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra bionic neck.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveMedicalSternum</defName>
+      <label>remove medical sternum</label>
+      <description>Removes medical sternum.</description>
+      <jobString>removing medical sternum.</jobString>
+      <removesHediff>KokuMedicalSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s medical sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveDruggedSternum</defName>
+      <label>remove drugged sternum</label>
+      <description>Removes drugged sternum.</description>
+      <jobString>removing drugged sternum.</jobString>
+      <removesHediff>KokuDruggedSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s drugged sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdrenalineSternum</defName>
+      <label>remove adrenaline sternum</label>
+      <description>Removes adrenaline sternum.</description>
+      <jobString>removing adrenaline sternum.</jobString>
+      <removesHediff>KokuAdrenalineSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s adrenaline sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemovePainkillerSternum</defName>
+      <label>remove painkiller sternum</label>
+      <description>Removes painkiller sternum.</description>
+      <jobString>removing painkiller sternum.</jobString>
+      <removesHediff>KokuPainkillerSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s painkiller sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedMedicalSternum</defName>
+      <label>remove advanced medical sternum</label>
+      <description>Removes advanced medical sternum.</description>
+      <jobString>removing advanced medical sternum.</jobString>
+      <removesHediff>KokuAdvancedMedicalSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced medical sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedDruggedSternum</defName>
+      <label>remove advanced drugged sternum</label>
+      <description>Removes advanced drugged sternum.</description>
+      <jobString>removing advanced drugged sternum.</jobString>
+      <removesHediff>KokuAdvancedDruggedSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced drugged sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedAdrenalineSternum</defName>
+      <label>remove advanced adrenaline sternum</label>
+      <description>Removes advanced adrenaline sternum.</description>
+      <jobString>removing advanced adrenaline sternum.</jobString>
+      <removesHediff>KokuAdvancedAdrenalineSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced adrenaline
+         sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveAdvancedPainkillerSternum</defName>
+      <label>remove advanced painkiller sternum</label>
+      <description>Removes advanced painkiller sternum.</description>
+      <jobString>removing advanced painkiller sternum.</jobString>
+      <removesHediff>KokuAdvancedPainkillerSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s advanced painkiller
+         sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraMedicalSternum</defName>
+      <label>remove ultra medical sternum</label>
+      <description>Removes ultra medical sternum.</description>
+      <jobString>removing ultra medical sternum.</jobString>
+      <removesHediff>KokuUltraMedicalSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra medical sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraDruggedSternum</defName>
+      <label>remove ultra drugged sternum</label>
+      <description>Removes ultra drugged sternum.</description>
+      <jobString>removing ultra drugged sternum.</jobString>
+      <removesHediff>KokuUltraDruggedSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra drugged sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraAdrenalineSternum</defName>
+      <label>remove advanced ultra sternum</label>
+      <description>Removes ultra adrenaline sternum.</description>
+      <jobString>removing ultra adrenaline sternum.</jobString>
+      <removesHediff>KokuUltraAdrenalineSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra adrenaline sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryRemoval">
+      <defName>KokuRemoveUltraPainkillerSternum</defName>
+      <label>remove ultra painkiller sternum</label>
+      <description>Removes ultra painkiller sternum.</description>
+      <jobString>removing ultra painkiller sternum.</jobString>
+      <removesHediff>KokuUltraPainkillerSternum</removesHediff>
+      <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra painkiller sternum.</successfullyRemovedHediffMessage>
+   </RecipeDef>
+   <!--===============================Tier0===================================-->
+   <RecipeDef ParentName="KokuSurgeryBasic">
+      <defName>KokuInstallWoodenJaw</defName>
+      <label>install wooden jaw</label>
+      <description>Installs a wooden jaw.</description>
+      <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+      <jobString>Installing a wooden jaw.</jobString>
+      <workAmount>350</workAmount>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>1</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuWoodenJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuWoodenJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuWoodenJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBasic">
+      <defName>KokuInstallWoodenArm</defName>
+      <label>install wooden shoulder-arm</label>
+      <description>Installs wooden arm.</description>
+      <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+      <jobString>Installing wooden arm.</jobString>
+      <workAmount>350</workAmount>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>1</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuWoodenArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuWoodenArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuWoodenArm</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBasic">
+      <defName>KokuInstallWoodenLeg</defName>
+      <label>install wooden leg</label>
+      <description>Installs a wooden leg.</description>
+      <workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+      <jobString>Installing wooden leg.</jobString>
+      <workAmount>350</workAmount>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>1</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuWoodenLeg</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuWoodenLeg</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Leg</li>
+         <li MayRequire="sera.apinialienrace">ApiniFrontLeg</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectLeg</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuWoodenLeg</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier1===================================-->
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallArtificialNose</defName>
+      <label>install artificial nose</label>
+      <description>Installs artificial nose.</description>
+      <jobString>Installing artificial nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialNose</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuArtificialNose</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+         <li MayRequire="sera.apinialienrace">InsectNostril</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialNose</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallArtificialEar</defName>
+      <label>install artificial ear</label>
+      <description>Installs artificial ear.</description>
+      <jobString>Installing artificial ear.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialEar</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuArtificialEar</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Ear</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Ear</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialEar</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallKokuArtificialEye</defName>
+      <label>install artificial eye</label>
+      <description>Installs artificial eye.</description>
+      <jobString>Installing artificial eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialEye</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuArtificialEye</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialEye</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallHydraulicJaw</defName>
+      <label>install hydraulic jaw</label>
+      <description>Installs hydraulic jaw.</description>
+      <jobString>Installing hydraulic jaw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuHydraulicJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuHydraulicJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuHydraulicJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallSimpleHydraulicArm</defName>
+      <label>install hydraulic shoulder-arm</label>
+      <description>Installs a hydraulic arm.</description>
+      <jobString>Installing hydraulic arm.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSimpleHydraulicArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuSimpleHydraulicArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSimpleHydraulicArm</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple">
+      <defName>KokuInstallSimpleHydraulicLeg</defName>
+      <label>install hydraulic leg</label>
+      <description>Installs a hydraulic leg.</description>
+      <jobString>Installing hydraulic leg.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSimpleHydraulicLeg</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuSimpleHydraulicLeg</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Leg</li>
+         <li MayRequire="sera.apinialienrace">ApiniFrontLeg</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectLeg</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSimpleHydraulicLeg</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier2===================================-->
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicNose</defName>
+      <label>install bionic nose</label>
+      <description>Installs bionic nose.</description>
+      <jobString>Installing bionic nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicNose</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicNose</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+         <li MayRequire="sera.apinialienrace">InsectNostril</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicNose</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicEar</defName>
+      <label>install bionic ear implant</label>
+      <description>Installs a bionic ear implant.</description>
+      <jobString>Installing a bionic ear implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicEar</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicEar</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Ear</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Ear</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicEar</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicEye</defName>
+      <label>install bionic eye</label>
+      <description>Installs a bionic eye.</description>
+      <jobString>Installing a bionic eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicEye</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicEye</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicEye</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicJaw</defName>
+      <label>install bionic jaw implant</label>
+      <description>Installs a bionic jaw implant.</description>
+      <jobString>Installing a bionic jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallMuteJaw</defName>
+      <label>install mute jaw implant</label>
+      <description>Installs a mute jaw implant.</description>
+      <jobString>Installing a mute jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuMuteJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuMuteJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuMuteJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicArm</defName>
+      <label>install bionic shoulder-arm</label>
+      <description>Installs bionic arm.</description>
+      <jobString>Installing bionic arm.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicArm</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicLeg</defName>
+      <label>install bionic leg</label>
+      <description>Installs bionic leg.</description>
+      <jobString>Installing bionic leg.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicLeg</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicLeg</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Leg</li>
+         <li MayRequire="sera.apinialienrace">ApiniFrontLeg</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectLeg</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicLeg</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicSpine</defName>
+      <label>install bionic spine</label>
+      <description>Installs a bionicspine.</description>
+      <jobString>Installing a bionic spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicSpine</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicSpine</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicSpine</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicPelvis</defName>
+      <label>install bionic pelvis</label>
+      <description>Installs a bionic pelvis.</description>
+      <jobString>Installing a bionic pelvis.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicPelvis</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicPelvis</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Pelvis</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicPelvis</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryNeck">
+      <defName>KokuInstallBionicNeck</defName>
+      <label>install bionic neck</label>
+      <description>Installs a bionic neck.</description>
+      <jobString>Installing a bionic neck.</jobString>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicNeck</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicNeck</li>
+            <li MayRequire="sera.apinialienrace_copy">Pronotum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Neck</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicNeck</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySternum">
+      <defName>KokuInstallMedicalSternum</defName>
+      <label>install medical sternum</label>
+      <description>Installs a medical sternum.</description>
+      <jobString>Installing a medical sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuMedicalSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuMedicalSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuMedicalSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySternum">
+      <defName>KokuInstallDruggedSternum</defName>
+      <label>install drugged sternum</label>
+      <description>Installs a drugged sternum.</description>
+      <jobString>Installing a drugged sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuDruggedSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuDruggedSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuDruggedSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySternum">
+      <defName>KokuInstallAdrenalineSternum</defName>
+      <label>install adrenaline sternum</label>
+      <description>Installs an adrenaline sternum.</description>
+      <jobString>Installing an adrenaline sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdrenalineSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdrenalineSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdrenalineSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySternum">
+      <defName>KokuInstallPainkillerSternum</defName>
+      <label>install painkiller sternum</label>
+      <description>Installs a painkiller sternum.</description>
+      <jobString>Installing a painkiller sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuPainkillerSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuPainkillerSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuPainkillerSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallNanomachinesRibcage</defName>
+      <label>install nanomachines ribcage</label>
+      <description>Installs a nanomachines ribcage.</description>
+      <jobString>Installing a nanomachines ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuNanomachinesRibcage</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuNanomachinesRibcage</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuNanomachinesRibcage</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialBrain</defName>
+      <label>install artificial brain</label>
+      <description>Installs artificial brain.</description>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialBrain</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialBrain</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Brain</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialBrain</addsHediff>
+      <researchPrerequisite>KokuBrainSurgery</researchPrerequisite>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialLung</defName>
+      <label>install artificial lung</label>
+      <description>Installs artificial lung.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialLung</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialLung</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Lung</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialLung</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialStomach</defName>
+      <label>install artificial stomach</label>
+      <description>Installs a artificial stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Stomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialStomach</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialLiver</defName>
+      <label>install artificial liver</label>
+      <description>Installs a artificial liver.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialLiver</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialLiver</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Liver</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialLiver</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialKidney</defName>
+      <label>install artificial kidney</label>
+      <description>Installs a artificial kidney.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialKidney</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialKidney</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Kidney</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialKidney</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgerySimpleOrgans">
+      <defName>KokuInstallArtificialHeart</defName>
+      <label>install artificial heart</label>
+      <description>Installs an artificial heart.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialHeart</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialHeart</li>
+            <li MayRequire="sera.apinialienrace">ApiniInsectHeart</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Heart</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialHeart</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier3===================================-->
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicNose</defName>
+      <label>install advanced bionic nose</label>
+      <description>Installs advanced bionic nose.</description>
+      <jobString>Installing advanced bionic nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicNose</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicNose</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+         <li MayRequire="sera.apinialienrace">InsectNostril</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicNose</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicEar</defName>
+      <label>install advanced bionic ear implant</label>
+      <description>Installs a advanced bionic ear implant.</description>
+      <jobString>Installing a advanced bionic ear implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicEar</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicEar</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Ear</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Ear</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicEar</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicEye</defName>
+      <label>install advanced bionic eye</label>
+      <description>Installs a advanced bionic eye.</description>
+      <jobString>Installing a advanced bionic eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicEye</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicEye</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicEye</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicJaw</defName>
+      <label>install advanced bionic jaw implant</label>
+      <description>Installs a advanced bionic jaw implant.</description>
+      <jobString>Installing a advanced bionic jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicArm</defName>
+      <label>install advanced bionic shoulder-arm</label>
+      <description>Installs advanced bionic arm.</description>
+      <jobString>Installing advanced bionic arm.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicArm</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicLeg</defName>
+      <label>install advanced bionic leg</label>
+      <description>Installs advanced bionic leg.</description>
+      <jobString>Installing advanced bionic leg.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicLeg</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicLeg</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Leg</li>
+         <li MayRequire="sera.apinialienrace">ApiniFrontLeg</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectLeg</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicLeg</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallExoskeleton</defName>
+      <label>install exoskeleton suit</label>
+      <description>Installs exoskeleton suit.</description>
+      <jobString>Installing exoskeleton suit.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuExoskeleton</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuExoskeleton</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuExoskeletonSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuExoskeleton</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicSpine</defName>
+      <label>install advanced bionic spine</label>
+      <description>Installs a advanced bionic spine.</description>
+      <jobString>Installing a advanced bionic spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicSpine</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicSpine</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicSpine</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicPelvis</defName>
+      <label>install advanced bionic pelvis</label>
+      <description>Installs an advanced bionic pelvis.</description>
+      <jobString>Installing an advanced bionic pelvis.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicPelvis</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicPelvis</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Pelvis</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicPelvis</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvancedNeck">
+      <defName>KokuInstallAdvancedBionicNeck</defName>
+      <label>install advanced bionic neck</label>
+      <description>Installs an advanced bionic neck.</description>
+      <jobString>Installing an advanced bionic neck.</jobString>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicNeck</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicNeck</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Neck</li>
+         <li MayRequire="sera.apinialienrace_copy">Pronotum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicNeck</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvancedSternum">
+      <defName>KokuInstallAdvancedMedicalSternum</defName>
+      <label>install advanced medical sternum</label>
+      <description>Installs a advanced medical sternum.</description>
+      <jobString>Installing a advanced medical sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedMedicalSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedMedicalSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedMedicalSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvancedSternum">
+      <defName>KokuInstallAdvancedDruggedSternum</defName>
+      <label>install advanced drugged sternum</label>
+      <description>Installs a advanced drugged sternum.</description>
+      <jobString>Installing a advanced drugged sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedDruggedSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedDruggedSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedDruggedSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvancedSternum">
+      <defName>KokuInstallAdvancedAdrenalineSternum</defName>
+      <label>install advanced adrenaline sternum</label>
+      <description>Installs an advanced adrenaline sternum.</description>
+      <jobString>Installing an advanced adrenaline sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedAdrenalineSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedAdrenalineSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedAdrenalineSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvancedSternum">
+      <defName>KokuInstallAdvancedPainkillerSternum</defName>
+      <label>install advanced painkiller sternum</label>
+      <description>Installs a advanced painkiller sternum.</description>
+      <jobString>Installing a advanced painkiller sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedPainkillerSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedPainkillerSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedPainkillerSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedNanomachinesRibcage</defName>
+      <label>install advanced nanomachines ribcage</label>
+      <description>Installs an advanced nanomachines ribcage.</description>
+      <jobString>Installing an advanced nanomachines ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedNanomachinesRibcage</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedNanomachinesRibcage</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedNanomachinesRibcage</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallAdvancedBrain</defName>
+      <label>install advanced brain</label>
+      <description>Installs advanced brain.</description>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBrain</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuAdvancedBrain</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Brain</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBrain</addsHediff>
+      <researchPrerequisite>KokuAdvancedBrainSurgery</researchPrerequisite>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallSyntheticLung</defName>
+      <label>install synthetic lung</label>
+      <description>Installs synthetic lung.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticLung</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticLung</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Lung</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticLung</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallSyntheticStomach</defName>
+      <label>install synthetic stomach</label>
+      <description>Installs a synthetic stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Stomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticStomach</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallSyntheticLiver</defName>
+      <label>install synthetic liver</label>
+      <description>Installs a synthetic liver.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticLiver</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticLiver</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Liver</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticLiver</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallSyntheticKidney</defName>
+      <label>install synthetic kidney</label>
+      <description>Installs a synthetic kidney.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticKidney</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticKidney</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Kidney</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticKidney</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryAdvancedOrgans">
+      <defName>KokuInstallSyntheticHeart</defName>
+      <label>install synthetic heart</label>
+      <description>Installs an synthetic heart.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticHeart</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticHeart</li>
+            <li MayRequire="sera.apinialienrace">ApiniInsectHeart</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Heart</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticHeart</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier4===================================-->
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicNose</defName>
+      <label>install ultra bionic nose</label>
+      <description>Installs ultra bionic nose.</description>
+      <jobString>Installing ultra bionic nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicNose</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicNose</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+         <li MayRequire="sera.apinialienrace">InsectNostril</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicNose</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicEar</defName>
+      <label>install ultra bionic ear implant</label>
+      <description>Installs a ultra bionic ear implant.</description>
+      <jobString>Installing a ultra bionic ear implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicEar</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicEar</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Ear</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Ear</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicEar</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicEye</defName>
+      <label>install ultra bionic eye</label>
+      <description>Installs a ultra bionic eye.</description>
+      <jobString>Installing a ultra bionic eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicEye</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicEye</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicEye</addsHediff>
+      <workSkill>Medicine</workSkill>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicJaw</defName>
+      <label>install ultra bionic jaw implant</label>
+      <description>Installs a ultra bionic jaw implant.</description>
+      <jobString>Installing a ultra bionic jaw implant.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicJaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicJaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectMouth</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicJaw</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicArm</defName>
+      <label>install ultra bionic shoulder-arm</label>
+      <description>Installs ultra bionic arm.</description>
+      <jobString>Installing ultra bionic arm.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicArm</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicArm</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicArm</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicLeg</defName>
+      <label>install ultra bionic leg</label>
+      <description>Installs ultra bionic leg.</description>
+      <jobString>Installing ultra bionic leg.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicLeg</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicLeg</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Leg</li>
+         <li MayRequire="sera.apinialienrace">ApiniFrontLeg</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectLeg</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicLeg</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraExoskeleton</defName>
+      <label>install ultra exoskeleton suit</label>
+      <description>Installs ultra exoskeleton suit.</description>
+      <jobString>Installing ultra exoskeleton suit.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraExoskeleton</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraExoskeleton</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>KokuExoskeletonSlot</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraExoskeleton</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicSpine</defName>
+      <label>install ultra bionic spine</label>
+      <description>Installs a ultra bionic spine.</description>
+      <jobString>Installing a ultra bionic spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicSpine</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicSpine</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicSpine</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicPelvis</defName>
+      <label>install ultra bionic pelvis</label>
+      <description>Installs an ultra bionic pelvis.</description>
+      <jobString>Installing an ultra bionic pelvis.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicPelvis</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicPelvis</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Pelvis</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicPelvis</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltraNeck">
+      <defName>KokuInstallUltraBionicNeck</defName>
+      <label>install ultra bionic neck</label>
+      <description>Installs an ultra bionic neck.</description>
+      <jobString>Installing an ultra bionic neck.</jobString>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicNeck</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicNeck</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Neck</li>
+         <li MayRequire="sera.apinialienrace_copy">Pronotum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicNeck</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltraSternum">
+      <defName>KokuInstallUltraMedicalSternum</defName>
+      <label>install ultra medical sternum</label>
+      <description>Installs a ultra medical sternum.</description>
+      <jobString>Installing a ultra medical sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraMedicalSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraMedicalSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraMedicalSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltraSternum">
+      <defName>KokuInstallUltraDruggedSternum</defName>
+      <label>install ultra drugged sternum</label>
+      <description>Installs a ultra drugged sternum.</description>
+      <jobString>Installing a ultra drugged sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraDruggedSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraDruggedSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraDruggedSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltraSternum">
+      <defName>KokuInstallUltraAdrenalineSternum</defName>
+      <label>install ultra adrenaline sternum</label>
+      <description>Installs an ultra adrenaline sternum.</description>
+      <jobString>Installing an ultra adrenaline sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraAdrenalineSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraAdrenalineSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraAdrenalineSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltraSternum">
+      <defName>KokuInstallUltraPainkillerSternum</defName>
+      <label>install ultra painkiller sternum</label>
+      <description>Installs a ultra painkiller sternum.</description>
+      <jobString>Installing a ultra painkiller sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraPainkillerSternum</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraPainkillerSternum</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraPainkillerSternum</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraNanomachinesRibcage</defName>
+      <label>install ultra nanomachines ribcage</label>
+      <description>Installs an ultra nanomachines ribcage.</description>
+      <jobString>Installing an ultra nanomachines ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraNanomachinesRibcage</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraNanomachinesRibcage</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraNanomachinesRibcage</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraBrain</defName>
+      <label>install ultra brain</label>
+      <description>Installs ultra brain.</description>
+      <workerClass>Recipe_InstallImplant</workerClass>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBrain</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraBrain</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Brain</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBrain</addsHediff>
+      <researchPrerequisite>KokuUltraBrainSurgery</researchPrerequisite>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraLung</defName>
+      <label>install ultra lung</label>
+      <description>Installs ultra lung.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraLung</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraLung</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Lung</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraLung</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraStomach</defName>
+      <label>install ultra stomach</label>
+      <description>Installs a ultra stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Stomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraStomach</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraLiver</defName>
+      <label>install ultra liver</label>
+      <description>Installs a ultra liver.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraLiver</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraLiver</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Liver</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraLiver</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraKidney</defName>
+      <label>install ultra kidney</label>
+      <description>Installs a ultra kidney.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraKidney</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraKidney</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Kidney</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraKidney</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="SurgeryUltraOrgans">
+      <defName>KokuInstallUltraHeart</defName>
+      <label>install ultra heart</label>
+      <description>Installs an ultra heart.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>5</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraHeart</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraHeart</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Heart</li>
+         <li MayRequire="sera.apinialienrace">ApiniInsectHeart</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraHeart</addsHediff>
+   </RecipeDef>
+</Defs>

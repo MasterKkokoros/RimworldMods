@@ -1,0 +1,532 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+   <!--=============================== Tier 2 ===================================-->
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicNoseBeauty</defName>
+      <label>install bionic beautiful nose</label>
+      <description>Installs bionic beautiful nose.</description>
+      <jobString>Installing bionic beautiful nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicNoseBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicNoseBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicNoseBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicEarBeauty</defName>
+      <label>install bionic beautiful ear</label>
+      <description>Installs bionic beautiful ear.</description>
+      <jobString>Installing bionic beautiful ear.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicEarBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicEarBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicEarBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicEyeBeauty</defName>
+      <label>install bionic beautiful eye</label>
+      <description>Installs bionic beautiful eye.</description>
+      <jobString>Installing bionic beautiful eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicEyeBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicEyeBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicEyeBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicJawBeauty</defName>
+      <label>install bionic beautiful jaw</label>
+      <description>Installs bionic beautiful jaw.</description>
+      <jobString>Installing bionic beautiful jaw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicJawBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicJawBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicJawBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicSpineBeauty</defName>
+      <label>install bionic beautiful spine</label>
+      <description>Installs bionic beautiful spine.</description>
+      <jobString>Installing bionic beautiful spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicSpineBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicSpineBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicSpineBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicSternumBeauty</defName>
+      <label>install bionic beautiful sternum</label>
+      <description>Installs bionic beautiful sternum.</description>
+      <jobString>Installing bionic beautiful sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicSternumBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicSternumBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicSternumBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicRibcageBeauty</defName>
+      <label>install bionic beautiful ribcage</label>
+      <description>Installs bionic beautiful ribcage.</description>
+      <jobString>Installing bionic beautiful ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicRibcageBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicRibcageBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicRibcageBeauty</addsHediff>
+   </RecipeDef>
+   <!--=============================== Tier 3 ===================================-->
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicNoseBeauty</defName>
+      <label>install advanced bionic beautiful nose</label>
+      <description>Installs advanced bionic beautiful nose.</description>
+      <jobString>Installing advanced bionic beautiful nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicNoseBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicNoseBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicNoseBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicEarBeauty</defName>
+      <label>install advanced bionic beautiful ear</label>
+      <description>Installs advanced bionic beautiful ear.</description>
+      <jobString>Installing advanced bionic beautiful ear.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicEarBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicEarBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicEarBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicEyeBeauty</defName>
+      <label>install advanced bionic beautiful eye</label>
+      <description>Installs advanced bionic beautiful eye.</description>
+      <jobString>Installing advanced bionic beautiful eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicEyeBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicEyeBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicEyeBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicJawBeauty</defName>
+      <label>install advanced bionic beautiful jaw</label>
+      <description>Installs advanced bionic beautiful jaw.</description>
+      <jobString>Installing advanced bionic beautiful jaw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicJawBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicJawBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicJawBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicSpineBeauty</defName>
+      <label>install advanced bionic beautiful spine</label>
+      <description>Installs advanced bionic beautiful spine.</description>
+      <jobString>Installing advanced bionic beautiful spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicSpineBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicSpineBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicSpineBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicSternumBeauty</defName>
+      <label>install advanced bionic beautiful sternum</label>
+      <description>Installs advanced bionic beautiful sternum.</description>
+      <jobString>Installing advanced bionic beautiful sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicSternumBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicSternumBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicSternumBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicRibcageBeauty</defName>
+      <label>install advanced bionic beautiful ribcage</label>
+      <description>Installs advanced bionic beautiful ribcage.</description>
+      <jobString>Installing advanced bionic beautiful ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicRibcageBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicRibcageBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicRibcageBeauty</addsHediff>
+   </RecipeDef>
+   <!--=============================== Tier 4 ===================================--> 
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicNoseBeauty</defName>
+      <label>install ultra bionic beautiful nose</label>
+      <description>Installs ultra bionic beautiful nose.</description>
+      <jobString>Installing ultra bionic beautiful nose.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicNoseBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicNoseBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Nose</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicNoseBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicEarBeauty</defName>
+      <label>install ultra bionic beautiful ear</label>
+      <description>Installs ultra bionic beautiful ear.</description>
+      <jobString>Installing ultra bionic beautiful ear.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicEarBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicEarBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ear</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicEarBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicEyeBeauty</defName>
+      <label>install ultra bionic beautiful eye</label>
+      <description>Installs ultra bionic beautiful eye.</description>
+      <jobString>Installing ultra bionic beautiful eye.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicEyeBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicEyeBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Eye</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicEyeBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicJawBeauty</defName>
+      <label>install ultra bionic beautiful jaw</label>
+      <description>Installs ultra bionic beautiful jaw.</description>
+      <jobString>Installing ultra bionic beautiful jaw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicJawBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicJawBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Jaw</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicJawBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicSpineBeauty</defName>
+      <label>install ultra bionic beautiful spine</label>
+      <description>Installs ultra bionic beautiful spine.</description>
+      <jobString>Installing ultra bionic beautiful spine.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicSpineBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicSpineBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Spine</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicSpineBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicSternumBeauty</defName>
+      <label>install ultra bionic beautiful sternum</label>
+      <description>Installs ultra bionic beautiful sternum.</description>
+      <jobString>Installing ultra bionic beautiful sternum.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicSternumBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicSternumBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Sternum</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicSternumBeauty</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicRibcageBeauty</defName>
+      <label>install ultra bionic beautiful ribcage</label>
+      <description>Installs ultra bionic beautiful ribcage.</description>
+      <jobString>Installing ultra bionic beautiful ribcage.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicRibcageBeauty</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicRibcageBeauty</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Ribcage</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicRibcageBeauty</addsHediff>
+   </RecipeDef>
+</Defs>

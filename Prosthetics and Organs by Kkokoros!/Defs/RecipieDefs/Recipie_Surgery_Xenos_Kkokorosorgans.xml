@@ -1,0 +1,531 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--===============================Tier1===================================-->
+   <RecipeDef ParentName="KokuSurgerySimple" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallHydraulicWing</defName>
+      <label>install hydraulic wing</label>
+      <description>Installs hydraulic wing.</description>
+      <jobString>Installing hydraulic wing.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuHydraulicWing</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuHydraulicWing</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectWing</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuHydraulicWing</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallHydraulicAntenna</defName>
+      <label>install hydraulic antenna</label>
+      <description>Installs hydraulic antenna.</description>
+      <jobString>Installing hydraulic antenna.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuHydraulicAntenna</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuHydraulicAntenna</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAntenna</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuHydraulicAntenna</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgerySimple" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuInstallHydraulicTail</defName>
+      <label>install hydraulic tail</label>
+      <description>Installs hydraulic tail.</description>
+      <jobString>Installing hydraulic tail.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuHydraulicTail</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuHydraulicTail</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequireAnyOf="SpankyH.BunRace.core">BunTail</li>
+         <li MayRequireAnyOf="PickSungYi.Horanrace">Horan_Tail</li>
+         <li MayRequireAnyOf="Ancot.KiiroRace">Kiiro_Tail</li>
+         <li MayRequireAnyOf="VAMV.MaruRaceMod">MR_BigTail</li>
+         <li MayRequireAnyOf="Farmradish.Nyaron">NR_CatTail</li>
+         <li MayRequireAnyOf="RunneLatki.RabbieRaceMod">RB_RabbitTail</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Tail</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Tail</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
+         <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
+         <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuHydraulicTail</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgerySimpleOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallArtificialHoneyStomach</defName>
+      <label>install artificial honey stomach</label>
+      <description>Installs a artificial honey stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuArtificialHoneyStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuArtificialHoneyStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniHoneyStomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuArtificialHoneyStomach</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier2===================================-->
+   <RecipeDef ParentName="KokuSurgeryBionic" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallBionicWing</defName>
+      <label>install bionic wing</label>
+      <description>Installs bionic wing.</description>
+      <jobString>Installing bionic wing.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicWing</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicWing</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectWing</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicWing</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallBionicAntenna</defName>
+      <label>install bionic antenna</label>
+      <description>Installs bionic antenna.</description>
+      <jobString>Installing bionic antenna.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicAntenna</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicAntenna</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAntenna</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicAntenna</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallBionicAbdomen</defName>
+      <label>install bionic abdomen</label>
+      <description>Installs bionic abdomen.</description>
+      <jobString>Installing bionic abdomen.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicAbdomen</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicAbdomen</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAbdomen</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicAbdomen</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuInstallBionicTail</defName>
+      <label>install bionic tail</label>
+      <description>Installs bionic tail.</description>
+      <jobString>Installing bionic tail.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicTail</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicTail</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequireAnyOf="SpankyH.BunRace.core">BunTail</li>
+         <li MayRequireAnyOf="PickSungYi.Horanrace">Horan_Tail</li>
+         <li MayRequireAnyOf="Ancot.KiiroRace">Kiiro_Tail</li>
+         <li MayRequireAnyOf="VAMV.MaruRaceMod">MR_BigTail</li>
+         <li MayRequireAnyOf="Farmradish.Nyaron">NR_CatTail</li>
+         <li MayRequireAnyOf="RunneLatki.RabbieRaceMod">RB_RabbitTail</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Tail</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Tail</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
+         <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
+         <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicTail</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <!--===============================Tier3===================================-->
+   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallAdvancedBionicWing</defName>
+      <label>install bionic wing</label>
+      <description>Installs bionic wing.</description>
+      <jobString>Installing bionic wing.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicWing</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicWing</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectWing</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicWing</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallAdvancedBionicAntenna</defName>
+      <label>install bionic antenna</label>
+      <description>Installs bionic antenna.</description>
+      <jobString>Installing bionic antenna.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicAntenna</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicAntenna</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAntenna</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicAntenna</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallAdvancedBionicAbdomen</defName>
+      <label>install advanced bionic abdomen</label>
+      <description>Installs advanced bionic abdomen.</description>
+      <jobString>Installing advanced bionic abdomen.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicAbdomen</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicAbdomen</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAbdomen</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicAbdomen</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuInstallAdvancedBionicTail</defName>
+      <label>install advanced bionic tail</label>
+      <description>Installs advanced bionic tail.</description>
+      <jobString>Installing advanced bionic tail.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicTail</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicTail</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequireAnyOf="SpankyH.BunRace.core">BunTail</li>
+         <li MayRequireAnyOf="PickSungYi.Horanrace">Horan_Tail</li>
+         <li MayRequireAnyOf="Ancot.KiiroRace">Kiiro_Tail</li>
+         <li MayRequireAnyOf="VAMV.MaruRaceMod">MR_BigTail</li>
+         <li MayRequireAnyOf="Farmradish.Nyaron">NR_CatTail</li>
+         <li MayRequireAnyOf="RunneLatki.RabbieRaceMod">RB_RabbitTail</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Tail</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Tail</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
+         <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
+         <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicTail</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgeryAdvancedOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallSyntheticHoneyStomach</defName>
+      <label>install synthetic honey stomach</label>
+      <description>Installs a synthetic honey stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuSyntheticHoneyStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuSyntheticHoneyStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniHoneyStomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuSyntheticHoneyStomach</addsHediff>
+   </RecipeDef>
+   <!--===============================Tier4===================================-->
+   <RecipeDef ParentName="KokuSurgeryUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallUltraBionicWing</defName>
+      <label>install ultra bionic wing</label>
+      <description>Installs ultra bionic wing.</description>
+      <jobString>Installing ultra bionic wing.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicWing</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicWing</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectWing</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicWing</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallUltraBionicAntenna</defName>
+      <label>install ultra bionic antenna</label>
+      <description>Installs ultra bionic antenna.</description>
+      <jobString>Installing ultra bionic antenna.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicAntenna</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicAntenna</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAntenna</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicAntenna</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallUltraBionicAbdomen</defName>
+      <label>install ultra bionic abdomen</label>
+      <description>Installs ultra bionic abdomen.</description>
+      <jobString>Installing ultra bionic abdomen.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicAbdomen</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicAbdomen</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniInsectAbdomen</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicAbdomen</addsHediff>
+   </RecipeDef>
+   <RecipeDef ParentName="KokuSurgeryUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+      <defName>KokuInstallUltraBionicTail</defName>
+      <label>install ultra bionic tail</label>
+      <description>Installs ultra bionic tail.</description>
+      <jobString>Installing ultra bionic tail.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicTail</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicTail</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequireAnyOf="SpankyH.BunRace.core">BunTail</li>
+         <li MayRequireAnyOf="PickSungYi.Horanrace">Horan_Tail</li>
+         <li MayRequireAnyOf="Ancot.KiiroRace">Kiiro_Tail</li>
+         <li MayRequireAnyOf="VAMV.MaruRaceMod">MR_BigTail</li>
+         <li MayRequireAnyOf="Farmradish.Nyaron">NR_CatTail</li>
+         <li MayRequireAnyOf="RunneLatki.RabbieRaceMod">RB_RabbitTail</li>
+         <li MayRequireAnyOf="Seioch.Kurin.HAR">Kurin_Tail</li>
+         <li MayRequireAnyOf="Seioch.Naki.HAR">Naki_Tail</li>
+         <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
+         <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
+         <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicTail</addsHediff>
+   </RecipeDef>
+   <!--Organs-->
+   <RecipeDef ParentName="SurgeryUltraOrgans" MayRequire="sera.apinialienrace">
+      <defName>KokuInstallUltraHoneyStomach</defName>
+      <label>install ultra honey stomach</label>
+      <description>Installs an ultra honey stomach.</description>
+      <ingredients>
+         <li>
+            <filter>
+               <categories>
+                  <li>Medicine</li>
+               </categories>
+            </filter>
+            <count>3</count>
+         </li>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraHoneyStomach</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <categories>
+            <li>Medicine</li>
+         </categories>
+         <thingDefs>
+            <li>KokuUltraHoneyStomach</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li MayRequire="sera.apinialienrace">ApiniHoneyStomach</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraHoneyStomach</addsHediff>
+   </RecipeDef>
+</Defs>

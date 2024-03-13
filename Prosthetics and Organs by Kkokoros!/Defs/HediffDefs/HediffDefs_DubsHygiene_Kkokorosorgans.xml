@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+	<!--===============================Tier2===================================-->
+    <HediffDef ParentName="KokuaddedBionics" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuBionicBladder</defName>
+		<label>bionic bladder</label>
+		<labelNoun>a bionic bladder</labelNoun>
+		<description>An installed bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuBionicBladder</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuBionicBladder</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<BladderRateMultiplier>-0.5</BladderRateMultiplier>
+					<ThirstRateMultiplier>-0.5</ThirstRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef ParentName="KokuaddedBionics" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuHygieneEnhancer</defName>
+		<label>hygiene enhancer</label>
+		<labelNoun>a hygiene enhancer</labelNoun>
+		<description>An installed hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuHygieneEnhancer</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuHygieneEnhancer</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<HygieneRateMultiplier>-0.5</HygieneRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+	<!--===============================Tier3===================================-->
+	<HediffDef ParentName="KokuaddedAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuAdvancedBionicBladder</defName>
+		<label>advanced bionic bladder</label>
+		<labelNoun>an advanced bionic bladder</labelNoun>
+		<description>An installed advanced bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuAdvancedBionicBladder</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuAdvancedBionicBladder</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<BladderRateMultiplier>-0.75</BladderRateMultiplier>
+					<ThirstRateMultiplier>-0.75</ThirstRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef ParentName="KokuaddedAdvanced" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuAdvancedHygieneEnhancer</defName>
+		<label>advanced hygiene enhancer</label>
+		<labelNoun>an advanced hygiene enhancer</labelNoun>
+		<description>An installed advanced hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuAdvancedHygieneEnhancer</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuAdvancedHygieneEnhancer</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<HygieneRateMultiplier>-0.75</HygieneRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+	<!--===============================Tier4===================================-->
+	<HediffDef ParentName="KokuaddedUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuUltraBionicBladder</defName>
+		<label>ultra bionic bladder</label>
+		<labelNoun>an ultra bionic bladder</labelNoun>
+		<description>An installed ultra bionic bladder.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuUltraBionicBladder</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuUltraBionicBladder</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<BladderRateMultiplier>-1</BladderRateMultiplier>
+					<ThirstRateMultiplier>-1</ThirstRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+
+	<HediffDef ParentName="KokuaddedUltra" MayRequire="Dubwise.DubsBadHygiene">
+		<defName>KokuUltraHygieneEnhancer</defName>
+		<label>ultra hygiene enhancer</label>
+		<labelNoun>an ultra hygiene enhancer</labelNoun>
+		<description>An installed ultra hygiene enhancer.</description>
+		<descriptionHyperlinks>
+			<ThingDef>KokuUltraHygieneEnhancer</ThingDef>
+		</descriptionHyperlinks>
+		<spawnThingOnRemoved>KokuUltraHygieneEnhancer</spawnThingOnRemoved>
+		<stages>
+			<li>
+				<statOffsets>
+					<HygieneRateMultiplier>-1</HygieneRateMultiplier>
+				</statOffsets>
+			</li>
+		</stages>
+	</HediffDef>
+
+	
+
+	
+</Defs>

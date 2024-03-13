@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<Defs>
+    <!--=============================== Tier 2 ===================================-->
+    <RecipeDef ParentName="KokuSurgeryBionic">
+      <defName>KokuInstallBionicClaw</defName>
+      <label>install bionic claw</label>
+      <description>Installs bionic claw.</description>
+      <jobString>Installing bionic claw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuBionicClaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuBionicClaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuBionicClaw</addsHediff>
+    </RecipeDef>
+    <RecipeDef ParentName="KokuSurgeryBionic">
+		<defName>KokuInstallBionicGunArm</defName>
+		<label>install bionic gun arm</label>
+		<description>Installs bionic gun arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic gun arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicGunArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuBionicGunArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuBionicGunArm</addsHediff>
+	 </RecipeDef>
+    <!--=============================== Tier 3 ===================================-->
+    <RecipeDef ParentName="KokuSurgeryAdvanced">
+      <defName>KokuInstallAdvancedBionicClaw</defName>
+      <label>install advanced bionic claw</label>
+      <description>Installs advanced bionic claw.</description>
+      <jobString>Installing advanced bionic claw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuAdvancedBionicClaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuAdvancedBionicClaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuAdvancedBionicClaw</addsHediff>
+    </RecipeDef>
+    <RecipeDef ParentName="KokuSurgeryAdvanced">
+		<defName>KokuInstallAdvancedBionicGunArm</defName>
+		<label>install advanced bionic gun arm</label>
+		<description>Installs advanced bionic gun arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing advanced bionic gun arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicGunArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuAdvancedBionicGunArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuAdvancedBionicGunArm</addsHediff>
+	 </RecipeDef>
+    <!--=============================== Tier 4 ===================================-->
+    <RecipeDef ParentName="KokuSurgeryUltra">
+      <defName>KokuInstallUltraBionicClaw</defName>
+      <label>install ultra bionic claw</label>
+      <description>Installs ultra bionic claw.</description>
+      <jobString>Installing ultra bionic claw.</jobString>
+      <ingredients>
+         <li>
+            <filter>
+               <thingDefs>
+                  <li>KokuUltraBionicClaw</li>
+               </thingDefs>
+            </filter>
+            <count>1</count>
+         </li>
+      </ingredients>
+      <fixedIngredientFilter>
+         <thingDefs>
+            <li>KokuUltraBionicClaw</li>
+         </thingDefs>
+      </fixedIngredientFilter>
+      <appliedOnFixedBodyParts>
+         <li>Shoulder</li>
+      </appliedOnFixedBodyParts>
+      <addsHediff>KokuUltraBionicClaw</addsHediff>
+    </RecipeDef>
+    <RecipeDef ParentName="KokuSurgeryUltra">
+		<defName>KokuInstallUltraBionicGunArm</defName>
+		<label>install ultra bionic gun arm</label>
+		<description>Installs ultra bionic gun arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing ultra bionic gun arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicGunArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuUltraBionicGunArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuUltraBionicGunArm</addsHediff>
+	 </RecipeDef>
+</Defs>

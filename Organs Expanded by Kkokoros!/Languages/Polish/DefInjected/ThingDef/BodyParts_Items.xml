@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+   
+
+
+   <Spleen.label>Śledziona</Spleen.label>
+   <Spleen.description>Biologiczna ludzka śledziona.</Spleen.description>
+   
+   <Pancreas.label>Trzustka</Pancreas.label>
+   <Pancreas.description>Biologiczna ludzka trzustka.</Pancreas.description>
+
+   <Gallbladder.label>Pęcherzyk żółciowy</Gallbladder.label>   
+   <Gallbladder.description>Biologiczny ludzki pęcherzyk żółciowy.</Gallbladder.description>
+
+</LanguageData>

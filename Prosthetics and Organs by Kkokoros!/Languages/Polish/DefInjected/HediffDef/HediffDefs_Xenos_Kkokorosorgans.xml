@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Hydrauliczne skrzydło</KokuHydraulicWing.label>
+    <KokuHydraulicWing.labelNoun>Hydrauliczne skrzydło</KokuHydraulicWing.labelNoun>
+    <KokuHydraulicWing.description>Zamontowane hydrauliczne skrzydło.</KokuHydraulicWing.description>
+    <KokuBionicWing.label>Bioniczne skrzydło</KokuBionicWing.label>
+    <KokuBionicWing.labelNoun>Bioniczne skrzydło</KokuBionicWing.labelNoun>
+    <KokuBionicWing.description>Zamontowane bioniczne skrzydło.</KokuBionicWing.description>
+    <KokuAdvancedBionicWing.label>Zaawansowane bioniczne skrzydło</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.labelNoun>Zaawansowane bioniczne skrzydło</KokuAdvancedBionicWing.labelNoun>
+    <KokuAdvancedBionicWing.description>Zamontowane zaawansowane bioniczne skrzydło.</KokuAdvancedBionicWing.description>
+    <KokuUltraBionicWing.label>Ultra bioniczne skrzydło</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.labelNoun>Ultra bioniczne skrzydło</KokuUltraBionicWing.labelNoun>
+    <KokuUltraBionicWing.description>Zamontowane ultra bioniczne skrzydło.</KokuUltraBionicWing.description>
+
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Hydrauliczna antenka</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.labelNoun>Hydrauliczna antenka</KokuHydraulicAntenna.labelNoun>
+    <KokuHydraulicAntenna.description>Zamontowana hydrauliczna antenka.</KokuHydraulicAntenna.description>
+    <KokuBionicAntenna.label>Bioniczna antenka</KokuBionicAntenna.label>
+    <KokuBionicAntenna.labelNoun>Bioniczna antenka</KokuBionicAntenna.labelNoun>
+    <KokuBionicAntenna.description>Zamontowana bioniczna antenka.</KokuBionicAntenna.description>
+    <KokuAdvancedBionicAntenna.label>Zaawansowana bioniczna antenka</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.labelNoun>Zaawansowana bioniczna antenka</KokuAdvancedBionicAntenna.labelNoun>
+    <KokuAdvancedBionicAntenna.description>Zamontowana zaawansowana bioniczna antenka.</KokuAdvancedBionicAntenna.description>
+    <KokuUltraBionicAntenna.label>Ultra bioniczna antenka</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.labelNoun>Ultra bioniczna antenka</KokuUltraBionicAntenna.labelNoun>
+    <KokuUltraBionicAntenna.description>Zamontowana ultra bioniczna antenka.</KokuUltraBionicAntenna.description>
+
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Hydrauliczny ogon</KokuHydraulicTail.label>
+    <KokuHydraulicTail.labelNoun>Hydrauliczny ogon</KokuHydraulicTail.labelNoun>
+    <KokuHydraulicTail.description>Zamontowany hydrauliczny ogon.</KokuHydraulicTail.description>
+    <KokuBionicTail.label>Bioniczny ogon</KokuBionicTail.label>
+    <KokuBionicTail.labelNoun>Bioniczny ogon</KokuBionicTail.labelNoun>
+    <KokuBionicTail.description>Zamontowany bioniczny ogon.</KokuBionicTail.description>
+    <KokuAdvancedBionicTail.label>Zaawansowany bioniczny ogon</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.labelNoun>Zaawansowany bioniczny ogon</KokuAdvancedBionicTail.labelNoun>
+    <KokuAdvancedBionicTail.description>Zamontowany zaawansowany bioniczny ogon.</KokuAdvancedBionicTail.description>
+    <KokuUltraBionicTail.label>Ultra bioniczny ogon</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.labelNoun>Ultra bioniczny ogon</KokuUltraBionicTail.labelNoun>
+    <KokuUltraBionicTail.description>Zamontowany ultra bioniczny ogon.</KokuUltraBionicTail.description>
+
+    <!--==========abdomen==========-->
+    <KokuBionicAbdomen.label>Bioniczny odwłok</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.labelNoun>Bioniczny odwłok</KokuBionicAbdomen.labelNoun>
+    <KokuBionicAbdomen.description>Zamontowany bioniczny odwłok.</KokuBionicAbdomen.description>
+    <KokuAdvancedBionicAbdomen.label>Zaawansowany bioniczny odwłok</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.labelNoun>Zaawansowany bioniczny odwłok</KokuAdvancedBionicAbdomen.labelNoun>
+    <KokuAdvancedBionicAbdomen.description>Zamontowany zaawansowany bioniczny odwłok.</KokuAdvancedBionicAbdomen.description>
+    <KokuUltraBionicAbdomen.label>Ultra bioniczny odwłok</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.labelNoun>Ultra bioniczny odwłok</KokuUltraBionicAbdomen.labelNoun>
+    <KokuUltraBionicAbdomen.description>Zamontowany ultra bioniczny odwłok.</KokuUltraBionicAbdomen.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Sztuczny miodowy żołądek</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.labelNoun>Sztuczny miodowy żołądek</KokuArtificialHoneyStomach.labelNoun>
+    <KokuArtificialHoneyStomach.description>Zamontowany sztuczny miodowy żołądek.</KokuArtificialHoneyStomach.description>
+    <KokuSyntheticHoneyStomach.label>Syntetyczny miodowy żołądek</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.labelNoun>Syntetyczny miodowy żołądek</KokuSyntheticHoneyStomach.labelNoun>
+    <KokuSyntheticHoneyStomach.description>Zamontowany syntetyczny miodowy żołądek.</KokuSyntheticHoneyStomach.description>
+    <KokuUltraHoneyStomach.label>Ultra miodowy żołądek</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.labelNoun>Ultra miodowy żołądek</KokuUltraHoneyStomach.labelNoun>
+    <KokuUltraHoneyStomach.description>Zamontowany ultra miodowy żołądek.</KokuUltraHoneyStomach.description>
+
+</LanguageData>

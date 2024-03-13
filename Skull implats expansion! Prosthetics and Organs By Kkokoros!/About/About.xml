@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Skull implants expansion! Prosthetics and Organs by Kkokoros!</name>
+	<author>Kkokoros</author>
+    <packageId>Kkokoros.skullimplantsorgans</packageId>
+    <url></url>
+	<supportedVersions>
+        <li>1.4</li>
+	</supportedVersions>
+	<description>
+Adds the ability to craft skull implants.
+
+Adds 3 Tiers of skull implants prosthetics:
+builder,chef,farmer,fast learner,maid,melee soldier,miner,psychicless,rancher,range soldier,sleepless,social.
+
+Languages added:
+-English
+
+Let me know what should I add next!
+And help me balance everything becouse there are a lot of stats that need to be balanced :P.
+
+Remember! If your pawn tries to install new implant(from ground) the previous one is destroyed
+
+If you see any errors or issues. let me know in the comments.
+	</description>
+	<modDependencies>
+        <li>
+            <packageId>Kkokoros.organs</packageId>
+            <displayName>Prosthetics and Organs by Kkokoros!</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/2857071397</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+	<loadAfter>
+        <li>Kkokoros.organs</li>
+    </loadAfter>
+</ModMetaData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <MVCF.ModDef>
+        <defName>KokuWeapon</defName>
+        <label>Weapon</label>
+        <description>Weapon</description>
+        <ActivateFeatures>
+            <li>HediffVerbs</li>
+        </ActivateFeatures>
+    </MVCF.ModDef>
+</Defs>

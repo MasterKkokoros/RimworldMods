@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationRemove">
+                <xpath>Defs/BodyPartDef[defName="Liver"]/tags/li[text()="MetabolismSource"]</xpath>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts/li[def="Liver"]/coverage</xpath>
+                <value>
+                    <coverage>0.02</coverage>
+                </value>
+            </li>
+            <li Class="PatchOperationReplace">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts/li[def="Stomach"]/coverage</xpath>
+                <value>
+                    <coverage>0.01</coverage>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/BodyDef[defName="Human"]/corePart/parts</xpath>
+                <value>
+                    <li>
+                        <def>Spleen</def>
+                        <coverage>0.005</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                    <li>
+                        <def>Pancreas</def>
+                        <coverage>0.01</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                    <li>
+                        <def>Gallbladder</def>
+                        <coverage>0.005</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>Torso</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="PatchOperationSequence">
+        <operations>
+            <li Class="PatchOperationAdd">
+                <xpath>Defs/BodyDef/corePart/parts/li[def="Neck"]/parts/li[def="Head"]/parts</xpath>
+                <value>
+                    <li>
+                        <def>KokuSkullSlot</def>
+                        <coverage>0.0</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>FullHead</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+        </operations>
+    </Operation>
+</Patch>

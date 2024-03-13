@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+    <!--===============================Tier2===================================-->
+    <RecipeDef ParentName="SurgerySimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallArtificialSpleen</defName>
+        <label>install artificial spleen</label>
+        <description>Installs artificial spleen.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuArtificialSpleen</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuArtificialSpleen</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Spleen</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuArtificialSpleen</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgerySimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallArtificialPancreas</defName>
+        <label>install artificial pancreas</label>
+        <description>Installs artificial pancreas.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuArtificialPancreas</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuArtificialPancreas</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Pancreas</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuArtificialPancreas</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgerySimpleOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallArtificialGallbladder</defName>
+        <label>install artificial gallblladder</label>
+        <description>Installs artificial gallbladder.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuArtificialGallbladder</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuArtificialGallbladder</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Gallbladder</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuArtificialGallbladder</addsHediff>
+     </RecipeDef>
+     <!--===============================Tier3===================================-->
+     <RecipeDef ParentName="SurgeryAdvancedOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallSyntheticSpleen</defName>
+        <label>install synthetic spleen</label>
+        <description>Installs synthetic spleen.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuSyntheticSpleen</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuSyntheticSpleen</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Spleen</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuSyntheticSpleen</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgeryAdvancedOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallSyntheticPancreas</defName>
+        <label>install synthetic pancreas</label>
+        <description>Installs synthetic pancreas.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuSyntheticPancreas</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuSyntheticPancreas</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Pancreas</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuSyntheticPancreas</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgeryAdvancedOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallSyntheticGallbladder</defName>
+        <label>install synthetic gallblladder</label>
+        <description>Installs synthetic gallbladder.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuSyntheticGallbladder</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuSyntheticGallbladder</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Gallbladder</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuSyntheticGallbladder</addsHediff>
+     </RecipeDef>
+     <!--===============================Tier4===================================-->
+
+     <RecipeDef ParentName="SurgeryUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallUltraSpleen</defName>
+        <label>install ultra spleen</label>
+        <description>Installs ultra spleen.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuUltraSpleen</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuUltraSpleen</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Spleen</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuUltraSpleen</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgeryUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallUltraPancreas</defName>
+        <label>install ultra pancreas</label>
+        <description>Installs ultra pancreas.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuUltraPancreas</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuUltraPancreas</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Pancreas</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuUltraPancreas</addsHediff>
+     </RecipeDef>
+
+     <RecipeDef ParentName="SurgeryUltraOrgans" MayRequire="Kkokoros.expandedorgans">
+        <defName>KokuInstallUltraGallbladder</defName>
+        <label>install ultra gallblladder</label>
+        <description>Installs ultra gallbladder.</description>
+        <ingredients>
+           <li>
+              <filter>
+                 <categories>
+                    <li>Medicine</li>
+                 </categories>
+              </filter>
+              <count>3</count>
+           </li>
+           <li>
+              <filter>
+                 <thingDefs>
+                    <li>KokuUltraGallbladder</li>
+                 </thingDefs>
+              </filter>
+              <count>1</count>
+           </li>
+        </ingredients>
+        <fixedIngredientFilter>
+           <categories>
+              <li>Medicine</li>
+           </categories>
+           <thingDefs>
+              <li>KokuUltraGallbladder</li>
+           </thingDefs>
+        </fixedIngredientFilter>
+        <appliedOnFixedBodyParts>
+           <li>Gallbladder</li>
+        </appliedOnFixedBodyParts>
+        <addsHediff>KokuUltraGallbladder</addsHediff>
+     </RecipeDef>
+</Defs>

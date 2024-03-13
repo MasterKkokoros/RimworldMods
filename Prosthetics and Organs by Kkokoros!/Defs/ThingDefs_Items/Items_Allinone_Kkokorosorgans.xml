@@ -1,0 +1,1403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Defs>
+   <!--
+      large - 3 kits
+      Arms, legs, spine, pelvis, chest, exoskeleton, wings, abdomen
+
+      medium - 2 kits
+      neck, sternum, brain, lungs, stomach, liver, tail
+
+      small - 1 kits
+      eyes, nose, ears, jaw, kidneys, heart, spleen, pancreas, gallbladder
+   -->
+   <!--Unfinishe-->
+   <ThingDef ParentName="UnfinishedBase">
+      <defName>KokuUnfinishedOrgansOrBionics</defName>
+      <label>Unfinished organ or bionic</label>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuUnfinishedOrgansOrBionics</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <stuffCategories Inherit="false" />
+   </ThingDef>
+
+   <ThingDef ParentName="UnfinishedBase">
+      <defName>KokuUnfinishedTierkit</defName>
+      <label>Unfinished Tier kit</label>
+      <graphicData>
+         <texPath>Things/Item/KokuUnfinishedTierkit</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <stuffCategories Inherit="false" />
+   </ThingDef>
+
+
+   <ThingDef ParentName="ResourceBase">
+      <defName>KokuTier1kit</defName>
+      <label>Tier 1 kit</label>
+      <description>Tier 1 kit with tools used in creating bionics.</description>
+      <stackLimit>50</stackLimit>
+      <healthAffectsPrice>false</healthAffectsPrice>
+      <graphicData>
+         <texPath>Things/Item/KokuTier1kit</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <statBases>
+         <MarketValue>30</MarketValue>
+         <Mass>0.5</Mass>
+         <Flammability>0.0</Flammability>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>500</WorkToMake>
+      </statBases>
+      <thingCategories>
+         <li>KokuTierKits</li>
+      </thingCategories>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedTierkit</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+      </recipeMaker>
+      <costList>
+         <Plasteel>5</Plasteel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+   </ThingDef>
+
+   <ThingDef ParentName="ResourceBase">
+      <defName>KokuTier2kit</defName>
+      <label>Tier 2 kit</label>
+      <description>Tier 2 kit with tools used in creating bionics.</description>
+      <stackLimit>50</stackLimit>
+      <healthAffectsPrice>false</healthAffectsPrice>
+      <graphicData>
+         <texPath>Things/Item/KokuTier2kit</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <statBases>
+         <MarketValue>60</MarketValue>
+         <Mass>0.5</Mass>
+         <Flammability>0.0</Flammability>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>1000</WorkToMake>
+      </statBases>
+      <thingCategories>
+         <li>KokuTierKits</li>
+      </thingCategories>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedTierkit</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuAdvancedBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+      </recipeMaker>
+      <costList>
+         <Plasteel>5</Plasteel>
+         <ComponentSpacer>1</ComponentSpacer>
+      </costList>
+   </ThingDef>
+
+   <ThingDef ParentName="ResourceBase">
+      <defName>KokuTier3kit</defName>
+      <label>Tier 3 kit</label>
+      <description>Tier 3 kit with tools used in creating bionics.</description>
+      <stackLimit>50</stackLimit>
+      <healthAffectsPrice>false</healthAffectsPrice>
+      <graphicData>
+         <texPath>Things/Item/KokuTier3kit</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <statBases>
+         <MarketValue>120</MarketValue>
+         <Mass>0.5</Mass>
+         <Flammability>0.0</Flammability>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>1000</WorkToMake>
+      </statBases>
+      <thingCategories>
+         <li>KokuTierKits</li>
+      </thingCategories>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedTierkit</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuUltraBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+      </recipeMaker>
+      <costList>
+         <Plasteel>10</Plasteel>
+         <ComponentSpacer>3</ComponentSpacer>
+      </costList>
+   </ThingDef>
+
+
+   <!--===============================Stuff===================================-->
+   <ThingDef Name="KokuBasicProsthesis" ParentName="BodyPartBase" Abstract="True">
+      <tradeTags>
+         <li>KokuBasicProstheses</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsBasic</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuBasicProsthesis</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+         <shaderType>CutoutComplex</shaderType>
+      </graphicData>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>2500</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuBasicProsthetics</researchPrerequisite>
+         <recipeUsers>
+            <li>CraftingSpot</li>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuSimpleProsthesis" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Industrial</techLevel>
+      <tradeTags>
+         <li>KokuSimpleProstheses</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsSimple</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuSimpleProsthesis</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <techHediffsTags>
+         <li>Simple</li>
+      </techHediffsTags>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>5000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuProsthetics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>5</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuBionic" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Spacer</techLevel>
+      <tradeTags>
+         <li>KokuBionicProstheses</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsBionic</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuBionics</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <techHediffsTags>
+         <li>Advanced</li>
+      </techHediffsTags>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>7500</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>7</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuBionicHeadModifications" ParentName="KokuBionic" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuHeadModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuBionicSpine" ParentName="KokuBionic" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuBionicSpine</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuTorsoModifications" ParentName="KokuBionic" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuTorsoModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuSimpleOrgans" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Industrial</techLevel>
+      <tradeTags>
+         <li>KokuSimpleOrgan</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsSimple</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuSimpleOrgans</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>4000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuSimpleOrgans</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>7</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuBrainSurgery" ParentName="KokuSimpleOrgans" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuBrainSurgery</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvanced" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Spacer</techLevel>
+      <tradeTags>
+         <li>KokuAdvancedProstheses</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsAdvanced</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuAdvancedBionics</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <techHediffsTags>
+         <li>Advanced</li>
+      </techHediffsTags>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>10000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuAdvancedBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>10</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuExoskeleton" ParentName="KokuAdvanced" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuExoskeleton</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedBionicHeadModifications" ParentName="KokuAdvanced" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedHeadModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedBionicSpine" ParentName="KokuAdvanced" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedBionicSpine</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedTorsoModifications" ParentName="KokuAdvanced" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedTorsoModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuSyntheticOrgans" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Industrial</techLevel>
+      <tradeTags>
+         <li>KokuSyntheticOrgan</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsAdvanced</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuSyntheticOrgans</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>4000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuSyntheticOrgans</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>7</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuAdvancedBrainSurgery" ParentName="KokuSyntheticOrgans" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuAdvancedBrainSurgery</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltra" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Spacer</techLevel>
+      <tradeTags>
+         <li>KokuUltraProstheses</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsUltra</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuUltraBionics</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <techHediffsTags>
+         <li>Ultra</li>
+      </techHediffsTags>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>15000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuUltraBionics</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterProsthetics</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>10</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraExoskeleton" ParentName="KokuUltra" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraExoskeleton</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraBionicHeadModifications" ParentName="KokuUltra" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraHeadModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraBionicSpine" ParentName="KokuUltra" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraBionicSpine</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraTorsoModifications" ParentName="KokuUltra" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraTorsoModifications</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraOrgans" ParentName="BodyPartBase" Abstract="True">
+      <techLevel>Industrial</techLevel>
+      <tradeTags>
+         <li>KokuUltraOrgan</li>
+      </tradeTags>
+      <thingCategories>
+         <li>KokuBodyPartsUltra</li>
+      </thingCategories>
+      <graphicData>
+         <texPath>Things/Item/BodyPart/KokuUltraOrgans</texPath>
+         <graphicClass>Graphic_Single</graphicClass>
+         <drawSize>0.80</drawSize>
+      </graphicData>
+      <statBases>
+         <DeteriorationRate>0</DeteriorationRate>
+         <WorkToMake>4000</WorkToMake>
+      </statBases>
+      <recipeMaker>
+         <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+         <unfinishedThingDef>KokuUnfinishedOrgansOrBionics</unfinishedThingDef>
+         <workSkill>Crafting</workSkill>
+         <effectWorking>Smith</effectWorking>
+         <researchPrerequisite>KokuUltraOrgans</researchPrerequisite>
+         <recipeUsers>
+            <li>KokuPrinterOrgans</li>
+         </recipeUsers>
+         <skillRequirements>
+            <Crafting>7</Crafting>
+         </skillRequirements>
+      </recipeMaker>
+   </ThingDef>
+   <ThingDef Name="KokuUltraBrainSurgery" ParentName="KokuUltraOrgans" Abstract="True">
+      <recipeMaker>
+         <researchPrerequisite>KokuUltraBrainSurgery</researchPrerequisite>
+      </recipeMaker>
+   </ThingDef>
+   <!--===============================Tier0===================================-->
+   <ThingDef ParentName="KokuBasicProsthesis">
+      <defName>KokuWoodenJaw</defName>
+      <label>Wooden jaw</label>
+      <description>Replaces a missing jaw with wooden jaw. Smells gross and tastes even worse.</description>
+      <costList>
+         <WoodLog>15</WoodLog>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBasicProsthesis">
+      <defName>KokuWoodenArm</defName>
+      <label>wooden shoulder-arm</label>
+      <description>A very poor arm replacement. Looks bad, feels bad, is bad.</description>
+      <costList>
+         <WoodLog>40</WoodLog>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBasicProsthesis">
+      <defName>KokuWoodenLeg</defName>
+      <label>wooden leg</label>
+      <description>A very poor leg replacement. Looks bad, feels bad, is bad.</description>
+      <costList>
+         <WoodLog>40</WoodLog>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--===============================Tier1===================================-->
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuArtificialNose</defName>
+      <label>artificial nose</label>
+      <description>Replaces a missing nose. Covers the hole in the face and also allows the user to
+         smell simple substances.</description>
+      <costList>
+         <Steel>10</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuArtificialEar</defName>
+      <label>artificial ear</label>
+      <description>Replaces a missing ear. Covers the hole in the head and also allows the user to
+         hear simple sounds.</description>
+      <costList>
+         <Steel>15</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuArtificialEye</defName>
+      <label>artificial eye</label>
+      <description>Replaces a missing eye. Can detect light and even distance. Like looking through
+         camera but without the colors.</description>
+      <costList>
+         <Steel>15</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuHydraulicJaw</defName>
+      <label>simple hydraulic jaw</label>
+      <description>Replaces a missing jaw. It doesn't smell anymore and allows the user to feel
+         simple tastes!</description>
+      <costList>
+         <Steel>30</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuSimpleHydraulicArm</defName>
+      <label>simple hydraulic shoulder-arm</label>
+      <description>Replaces missing arm. Way more comfortable and useful than wooden one.</description>
+      <costList>
+         <Steel>50</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleProsthesis">
+      <defName>KokuSimpleHydraulicLeg</defName>
+      <label>simple hydraulic leg</label>
+      <description>Replaces missing leg. Way more comfortable and useful than wooden one.</description>
+      <costList>
+         <Steel>50</Steel>
+         <ComponentIndustrial>2</ComponentIndustrial>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--===============================Tier2===================================-->
+   <ThingDef ParentName="KokuBionic">
+      <defName>KokuBionicArm</defName>
+      <label>bionic shoulder-arm</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its
+         user.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionic">
+      <defName>KokuBionicLeg</defName>
+      <label>bionic leg</label>
+      <description>Bionic leg uses cutting-edge technology to give its owner extreme walking comfort
+         and strength.</description>
+      <costList>
+         <KokuSimpleHydraulicLeg>1</KokuSimpleHydraulicLeg>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicHeadModifications">
+      <defName>KokuBionicNose</defName>
+      <label>bionic nose</label>
+      <description>Bionic nose uses advanced technology to give its owner extreme sense of smell.</description>
+      <costList>
+         <KokuArtificialNose>1</KokuArtificialNose>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicHeadModifications">
+      <defName>KokuBionicEar</defName>
+      <label>bionic ear</label>
+      <description>An advanced device that allows you to hear normal again.</description>
+      <costList>
+         <KokuArtificialEar>1</KokuArtificialEar>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicHeadModifications">
+      <defName>KokuBionicEye</defName>
+      <label>bionic eye</label>
+      <description>Advanced piece of technology made not only to fully replace natural eye, but also
+         to give supernatural vision abilities.</description>
+      <costList>
+         <KokuArtificialEye>1</KokuArtificialEye>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicHeadModifications">
+      <defName>KokuBionicJaw</defName>
+      <label>bionic jaw</label>
+      <description>An advanced device that lets you eat normal again, this also comes with a voice
+         modulator.</description>
+      <costList>
+         <KokuHydraulicJaw>1</KokuHydraulicJaw>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicHeadModifications">
+      <defName>KokuMuteJaw</defName>
+      <label>mute jaw</label>
+      <description>This version of the bionic jaw comes without a voice modulator, useful for loud
+         patients.</description>
+      <costList>
+         <Steel>10</Steel>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicSpine">
+      <defName>KokuBionicSpine</defName>
+      <label>bionic spine</label>
+      <description>This light and impressing device can replace a damaged spine.</description>
+      <costList>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicSpine">
+      <defName>KokuBionicPelvis</defName>
+      <label>bionic pelvis</label>
+      <description>This light and impressing device can replace a damaged pelvis.</description>
+      <costList>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuBionicSpine">
+      <defName>KokuBionicNeck</defName>
+      <label>bionic neck</label>
+      <description>This light and impressing device can replace a damaged neck. It has slow
+         transmition speed.</description>
+      <costList>
+         <KokuTier1kit>2</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuTorsoModifications">
+      <defName>KokuMedicalSternum</defName>
+      <label>medical sternum replacement</label>
+      <description>An artificial sternum, equipped with little blood filters and
+         antibiotics-dispensers to keep the user healthy.</description>
+      <costList>
+         <KokuTier1kit>2</KokuTier1kit>
+         <MedicineUltratech>1</MedicineUltratech>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuTorsoModifications">
+      <defName>KokuDruggedSternum</defName>
+      <label>drugged sternum replacement</label>
+      <description>An artificial sternum, equipped with little flake-dispensers to keep the user
+         happy. Synthetic liver highly recommended.</description>
+      <costList>
+         <KokuTier1kit>2</KokuTier1kit>
+         <Flake>10</Flake>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuTorsoModifications">
+      <defName>KokuAdrenalineSternum</defName>
+      <label>adrenaline sternum replacement</label>
+      <description>An artificial sternum, equipped with little adrenaline-dispensers to keep the
+         user fit and awake.</description>
+      <costList>
+         <KokuTier1kit>2</KokuTier1kit>
+         <Yayo>10</Yayo>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuTorsoModifications">
+      <defName>KokuPainkillerSternum</defName>
+      <label>painkiller sternum replacement</label>
+      <description>An artificial sternum, equipped with little morphine-dispensers to numb the
+         user's pain. Side effects are respiratory ailments.</description>
+      <costList>
+         <KokuTier1kit>2</KokuTier1kit>
+         <GoJuice>5</GoJuice>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuTorsoModifications">
+      <defName>KokuNanomachinesRibcage</defName>
+      <label>nanomachines ribcage replacement</label>
+      <description>An artificial ribcage, equipped with little nanomachines-dispensers to numb the
+         user's wounds.</description>
+      <costList>
+         <KokuTier1kit>3</KokuTier1kit>
+         <Luciferium>5</Luciferium>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--Organs-->
+   <ThingDef ParentName="KokuBrainSurgery">
+      <defName>KokuArtificialBrain</defName>
+      <label>artificial brain</label>
+      <description>A small device that does its best to keep its user brain to work. Recommended for
+         severe brain damage only.</description>
+      <costList>
+         <Steel>25</Steel>
+         <KokuTier1kit>2</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleOrgans">
+      <defName>KokuArtificialLung</defName>
+      <label>artificial lung</label>
+      <description>A simple lung replacement. Makes a loud noise.</description>
+      <costList>
+         <Cloth>30</Cloth>
+         <KokuTier1kit>2</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleOrgans">
+      <defName>KokuArtificialStomach</defName>
+      <label>artificial stomach</label>
+      <description>A simple stomach replacement. I wouldn't smell that!</description>
+      <costList>
+         <Cloth>30</Cloth>
+         <KokuTier1kit>2</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleOrgans">
+      <defName>KokuArtificialLiver</defName>
+      <label>artificial liver</label>
+      <description>A Simple blood filter. Not a lot better than normal coffee filter.</description>
+      <costList>
+         <Cloth>30</Cloth>
+         <KokuTier1kit>2</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleOrgans">
+      <defName>KokuArtificialKidney</defName>
+      <label>artificial kidney</label>
+      <description>A Simple kidney replacement. Better than dialysis, trust me!</description>
+      <costList>
+         <Cloth>30</Cloth>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSimpleOrgans">
+      <defName>KokuArtificialHeart</defName>
+      <label>artificial heart</label>
+      <description>A simple pump to keep the bloodstream running.</description>
+      <costList>
+         <Cloth>50</Cloth>
+         <KokuTier1kit>1</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--===============================Tier3===================================-->
+   <ThingDef ParentName="KokuAdvanced">
+      <defName>KokuAdvancedBionicArm</defName>
+      <label>advanced bionic shoulder-arm</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength.</description>
+      <costList>
+         <KokuBionicArm>1</KokuBionicArm>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvanced">
+      <defName>KokuAdvancedBionicLeg</defName>
+      <label>advanced bionic leg</label>
+      <description>Do you remember what walking was? Me neither.</description>
+      <costList>
+         <KokuBionicLeg>1</KokuBionicLeg>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuExoskeleton">
+      <defName>KokuExoskeleton</defName>
+      <label>exoskeleton</label>
+      <description>A high tech device made out of two components: a light skeletal structure to
+         relieve the back and servomotors to make the user stronger.</description>
+      <costList>
+         <Plasteel>45</Plasteel>
+         <Steel>60</Steel>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicHeadModifications">
+      <defName>KokuAdvancedBionicNose</defName>
+      <label>advanced bionic nose</label>
+      <description>Bionic nose uses advanced technology to give its owner extreme sense of smell.</description>
+      <costList>
+         <KokuBionicNose>1</KokuBionicNose>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicHeadModifications">
+      <defName>KokuAdvancedBionicEar</defName>
+      <label>advanced bionic ear</label>
+      <description>An advanced device that allows you to hear even better now!</description>
+      <costList>
+         <KokuBionicEar>1</KokuBionicEar>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicHeadModifications">
+      <defName>KokuAdvancedBionicEye</defName>
+      <label>advanced bionic eye</label>
+      <description>Advanced piece of technology made not only to fully replace natural eye, but also
+         to give supernatural vision abilities.</description>
+      <costList>
+         <KokuBionicEye>1</KokuBionicEye>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicHeadModifications">
+      <defName>KokuAdvancedBionicJaw</defName>
+      <label>advanced bionic jaw</label>
+      <description>An advanced device that lets you eat like a monster!</description>
+      <costList>
+         <KokuBionicJaw>1</KokuBionicJaw>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicSpine">
+      <defName>KokuAdvancedBionicSpine</defName>
+      <label>advanced bionic spine</label>
+      <description>This light device is awesome!</description>
+      <costList>
+         <KokuBionicSpine>1</KokuBionicSpine>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicSpine">
+      <defName>KokuAdvancedBionicPelvis</defName>
+      <label>advanced bionic pelvis</label>
+      <description>This light device is awesome!</description>
+      <costList>
+         <KokuBionicPelvis>1</KokuBionicPelvis>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedBionicSpine">
+      <defName>KokuAdvancedBionicNeck</defName>
+      <label>advanced bionic neck</label>
+      <description>This light device is awesome! It has semi-good transition speed.</description>
+      <costList>
+         <KokuBionicNeck>1</KokuBionicNeck>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedTorsoModifications">
+      <defName>KokuAdvancedMedicalSternum</defName>
+      <label>advanced medical sternum replacement</label>
+      <description>An advanced artificial sternum, equipped with little blood filters and
+         antibiotics-dispensers to keep the user healthy.</description>
+      <costList>
+         <KokuMedicalSternum>1</KokuMedicalSternum>
+         <MedicineUltratech>5</MedicineUltratech>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedTorsoModifications">
+      <defName>KokuAdvancedDruggedSternum</defName>
+      <label>advanced drugged sternum replacement</label>
+      <description>An advanced artificial sternum, equipped with little flake-dispensers to keep the
+         user happy. Synthetic liver highly recommended.</description>
+      <costList>
+         <KokuDruggedSternum>1</KokuDruggedSternum>
+         <Flake>30</Flake>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedTorsoModifications">
+      <defName>KokuAdvancedAdrenalineSternum</defName>
+      <label>advanced adrenaline sternum replacement</label>
+      <description>An advanced artificial sternum, equipped with little adrenaline-dispensers to
+         keep the user fit and awake.</description>
+      <costList>
+         <KokuAdrenalineSternum>1</KokuAdrenalineSternum>
+         <Yayo>30</Yayo>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedTorsoModifications">
+      <defName>KokuAdvancedPainkillerSternum</defName>
+      <label>advanced painkiller sternum replacement</label>
+      <description>An advanced artificial sternum, equipped with little morphine-dispensers to numb
+         the user's pain. Side effects are respiratory ailments.</description>
+      <costList>
+         <KokuPainkillerSternum>1</KokuPainkillerSternum>
+         <GoJuice>30</GoJuice>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuAdvancedTorsoModifications">
+      <defName>KokuAdvancedNanomachinesRibcage</defName>
+      <label>advanced nanomachines ribcage replacement</label>
+      <description>An advanced artificial ribcage, equipped with little nanomachines-dispensers to
+         numb the user's wounds.</description>
+      <costList>
+         <KokuNanomachinesRibcage>1</KokuNanomachinesRibcage>
+         <Luciferium>15</Luciferium>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--Organs-->
+   <ThingDef ParentName="KokuAdvancedBrainSurgery">
+      <defName>KokuAdvancedBrain</defName>
+      <label>Advanced brain</label>
+      <description>A special device that makes users brain work again and upgrades it slightly.</description>
+      <costList>
+         <KokuArtificialBrain>1</KokuArtificialBrain>
+         <Gold>2</Gold>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSyntheticOrgans">
+      <defName>KokuSyntheticLung</defName>
+      <label>synthetic lung</label>
+      <description>A high-tech lung replacement. Makes a quiet noise.</description>
+      <costList>
+         <KokuArtificialLung>1</KokuArtificialLung>
+         <Hyperweave>5</Hyperweave>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSyntheticOrgans">
+      <defName>KokuSyntheticStomach</defName>
+      <label>synthetic stomach</label>
+      <description>A high-tech stomach replacement. It doesn't smell anymore.</description>
+      <costList>
+         <KokuArtificialStomach>1</KokuArtificialStomach>
+         <Hyperweave>5</Hyperweave>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSyntheticOrgans">
+      <defName>KokuSyntheticLiver</defName>
+      <label>synthetic liver</label>
+      <description>A high-tech blood filter. It filters the blood really well.</description>
+      <costList>
+         <KokuArtificialLiver>1</KokuArtificialLiver>
+         <Hyperweave>5</Hyperweave>
+         <KokuTier2kit>2</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSyntheticOrgans">
+      <defName>KokuSyntheticKidney</defName>
+      <label>synthetic kidney</label>
+      <description>A hight-tech kidney replacement. You can drink again without problems!</description>
+      <costList>
+         <KokuArtificialKidney>1</KokuArtificialKidney>
+         <Hyperweave>5</Hyperweave>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuSyntheticOrgans">
+      <defName>KokuSyntheticHeart</defName>
+      <label>synthetic heart</label>
+      <description>A high-tech pump to keep the bloodstream running.</description>
+      <costList>
+         <KokuArtificialHeart>1</KokuArtificialHeart>
+         <Hyperweave>5</Hyperweave>
+         <KokuTier2kit>1</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--===============================Tier4===================================-->
+   <ThingDef ParentName="KokuUltra">
+      <defName>KokuUltraBionicArm</defName>
+      <label>ultra bionic shoulder-arm</label>
+      <description>This one is F%^$^ng insane.</description>
+      <costList>
+         <KokuAdvancedBionicArm>1</KokuAdvancedBionicArm>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltra">
+      <defName>KokuUltraBionicLeg</defName>
+      <label>ultra bionic leg</label>
+      <description>I am so fast i live in the dark.</description>
+      <costList>
+         <KokuAdvancedBionicLeg>1</KokuAdvancedBionicLeg>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraExoskeleton">
+      <defName>KokuUltraExoskeleton</defName>
+      <label>ultra exoskeleton</label>
+      <description>I feel as strong as an ant!</description>
+      <costList>
+         <KokuExoskeleton>1</KokuExoskeleton>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicHeadModifications">
+      <defName>KokuUltraBionicNose</defName>
+      <label>ultra bionic nose</label>
+      <description>Have someone farted? Oh the raiders...</description>
+      <costList>
+         <KokuAdvancedBionicNose>1</KokuAdvancedBionicNose>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicHeadModifications">
+      <defName>KokuUltraBionicEar</defName>
+      <label>ultra bionic ear</label>
+      <description>I can hear you!</description>
+      <costList>
+         <KokuAdvancedBionicEar>1</KokuAdvancedBionicEar>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicHeadModifications">
+      <defName>KokuUltraBionicEye</defName>
+      <label>ultra bionic eye</label>
+      <description>Isn't it cheating?</description>
+      <costList>
+         <KokuAdvancedBionicEye>1</KokuAdvancedBionicEye>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicHeadModifications">
+      <defName>KokuUltraBionicJaw</defName>
+      <label>ultra bionic jaw</label>
+      <description>Hey, chew that sandwich for me!</description>
+      <costList>
+         <KokuAdvancedBionicJaw>1</KokuAdvancedBionicJaw>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicSpine">
+      <defName>KokuUltraBionicSpine</defName>
+      <label>ultra bionic spine</label>
+      <description>Have I always been so light?</description>
+      <costList>
+         <KokuAdvancedBionicSpine>1</KokuAdvancedBionicSpine>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicSpine">
+      <defName>KokuUltraBionicPelvis</defName>
+      <label>ultra bionic pelvis</label>
+      <description>Have I always been so light?</description>
+      <costList>
+         <KokuAdvancedBionicPelvis>1</KokuAdvancedBionicPelvis>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraBionicSpine">
+      <defName>KokuUltraBionicNeck</defName>
+      <label>ultra bionic neck</label>
+      <description>Have I always been so light?</description>
+      <costList>
+         <KokuAdvancedBionicNeck>1</KokuAdvancedBionicNeck>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraTorsoModifications">
+      <defName>KokuUltraMedicalSternum</defName>
+      <label>ultra medical sternum replacement</label>
+      <description>An ultra artificial sternum, equipped with little blood filters and
+         antibiotics-dispensers to keep the user healthy.</description>
+      <costList>
+         <KokuAdvancedMedicalSternum>1</KokuAdvancedMedicalSternum>
+         <MedicineUltratech>10</MedicineUltratech>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraTorsoModifications">
+      <defName>KokuUltraDruggedSternum</defName>
+      <label>ultra drugged sternum replacement</label>
+      <description>An ultra artificial sternum, equipped with little flake-dispensers to keep the
+         user happy. Synthetic liver highly recommended.</description>
+      <costList>
+         <KokuAdvancedDruggedSternum>1</KokuAdvancedDruggedSternum>
+         <Flake>50</Flake>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraTorsoModifications">
+      <defName>KokuUltraAdrenalineSternum</defName>
+      <label>ultra adrenaline sternum replacement</label>
+      <description>An ultra artificial sternum, equipped with little adrenaline-dispensers to keep
+         the user fit and awake.</description>
+      <costList>
+         <KokuAdvancedAdrenalineSternum>1</KokuAdvancedAdrenalineSternum>
+         <Yayo>50</Yayo>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraTorsoModifications">
+      <defName>KokuUltraPainkillerSternum</defName>
+      <label>ultra painkiller sternum replacement</label>
+      <description>An ultra artificial sternum, equipped with little morphine-dispensers to numb the
+         user's pain. Side effects are respiratory ailments.</description>
+      <costList>
+         <KokuAdvancedPainkillerSternum>1</KokuAdvancedPainkillerSternum>
+         <GoJuice>50</GoJuice>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraTorsoModifications">
+      <defName>KokuUltraNanomachinesRibcage</defName>
+      <label>ultra nanomachines ribcage replacement</label>
+      <description>An ultra artificial ribcage, equipped with little nanomachines-dispensers to numb
+         the user's wounds.</description>
+      <costList>
+         <KokuAdvancedNanomachinesRibcage>1</KokuAdvancedNanomachinesRibcage>
+         <Luciferium>25</Luciferium>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <!--Organs-->
+   <ThingDef ParentName="KokuUltraBrainSurgery">
+      <defName>KokuUltraBrain</defName>
+      <label>ultra brain</label>
+      <description>A special device that makes users brain work like a genius.</description>
+      <costList>
+         <KokuAdvancedBrain>1</KokuAdvancedBrain>
+         <Gold>5</Gold>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraOrgans">
+      <defName>KokuUltraLung</defName>
+      <label>ultra lung</label>
+      <description>A Ultra-tech lung replacement. Makes a no noise.</description>
+      <costList>
+         <KokuSyntheticLung>1</KokuSyntheticLung>
+         <Hyperweave>10</Hyperweave>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraOrgans">
+      <defName>KokuUltraStomach</defName>
+      <label>ultra stomach</label>
+      <description>A Ultra-tech stomach replacement. The farts became Deadly o-O.</description>
+      <costList>
+         <KokuSyntheticStomach>1</KokuSyntheticStomach>
+         <Hyperweave>10</Hyperweave>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraOrgans">
+      <defName>KokuUltraLiver</defName>
+      <label>ultra liver</label>
+      <description>A Ultra-tech blood filter. Is it still blood or something else?.</description>
+      <costList>
+         <KokuSyntheticLiver>1</KokuSyntheticLiver>
+         <Hyperweave>10</Hyperweave>
+         <KokuTier3kit>2</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraOrgans">
+      <defName>KokuUltraKidney</defName>
+      <label>ultra kidney</label>
+      <description>A Ultra-tech kidney replacement. The "drinks" are just water!</description>
+      <costList>
+         <KokuSyntheticKidney>1</KokuSyntheticKidney>
+         <Hyperweave>10</Hyperweave>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+   <ThingDef ParentName="KokuUltraOrgans">
+      <defName>KokuUltraHeart</defName>
+      <label>ultra heart</label>
+      <description>A Ultra-tech pump to keep the bloodstream running.</description>
+      <costList>
+         <KokuSyntheticHeart>1</KokuSyntheticHeart>
+         <Hyperweave>10</Hyperweave>
+         <KokuTier3kit>1</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>0.5</Mass>
+      </statBases>
+   </ThingDef>
+</Defs>

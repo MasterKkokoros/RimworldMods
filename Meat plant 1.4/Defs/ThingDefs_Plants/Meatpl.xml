@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ 
+ <Defs>
+ <ThingDef ParentName="PlantBase">
+    <defName>Plant_Meat</defName>
+    <label>Meat plant</label>
+    <description>Meat plant.</description>
+    <statBases>
+      <MaxHitPoints>100</MaxHitPoints>
+      <Nutrition>0.2</Nutrition>
+    </statBases>
+    <graphicData>
+      <texPath>Things/Plant/MeatPlant</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <selectable>true</selectable>
+    <pathCost>14</pathCost>
+    <ingestible />
+    <plant>
+      <growDays>10</growDays>
+      <dieIfLeafless>true</dieIfLeafless>
+      <harvestTag>Standard</harvestTag>
+      <harvestedThingDef>Fake_Meat</harvestedThingDef>
+      <harvestYield>5</harvestYield>
+      <sowMinSkill>8</sowMinSkill>
+      <sowTags>
+        <li>Ground</li>
+        <li>Hydroponic</li>
+      </sowTags>
+      <topWindExposure>0.0</topWindExposure>
+      <immatureGraphicPath>Things/Plant/MeatPlant_Immature</immatureGraphicPath>
+      <visualSizeRange>0.1~1.00</visualSizeRange>
+      <wildOrder>0</wildOrder>
+    </plant>
+  </ThingDef>
+  </Defs>

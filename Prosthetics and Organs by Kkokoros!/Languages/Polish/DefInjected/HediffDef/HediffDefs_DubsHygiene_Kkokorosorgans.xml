@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bioniczny pęcherz</KokuBionicBladder.label>
+    <KokuBionicBladder.labelNoun>Bioniczny pęcherz</KokuBionicBladder.labelNoun>
+    <KokuBionicBladder.description>Zamontowany bioniczny pęcherz.</KokuBionicBladder.description>
+    <KokuAdvancedBionicBladder.label>Zaawansowany bioniczny pęcherz</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.labelNoun>Zaawansowany bioniczny pęcherz</KokuAdvancedBionicBladder.labelNoun>
+    <KokuAdvancedBionicBladder.description>Zamontowany zaawansowany bioniczny pęcherz.</KokuAdvancedBionicBladder.description>
+    <KokuUltraBionicBladder.label>Ultra bioniczny pęcherz</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.labelNoun>Ultra bioniczny pęcherz</KokuUltraBionicBladder.labelNoun>
+    <KokuUltraBionicBladder.description>Zamontowany ultra bioniczny pęcherz.</KokuUltraBionicBladder.description>
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Bioniczny środek poprawiający higienę</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.labelNoun>Bioniczny środek poprawiający higienę</KokuHygieneEnhancer.labelNoun>
+    <KokuHygieneEnhancer.description>Zamontowany bioniczny środek poprawiający higienę.</KokuHygieneEnhancer.description>
+    <KokuAdvancedHygieneEnhancer.label>Zaawansowany bioniczny środek poprawiający higienę</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.labelNoun>Zaawansowany bioniczny środek poprawiający higienę</KokuAdvancedHygieneEnhancer.labelNoun>
+    <KokuAdvancedHygieneEnhancer.description>Zamontowany zaawansowany bioniczny środek poprawiający higienę.</KokuAdvancedHygieneEnhancer.description>
+    <KokuUltraHygieneEnhancer.label>Ultra bioniczny środek poprawiający higienę</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.labelNoun>Ultra bioniczny środek poprawiający higienę</KokuUltraHygieneEnhancer.labelNoun>
+    <KokuUltraHygieneEnhancer.description>Zamontowany ultra bioniczny środek poprawiający higienę.</KokuUltraHygieneEnhancer.description>
+
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

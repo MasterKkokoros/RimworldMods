@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+    <AchievementsExpanded.AchievementTabDef MayRequire="vanillaexpanded.achievements">
+        <defName>KokuAchivementKkokoros</defName>
+        <label>Kkokoros</label>
+    </AchievementsExpanded.AchievementTabDef>
+    <AchievementsExpanded.AchievementDef MayRequire="vanillaexpanded.achievements">
+		<defName>KokuAchivementUltraHuman</defName>
+		<label>Ultra Human!</label>
+		<description>Have a single pawn with (base) Ultra bionic arms, legs, nose, ears, eyes, jaw, spine, pelvis, ribcage, and organs</description>
+		
+		<tracker Class="AchievementsExpanded.MultiHediffTracker">
+			<defs>
+				<li>
+					<key>KokuUltraBionicArm</key>
+					<value>2</value>
+				</li>
+				<li>
+					<key>KokuUltraBionicLeg</key>
+					<value>2</value>
+				</li>
+				<li>
+					<key>KokuUltraBionicNose</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>KokuUltraBionicEar</key>
+					<value>2</value>
+				</li>
+				<li>
+					<key>KokuUltraBionicEye</key>
+					<value>2</value>
+				</li>
+                <li>
+					<key>KokuUltraBionicJaw</key>
+					<value>1</value>
+				</li>
+                <li>
+					<key>KokuUltraBionicSpine</key>
+					<value>1</value>
+				</li>
+				<li>
+					<key>KokuUltraBionicPelvis</key>
+					<value>1</value>
+				</li>
+                <li>
+					<key>KokuUltraNanomachinesRibcage</key>
+					<value>1</value>
+				</li>
+                <li>
+					<key>KokuUltraLung</key>
+					<value>2</value>
+				</li>
+                <li>
+					<key>KokuUltraStomach</key>
+					<value>1</value>
+				</li>
+                <li>
+					<key>KokuUltraLiver</key>
+					<value>1</value>
+				</li>
+                <li>
+					<key>KokuUltraKidney</key>
+					<value>2</value>
+				</li>
+                <li>
+					<key>KokuUltraHeart</key>
+					<value>1</value>
+				</li>
+			</defs>
+		</tracker>
+
+		<tab>KokuAchivementKkokoros</tab>
+		<texPath>Achievements/Ultrahuman</texPath>
+		<points>400</points>
+	</AchievementsExpanded.AchievementDef>
+</Defs>
