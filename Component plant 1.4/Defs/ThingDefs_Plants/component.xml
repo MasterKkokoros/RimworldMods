@@ -18,11 +18,11 @@
     <pathCost>20</pathCost>
     <ingestible />
     <plant>
-      <growDays>20</growDays>
+      <growDays>30</growDays>
       <dieIfLeafless>true</dieIfLeafless>
       <harvestTag>Standard</harvestTag>
       <harvestedThingDef>ComponentIndustrial</harvestedThingDef>
-      <harvestYield>6</harvestYield>
+      <harvestYield>2</harvestYield>
       <sowMinSkill>12</sowMinSkill>
       <sowTags>
         <li>Ground</li>
