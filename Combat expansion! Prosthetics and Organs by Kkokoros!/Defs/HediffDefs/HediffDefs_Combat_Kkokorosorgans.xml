@@ -1,33 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Defs>
    <MVCF.ModDef>
-	<defName>KkokorosCombatorgans</defName>
-	<label>Combat organs</label>
-	<description>Help</description>
-	<ActivateFeatures>
-		<li>HediffVerbs</li>
-	</ActivateFeatures>
+      <defName>KkokorosCombatorgans</defName>
+      <label>Combat organs</label>
+      <description>Help</description>
+      <ActivateFeatures>
+         <li>HediffVerbs</li>
+      </ActivateFeatures>
    </MVCF.ModDef>
-    <!--=============================== Tier 2 ===================================-->
-    <HediffDef ParentName="KokuaddedBionics">
+
+   <VFECore.ExpandableProjectileDef ParentName="BaseBullet">
+      <defName>KokuBulletFireBreathJaw</defName>
+      <label>fire breath jaw shot</label>
+      <thingClass>VFECore.FlamethrowProjectile</thingClass>
+      <graphicData>
+         <texPath>Things/Projectile/KokuFireBreath</texPath>
+         <texPathFadeOut>Things/Projectile/KokuFireBreathFadeOut</texPathFadeOut>
+         <shaderType>MoteGlow</shaderType>
+      </graphicData>
+      <projectile>
+         <damageDef>Flame</damageDef>
+         <speed>45</speed>
+         <damageAmountBase>2</damageAmountBase>
+      </projectile>
+      <drawOffscreen>true</drawOffscreen>
+      <lifeTimeDuration>50</lifeTimeDuration>
+      <widthScaleFactor>0.65</widthScaleFactor>
+      <heightScaleFactor>1</heightScaleFactor>
+      <startingPositionOffset>(0, 0, -1)</startingPositionOffset>
+      <totalSizeScale>1.15</totalSizeScale>
+      <tickFrameRate>2</tickFrameRate>
+      <finalTickFrameRate>5</finalTickFrameRate>
+      <tickDamageRate>20</tickDamageRate>
+      <dealsDamageOnce>true</dealsDamageOnce>
+      <minDistanceToAffect>2</minDistanceToAffect>
+   </VFECore.ExpandableProjectileDef>
+   <!--===============================Tier2===================================-->
+   <HediffDef ParentName="KokuaddedBionics">
       <defName>KokuBionicClaw</defName>
       <label>Bionic claw</label>
-	  <labelNoun>a bionic claw</labelNoun>
-	  <description>An installed bionic claw.</description>
-      <descriptionHyperlinks><ThingDef>KokuBionicClaw</ThingDef></descriptionHyperlinks>
+      <labelNoun>a bionic claw</labelNoun>
+      <description>An installed bionic claw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicClaw</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuBionicClaw</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.20</partEfficiency>
       </addedPartProps>
       <stages>
-      <li>
-         <capMods>
-            <li>
-              <capacity>Moving</capacity>
-              <offset>-0.05</offset>
-            </li>
-          </capMods>
-      </li>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
       </stages>
       <comps>
          <li Class="HediffCompProperties_VerbGiver">
@@ -46,26 +75,28 @@
             </tools>
          </li>
       </comps>
-    </HediffDef>
-    <HediffDef ParentName="KokuaddedBionics">
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
       <defName>KokuBionicGunArm</defName>
       <label>Bionic gun arm</label>
-	  <labelNoun>a bionic gun arm</labelNoun>
-	  <description>An installed bionic gun arm.</description>
-      <descriptionHyperlinks><ThingDef>KokuBionicGunArm</ThingDef></descriptionHyperlinks>
+      <labelNoun>a bionic gun arm</labelNoun>
+      <description>An installed bionic gun arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicGunArm</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuBionicGunArm</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.20</partEfficiency>
       </addedPartProps>
       <stages>
-      <li>
-         <capMods>
-            <li>
-              <capacity>Moving</capacity>
-              <offset>-0.05</offset>
-            </li>
-          </capMods>
-      </li>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
       </stages>
       <comps>
          <li Class="HediffCompProperties_VerbGiver">
@@ -82,39 +113,242 @@
             </tools>
             <verbs>
                <li>
-                 <verbClass>Verb_Shoot</verbClass>
-                 <hasStandardCommand>true</hasStandardCommand>
-                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
-                 <warmupTime>1.2</warmupTime>
-                 <range>16.0</range>
-                 <soundCast>Shot_Autopistol</soundCast>
-                 <soundCastTail>GunTail_Light</soundCastTail>
-                 <muzzleFlashScale>9</muzzleFlashScale>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                  <warmupTime>1.2</warmupTime>
+                  <range>16.0</range>
+                  <soundCast>Shot_Autopistol</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>9</muzzleFlashScale>
                </li>
             </verbs>
          </li>
       </comps>
-    </HediffDef>
-    <!--=============================== Tier 3 ===================================-->
-    <HediffDef ParentName="KokuaddedAdvanced">
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicEMPArm</defName>
+      <label>Bionic EMP arm</label>
+      <labelNoun>an installed bionic EMP arm</labelNoun>
+      <description>An installed bionic EMP arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicEMPArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicEMPArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic EMP arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>2.0</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_EMPLauncher</defaultProjectile>
+                  <warmupTime>4.5</warmupTime>
+                  <range>9.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicIncendiaryArm</defName>
+      <label>Bionic incendiary arm</label>
+      <labelNoun>an installed bionic incendiary arm</labelNoun>
+      <description>An installed bionic incendiary arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicIncendiaryArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicIncendiaryArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic incendiary arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>2.0</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_IncendiaryLauncher</defaultProjectile>
+                  <warmupTime>4.5</warmupTime>
+                  <range>9.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicSmokeArm</defName>
+      <label>Bionic smoke arm</label>
+      <labelNoun>an installed bionic smoke arm</labelNoun>
+      <description>An installed bionic smoke arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicSmokeArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuBionicSmokeArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>bionic smoke arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>10</power>
+                  <cooldownTime>2.0</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_SmokeLauncher</defaultProjectile>
+                  <warmupTime>4.5</warmupTime>
+                  <range>9.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedBionics">
+      <defName>KokuBionicFireBreathJaw</defName>
+      <label>Bionic fire breath jaw</label>
+      <labelNoun>an installed bionic fire breath jaw</labelNoun>
+      <description>An installed bionic fire breath jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuBionicFireBreathJaw</ThingDef>
+      </descriptionHyperlinks>
+      <addedPartProps>
+         <partEfficiency>1.20</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>KokuBulletFireBreathJaw</defaultProjectile>
+                  <ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
+                  <warmupTime>4.00</warmupTime>
+                  <range>9.0</range>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>InfernoCannon_Fire</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+      <spawnThingOnRemoved>KokuBulletFireBreathJaw</spawnThingOnRemoved>
+   </HediffDef>
+
+
+   <!--===============================Tier3===================================-->
+   <HediffDef ParentName="KokuaddedAdvanced">
       <defName>KokuAdvancedBionicClaw</defName>
       <label>advanced bionic claw</label>
-	  <labelNoun>an advanced bionic claw</labelNoun>
-	  <description>An installed advanced bionic claw.</description>
-      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicClaw</ThingDef></descriptionHyperlinks>
+      <labelNoun>an advanced bionic claw</labelNoun>
+      <description>An installed advanced bionic claw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicClaw</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuAdvancedBionicClaw</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.40</partEfficiency>
       </addedPartProps>
       <stages>
-      <li>
-         <capMods>
-            <li>
-              <capacity>Moving</capacity>
-              <offset>-0.025</offset>
-            </li>
-          </capMods>
-      </li>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.025</offset>
+               </li>
+            </capMods>
+         </li>
       </stages>
       <comps>
          <li Class="HediffCompProperties_VerbGiver">
@@ -133,26 +367,28 @@
             </tools>
          </li>
       </comps>
-    </HediffDef>
-    <HediffDef ParentName="KokuaddedAdvanced">
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
       <defName>KokuAdvancedBionicGunArm</defName>
       <label>advanced bionic gun arm</label>
-	  <labelNoun>an advanced bionic gun arm</labelNoun>
-	  <description>An installed advanced bionic gun arm.</description>
-      <descriptionHyperlinks><ThingDef>KokuAdvancedBionicGunArm</ThingDef></descriptionHyperlinks>
+      <labelNoun>an advanced bionic gun arm</labelNoun>
+      <description>An installed advanced bionic gun arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicGunArm</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuAdvancedBionicGunArm</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.40</partEfficiency>
       </addedPartProps>
       <stages>
-      <li>
-         <capMods>
-            <li>
-              <capacity>Moving</capacity>
-              <offset>-0.025</offset>
-            </li>
-          </capMods>
-      </li>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.025</offset>
+               </li>
+            </capMods>
+         </li>
       </stages>
       <comps>
          <li Class="HediffCompProperties_VerbGiver">
@@ -169,26 +405,227 @@
             </tools>
             <verbs>
                <li>
-                 <verbClass>Verb_Shoot</verbClass>
-                 <hasStandardCommand>true</hasStandardCommand>
-                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
-                 <warmupTime>1.0</warmupTime>
-                 <range>18.0</range>
-                 <soundCast>Shot_Autopistol</soundCast>
-                 <soundCastTail>GunTail_Light</soundCastTail>
-                 <muzzleFlashScale>9</muzzleFlashScale>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                  <warmupTime>1.0</warmupTime>
+                  <range>18.0</range>
+                  <soundCast>Shot_Autopistol</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>9</muzzleFlashScale>
                </li>
             </verbs>
          </li>
       </comps>
-    </HediffDef>
-    <!--=============================== Tier 4 ===================================-->
-    <HediffDef ParentName="KokuaddedUltra">
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicEMPArm</defName>
+      <label>Advanced bionic EMP arm</label>
+      <labelNoun>an installed advanced bionic EMP arm</labelNoun>
+      <description>An installed advanced bionic EMP arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicEMPArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicEMPArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.025</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic EMP arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>12</power>
+                  <cooldownTime>1.8</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_EMPLauncher</defaultProjectile>
+                  <warmupTime>4.0</warmupTime>
+                  <range>12.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicIncendiaryArm</defName>
+      <label>Advanced bionic incendiary arm</label>
+      <labelNoun>an installed advanced bionic incendiary arm</labelNoun>
+      <description>An installed advanced bionic incendiary arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicIncendiaryArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicIncendiaryArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.025</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic incendiary arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>12</power>
+                  <cooldownTime>1.8</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_IncendiaryLauncher</defaultProjectile>
+                  <warmupTime>4.0</warmupTime>
+                  <range>12.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicSmokeArm</defName>
+      <label>Advanced bionic smoke arm</label>
+      <labelNoun>an installed advanced bionic smoke arm</labelNoun>
+      <description>An installed advanced bionic smoke arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicSmokeArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuAdvancedBionicSmokeArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <stages>
+         <li>
+            <capMods>
+               <li>
+                  <capacity>Moving</capacity>
+                  <offset>-0.05</offset>
+               </li>
+            </capMods>
+         </li>
+      </stages>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>advanced bionic smoke arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>12</power>
+                  <cooldownTime>1.8</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_SmokeLauncher</defaultProjectile>
+                  <warmupTime>4.0</warmupTime>
+                  <range>12.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedAdvanced">
+      <defName>KokuAdvancedBionicFireBreathJaw</defName>
+      <label>Advanced bionic fire breath jaw</label>
+      <labelNoun>an installed advanced bionic fire breath jaw</labelNoun>
+      <description>An installed advanced bionic fire breath jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuAdvancedBionicFireBreathJaw</ThingDef>
+      </descriptionHyperlinks>
+      <addedPartProps>
+         <partEfficiency>1.40</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>KokuBulletFireBreathJaw</defaultProjectile>
+                  <ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
+                  <warmupTime>3.00</warmupTime>
+                  <range>12.0</range>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>InfernoCannon_Fire</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+      <spawnThingOnRemoved>KokuBulletFireBreathJaw</spawnThingOnRemoved>
+   </HediffDef>
+   <!--===============================Tier4===================================-->
+   <HediffDef ParentName="KokuaddedUltra">
       <defName>KokuUltraBionicClaw</defName>
       <label>ultra bionic claw</label>
-	  <labelNoun>an ultra bionic claw</labelNoun>
-	  <description>An installed ultra bionic claw.</description>
-      <descriptionHyperlinks><ThingDef>KokuUltraBionicClaw</ThingDef></descriptionHyperlinks>
+      <labelNoun>an ultra bionic claw</labelNoun>
+      <description>An installed ultra bionic claw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicClaw</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuUltraBionicClaw</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.50</partEfficiency>
@@ -210,13 +647,15 @@
             </tools>
          </li>
       </comps>
-    </HediffDef>
-    <HediffDef ParentName="KokuaddedUltra">
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
       <defName>KokuUltraBionicGunArm</defName>
       <label>ultra bionic gun arm</label>
-	  <labelNoun>an ultra bionic gun arm</labelNoun>
-	  <description>An installed ultra bionic gun arm.</description>
-      <descriptionHyperlinks><ThingDef>KokuUltraBionicGunArm</ThingDef></descriptionHyperlinks>
+      <labelNoun>an ultra bionic gun arm</labelNoun>
+      <description>An installed ultra bionic gun arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicGunArm</ThingDef>
+      </descriptionHyperlinks>
       <spawnThingOnRemoved>KokuUltraBionicGunArm</spawnThingOnRemoved>
       <addedPartProps>
          <partEfficiency>1.50</partEfficiency>
@@ -236,17 +675,186 @@
             </tools>
             <verbs>
                <li>
-                 <verbClass>Verb_Shoot</verbClass>
-                 <hasStandardCommand>true</hasStandardCommand>
-                 <defaultProjectile>Bullet_Autopistol</defaultProjectile>
-                 <warmupTime>1.0</warmupTime>
-                 <range>20.0</range>
-                 <soundCast>Shot_Autopistol</soundCast>
-                 <soundCastTail>GunTail_Light</soundCastTail>
-                 <muzzleFlashScale>9</muzzleFlashScale>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_Autopistol</defaultProjectile>
+                  <warmupTime>1.0</warmupTime>
+                  <range>20.0</range>
+                  <soundCast>Shot_Autopistol</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>9</muzzleFlashScale>
                </li>
             </verbs>
          </li>
       </comps>
-    </HediffDef>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicEMPArm</defName>
+      <label>Ultra bionic EMP arm</label>
+      <labelNoun>an installed ultra bionic EMP arm</labelNoun>
+      <description>An installed ultra bionic EMP arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicEMPArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicEMPArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.50</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic EMP arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>14</power>
+                  <cooldownTime>1.6</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_EMPLauncher</defaultProjectile>
+                  <warmupTime>3.5</warmupTime>
+                  <range>15.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicIncendiaryArm</defName>
+      <label>Ultra bionic incendiary arm</label>
+      <labelNoun>an installed ultra bionic incendiary arm</labelNoun>
+      <description>An installed ultra bionic incendiary arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicIncendiaryArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicIncendiaryArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.50</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic incendiary arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>14</power>
+                  <cooldownTime>1.6</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_IncendiaryLauncher</defaultProjectile>
+                  <warmupTime>3.5</warmupTime>
+                  <range>15.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicSmokeArm</defName>
+      <label>Ultra bionic smoke arm</label>
+      <labelNoun>an installed ultra bionic smoke arm</labelNoun>
+      <description>An installed ultra bionic smoke arm.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicSmokeArm</ThingDef>
+      </descriptionHyperlinks>
+      <spawnThingOnRemoved>KokuUltraBionicSmokeArm</spawnThingOnRemoved>
+      <addedPartProps>
+         <partEfficiency>1.50</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <tools>
+               <li>
+                  <label>ultra bionic smoke arm</label>
+                  <capacities>
+                     <li>Blunt</li>
+                  </capacities>
+                  <power>14</power>
+                  <cooldownTime>1.6</cooldownTime>
+                  <alwaysTreatAsWeapon>true</alwaysTreatAsWeapon>
+               </li>
+            </tools>
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>Bullet_SmokeLauncher</defaultProjectile>
+                  <warmupTime>3.5</warmupTime>
+                  <range>15.0</range>
+                  <forcedMissRadius>1.9</forcedMissRadius>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>Shot_IncendiaryLauncher</soundCast>
+                  <soundCastTail>GunTail_Medium</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+   </HediffDef>
+   <HediffDef ParentName="KokuaddedUltra">
+      <defName>KokuUltraBionicFireBreathJaw</defName>
+      <label>Ultra bionic fire breath jaw</label>
+      <labelNoun>an installed ultra bionic fire breath jaw</labelNoun>
+      <description>An installed ultra bionic fire breath jaw.</description>
+      <descriptionHyperlinks>
+         <ThingDef>KokuUltraBionicFireBreathJaw</ThingDef>
+      </descriptionHyperlinks>
+      <addedPartProps>
+         <partEfficiency>1.5</partEfficiency>
+      </addedPartProps>
+      <comps>
+         <li Class="HediffCompProperties_VerbGiver">
+            <verbs>
+               <li>
+                  <verbClass>Verb_Shoot</verbClass>
+                  <hasStandardCommand>true</hasStandardCommand>
+                  <defaultProjectile>KokuBulletFireBreathJaw</defaultProjectile>
+                  <ai_AvoidFriendlyFireRadius>3</ai_AvoidFriendlyFireRadius>
+                  <warmupTime>2.00</warmupTime>
+                  <range>15.0</range>
+                  <burstShotCount>1</burstShotCount>
+                  <soundCast>InfernoCannon_Fire</soundCast>
+                  <soundCastTail>GunTail_Light</soundCastTail>
+                  <muzzleFlashScale>14</muzzleFlashScale>
+                  <targetParams>
+                     <canTargetLocations>true</canTargetLocations>
+                  </targetParams>
+               </li>
+            </verbs>
+         </li>
+      </comps>
+      <spawnThingOnRemoved>KokuBulletFireBreathJaw</spawnThingOnRemoved>
+   </HediffDef>
 </Defs>

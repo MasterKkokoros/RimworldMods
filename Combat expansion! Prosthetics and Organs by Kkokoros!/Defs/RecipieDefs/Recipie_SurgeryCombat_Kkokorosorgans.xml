@@ -65,6 +65,158 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>KokuBionicGunArm</addsHediff>
 	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryBionic">
+		<defName>KokuInstallBionicEMPArm</defName>
+		<label>install bionic EMP arm</label>
+		<description>Installs bionic EMP arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic EMP arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicEMPArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuBionicEMPArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuBionicEMPArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryBionic">
+		<defName>KokuInstallBionicIncendiaryArm</defName>
+		<label>install bionic incendiary arm</label>
+		<description>Installs bionic incendiary arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic incendiary arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicIncendiaryArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuBionicIncendiaryArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuBionicIncendiaryArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryBionic">
+		<defName>KokuInstallBionicSmokeArm</defName>
+		<label>install bionic smoke arm</label>
+		<description>Installs bionic smoke arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic smoke arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicSmokeArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuBionicSmokeArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuBionicSmokeArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryBionic">
+		<defName>KokuInstallBionicFireBreathJaw</defName>
+		<label>install bionic fire breath jaw</label>
+		<description>Installs bionic fire breath jaw.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing bionic fire breath jaw.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuBionicFireBreathJaw</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuBionicFireBreathJaw</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Jaw</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuBionicFireBreathJaw</addsHediff>
+	 </RecipeDef>
     <!--=============================== Tier 3 ===================================-->
     <RecipeDef ParentName="KokuSurgeryAdvanced">
       <defName>KokuInstallAdvancedBionicClaw</defName>
@@ -129,6 +281,158 @@
 		</appliedOnFixedBodyParts>
 		<addsHediff>KokuAdvancedBionicGunArm</addsHediff>
 	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryAdvanced">
+		<defName>KokuInstallAdvancedBionicEMPArm</defName>
+		<label>install advanced bionic EMP arm</label>
+		<description>Installs advanced bionic EMP arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing advanced bionic EMP arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicEMPArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuAdvancedBionicEMPArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuAdvancedBionicEMPArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryAdvanced">
+		<defName>KokuInstallAdvancedBionicIncendiaryArm</defName>
+		<label>install advanced bionic incendiary arm</label>
+		<description>Installs advanced bionic incendiary arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing advanced bionic incendiary arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicIncendiaryArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuAdvancedBionicIncendiaryArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuAdvancedBionicIncendiaryArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryAdvanced">
+		<defName>KokuInstallAdvancedBionicSmokeArm</defName>
+		<label>install advanced bionic smoke arm</label>
+		<description>Installs advanced bionic smoke arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing advanced bionic smoke arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicSmokeArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuAdvancedBionicSmokeArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuAdvancedBionicSmokeArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryAdvanced">
+		<defName>KokuInstallAdvancedBionicFireBreathJaw</defName>
+		<label>install advanced bionic fire breath jaw</label>
+		<description>Installs advanced bionic fire breath jaw.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing advanced bionic fire breath jaw.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuAdvancedBionicFireBreathJaw</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuAdvancedBionicFireBreathJaw</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Jaw</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuAdvancedBionicFireBreathJaw</addsHediff>
+	 </RecipeDef>
     <!--=============================== Tier 4 ===================================-->
     <RecipeDef ParentName="KokuSurgeryUltra">
       <defName>KokuInstallUltraBionicClaw</defName>
@@ -192,5 +496,157 @@
 			<li>Shoulder</li>
 		</appliedOnFixedBodyParts>
 		<addsHediff>KokuUltraBionicGunArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryUltra">
+		<defName>KokuInstallUltraBionicEMPArm</defName>
+		<label>install ultra bionic EMP arm</label>
+		<description>Installs ultra bionic EMP arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing ultra bionic EMP arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicEMPArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuUltraBionicEMPArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuUltraBionicEMPArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryUltra">
+		<defName>KokuInstallUltraBionicIncendiaryArm</defName>
+		<label>install ultra bionic incendiary arm</label>
+		<description>Installs ultra bionic incendiary arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing ultra bionic incendiary arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicIncendiaryArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuUltraBionicIncendiaryArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuUltraBionicIncendiaryArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryUltra">
+		<defName>KokuInstallUltraBionicSmokeArm</defName>
+		<label>install ultra bionic smoke arm</label>
+		<description>Installs ultra bionic smoke arm.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing ultra bionic smoke arm.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicSmokeArm</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuUltraBionicSmokeArm</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Shoulder</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuUltraBionicSmokeArm</addsHediff>
+	 </RecipeDef>
+	 <RecipeDef ParentName="KokuSurgeryUltra">
+		<defName>KokuInstallUltraBionicFireBreathJaw</defName>
+		<label>install ultra bionic fire breath jaw</label>
+		<description>Installs ultra bionic fire breath jaw.</description>
+		<workerClass>Recipe_InstallArtificialBodyPart</workerClass>
+		<jobString>Installing ultra bionic fire breath jaw.</jobString>
+		<workAmount>350</workAmount>
+		<ingredients>
+			<li>
+				<filter>
+					<categories>
+						<li>Medicine</li>
+					</categories>
+				</filter>
+				<count>1</count>
+			</li>
+			<li>
+				<filter>
+					<thingDefs>
+						<li>KokuUltraBionicFireBreathJaw</li>
+					</thingDefs>
+				</filter>
+				<count>1</count>
+			</li>
+		</ingredients>
+		<fixedIngredientFilter>
+			<categories>
+				<li>Medicine</li>
+			</categories>
+			<thingDefs>
+				<li>KokuUltraBionicFireBreathJaw</li>
+			</thingDefs>
+		</fixedIngredientFilter>
+		<appliedOnFixedBodyParts>
+			<li>Jaw</li>
+		</appliedOnFixedBodyParts>
+		<addsHediff>KokuUltraBionicFireBreathJaw</addsHediff>
 	 </RecipeDef>
 </Defs>

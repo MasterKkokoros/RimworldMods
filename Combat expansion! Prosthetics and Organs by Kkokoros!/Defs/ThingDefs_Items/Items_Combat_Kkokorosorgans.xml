@@ -32,8 +32,7 @@
       <description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</description>
       <costList>
          <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
-         <Plasteel>45</Plasteel>
-         <ComponentIndustrial>6</ComponentIndustrial>
+         <KokuTier1kit>3</KokuTier1kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
@@ -45,8 +44,55 @@
       <description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in autopistol.</description>
       <costList>
          <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
-         <Plasteel>45</Plasteel>
-         <ComponentIndustrial>5</ComponentIndustrial>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicEMPArm</defName>
+      <label>bionic EMP arm</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in EMP launcher.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicIncendiaryArm</defName>
+      <label>bionic incendiary arm</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in incendiary launcher.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicSmokeArm</defName>
+      <label>bionic smoke arm</label>
+      <description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in smoke launcher.</description>
+      <costList>
+         <KokuSimpleHydraulicArm>1</KokuSimpleHydraulicArm>
+         <KokuTier1kit>3</KokuTier1kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuBionicsCombat">
+      <defName>KokuBionicFireBreathJaw</defName>
+      <label>bionic fire breath jaw</label>
+      <description>One of the most sophisticated jaw replacements. Is equipped with a built-in flamethrower.</description>
+      <costList>
+         <KokuHydraulicJaw>1</KokuHydraulicJaw>
+         <KokuTier1kit>3</KokuTier1kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
@@ -59,7 +105,7 @@
       <description>Is it still an arm? It gives the user extremely extreme strength.</description>
       <costList>
          <KokuBionicClaw>1</KokuBionicClaw>
-         <ComponentSpacer>6</ComponentSpacer>
+         <KokuTier2kit>3</KokuTier2kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
@@ -71,7 +117,55 @@
       <description>Is it still an arm? It gives the user extremely extreme strength with a built-in autopistol.</description>
       <costList>
          <KokuBionicGunArm>1</KokuBionicGunArm>
-         <ComponentSpacer>5</ComponentSpacer>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicEMPArm</defName>
+      <label>advanced bionic EMP arm</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength with a built-in EMP launcher.</description>
+      <costList>
+         <KokuBionicEMPArm>1</KokuBionicEMPArm>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicIncendiaryArm</defName>
+      <label>advanced bionic incendiary arm</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength with a built-in incendiary launcher.</description>
+      <costList>
+         <KokuBionicIncendiaryArm>1</KokuBionicIncendiaryArm>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicSmokeArm</defName>
+      <label>advanced bionic smoke arm</label>
+      <description>Is it still an arm? It gives the user extremely extreme strength with a built-in smoke launcher.</description>
+      <costList>
+         <KokuBionicSmokeArm>1</KokuBionicSmokeArm>
+         <KokuTier2kit>3</KokuTier2kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuAdvancedBionicsCombat">
+      <defName>KokuAdvancedBionicFireBreathJaw</defName>
+      <label>advanced bionic fire breath jaw</label>
+      <description>Is it still a jaw? It gives the user extremely extreme strength with a built-in flamethrower.</description>
+      <costList>
+         <KokuBionicFireBreathJaw>1</KokuBionicFireBreathJaw>
+         <KokuTier2kit>3</KokuTier2kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
@@ -84,7 +178,7 @@
       <description>This one is F%^$^ng insane.</description>
       <costList>
          <KokuAdvancedBionicClaw>1</KokuAdvancedBionicClaw>
-         <ComponentSpacer>11</ComponentSpacer>
+         <KokuTier3kit>3</KokuTier3kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
@@ -96,7 +190,55 @@
       <description>This one is F%^$^ng insane also is equipped with a built-in autopistol.</description>
       <costList>
          <KokuAdvancedBionicGunArm>1</KokuAdvancedBionicGunArm>
-         <ComponentSpacer>10</ComponentSpacer>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicEMPArm</defName>
+      <label>ultra bionic EMP arm</label>
+      <description>This one is F%^$^ng insane also is equipped with a built-in EMP launcher.</description>
+      <costList>
+         <KokuAdvancedBionicEMPArm>1</KokuAdvancedBionicEMPArm>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicIncendiaryArm</defName>
+      <label>ultra bionic incendiary arm</label>
+      <description>This one is F%^$^ng insane also is equipped with a built-in incendiary launcher.</description>
+      <costList>
+         <KokuAdvancedBionicIncendiaryArm>1</KokuAdvancedBionicIncendiaryArm>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicSmokeArm</defName>
+      <label>ultra bionic smoke arm</label>
+      <description>This one is F%^$^ng insane also is equipped with a built-in smoke launcher.</description>
+      <costList>
+         <KokuAdvancedBionicSmokeArm>1</KokuAdvancedBionicSmokeArm>
+         <KokuTier3kit>3</KokuTier3kit>
+      </costList>
+      <statBases>
+         <Mass>5</Mass>
+      </statBases>
+    </ThingDef>
+    <ThingDef ParentName="KokuUltraBionicsGun">
+      <defName>KokuUltraBionicFireBreathJaw</defName>
+      <label>ultra bionic fire breath jaw</label>
+      <description>This one is F%^$^ng insane also is equipped with a built-in flamethrower.</description>
+      <costList>
+         <KokuAdvancedBionicFireBreathJaw>1</KokuAdvancedBionicFireBreathJaw>
+         <KokuTier3kit>3</KokuTier3kit>
       </costList>
       <statBases>
          <Mass>5</Mass>
