@@ -31,7 +31,7 @@
   <ThingDef ParentName="ApparelBase">
     <thingClass>Apparel</thingClass>
     <defName>KokuSuicidevest</defName>
-    <label>Suiside Vest</label>
+    <label>Suicide  Vest</label>
     <description>This is a suicide vest with destructive power.</description>
     <techLevel>Industrial</techLevel>
 
