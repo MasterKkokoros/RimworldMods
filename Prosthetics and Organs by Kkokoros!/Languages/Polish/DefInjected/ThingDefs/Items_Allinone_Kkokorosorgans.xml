@@ -186,10 +186,10 @@
 	<KokuArtificialBrain.Description>Małe urządzenie, które dokłada wszelkich starań, aby mózg użytkownika działał. Zalecany tylko w przypadku poważnych uszkodzeń mózgu. Warto pamiętać, że ogranicza to moc mózgu! (100%)</KokuArtificialBrain.Description>
 
     <KokuAdvancedBrain.label>Zaawansowany mózg</KokuAdvancedBrain.label>
-	<KokuAdvancedBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika znów działa i nieznacznie go ulepsza. Warto pamiętać, że ogranicza to moc mózgu! (120%)</KokuAdvancedBrain.Description>
+	<KokuAdvancedBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika działa lepiej i nieznacznie go ulepsza.</KokuAdvancedBrain.Description>
 
     <KokuUltraBrain.label>Ultra mózg</KokuUltraBrain.label>
-	<KokuUltraBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika pracuje jak geniusz. Warto pamiętać, że ogranicza to moc mózgu! (150%)</KokuUltraBrain.Description>
+	<KokuUltraBrain.Description>Specjalne urządzenie, które sprawia, że mózg użytkownika pracuje jak geniusz.</KokuUltraBrain.Description>
 
     <!--==========lung==========-->
     <KokuArtificialLung.label>Sztuczne płuco</KokuArtificialLung.label>
