@@ -683,10 +683,10 @@
       <stages>
          <li>
             <statOffsets>
-               <MeleeDPS>0.5</MeleeDPS>
-               <MeleeArmorPenetration>0.5</MeleeArmorPenetration>
-               <MeleeHitChance>0.5</MeleeHitChance>
-               <MeleeDodgeChance>0.5</MeleeDodgeChance>
+               <MeleeDPS>0.75</MeleeDPS>
+               <MeleeArmorPenetration>0.75</MeleeArmorPenetration>
+               <MeleeHitChance>0.75</MeleeHitChance>
+               <MeleeDodgeChance>0.75</MeleeDodgeChance>
                <PawnTrapSpringChance>0.75</PawnTrapSpringChance>
             </statOffsets>
          </li>
@@ -703,10 +703,10 @@
       <stages>
          <li>
             <statOffsets>
-               <MeleeDPS>1</MeleeDPS>
-               <MeleeArmorPenetration>1</MeleeArmorPenetration>
-               <MeleeHitChance>1</MeleeHitChance>
-               <MeleeDodgeChance>1</MeleeDodgeChance>
+               <MeleeDPS>1.5</MeleeDPS>
+               <MeleeArmorPenetration>1.5</MeleeArmorPenetration>
+               <MeleeHitChance>1.5</MeleeHitChance>
+               <MeleeDodgeChance>1.5</MeleeDodgeChance>
                <PawnTrapSpringChance>0.50</PawnTrapSpringChance>
             </statOffsets>
          </li>
@@ -723,10 +723,10 @@
       <stages>
          <li>
             <statOffsets>
-               <MeleeDPS>1.5</MeleeDPS>
-               <MeleeArmorPenetration>1.5</MeleeArmorPenetration>
-               <MeleeHitChance>1.5</MeleeHitChance>
-               <MeleeDodgeChance>1.5</MeleeDodgeChance>
+               <MeleeDPS>2</MeleeDPS>
+               <MeleeArmorPenetration>2</MeleeArmorPenetration>
+               <MeleeHitChance>2</MeleeHitChance>
+               <MeleeDodgeChance>2</MeleeDodgeChance>
                <PawnTrapSpringChance>0.25</PawnTrapSpringChance>
             </statOffsets>
          </li>
@@ -744,13 +744,13 @@
       <stages>
          <li>
             <statOffsets>
-               <ShootingAccuracyPawn>0.5</ShootingAccuracyPawn>
-               <ShootingAccuracyFactor_Touch>0.25</ShootingAccuracyFactor_Touch>
-               <ShootingAccuracyFactor_Short>0.25</ShootingAccuracyFactor_Short>
-               <ShootingAccuracyFactor_Medium>0.25</ShootingAccuracyFactor_Medium>
-               <ShootingAccuracyFactor_Long>0.25</ShootingAccuracyFactor_Long>
-               <AimingDelayFactor>-0.25</AimingDelayFactor>
-               <MortarMissRadiusFactor>-0.25</MortarMissRadiusFactor>
+               <ShootingAccuracyPawn>0.75</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>0.5</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>0.5</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>0.5</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>0.5</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-0.5</AimingDelayFactor>
+               <MortarMissRadiusFactor>-0.5</MortarMissRadiusFactor>
             </statOffsets>
          </li>
       </stages>
@@ -766,13 +766,13 @@
       <stages>
          <li>
             <statOffsets>
-               <ShootingAccuracyPawn>1</ShootingAccuracyPawn>
-               <ShootingAccuracyFactor_Touch>0.5</ShootingAccuracyFactor_Touch>
-               <ShootingAccuracyFactor_Short>0.5</ShootingAccuracyFactor_Short>
-               <ShootingAccuracyFactor_Medium>0.5</ShootingAccuracyFactor_Medium>
-               <ShootingAccuracyFactor_Long>0.5</ShootingAccuracyFactor_Long>
-               <AimingDelayFactor>-0.5</AimingDelayFactor>
-               <MortarMissRadiusFactor>-0.5</MortarMissRadiusFactor>
+               <ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>0.75</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>0.75</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>0.75</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-0.75</AimingDelayFactor>
+               <MortarMissRadiusFactor>-0.75</MortarMissRadiusFactor>
             </statOffsets>
          </li>
       </stages>
@@ -788,13 +788,13 @@
       <stages>
          <li>
             <statOffsets>
-               <ShootingAccuracyPawn>1.5</ShootingAccuracyPawn>
-               <ShootingAccuracyFactor_Touch>0.75</ShootingAccuracyFactor_Touch>
-               <ShootingAccuracyFactor_Short>0.75</ShootingAccuracyFactor_Short>
-               <ShootingAccuracyFactor_Medium>0.75</ShootingAccuracyFactor_Medium>
-               <ShootingAccuracyFactor_Long>0.75</ShootingAccuracyFactor_Long>
-               <AimingDelayFactor>-0.75</AimingDelayFactor>
-               <MortarMissRadiusFactor>-0.75</MortarMissRadiusFactor>
+               <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
+               <ShootingAccuracyFactor_Touch>1</ShootingAccuracyFactor_Touch>
+               <ShootingAccuracyFactor_Short>1</ShootingAccuracyFactor_Short>
+               <ShootingAccuracyFactor_Medium>1</ShootingAccuracyFactor_Medium>
+               <ShootingAccuracyFactor_Long>1</ShootingAccuracyFactor_Long>
+               <AimingDelayFactor>-1</AimingDelayFactor>
+               <MortarMissRadiusFactor>-1</MortarMissRadiusFactor>
             </statOffsets>
          </li>
       </stages>
