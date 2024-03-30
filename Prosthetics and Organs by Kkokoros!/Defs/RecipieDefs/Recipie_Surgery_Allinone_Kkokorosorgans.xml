@@ -107,6 +107,7 @@
       <workAmount>3000</workAmount>
    </RecipeDef>
    <!--Parts-->
+   <!--
    <RecipeDef ParentName="KokuSurgeryRemoval">
       <defName>KokuRemoveArtificialBrain</defName>
       <label>remove artificial brain</label>
@@ -131,6 +132,7 @@
       <removesHediff>KokuUltraBrain</removesHediff>
       <successfullyRemovedHediffMessage>{0} has successfully removed {1}'s ultra brain.</successfullyRemovedHediffMessage>
    </RecipeDef>
+   -->
    <RecipeDef ParentName="KokuSurgeryRemoval">
       <defName>KokuRemoveNeck</defName>
       <label>remove bionic neck</label>
@@ -950,7 +952,7 @@
          </thingDefs>
       </fixedIngredientFilter>
       <appliedOnFixedBodyParts>
-         <li>Brain</li>
+         <li>KokuBrainSlot</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuArtificialBrain</addsHediff>
       <researchPrerequisite>KokuBrainSurgery</researchPrerequisite>
@@ -1551,7 +1553,7 @@
          </thingDefs>
       </fixedIngredientFilter>
       <appliedOnFixedBodyParts>
-         <li>Brain</li>
+         <li>KokuBrainSlot</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuAdvancedBrain</addsHediff>
       <researchPrerequisite>KokuAdvancedBrainSurgery</researchPrerequisite>
@@ -2152,7 +2154,7 @@
          </thingDefs>
       </fixedIngredientFilter>
       <appliedOnFixedBodyParts>
-         <li>Brain</li>
+         <li>KokuBrainSlot</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuUltraBrain</addsHediff>
       <researchPrerequisite>KokuUltraBrainSurgery</researchPrerequisite>

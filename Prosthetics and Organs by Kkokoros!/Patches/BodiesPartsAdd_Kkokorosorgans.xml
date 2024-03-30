@@ -3,6 +3,21 @@
     <Operation Class="PatchOperationSequence">
         <operations>
             <li Class="PatchOperationAdd">
+                <xpath>*/BodyDef/corePart[def="Torso"]/parts/li[def="Neck"]/parts/li[def="Head"]/parts/li[def="Skull"]/parts</xpath>
+                <value>
+                    <li>
+                        <def>KokuBrainSlot</def>
+                        <coverage>0.0</coverage>
+                        <depth>Inside</depth>
+                        <groups>
+                            <li>UpperHead</li>
+                            <li>Eyes</li>
+                            <li>FullHead</li>
+                        </groups>
+                    </li>
+                </value>
+            </li>
+            <li Class="PatchOperationAdd">
                 <xpath>*/BodyDef/corePart/parts</xpath>
                 <value>
                     <li>

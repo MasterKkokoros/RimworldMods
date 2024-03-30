@@ -558,7 +558,6 @@
    </HediffDef>
    <!--organs-->
    <HediffDef ParentName="KokuaddedSimpleOrgans">
-      <hediffClass>Hediff_Implant</hediffClass>
       <defName>KokuArtificialBrain</defName>
       <label>artificial brain</label>
       <description>An installed artificial brain.</description>
@@ -989,7 +988,6 @@
    </HediffDef>
    <!--organs-->
    <HediffDef ParentName="KokuaddedSyntheticOrgans">
-      <hediffClass>Hediff_Implant</hediffClass>
       <defName>KokuAdvancedBrain</defName>
       <label>Advanced brain</label>
       <description>An installed Advanced brain.</description>
@@ -1007,13 +1005,10 @@
             <capMods>
                <li>
                   <capacity>Consciousness</capacity>
-                  <offset>1.2</offset>
-               </li>
-               <li>
-                  <capacity>Consciousness</capacity>
-                  <setMax>1.2</setMax>
+                  <offset>0.25</offset>
                </li>
             </capMods>
+            <hungerRateFactorOffset>0.25</hungerRateFactorOffset>
          </li>
       </stages>
    </HediffDef>
@@ -1410,7 +1405,6 @@
    </HediffDef>
    <!--organs-->
    <HediffDef ParentName="KokuaddedUltraOrgans">
-      <hediffClass>Hediff_Implant</hediffClass>
       <defName>KokuUltraBrain</defName>
       <label>ultra brain</label>
       <description>An installed ultra brain.</description>
@@ -1428,13 +1422,11 @@
             <capMods>
                <li>
                   <capacity>Consciousness</capacity>
-                  <offset>1.5</offset>
+                  <offset>0.5</offset>
                </li>
-               <li>
-                  <capacity>Consciousness</capacity>
-                  <setMax>1.5</setMax>
-               </li>
+               
             </capMods>
+            <hungerRateFactorOffset>0.5</hungerRateFactorOffset>
          </li>
       </stages>
    </HediffDef>
@@ -1476,7 +1468,6 @@
             </makeImmuneTo>
             <statOffsets>
                <FoodPoisonChance>-1.0</FoodPoisonChance>
-               
             </statOffsets>
             <hungerRateFactorOffset>-0.50</hungerRateFactorOffset>
          </li>
