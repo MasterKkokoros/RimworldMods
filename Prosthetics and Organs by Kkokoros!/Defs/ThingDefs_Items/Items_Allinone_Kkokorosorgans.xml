@@ -787,8 +787,7 @@
    <ThingDef ParentName="KokuBrainSurgery">
       <defName>KokuArtificialBrain</defName>
       <label>artificial brain</label>
-      <description>A small device that does its best to keep its user brain to work. Recommended for
-         severe brain damage only.</description>
+      <description>A small device that does its best to keep its user brain to work. Recommended for severe brain damage only. Worth remembering that it limits the brain power! (100%)</description>
       <costList>
          <Steel>25</Steel>
          <KokuTier1kit>2</KokuTier1kit>
@@ -1055,7 +1054,7 @@
    <ThingDef ParentName="KokuAdvancedBrainSurgery">
       <defName>KokuAdvancedBrain</defName>
       <label>Advanced brain</label>
-      <description>A special device that makes users brain work again and upgrades it slightly.</description>
+      <description>A special device that makes users brain work again and upgrades it slightly. Worth remembering that it limits the brain power! (120%)</description>
       <costList>
          <KokuArtificialBrain>1</KokuArtificialBrain>
          <Gold>2</Gold>
@@ -1325,7 +1324,7 @@
    <ThingDef ParentName="KokuUltraBrainSurgery">
       <defName>KokuUltraBrain</defName>
       <label>ultra brain</label>
-      <description>A special device that makes users brain work like a genius.</description>
+      <description>A special device that makes users brain work like a genius. Worth remembering that it limits the brain power! (150%)</description>
       <costList>
          <KokuAdvancedBrain>1</KokuAdvancedBrain>
          <Gold>5</Gold>
