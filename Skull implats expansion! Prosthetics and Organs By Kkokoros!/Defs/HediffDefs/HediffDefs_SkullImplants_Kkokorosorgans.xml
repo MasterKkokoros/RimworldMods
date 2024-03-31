@@ -128,6 +128,7 @@
          <li>
             <statOffsets>
                <ResearchSpeed>1</ResearchSpeed>
+               <HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">1</HackingSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -144,6 +145,7 @@
          <li>
             <statOffsets>
                <ResearchSpeed>2.0</ResearchSpeed>
+               <HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">2</HackingSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -160,6 +162,7 @@
          <li>
             <statOffsets>
                <ResearchSpeed>3.0</ResearchSpeed>
+               <HackingSpeed MayRequire="Ludeon.RimWorld.Ideology">3</HackingSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -233,6 +236,7 @@
             <statOffsets>
                <PlantWorkSpeed>1</PlantWorkSpeed>
                <PlantHarvestYield>1</PlantHarvestYield>
+               <PruningSpeed MayRequire="Ludeon.RimWorld.Ideology">0.5</PruningSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -250,6 +254,7 @@
             <statOffsets>
                <PlantWorkSpeed>2</PlantWorkSpeed>
                <PlantHarvestYield>2</PlantHarvestYield>
+               <PruningSpeed MayRequire="Ludeon.RimWorld.Ideology">0.75</PruningSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -267,6 +272,7 @@
             <statOffsets>
                <PlantWorkSpeed>3</PlantWorkSpeed>
                <PlantHarvestYield>3</PlantHarvestYield>
+               <PruningSpeed MayRequire="Ludeon.RimWorld.Ideology">1</PruningSpeed>
             </statOffsets>
          </li>
       </stages>
@@ -399,8 +405,8 @@
       <stages>
          <li>
             <statOffsets>
-               <ConstructionSpeed>1</ConstructionSpeed>
-               <ConstructSuccessChance>1</ConstructSuccessChance>
+               <ConstructionSpeed>0.5</ConstructionSpeed>
+               <ConstructSuccessChance>0.5</ConstructSuccessChance>
                <FixBrokenDownBuildingSuccessChance>1</FixBrokenDownBuildingSuccessChance>
                <SmoothingSpeed>1</SmoothingSpeed>
             </statOffsets>
@@ -418,8 +424,8 @@
       <stages>
          <li>
             <statOffsets>
-               <ConstructionSpeed>2</ConstructionSpeed>
-               <ConstructSuccessChance>2</ConstructSuccessChance>
+               <ConstructionSpeed>1</ConstructionSpeed>
+               <ConstructSuccessChance>1</ConstructSuccessChance>
                <FixBrokenDownBuildingSuccessChance>2</FixBrokenDownBuildingSuccessChance>
                <SmoothingSpeed>2</SmoothingSpeed>
             </statOffsets>
@@ -437,8 +443,8 @@
       <stages>
          <li>
             <statOffsets>
-               <ConstructionSpeed>3</ConstructionSpeed>
-               <ConstructSuccessChance>3</ConstructSuccessChance>
+               <ConstructionSpeed>1.5</ConstructionSpeed>
+               <ConstructSuccessChance>1.5</ConstructSuccessChance>
                <FixBrokenDownBuildingSuccessChance>3</FixBrokenDownBuildingSuccessChance>
                <SmoothingSpeed>3</SmoothingSpeed>
             </statOffsets>
@@ -518,6 +524,8 @@
                <ArrestSuccessChance>1</ArrestSuccessChance>
                <TradePriceImprovement>0.5</TradePriceImprovement>
                <DrugSellPriceImprovement>1</DrugSellPriceImprovement>
+               <ConversionPower MayRequire="Ludeon.RimWorld.Ideology">0.5</ConversionPower>
+               <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.5</SuppressionPower>
             </statOffsets>
          </li>
       </stages>
@@ -539,6 +547,8 @@
                <ArrestSuccessChance>2</ArrestSuccessChance>
                <TradePriceImprovement>1.0</TradePriceImprovement>
                <DrugSellPriceImprovement>2</DrugSellPriceImprovement>
+               <ConversionPower MayRequire="Ludeon.RimWorld.Ideology">0.75</ConversionPower>
+               <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">0.75</SuppressionPower>
             </statOffsets>
          </li>
       </stages>
@@ -560,6 +570,8 @@
                <ArrestSuccessChance>3</ArrestSuccessChance>
                <TradePriceImprovement>1.5</TradePriceImprovement>
                <DrugSellPriceImprovement>3</DrugSellPriceImprovement>
+               <ConversionPower MayRequire="Ludeon.RimWorld.Ideology">1</ConversionPower>
+               <SuppressionPower MayRequire="Ludeon.RimWorld.Ideology">1</SuppressionPower>
             </statOffsets>
          </li>
       </stages>

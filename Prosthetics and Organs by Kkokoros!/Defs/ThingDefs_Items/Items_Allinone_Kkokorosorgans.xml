@@ -49,7 +49,7 @@
          <shaderType>CutoutComplex</shaderType>
       </graphicData>
       <statBases>
-         <MarketValue>30</MarketValue>
+         <MarketValue>210</MarketValue>
          <Mass>0.5</Mass>
          <Flammability>0.0</Flammability>
          <DeteriorationRate>0</DeteriorationRate>
@@ -71,7 +71,7 @@
       </recipeMaker>
       <costList>
          <Plasteel>5</Plasteel>
-         <ComponentIndustrial>2</ComponentIndustrial>
+         <ComponentIndustrial>5</ComponentIndustrial>
       </costList>
    </ThingDef>
 
@@ -88,7 +88,7 @@
          <shaderType>CutoutComplex</shaderType>
       </graphicData>
       <statBases>
-         <MarketValue>60</MarketValue>
+         <MarketValue>250</MarketValue>
          <Mass>0.5</Mass>
          <Flammability>0.0</Flammability>
          <DeteriorationRate>0</DeteriorationRate>
@@ -127,7 +127,7 @@
          <shaderType>CutoutComplex</shaderType>
       </graphicData>
       <statBases>
-         <MarketValue>120</MarketValue>
+         <MarketValue>700</MarketValue>
          <Mass>0.5</Mass>
          <Flammability>0.0</Flammability>
          <DeteriorationRate>0</DeteriorationRate>
