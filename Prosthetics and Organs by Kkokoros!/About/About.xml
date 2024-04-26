@@ -13,14 +13,15 @@
 		<li>1.5</li>
 	</supportedVersions>
 	<description>
+		For more info check out the github page :D
 		Adds the ability to craft tons of prostheses and artificial organs.
 
 		Adds 5 Tiers of artificial prosthetics and organs:
-		T0: (40%)Wooden Replacements
-		T1: (75%)Artificial Replacements
-		T2: (125%)Bionic Replacements
-		T3: (145%)Advanced Bionic Replacements
-		T4: (155%)Ultra Bionic Replacements
+		T0: Wooden Replacements
+		T1: Artificial Replacements
+		T2: Bionic Replacements
+		T3: Advanced Bionic Replacements
+		T4: Ultra Bionic Replacements
 
 		Includes Replacements for:
 		Shoulder-arms(shoulders),Legs,Eyes,Ears,Nose,Jaw,Spine,Pelvis,Neck,
@@ -79,4 +80,5 @@
 		<li>Dubwise.DubsBadHygiene</li>
 		<li>Kkokoros.expandedorgans</li>
 	</loadAfter>
+	<modIconPath IgnoreIfNoMatchingField="True">Things/Item/BodyPart/KokuUnfinishedOrgansOrBionics</modIconPath>
 </ModMetaData>

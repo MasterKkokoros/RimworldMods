@@ -1,11 +1,14 @@
+[url=https://github.com/MasterKkokoros/RimworldMods/tree/main/Prosthetics%20and%20Organs%20by%20Kkokoros!]github[/url] 
+
+[url=https://github.com/MasterKkokoros/RimworldMods/tree/main/Prosthetics%20and%20Organs%20by%20Kkokoros!]For more info about the mod check out this :D[/url] 
 Adds the ability to craft tons of prostheses and artificial organs.
 
 Adds 5 Tiers of artificial prosthetics and organs:
-T0: (40%)Wooden Replacements
-T1: (75%)Artificial Replacements
-T2: (125%)Bionic Replacements
-T3: (145%)Advanced Bionic Replacements
-T4: (155%)Ultra Bionic Replacements
+T0: Wooden Replacements
+T1: Artificial Replacements
+T2: Bionic Replacements
+T3: Advanced Bionic Replacements
+T4: Ultra Bionic Replacements
 
 Includes Replacements for:
 Arms(shoulders),Legs,Eyes,Ears,Nose,Jaw,Spine,Pelvis,Neck,
@@ -47,6 +50,7 @@ Expansions:
 [list]
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2970533001]Combat expansion[/url]
 [*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2971800901]Beauty expansion[/url]
+[*] [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3177805407]Skull implants expansion[/url]
 [/list]
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2288125657][img]https://i.imgur.com/kNldlMg.png[/img][/url]
@@ -64,82 +68,6 @@ Special thanks to these people for help :D
 [*] Textures | Moonlight
 [*] C# code  | WiiZoo
 [/list]
-
-Prosthetics
-[img]https://i.imgur.com/fRL5wgc.png[/img]
-[img]https://i.imgur.com/UQCKxQy.png[/img]
-[img]https://i.imgur.com/5aKpS3x.png[/img]
-[img]https://i.imgur.com/2xED6Br.png[/img]
-[img]https://i.imgur.com/ZBMA0J5.png[/img]
-[img]https://i.imgur.com/ZQ76xYC.png[/img]
-[img]https://i.imgur.com/pnCi6I8.png[/img]
-[img]https://i.imgur.com/QSpbd7R.png[/img]
-[img]https://i.imgur.com/FbuylfW.png[/img]
-[img]https://i.imgur.com/i656K11.png[/img]
-[img]https://i.imgur.com/Z71tdrV.png[/img]
-[img]https://i.imgur.com/68jN0FX.png[/img]
-[img]https://i.imgur.com/E37RqKf.png[/img]
-[img]https://i.imgur.com/pfXj4R2.png[/img]
-[img]https://i.imgur.com/QPND1KL.png[/img]
-[img]https://i.imgur.com/ee9BfJ3.png[/img]
-[img]https://i.imgur.com/CVRlREE.png[/img]
-[img]https://i.imgur.com/e0stQB5.png[/img]
-[img]https://i.imgur.com/822ADZr.png[/img]
-[img]https://i.imgur.com/fsYMide.png[/img]
-[img]https://i.imgur.com/eswipFG.png[/img]
-[img]https://i.imgur.com/DZRxIH5.png[/img]
-[img]https://i.imgur.com/4DFgdNV.png[/img]
-[img]https://i.imgur.com/3y10a0L.png[/img]
-[img]https://i.imgur.com/kUP6tXo.png[/img]
-[img]https://i.imgur.com/ishyHqA.png[/img]
-[img]https://i.imgur.com/Fwh8LUH.png[/img]
-[img]https://i.imgur.com/hGXX8kH.png[/img]
-[img]https://i.imgur.com/9RsdoTE.png[/img]
-[img]https://i.imgur.com/tg0qZKw.png[/img]
-[img]https://i.imgur.com/r9BKBln.png[/img]
-[img]https://i.imgur.com/VNVg22G.png[/img]
-[img]https://i.imgur.com/Mq8Nk0m.png[/img]
-[img]https://i.imgur.com/0R4PoPV.png[/img]
-[img]https://i.imgur.com/BMSx2B1.png[/img]
-[img]https://i.imgur.com/QTICD60.png[/img]
-[img]https://i.imgur.com/18M9WgU.png[/img]
-[img]https://i.imgur.com/Qt1S9s5.png[/img]
-[img]https://i.imgur.com/eiAW44b.png[/img]
-[img]https://i.imgur.com/kN7zDrG.png[/img]
-[img]https://i.imgur.com/iqRKpUb.png[/img]
-[img]https://i.imgur.com/Tk9RbsA.png[/img]
-[img]https://i.imgur.com/N8fDUkQ.png[/img]
-[img]https://i.imgur.com/v1CRO4t.png[/img]
-[img]https://i.imgur.com/HlnZ012.png[/img]
-[img]https://i.imgur.com/mVdv8l2.png[/img]
-[img]https://i.imgur.com/g5oPcyM.png[/img]
-[img]https://i.imgur.com/h9AOZu3.png[/img]
-[img]https://i.imgur.com/DO6MVuz.png[/img]
-[img]https://i.imgur.com/tdeWvWN.png[/img]
-[img]https://i.imgur.com/3zaykdj.png[/img]
-[img]https://i.imgur.com/AyUtF99.png[/img]
-[img]https://i.imgur.com/OWE6Lbg.png[/img]
-[img]https://i.imgur.com/39TL9xy.png[/img]
-Organs
-[img]https://i.imgur.com/hIIIyta.png[/img]
-[img]https://i.imgur.com/2us47Tx.png[/img]
-[img]https://i.imgur.com/1hCTqiL.png[/img]
-[img]https://i.imgur.com/ZMBsI46.png[/img]
-[img]https://i.imgur.com/7QNuD8c.png[/img]
-[img]https://i.imgur.com/wZr3MfI.png[/img]
-[img]https://i.imgur.com/NcYd00H.png[/img]
-[img]https://i.imgur.com/LIYUGg2.png[/img]
-[img]https://i.imgur.com/qdkZqVl.png[/img]
-[img]https://i.imgur.com/VKP9NXZ.png[/img]
-[img]https://i.imgur.com/93m91Mx.png[/img]
-[img]https://i.imgur.com/n5OYMkv.png[/img]
-[img]https://i.imgur.com/r9xLpo6.png[/img]
-[img]https://i.imgur.com/Xwf9i2N.png[/img]
-[img]https://i.imgur.com/awa7Jgs.png[/img]
-[img]https://i.imgur.com/zh1XAxy.png[/img]
-[img]https://i.imgur.com/LrNXFLc.png[/img]
-[img]https://i.imgur.com/a3TOf1n.png[/img]
-
 
 You can enable or disable the eyes textures in options
 You can enable or disable other mod's xenoparts in opions, leaving only those from this mod.

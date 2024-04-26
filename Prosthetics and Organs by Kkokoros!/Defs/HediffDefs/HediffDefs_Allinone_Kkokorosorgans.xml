@@ -115,7 +115,7 @@
       <spawnThingOnRemoved>KokuWoodenJaw</spawnThingOnRemoved>
       <addedPartProps>
          <solid>true</solid>
-         <partEfficiency>0.4</partEfficiency>
+         <partEfficiency>0.6</partEfficiency>
       </addedPartProps>
    </HediffDef>
    <HediffDef ParentName="KokuaddedProsteticBasic">
@@ -129,7 +129,7 @@
       <spawnThingOnRemoved>KokuWoodenArm</spawnThingOnRemoved>
       <addedPartProps>
          <solid>true</solid>
-         <partEfficiency>0.4</partEfficiency>
+         <partEfficiency>0.6</partEfficiency>
       </addedPartProps>
       <comps>
          <li Class="HediffCompProperties_VerbGiver">
@@ -139,8 +139,8 @@
                   <capacities>
                      <li>Blunt</li>
                   </capacities>
-                  <power>10</power>
-                  <cooldownTime>1.8</cooldownTime>
+                  <power>7</power>
+                  <cooldownTime>2.2</cooldownTime>
                </li>
             </tools>
          </li>
@@ -157,7 +157,7 @@
       <spawnThingOnRemoved>KokuWoodenLeg</spawnThingOnRemoved>
       <addedPartProps>
          <solid>true</solid>
-         <partEfficiency>0.4</partEfficiency>
+         <partEfficiency>0.6</partEfficiency>
       </addedPartProps>
    </HediffDef>
    <!--===============================Tier1===================================-->
@@ -554,7 +554,7 @@
                </li>
             </capMods>
          </li>
-      </stages>
+      </stages> 
    </HediffDef>
    <!--organs-->
    <HediffDef ParentName="KokuaddedSimpleOrgans">
@@ -620,9 +620,9 @@
          <li>
             <makeImmuneTo>
                <li>FoodPoisoning</li>
+               <li>GutWorms</li>
             </makeImmuneTo>
             <statOffsets>
-               <FoodPoisonChance>-1.0</FoodPoisonChance>
                
             </statOffsets>
             <hungerRateFactorOffset>0.25</hungerRateFactorOffset>
@@ -989,7 +989,7 @@
    <!--organs-->
    <HediffDef ParentName="KokuaddedSyntheticOrgans">
       <defName>KokuAdvancedBrain</defName>
-      <label>Advanced brain</label>
+      <label>advanced brain</label>
       <description>An installed Advanced brain.</description>
       <descriptionHyperlinks>
          <ThingDef>KokuAdvancedBrain</ThingDef>
@@ -1047,9 +1047,9 @@
          <li>
             <makeImmuneTo>
                <li>FoodPoisoning</li>
+               <li>GutWorms</li>
             </makeImmuneTo>
             <statOffsets>
-               <FoodPoisonChance>-1.0</FoodPoisonChance>
                
             </statOffsets>
             <hungerRateFactorOffset>-0.25</hungerRateFactorOffset>
@@ -1465,9 +1465,10 @@
          <li>
             <makeImmuneTo>
                <li>FoodPoisoning</li>
+               <li>GutWorms</li>
             </makeImmuneTo>
             <statOffsets>
-               <FoodPoisonChance>-1.0</FoodPoisonChance>
+
             </statOffsets>
             <hungerRateFactorOffset>-0.50</hungerRateFactorOffset>
          </li>
