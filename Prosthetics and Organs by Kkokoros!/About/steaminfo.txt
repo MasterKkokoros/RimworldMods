@@ -1,6 +1,6 @@
 [url=https://github.com/MasterKkokoros/RimworldMods/tree/main/Prosthetics%20and%20Organs%20by%20Kkokoros!]github[/url] 
 
-[url=https://github.com/MasterKkokoros/RimworldMods/tree/main/Prosthetics%20and%20Organs%20by%20Kkokoros!]For more info about the mod check out this :D[/url] 
+[url=https://github.com/MasterKkokoros/RimworldMods/wiki/Prosthetics-and-Organs-by-Kkokoros!]For more info about the mod check out this :D[/url] 
 Adds the ability to craft tons of prostheses and artificial organs.
 
 Adds 5 Tiers of artificial prosthetics and organs:
