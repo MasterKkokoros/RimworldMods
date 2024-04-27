@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+        <mods>
+            <li>addMoreSlots1</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/BodyDef/corePart/parts/li[def="Neck"]/parts/li[def="Head"]/parts</xpath>
+            <value>
+                <li>
+                    <def>KokuSkullSlot</def>
+                    <coverage>0.0</coverage>
+                    <depth>Inside</depth>
+                    <groups>
+                        <li>FullHead</li>
+                    </groups>
+                </li>
+            </value>
+        </match>
+    </Operation>
+    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+        <mods>
+            <li>addMoreSlots2</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/BodyDef/corePart/parts/li[def="Neck"]/parts/li[def="Head"]/parts</xpath>
+            <value>
+                <li>
+                    <def>KokuSkullSlot</def>
+                    <coverage>0.0</coverage>
+                    <depth>Inside</depth>
+                    <groups>
+                        <li>FullHead</li>
+                    </groups>
+                </li>
+            </value>
+        </match>
+    </Operation>
+    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+        <mods>
+            <li>addMoreSlots3</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/BodyDef/corePart/parts/li[def="Neck"]/parts/li[def="Head"]/parts</xpath>
+            <value>
+                <li>
+                    <def>KokuSkullSlot</def>
+                    <coverage>0.0</coverage>
+                    <depth>Inside</depth>
+                    <groups>
+                        <li>FullHead</li>
+                    </groups>
+                </li>
+            </value>
+        </match>
+    </Operation>
+    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+        <mods>
+            <li>addMoreSlots4</li>
+        </mods>
+        <match Class="PatchOperationAdd">
+            <xpath>Defs/BodyDef/corePart/parts/li[def="Neck"]/parts/li[def="Head"]/parts</xpath>
+            <value>
+                <li>
+                    <def>KokuSkullSlot</def>
+                    <coverage>0.0</coverage>
+                    <depth>Inside</depth>
+                    <groups>
+                        <li>FullHead</li>
+                    </groups>
+                </li>
+            </value>
+        </match>
+    </Operation>
+</Patch>

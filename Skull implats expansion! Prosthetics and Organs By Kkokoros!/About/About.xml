@@ -34,4 +34,5 @@ If you see any errors or issues. let me know in the comments.
 	<loadAfter>
         <li>Kkokoros.organs</li>
     </loadAfter>
+    <modIconPath IgnoreIfNoMatchingField="True">Things/Item/BodyPart/KokuUnfinishedOrgansOrBionics</modIconPath>
 </ModMetaData>
