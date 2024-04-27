@@ -1,210 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-    <Operation Class="PatchOperationSequence">
-        <operations>
-            <!-- Bun race -->
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/HediffDef[defName="Bun_ProstheticTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/ThingDef[defName="Bun_ProstheticTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/RecipeDef[defName="InstallBun_ProstheticTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/HediffDef[defName="Bun_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/ThingDef[defName="Bun_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/RecipeDef[defName="InstallBun_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationReplace" MayRequire="SpankyH.BunRace.core">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Bun"]/alienRace/generalSettings/alienPartGenerator/bodyAddons/li/hediffGraphics/Bun_BionicTail</xpath>
-                <value>
-                    <KokuBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuBionicTail>
-                    <KokuAdvancedBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuAdvancedBionicTail>
-                    <KokuUltraBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuUltraBionicTail>
-                </value>
-            </li>
-            
-
-
-
-            <!-- Ratkin race -->
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/HediffDef[defName="RK_FakeEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/ThingDef[defName="RK_FakeEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/RecipeDef[defName="RK_InstallFakeEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/HediffDef[defName="RK_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/ThingDef[defName="RK_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/RecipeDef[defName="RK_InstallFakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/HediffDef[defName="RK_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/ThingDef[defName="RK_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/RecipeDef[defName="RK_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallFakeEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallFakeTail"]</xpath>
-            </li>
-
-
-
-
-            <!-- nyaron race -->
-            <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
-                <xpath>Defs/HediffDef[defName="Nr_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
-                <xpath>Defs/ThingDef[defName="Nr_BioCatTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
-                <xpath>Defs/RecipeDef[defName="InstallBionicCatTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
-                <xpath>Defs/HediffDef[defName="Horan_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
-                <xpath>Defs/ThingDef[defName="Horan_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
-                <xpath>Defs/RecipeDef[defName="Horan_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Horan"]/recipes/li[text()="Horan_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Horan Spirit"]/recipes/li[text()="Horan_InstallBionicTail"]</xpath>
-            </li>
-
-
-            <!-- kurin race -->
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/HediffDef[defName="Kurin_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/ThingDef[defName="Kurin_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/RecipeDef[defName="Kurin_InstallFakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/HediffDef[defName="Kurin_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/ThingDef[defName="Kurin_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/RecipeDef[defName="Kurin_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/HediffDef[defName="Kurin_BionicEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/ThingDef[defName="Kurin_BionicEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/RecipeDef[defName="Kurin_InstallBionicEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallFakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallBionicEar"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallBionicTail"]</xpath>
-            </li>
-
-
-            <!-- moyo race -->
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/HediffDef[defName="Moyo_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/ThingDef[defName="Moyo_FakeTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/RecipeDef[defName="InstallFakeTail_Moyo"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/HediffDef[defName="Moyo_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/ThingDef[defName="Moyo_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
-                <xpath>Defs/RecipeDef[defName="InstallBionicTail_Moyo"]</xpath>
-            </li>
-
-            <!-- Rabiie race-->
-            <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
-                <xpath>Defs/HediffDef[defName="RB_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
-                <xpath>Defs/ThingDef[defName="RB_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
-                <xpath>Defs/RecipeDef[defName="RB_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Rabbie"]/recipes/li[text()="RB_InstallBionicTail"]</xpath>
-            </li>
-
-
-            <!-- Kiiro race -->
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/HediffDef[defName="Kiiro_ArtificialTailInstalled"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/ThingDef[defName="Kiiro_ArtificialTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/RecipeDef[defName="Kiiro_InstallArtificialTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/HediffDef[defName="Kiiro_BionicTailInstalled"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/ThingDef[defName="Kiiro_BionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/RecipeDef[defName="Kiiro_InstallBionicTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="kiiro race"]/recipes/li[text()="Kiiro_InstallArtificialTail"]</xpath>
-            </li>
-            <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
-                <xpath>Defs/AlienRace.ThingDef_AlienRace[label="kiiro race"]/recipes/li[text()="Kiiro_InstallBionicTail"]</xpath>
-            </li>
-            
-
-
-
-        </operations>
+    <Operation Class="KokuSettings.PatchOperationFindBoolInKkokorosMods">
+        <mods>
+            <li>removeXenoParts</li>
+        </mods>
+        <match Class="PatchOperationSequence">
+            <operations>
+                <!-- Bun race -->
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/HediffDef[defName="Bun_ProstheticTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/ThingDef[defName="Bun_ProstheticTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/RecipeDef[defName="InstallBun_ProstheticTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/HediffDef[defName="Bun_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/ThingDef[defName="Bun_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/RecipeDef[defName="InstallBun_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationReplace" MayRequire="SpankyH.BunRace.core">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Bun"]/alienRace/generalSettings/alienPartGenerator/bodyAddons/li/hediffGraphics/Bun_BionicTail</xpath>
+                    <value>
+                        <KokuBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuBionicTail>
+                        <KokuAdvancedBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuAdvancedBionicTail>
+                        <KokuUltraBionicTail>Bun/Tails/Bionic/BunTail_Bionic</KokuUltraBionicTail>
+                    </value>
+                </li>
+                
+    
+    
+    
+                <!-- Ratkin race -->
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/HediffDef[defName="RK_FakeEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/ThingDef[defName="RK_FakeEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/RecipeDef[defName="RK_InstallFakeEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/HediffDef[defName="RK_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/ThingDef[defName="RK_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/RecipeDef[defName="RK_InstallFakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/HediffDef[defName="RK_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/ThingDef[defName="RK_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/RecipeDef[defName="RK_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallFakeEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Solaris.RatkinRaceMod">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Ratkin"]/recipes/li[text()="RK_InstallFakeTail"]</xpath>
+                </li>
+    
+    
+    
+    
+                <!-- nyaron race -->
+                <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
+                    <xpath>Defs/HediffDef[defName="Nr_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
+                    <xpath>Defs/ThingDef[defName="Nr_BioCatTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Farmradish.Nyaron">
+                    <xpath>Defs/RecipeDef[defName="InstallBionicCatTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
+                    <xpath>Defs/HediffDef[defName="Horan_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
+                    <xpath>Defs/ThingDef[defName="Horan_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
+                    <xpath>Defs/RecipeDef[defName="Horan_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Horan"]/recipes/li[text()="Horan_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="PickSungYi.Horanrace">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Horan Spirit"]/recipes/li[text()="Horan_InstallBionicTail"]</xpath>
+                </li>
+    
+    
+                <!-- kurin race -->
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/HediffDef[defName="Kurin_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/ThingDef[defName="Kurin_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/RecipeDef[defName="Kurin_InstallFakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/HediffDef[defName="Kurin_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/ThingDef[defName="Kurin_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/RecipeDef[defName="Kurin_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/HediffDef[defName="Kurin_BionicEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/ThingDef[defName="Kurin_BionicEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/RecipeDef[defName="Kurin_InstallBionicEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallFakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallBionicEar"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Seioch.Kurin.HAR">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Kurin"]/recipes/li[text()="Kurin_InstallBionicTail"]</xpath>
+                </li>
+    
+    
+                <!-- moyo race -->
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/HediffDef[defName="Moyo_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/ThingDef[defName="Moyo_FakeTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/RecipeDef[defName="InstallFakeTail_Moyo"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/HediffDef[defName="Moyo_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/ThingDef[defName="Moyo_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Nemonian.MY">
+                    <xpath>Defs/RecipeDef[defName="InstallBionicTail_Moyo"]</xpath>
+                </li>
+    
+                <!-- Rabiie race-->
+                <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
+                    <xpath>Defs/HediffDef[defName="RB_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
+                    <xpath>Defs/ThingDef[defName="RB_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
+                    <xpath>Defs/RecipeDef[defName="RB_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="RunneLatki.RabbieRaceMod">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="Rabbie"]/recipes/li[text()="RB_InstallBionicTail"]</xpath>
+                </li>
+    
+    
+                <!-- Kiiro race -->
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/HediffDef[defName="Kiiro_ArtificialTailInstalled"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/ThingDef[defName="Kiiro_ArtificialTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/RecipeDef[defName="Kiiro_InstallArtificialTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/HediffDef[defName="Kiiro_BionicTailInstalled"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/ThingDef[defName="Kiiro_BionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/RecipeDef[defName="Kiiro_InstallBionicTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="kiiro race"]/recipes/li[text()="Kiiro_InstallArtificialTail"]</xpath>
+                </li>
+                <li Class="PatchOperationRemove" MayRequire="Ancot.KiiroRace">
+                    <xpath>Defs/AlienRace.ThingDef_AlienRace[label="kiiro race"]/recipes/li[text()="Kiiro_InstallBionicTail"]</xpath>
+                </li>
+                
+    
+    
+    
+            </operations>
+        </match>
     </Operation>
-
 </Patch>
