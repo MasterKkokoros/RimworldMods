@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Patch>
-    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+    <Operation Class="KokuSettings.PatchOperationFindBoolInKkokorosMods">
         <mods>
             <li>addMoreSlots1</li>
         </mods>
@@ -18,7 +18,7 @@
             </value>
         </match>
     </Operation>
-    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+    <Operation Class="KokuSettings.PatchOperationFindBoolInKkokorosMods">
         <mods>
             <li>addMoreSlots2</li>
         </mods>
@@ -36,7 +36,7 @@
             </value>
         </match>
     </Operation>
-    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+    <Operation Class="KokuSettings.PatchOperationFindBoolInKkokorosMods">
         <mods>
             <li>addMoreSlots3</li>
         </mods>
@@ -54,7 +54,7 @@
             </value>
         </match>
     </Operation>
-    <Operation Class="skullSettings.PatchOperationFindBoolInKkokorosMods">
+    <Operation Class="KokuSettings.PatchOperationFindBoolInKkokorosMods">
         <mods>
             <li>addMoreSlots4</li>
         </mods>
