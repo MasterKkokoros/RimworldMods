@@ -18,7 +18,7 @@
     <pathCost>20</pathCost>
     <ingestible />
     <plant>
-      <growDays>30</growDays>
+      <growDays>20</growDays>
       <dieIfLeafless>true</dieIfLeafless>
       <harvestTag>Standard</harvestTag>
       <harvestedThingDef>ComponentIndustrial</harvestedThingDef>
