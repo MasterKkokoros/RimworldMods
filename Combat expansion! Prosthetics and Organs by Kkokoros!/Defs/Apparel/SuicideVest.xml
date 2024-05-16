@@ -36,7 +36,7 @@
     <techLevel>Industrial</techLevel>
 
     <comps>
-      <li Class="CompProperties_Reloadable">
+      <li Class="CompProperties_ApparelReloadable">
         <maxCharges>1</maxCharges>
         <ammoDef>Shell_HighExplosive</ammoDef>
         <ammoCountToRefill>2</ammoCountToRefill>
@@ -94,7 +94,7 @@
       <Mass>3</Mass>
       <Flammability>0.4</Flammability>
       <EquipDelay>1</EquipDelay>
-      <SmokepopBeltRadius>4.9</SmokepopBeltRadius>
+      <PackRadius>4.9</PackRadius>
     </statBases>
 
     <thingCategories>
