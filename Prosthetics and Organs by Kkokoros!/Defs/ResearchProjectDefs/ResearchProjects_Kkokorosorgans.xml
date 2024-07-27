@@ -27,8 +27,7 @@
 	<ResearchProjectDef>
 		<defName>KokuProsthetics</defName>
 		<label>Simple prosthetics</label>
-		<description>Advanced anatomy studies and metal testing will allow you to build simple
-			prostheses. Unlocks the prosthetics table.</description>
+		<description>Advanced anatomy studies and metal testing will allow you to build simple prostheses. Unlocks the prosthetics table.</description>
 		<baseCost>1000</baseCost>
 		<techLevel>Industrial</techLevel>
 		<prerequisites>

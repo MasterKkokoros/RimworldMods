@@ -4,7 +4,7 @@
    <ThingDef ParentName="KokuBasicProsthesis" MayRequire="sera.apinialienrace">
       <defName>KokuHydraulicWing</defName>
       <label>artificial wing</label>
-      <description>Replaces a missing wing, good enough to be used.</description>
+      <description>Wing replacement made out of steel.</description>
       <costList>
          <Steel>10</Steel>
          <Cloth>20</Cloth>
@@ -17,7 +17,7 @@
    <ThingDef ParentName="KokuSimpleProsthesis" MayRequire="sera.apinialienrace">
       <defName>KokuHydraulicAntenna</defName>
       <label>artificial antenna</label>
-      <description>Replaces a missing antenna, good enough to be used.</description>
+      <description>Antenna replacement made out of steel.</description>
       <costList>
          <Steel>5</Steel>
          <ComponentIndustrial>2</ComponentIndustrial>
@@ -29,7 +29,7 @@
    <ThingDef ParentName="KokuSimpleProsthesis" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
       <defName>KokuHydraulicTail</defName>
       <label>artificial tail</label>
-      <description>Replaces a missing tail, good enough to be used.</description>
+      <description>Tail replacement made out of steel.</description>
       <costList>
          <Steel>10</Steel>
          <ComponentIndustrial>2</ComponentIndustrial>
@@ -42,7 +42,7 @@
    <ThingDef ParentName="KokuSimpleOrgans" MayRequire="sera.apinialienrace">
       <defName>KokuArtificialHoneyStomach</defName>
       <label>artificial honey stomach</label>
-      <description>A simple honey stomach replacement. I wouldn't smell that!</description>
+      <description>Honey stomach replacement made out of steel.</description>
       <costList>
          <Cloth>30</Cloth>
          <KokuTier1kit>2</KokuTier1kit>
@@ -55,7 +55,7 @@
    <ThingDef ParentName="KokuBionic" MayRequire="sera.apinialienrace">
       <defName>KokuBionicWing</defName>
       <label>bionic wing</label>
-      <description>Replaces a missing wing, better than normal.</description>
+      <description>Wing replacement made out of plasteel.</description>
       <costList>
          <KokuHydraulicWing>1</KokuHydraulicWing>
          <Hyperweave>10</Hyperweave>
@@ -68,7 +68,7 @@
    <ThingDef ParentName="KokuBionicHeadModifications" MayRequire="sera.apinialienrace">
       <defName>KokuBionicAntenna</defName>
       <label>bionic antenna</label>
-      <description>Replaces a missing antenna, better than normal.</description>
+      <description>Antenna replacement made out of plasteel.</description>
       <costList>
          <KokuHydraulicAntenna>1</KokuHydraulicAntenna>
          <KokuTier1kit>1</KokuTier1kit>
@@ -80,7 +80,7 @@
    <ThingDef ParentName="KokuBionicSpine" MayRequire="sera.apinialienrace">
       <defName>KokuBionicAbdomen</defName>
       <label>bionic abdomen</label>
-      <description>Replaces a missing abdomen, better than normal.</description>
+      <description>Abdomen replacement made out of plasteel.</description>
       <costList>
          <Steel>35</Steel>
          <KokuTier1kit>3</KokuTier1kit>
@@ -92,7 +92,7 @@
    <ThingDef ParentName="KokuBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
       <defName>KokuBionicTail</defName>
       <label>bionic tail</label>
-      <description>Replaces a missing tail, better than normal.</description>
+      <description>Tail replacement made out of plasteel.</description>
       <costList>
          <KokuHydraulicTail>1</KokuHydraulicTail>
          <KokuTier1kit>2</KokuTier1kit>
@@ -106,7 +106,7 @@
    <ThingDef ParentName="KokuAdvanced" MayRequire="sera.apinialienrace">
       <defName>KokuAdvancedBionicWing</defName>
       <label>advanced bionic wing</label>
-      <description>Replaces a missing wing, better than bionic.</description>
+      <description>Wing replacement made out of plasteel and silver.</description>
       <costList>
          <KokuBionicWing>1</KokuBionicWing>
          <Hyperweave>5</Hyperweave>
@@ -119,7 +119,7 @@
    <ThingDef ParentName="KokuAdvancedBionicHeadModifications" MayRequire="sera.apinialienrace">
       <defName>KokuAdvancedBionicAntenna</defName>
       <label>advanced bionic antenna</label>
-      <description>Replaces a missing antenna, better than bionic.</description>
+      <description>Antenna replacement made out of plasteel and silver.</description>
       <costList>
          <KokuBionicAntenna>1</KokuBionicAntenna>
          <KokuTier2kit>1</KokuTier2kit>
@@ -131,7 +131,7 @@
    <ThingDef ParentName="KokuAdvancedBionicSpine" MayRequire="sera.apinialienrace">
       <defName>KokuAdvancedBionicAbdomen</defName>
       <label>advanced bionic abdomen</label>
-      <description>Replaces a missing abdomen, better than bionic.</description>
+      <description>Abdomen replacement made out of plasteel and silver.</description>
       <costList>
          <KokuBionicAbdomen>1</KokuBionicAbdomen>
          <KokuTier2kit>3</KokuTier2kit>
@@ -143,7 +143,7 @@
    <ThingDef ParentName="KokuAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
       <defName>KokuAdvancedBionicTail</defName>
       <label>advanced bionic tail</label>
-      <description>Replaces a missing tail, better than bionic.</description>
+      <description>Tail replacement made out of plasteel and silver.</description>
       <costList>
          <KokuBionicTail>1</KokuBionicTail>
          <KokuTier2kit>2</KokuTier2kit>
@@ -156,7 +156,7 @@
    <ThingDef ParentName="KokuSyntheticOrgans" MayRequire="sera.apinialienrace">
       <defName>KokuSyntheticHoneyStomach</defName>
       <label>synthetic honey stomach</label>
-      <description>A high-tech honey stomach replacement. It doesn't smell anymore.</description>
+      <description>Honey stomach replacement made out of plasteel and silver.</description>
       <costList>
          <KokuArtificialHoneyStomach>1</KokuArtificialHoneyStomach>
          <Hyperweave>5</Hyperweave>
@@ -170,7 +170,7 @@
    <ThingDef ParentName="KokuUltra" MayRequire="sera.apinialienrace">
       <defName>KokuUltraBionicWing</defName>
       <label>ultra bionic wing</label>
-      <description>Replaces a missing wing, better than advanced.</description>
+      <description>Wing replacement made out of plasteel and silver enhanced with uranium.</description>
       <costList>
          <KokuAdvancedBionicWing>1</KokuAdvancedBionicWing>
          <Hyperweave>10</Hyperweave>
@@ -183,7 +183,7 @@
    <ThingDef ParentName="KokuUltraBionicHeadModifications" MayRequire="sera.apinialienrace">
       <defName>KokuUltraBionicAntenna</defName>
       <label>ultra bionic antenna</label>
-      <description>Replaces a missing antenna, better than advanced.</description>
+      <description>Antenna replacement made out of plasteel and silver enhanced with uranium.</description>
       <costList>
          <KokuAdvancedBionicAntenna>1</KokuAdvancedBionicAntenna>
          <KokuTier3kit>1</KokuTier3kit>
@@ -195,7 +195,7 @@
    <ThingDef ParentName="KokuUltraBionicSpine" MayRequire="sera.apinialienrace">
       <defName>KokuUltraBionicAbdomen</defName>
       <label>ultra bionic abdomen</label>
-      <description>Replaces a missing abdomen, better than advanced.</description>
+      <description>Abdomen replacement made out of plasteel and silver enhanced with uranium.</description>
       <costList>
          <KokuAdvancedBionicAbdomen>1</KokuAdvancedBionicAbdomen>
          <KokuTier3kit>3</KokuTier3kit>
@@ -207,7 +207,7 @@
    <ThingDef ParentName="KokuUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
       <defName>KokuUltraBionicTail</defName>
       <label>ultra bionic tail</label>
-      <description>Replaces a missing tail, better than bionic.</description>
+      <description>Tail replacement made out of plasteel and silver enhanced with uranium.</description>
       <costList>
          <KokuAdvancedBionicTail>1</KokuAdvancedBionicTail>
          <KokuTier3kit>2</KokuTier3kit>
@@ -220,7 +220,7 @@
    <ThingDef ParentName="KokuUltraOrgans" MayRequire="sera.apinialienrace">
       <defName>KokuUltraHoneyStomach</defName>
       <label>ultra honey stomach</label>
-      <description>A Ultra-tech honey stomach replacement.</description>
+      <description>Honey stomach replacement made out of plasteel and silver enhanced with uranium.</description>
       <costList>
          <KokuSyntheticHoneyStomach>1</KokuSyntheticHoneyStomach>
          <Hyperweave>10</Hyperweave>

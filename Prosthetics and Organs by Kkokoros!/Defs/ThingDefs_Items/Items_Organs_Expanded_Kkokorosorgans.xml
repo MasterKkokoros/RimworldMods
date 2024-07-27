@@ -4,7 +4,7 @@
     <ThingDef ParentName="KokuSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuArtificialSpleen</defName>
         <label>artificial spleen</label>
-        <description>A simple spleen replacement. Makes a loud noise.</description>
+        <description>Spleen replacement made out of plasteel. \nMakes a loud noise.</description>
         <costList>
            <Cloth>30</Cloth>
            <KokuTier1kit>1</KokuTier1kit>
@@ -17,7 +17,7 @@
      <ThingDef ParentName="KokuSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuArtificialPancreas</defName>
         <label>artificial pancreas</label>
-        <description>A simple pancreas replacement. Makes a loud noise.</description>
+        <description>Pancreas replacement made out of plasteel. \nMakes a loud noise.</description>
         <costList>
            <Cloth>30</Cloth>
            <KokuTier1kit>1</KokuTier1kit>
@@ -30,7 +30,7 @@
      <ThingDef ParentName="KokuSimpleOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuArtificialGallbladder</defName>
         <label>artificial gallbladder</label>
-        <description>A simple galbladder replacement. Makes a loud noise.</description>
+        <description>Gallbladder replacement made out of plasteel. \nMakes a loud noise.</description>
         <costList>
            <Cloth>30</Cloth>
            <KokuTier1kit>1</KokuTier1kit>
@@ -43,7 +43,7 @@
      <ThingDef ParentName="KokuSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuSyntheticSpleen</defName>
         <label>synthetic spleen</label>
-        <description>A high-tech spleen replacement. Makes a quiet noise.</description>
+        <description>Spleen replacement made out of plasteel and Silver. \nMakes a quiet noise.</description>
         <costList>
             <KokuArtificialSpleen>1</KokuArtificialSpleen>
             <Hyperweave>5</Hyperweave>
@@ -57,7 +57,7 @@
      <ThingDef ParentName="KokuSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuSyntheticPancreas</defName>
         <label>synthetic pancreas</label>
-        <description>A high-tech pancreas replacement. Makes a quiet noise.</description>
+        <description>Pancreas replacement made out of plasteel and Silver. \nMakes a quiet noise.</description>
         <costList>
             <KokuArtificialPancreas>1</KokuArtificialPancreas>
             <Hyperweave>5</Hyperweave>
@@ -71,7 +71,7 @@
      <ThingDef ParentName="KokuSyntheticOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuSyntheticGallbladder</defName>
         <label>synthetic gallbladder</label>
-        <description>A high-tech gallbladder replacement. Makes a quiet noise.</description>
+        <description>Gallbladder replacement made out of plasteel and Silver. \nMakes a quiet noise.</description>
         <costList>
             <KokuArtificialGallbladder>1</KokuArtificialGallbladder>
             <Hyperweave>5</Hyperweave>
@@ -85,7 +85,7 @@
      <ThingDef ParentName="KokuUltraOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuUltraSpleen</defName>
         <label>ultra spleen</label>
-        <description>A Ultra-tech spleen replacement. Makes a no noise.</description>
+        <description>Spleen replacement made out of plasteel and silver enhanced with uranium. \nMakes a no noise.</description>
         <costList>
             <KokuSyntheticSpleen>1</KokuSyntheticSpleen>
             <Hyperweave>10</Hyperweave>
@@ -99,7 +99,7 @@
      <ThingDef ParentName="KokuUltraOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuUltraPancreas</defName>
         <label>ultra pancreas</label>
-        <description>A Ultra-tech pancreas replacement. Makes a no noise.</description>
+        <description>Pancreas replacement made out of plasteel and silver enhanced with uranium. \nMakes a no noise.</description>
         <costList>
             <KokuSyntheticPancreas>1</KokuSyntheticPancreas>
             <Hyperweave>10</Hyperweave>
@@ -113,7 +113,7 @@
      <ThingDef ParentName="KokuUltraOrgans" MayRequire="Kkokoros.expandedorgans">
         <defName>KokuUltraGallbladder</defName>
         <label>ultra gallbladder</label>
-        <description>A Ultra-tech gallbladder replacement. Makes a no noise.</description>
+        <description>Gallbladder replacement made out of plasteel and silver enhanced with uranium. \nMakes a no noise.</description>
         <costList>
             <KokuSyntheticGallbladder>1</KokuSyntheticGallbladder>
             <Hyperweave>10</Hyperweave>

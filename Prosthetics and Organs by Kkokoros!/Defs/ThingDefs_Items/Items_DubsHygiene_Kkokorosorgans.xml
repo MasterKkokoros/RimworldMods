@@ -4,7 +4,7 @@
     <ThingDef ParentName="KokuBionic" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuBionicBladder</defName>
 		<label>bionic bladder</label>
-		<description>An artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<description>Bladder replacement made out of plasteel. \n A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallBionicBladder</RecipeDef>
 		</descriptionHyperlinks>
@@ -21,7 +21,7 @@
     <ThingDef ParentName="KokuBionic" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuHygieneEnhancer</defName>
 		<label>hygiene enhancer</label>
-		<description>Releases mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<description>Hygiene enhancer made out of plasteel. \nReleases mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallHygieneEnhancer</RecipeDef>
 		</descriptionHyperlinks>
@@ -40,7 +40,7 @@
 	<ThingDef ParentName="KokuAdvanced" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuAdvancedBionicBladder</defName>
 		<label>advanced bionic bladder</label>
-		<description>An advanced artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<description>Bladder replacement made out of plasteel and silver. \nA chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallAdvancedBionicBladder</RecipeDef>
 		</descriptionHyperlinks>
@@ -58,7 +58,7 @@
     <ThingDef ParentName="KokuAdvanced" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuAdvancedHygieneEnhancer</defName>
 		<label>advanced hygiene enhancer</label>
-		<description>Releases advanced mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<description>Hygiene enhancer made out of plasteel and silver. \nReleases advanced mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallAdvancedHygieneEnhancer</RecipeDef>
 		</descriptionHyperlinks>
@@ -77,7 +77,7 @@
 	<ThingDef ParentName="KokuUltra" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuUltraBionicBladder</defName>
 		<label>ultra bionic bladder</label>
-		<description>An ultra artificial bladder. A chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
+		<description>Bladder replacement made out of plasteel and silver enhanced with uranium. \nA chemical recycling system breaks down waste products from the body into molecules which are recycled with the remainder released as gas, the downside of this being that it gives the user gas.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallUltraBionicBladder</RecipeDef>
 		</descriptionHyperlinks>
@@ -95,7 +95,7 @@
     <ThingDef ParentName="KokuUltra" MayRequire="Dubwise.DubsBadHygiene">
 		<defName>KokuUltraHygieneEnhancer</defName>
 		<label>ultra hygiene enhancer</label>
-		<description>Releases ultra mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
+		<description>Hygiene enhancer made out of plasteel and silver enhanced with uranium. \nReleases ultra mechanites that break down dead skin cells and other detritus on the skin and hair releasing it harmlessly into the air.</description>
 		<descriptionHyperlinks>
 			<RecipeDef>KokuInstallUltraHygieneEnhancer</RecipeDef>
 		</descriptionHyperlinks>
