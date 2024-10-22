@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+<KokuHydraulicWing.label>Гідравлічне крило</KokuHydraulicWing.label>
+<KokuHydraulicWing.Description>Замінник крила, виготовлений з сталі.</KokuHydraulicWing.Description>
+<KokuBionicWing.label>Біонічне крило</KokuBionicWing.label>
+<KokuBionicWing.Description>Замінник крила, виготовлений з суперсталі.</KokuBionicWing.Description>
+<KokuAdvancedBionicWing.label>Просунуте біонічне крило</KokuAdvancedBionicWing.label>
+<KokuAdvancedBionicWing.Description>Замінник крила, виготовлений з суперсталі та срібла.</KokuAdvancedBionicWing.Description>
+<KokuUltraBionicWing.label>Ультра біонічне крило</KokuUltraBionicWing.label>
+<KokuUltraBionicWing.Description>Замінник крила, виготовлений з суперсталі та срібла з добавкою урану.</KokuUltraBionicWing.Description>
+
+<!--==========Antenna==========-->
+<KokuHydraulicAntenna.label>Гідравлічна антена</KokuHydraulicAntenna.label>
+<KokuHydraulicAntenna.Description>Замінник антени, виготовлений зі сталі.</KokuHydraulicAntenna.Description>
+<KokuBionicAntenna.label>Біонічна антена</KokuBionicAntenna.label>
+<KokuBionicAntenna.Description>Замінник антени, виготовлений з суперсталі.</KokuBionicAntenna.Description>
+<KokuAdvancedBionicAntenna.label>Просунута біонічна антена</KokuAdvancedBionicAntenna.label>
+<KokuAdvancedBionicAntenna.Description>Замінник антени, виготовлений з суперсталі та срібла.</KokuAdvancedBionicAntenna.Description>
+<KokuUltraBionicAntenna.label>Ультра біонічна антена</KokuUltraBionicAntenna.label>
+<KokuUltraBionicAntenna.Description>Замінник антени, виготовлений з суперсталі та срібла з добавкою урану.</KokuUltraBionicAntenna.Description>
+
+<!--==========Tail==========-->
+<KokuHydraulicTail.label>Гідравлічний хвіст</KokuHydraulicTail.label>
+<KokuHydraulicTail.Description>Замінник хвоста, виготовлений зі сталі.</KokuHydraulicTail.Description>
+<KokuBionicTail.label>Біонічний хвіст</KokuBionicTail.label>
+<KokuBionicTail.Description>Замінник хвоста, виготовлений з суперсталі.</KokuBionicTail.Description>
+<KokuAdvancedBionicTail.label>Просунутий біонічний хвіст</KokuAdvancedBionicTail.label>
+<KokuAdvancedBionicTail.Description>Замінник хвоста, виготовлений з суперсталі та срібла.</KokuAdvancedBionicTail.Description>
+<KokuUltraBionicTail.label>Ультра біонічний хвіст</KokuUltraBionicTail.label>
+<KokuUltraBionicTail.Description>Замінник хвоста, виготовлений з суперсталі та срібла з добавкою урану.</KokuUltraBionicTail.Description>
+
+<!--==========abodmen==========-->
+<KokuBionicAbdomen.label>Біонічний черевний відділ</KokuBionicAbdomen.label>
+<KokuBionicAbdomen.Description>Замінник черевного відділу, виготовлений з суперсталі.</KokuBionicAbdomen.Description>
+<KokuAdvancedBionicAbdomen.label>Просунутий біонічний черевний відділ</KokuAdvancedBionicAbdomen.label>
+<KokuAdvancedBionicAbdomen.Description>Замінник серця, виготовлений з суперсталі та срібла.</KokuAdvancedBionicAbdomen.Description>
+<KokuUltraBionicAbdomen.label>Ультра біонічний черевний відділ</KokuUltraBionicAbdomen.label>
+<KokuUltraBionicAbdomen.Description>Замінник серця, виготовлений з суперсталі та срібла з добавкою урану.</KokuUltraBionicAbdomen.Description>
+
+<!--==============================organs==============================-->
+
+<!--==========HonechStomach==========-->
+<KokuArtificialHoneyStomach.label>Штучний медовий шлунок</KokuArtificialHoneyStomach.label>
+<KokuArtificialHoneyStomach.Description>Замінник медового шлунка, виготовлений з суперсталі.</KokuArtificialHoneyStomach.Description>
+<KokuSyntheticHoneyStomach.label>Синтетичний медовий шлунок</KokuSyntheticHoneyStomach.label>
+<KokuSyntheticHoneyStomach.Description>Замінник медового шлунка, виготовлений з суперсталі та срібла.</KokuSyntheticHoneyStomach.Description>
+<KokuUltraHoneyStomach.label>Ультра медовий шлунок</KokuUltraHoneyStomach.label>
+<KokuUltraHoneyStomach.Description>Замінник медового шлунка, виготовлений з суперсталі та срібла з добавкою урану.</KokuUltraHoneyStomach.Description>
+
+
+</LanguageData>

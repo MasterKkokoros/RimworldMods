@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Штучна селезінка</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.labelNoun>Штучна селезінка</KokuArtificialSpleen.labelNoun>
+    <KokuArtificialSpleen.description>Встановлена штучна селезінка.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Синтетична селезінка</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.labelNoun>Синтетична селезінка</KokuSyntheticSpleen.labelNoun>
+    <KokuSyntheticSpleen.description>Встановлена синтетична селезінка.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ультра селезінка</KokuUltraSpleen.label>
+    <KokuUltraSpleen.labelNoun>Ультра селезінка</KokuUltraSpleen.labelNoun>
+    <KokuUltraSpleen.description>Встановлена ультра селезінка.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Штучна підшлункова залоза</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.labelNoun>Штучна підшлункова залоза</KokuArtificialPancreas.labelNoun>
+    <KokuArtificialPancreas.description>Встановлена штучна підшлункова залоза.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Синтетична підшлункова залоза</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.labelNoun>Синтетична підшлункова залоза</KokuSyntheticPancreas.labelNoun>
+    <KokuSyntheticPancreas.description>Встановлена синтетична підшлункова залоза.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ультра підшлункова залоза</KokuUltraPancreas.label>
+    <KokuUltraPancreas.labelNoun>Ультра підшлункова залоза</KokuUltraPancreas.labelNoun>
+    <KokuUltraPancreas.description>Встановлена ультра підшлункова залоза.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Штучний жовчний міхур</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.labelNoun>Штучний жовчний міхур</KokuArtificialGallbladder.labelNoun>
+    <KokuArtificialGallbladder.description>Встановлений штучний жовчний міхур.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Синтетичний жовчний міхур</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.labelNoun>Синтетичний жовчний міхур</KokuSyntheticGallbladder.labelNoun>
+    <KokuSyntheticGallbladder.description>Встановлений синтетичний жовчний міхур.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ультра жовчний міхур</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.labelNoun>Ультра жовчний міхур</KokuUltraGallbladder.labelNoun>
+    <KokuUltraGallbladder.description>Встановлений ультра жовчний міхур.</KokuUltraGallbladder.description>
+
+</LanguageData>

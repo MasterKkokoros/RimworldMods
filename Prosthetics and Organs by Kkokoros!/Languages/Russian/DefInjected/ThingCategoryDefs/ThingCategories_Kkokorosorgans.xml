@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<KokuBodyPartsBasic.label>Koku Основные</KokuBodyPartsBasic.label>
+
+	<KokuBodyPartsSimple.label>Koku Простые</KokuBodyPartsSimple.label>
+	
+	<KokuBodyPartsBionic.label>Koku Бионические</KokuBodyPartsBionic.label>
+	
+	<KokuBodyPartsAdvanced.label>Koku Продвинутые</KokuBodyPartsAdvanced.label>
+	
+	<KokuBodyPartsUltra.label>Koku Ультра</KokuBodyPartsUltra.label>
+
+</LanguageData>

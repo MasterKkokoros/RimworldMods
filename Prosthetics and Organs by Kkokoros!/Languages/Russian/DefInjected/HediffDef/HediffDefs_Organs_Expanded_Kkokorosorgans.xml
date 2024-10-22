@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Искусственная селезенка</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.labelNoun>Искусственная селезенка</KokuArtificialSpleen.labelNoun>
+    <KokuArtificialSpleen.description>Установленная искусственная селезенка.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Синтетическая селезенка</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.labelNoun>Синтетическая селезенка</KokuSyntheticSpleen.labelNoun>
+    <KokuSyntheticSpleen.description>Установленная синтетическая селезенка.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ультра селезенка</KokuUltraSpleen.label>
+    <KokuUltraSpleen.labelNoun>Ультра селезенка</KokuUltraSpleen.labelNoun>
+    <KokuUltraSpleen.description>Установленная ультра селезенка.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Искусственная поджелудочная железа</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.labelNoun>Искусственная поджелудочная железа</KokuArtificialPancreas.labelNoun>
+    <KokuArtificialPancreas.description>Установленная искусственная поджелудочная железа.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Синтетическая поджелудочная железа</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.labelNoun>Синтетическая поджелудочная железа</KokuSyntheticPancreas.labelNoun>
+    <KokuSyntheticPancreas.description>Установленная синтетическая поджелудочная железа.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ультра поджелудочная железа</KokuUltraPancreas.label>
+    <KokuUltraPancreas.labelNoun>Ультра поджелудочная железа</KokuUltraPancreas.labelNoun>
+    <KokuUltraPancreas.description>Установленная ультра поджелудочная железа.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Искусственный желчный пузырь</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.labelNoun>Искусственный желчный пузырь</KokuArtificialGallbladder.labelNoun>
+    <KokuArtificialGallbladder.description>Установленный искусственный желчный пузырь.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Синтетический желчный пузырь</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.labelNoun>Синтетический желчный пузырь</KokuSyntheticGallbladder.labelNoun>
+    <KokuSyntheticGallbladder.description>Установленный синтетический желчный пузырь.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ультра желчный пузырь</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.labelNoun>Ультра желчный пузырь</KokuUltraGallbladder.labelNoun>
+    <KokuUltraGallbladder.description>Установленный ультра желчный пузырь.</KokuUltraGallbladder.description>
+
+</LanguageData>

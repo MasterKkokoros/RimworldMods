@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bexiga biónica</KokuBionicBladder.label>
+    <KokuBionicBladder.labelNoun>Bexiga biónica</KokuBionicBladder.labelNoun>
+    <KokuBionicBladder.description>Bexiga biónica instalada.</KokuBionicBladder.description>
+    <KokuAdvancedBionicBladder.label>Bexiga biónica avançada</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.labelNoun>Bexiga biónica avançada</KokuAdvancedBionicBladder.labelNoun>
+    <KokuAdvancedBionicBladder.description>Bexiga biónica avançada instalada.</KokuAdvancedBionicBladder.description>
+    <KokuUltraBionicBladder.label>Ultra bexiga biónica</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.labelNoun>Ultra bexiga biónica</KokuUltraBionicBladder.labelNoun>
+    <KokuUltraBionicBladder.description>Ultra bexiga biónica instalada.</KokuUltraBionicBladder.description>
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Melhorador biónico de higiene</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.labelNoun>Melhorador biónico de higiene</KokuHygieneEnhancer.labelNoun>
+    <KokuHygieneEnhancer.description>Melhorador biónico de higiene instalado.</KokuHygieneEnhancer.description>
+    <KokuAdvancedHygieneEnhancer.label>Melhorador biónico de higiene avançado</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.labelNoun>Melhorador biónico de higiene avançado</KokuAdvancedHygieneEnhancer.labelNoun>
+    <KokuAdvancedHygieneEnhancer.description>Melhorador biónico de higiene avançado instalado.</KokuAdvancedHygieneEnhancer.description>
+    <KokuUltraHygieneEnhancer.label>Ultra melhorador biónico de higiene</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.labelNoun>Ultra melhorador biónico de higiene</KokuUltraHygieneEnhancer.labelNoun>
+    <KokuUltraHygieneEnhancer.description>Ultra melhorador biónico de higiene instalado.</KokuUltraHygieneEnhancer.description>
+
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

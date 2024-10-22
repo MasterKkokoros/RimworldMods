@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuDruggedSternumThought.label>Наркотизирующая грудина</KokuDruggedSternumThought.label>
+    <KokuDruggedSternumThought.description>Ууу, это меня расслабляет</KokuDruggedSternumThought.description>
+
+    <KokuAdvancedDruggedSternumThought.label>Продвинутая наркотизирующая грудина</KokuAdvancedDruggedSternumThought.label>
+    <KokuAdvancedDruggedSternumThought.description>Ууу, это меня действительно расслабляет</KokuAdvancedDruggedSternumThought.description>
+
+    <KokuUltraDruggedSternumThought.label>Ультра наркотизирующая грудина</KokuUltraDruggedSternumThought.label>
+    <KokuUltraDruggedSternumThought.description>ЭТО НУНДИ!</KokuUltraDruggedSternumThought.description>
+
+    <KokuMuteJawThought.label>Заглушенная челюсть</KokuMuteJawThought.label>
+    <KokuMuteJawThought.description>Дайте мне говорить :/</KokuMuteJawThought.description>
+
+</LanguageData>

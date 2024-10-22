@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOrgansPrinter.verb>druckt</DoBillsOrgansPrinter.verb>
+  <DoBillsOrgansPrinter.gerund>drucken</DoBillsOrgansPrinter.gerund>
+
+  <DoBillsProstheticPrinter.verb>montiert</DoBillsProstheticPrinter.verb>
+  <DoBillsProstheticPrinter.gerund>montieren</DoBillsProstheticPrinter.gerund>
+</LanguageData>

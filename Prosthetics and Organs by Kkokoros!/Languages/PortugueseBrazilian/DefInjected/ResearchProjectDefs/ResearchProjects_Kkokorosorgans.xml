@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuBasicProsthetics.label>Próteses Básicas</KokuBasicProsthetics.label>
+    <KokuBasicProsthetics.description>Entenda os fundamentos da perna e combine seu conhecimento com as bases da marcenaria.</KokuBasicProsthetics.description>
+
+    <KokuProsthetics.label>Próteses Simples</KokuProsthetics.label>
+    <KokuProsthetics.description>Pesquisas avançadas em anatomia e metalurgia permitirão que você construa próteses simples. Desbloqueia a mesa de próteses.</KokuProsthetics.description>
+
+    <KokuSimpleOrgans.label>Órgãos Artificiais</KokuSimpleOrgans.label>
+    <KokuSimpleOrgans.description>À medida que você adquire um conhecimento médico e técnico mais avançado, a criação de uma impressora 3D para fabricar órgãos simples se torna possível.</KokuSimpleOrgans.description>
+
+    <KokuHeadModifications.label>Modificações Biónicas na Cabeça</KokuHeadModifications.label>
+    <KokuHeadModifications.description>Usar bionica apenas para restaurar membros perdidos parece um desperdício. Vamos usá-las para estética! Desbloqueia modificações biónicas na cabeça.</KokuHeadModifications.description>
+
+    <KokuBionics.label>Bionicas</KokuBionics.label>
+    <KokuBionics.description>Ao explorar o conceito de motores e circuitos muito pequenos, novas possibilidades de melhores próteses se abrem para você. Desbloqueia novas receitas na mesa de próteses.</KokuBionics.description>
+
+    <KokuBionicSpine.label>Coluna Biónica</KokuBionicSpine.label>
+    <KokuBionicSpine.description>A anatomia da coluna humana é radicalmente complexa. Provavelmente, você deve pesquisar um pouco antes de começar a mexer com isso.</KokuBionicSpine.description>
+
+    <KokuTorsoModifications.label>Modificações no Tórax</KokuTorsoModifications.label>
+    <KokuTorsoModifications.description>Explorando o conceito de dispensadores muito pequenos, você pensa em inseri-los no esterno ou na caixa torácica. Agora você pode criar e instalar implantes esternais ou substituir a caixa torácica.</KokuTorsoModifications.description>
+
+    <KokuSyntheticOrgans.label>Órgãos Sintéticos</KokuSyntheticOrgans.label>
+    <KokuSyntheticOrgans.description>Pesquisas adicionais em nanotecnologia permitem imprimir órgãos artificiais extremamente bem projetados. Desbloqueia novas receitas na impressora de tecidos.</KokuSyntheticOrgans.description>
+
+    <KokuBrainSurgery.label>Cérebro Artificial</KokuBrainSurgery.label>
+    <KokuBrainSurgery.description>Desbloqueia a possibilidade de criar e instalar implantes cerebrais básicos.</KokuBrainSurgery.description>
+
+    <KokuAdvancedHeadModifications.label>Modificações Avançadas na Cabeça</KokuAdvancedHeadModifications.label>
+    <KokuAdvancedHeadModifications.description>Usar bionica apenas para restaurar membros perdidos parece um desperdício. Vamos usá-las para estética! Desbloqueia modificações biónicas na cabeça.</KokuAdvancedHeadModifications.description>
+
+    <KokuExoskeleton.label>Exoesqueleto</KokuExoskeleton.label>
+    <KokuExoskeleton.description>Utilize tecnologia de motores de ponta e conhecimento em ergonomia para entender o conceito de exoesqueletos e replicá-lo em humanos. Permite a produção e montagem de trajes exoesqueléticos.</KokuExoskeleton.description>
+
+    <KokuAdvancedBionics.label>Bionicas Avançadas</KokuAdvancedBionics.label>
+    <KokuAdvancedBionics.description>Melhore a bionica comum com componentes avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuAdvancedBionics.description>
+
+    <KokuAdvancedBionicSpine.label>Coluna Avançada</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.description>Quer incorporar uma tecnologia ainda mais complexa em sua coluna? Dedique algum tempo para estudar as complexidades da coluna.</KokuAdvancedBionicSpine.description>
+
+    <KokuAdvancedTorsoModifications.label>Modificações Avançadas no Tórax</KokuAdvancedTorsoModifications.label>
+    <KokuAdvancedTorsoModifications.description>Você experimentou os upgrades e agora quer mais?</KokuAdvancedTorsoModifications.description>
+
+    <KokuAdvancedBrainSurgery.label>Cérebro Avançado</KokuAdvancedBrainSurgery.label>
+    <KokuAdvancedBrainSurgery.description>Permite criar implantes cerebrais mais avançados e realizar cirurgias no cérebro.</KokuAdvancedBrainSurgery.description>
+
+    <KokuUltraHeadModifications.label>Ultra Modificações na Cabeça</KokuUltraHeadModifications.label>
+    <KokuUltraHeadModifications.description>Usar bionica apenas para restaurar membros perdidos parece um desperdício. Vamos usá-las para estética! Desbloqueia modificações biónicas na cabeça.</KokuUltraHeadModifications.description>
+
+    <KokuUltraExoskeleton.label>Ultra Exoesqueleto</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraExoskeleton.description>
+
+    <KokuUltraBionics.label>Ultra Bionicas</KokuUltraBionics.label>
+    <KokuUltraBionics.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraBionics.description>
+
+    <KokuUltraBionicSpine.label>Ultra Coluna Biónica</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraBionicSpine.description>
+
+    <KokuUltraTorsoModifications.label>Ultra Modificações no Tórax</KokuUltraTorsoModifications.label>
+    <KokuUltraTorsoModifications.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraTorsoModifications.description>
+
+    <KokuUltraOrgans.label>Ultra Órgãos</KokuUltraOrgans.label>
+    <KokuUltraOrgans.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraOrgans.description>
+
+    <KokuUltraBrainSurgery.label>Ultra Cérebro</KokuUltraBrainSurgery.label>
+    <KokuUltraBrainSurgery.description>Melhore a bionica avançada com componentes ultra avançados para torná-la ainda melhor. Desbloqueia novas receitas na mesa de próteses.</KokuUltraBrainSurgery.description>
+</LanguageData>

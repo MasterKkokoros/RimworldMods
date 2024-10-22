@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuBasicProsthetics.label>Основные протезы</KokuBasicProsthetics.label>
+    <KokuBasicProsthetics.description>Понимание основ ноги и соединение ваших знаний с основами обработки дерева.</KokuBasicProsthetics.description>
+
+    <KokuProsthetics.label>Простые протезы</KokuProsthetics.label>
+    <KokuProsthetics.description>Передовые анатомические исследования и исследования металлов позволят вам создать простые протезы. Открывает стол протезирования.</KokuProsthetics.description>
+
+    <KokuSimpleOrgans.label>Искусственные органы</KokuSimpleOrgans.label>
+    <KokuSimpleOrgans.description>Когда вы приобретаете более глубокие медицинские и технические знания, создание 3D-принтера для простых органов становится возможным.</KokuSimpleOrgans.description>
+
+    <KokuHeadModifications.label>Бионические модификации головы</KokuHeadModifications.label>
+    <KokuHeadModifications.description>Использовать бионику только для восстановления утраченных конечностей кажется такой расточительностью. Давайте использовать их для красоты! Открывает бионические модификации головы.</KokuHeadModifications.description>
+
+    <KokuBionics.label>Бионические модификации</KokuBionics.label>
+    <KokuBionics.description>Изучая концепцию очень маленьких двигателей и схем, перед вами открываются новые возможности для лучших протезов. Открывает новые рецепты на столе протезирования.</KokuBionics.description>
+
+    <KokuBionicSpine.label>Бионический позвоночник</KokuBionicSpine.label>
+    <KokuBionicSpine.description>Анатомия человеческого позвоночника радикально сложна. Вероятно, вам стоит немного поизучать, прежде чем вы начнете с этим работать.</KokuBionicSpine.description>
+
+    <KokuTorsoModifications.label>Модификации торса</KokuTorsoModifications.label>
+    <KokuTorsoModifications.description>Изучая концепцию очень маленьких дозаторов, вы думаете о том, чтобы встроить их в грудину или грудную клетку. Теперь вы можете создавать и устанавливать имплантаты в грудину или заменять грудную клетку.</KokuTorsoModifications.description>
+
+    <KokuSyntheticOrgans.label>Синтетические органы</KokuSyntheticOrgans.label>
+    <KokuSyntheticOrgans.description>Дальнейшие исследования в области нанотехнологий позволяют печатать невероятно хорошо спроектированные искусственные органы. Открывает новые рецепты на тканевом принтере.</KokuSyntheticOrgans.description>
+
+    <KokuBrainSurgery.label>Искусственный мозг</KokuBrainSurgery.label>
+    <KokuBrainSurgery.description>Открывает возможность создания и установки основных мозговых имплантов.</KokuBrainSurgery.description>
+
+    <KokuAdvancedHeadModifications.label>Продвинутые модификации головы</KokuAdvancedHeadModifications.label>
+    <KokuAdvancedHeadModifications.description>Использовать бионику только для восстановления утраченных конечностей кажется такой расточительностью. Давайте использовать их для красоты! Открывает бионические модификации головы.</KokuAdvancedHeadModifications.description>
+
+    <KokuExoskeleton.label>Экзоскелет</KokuExoskeleton.label>
+    <KokuExoskeleton.description>Используйте самую современную технологию двигателей и знания в области эргономики, чтобы понять концепцию экзоскелетов и воспроизвести ее у людей. Позволяет производить и устанавливать экзоскелетные костюмы.</KokuExoskeleton.description>
+
+    <KokuAdvancedBionics.label>Продвинутые бионические модификации</KokuAdvancedBionics.label>
+    <KokuAdvancedBionics.description>Улучшите обычную бионику с помощью продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuAdvancedBionics.description>
+
+    <KokuAdvancedBionicSpine.label>Продвинутый позвоночник</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.description>Хотите впихнуть еще более сложные технологии в свой позвоночник? Проведите немного времени, изучая сложные моменты позвоночника.</KokuAdvancedBionicSpine.description>
+
+    <KokuAdvancedTorsoModifications.label>Продвинутые модификации торса</KokuAdvancedTorsoModifications.label>
+    <KokuAdvancedTorsoModifications.description>Вы уже попробовали улучшения, а теперь хотите больше?</KokuAdvancedTorsoModifications.description>
+
+    <KokuAdvancedBrainSurgery.label>Продвинутый мозг</KokuAdvancedBrainSurgery.label>
+    <KokuAdvancedBrainSurgery.description>Позволяет создавать более сложные мозговые импланты и проводить операции на мозге.</KokuAdvancedBrainSurgery.description>
+
+    <KokuUltraHeadModifications.label>Ультра модификации головы</KokuUltraHeadModifications.label>
+    <KokuUltraHeadModifications.description>Использовать бионику только для восстановления утраченных конечностей кажется такой расточительностью. Давайте использовать их для красоты! Открывает бионические модификации головы.</KokuUltraHeadModifications.description>
+
+    <KokuUltraExoskeleton.label>Ультра экзоскелет</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraExoskeleton.description>
+
+    <KokuUltraBionics.label>Ультра бионические модификации</KokuUltraBionics.label>
+    <KokuUltraBionics.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraBionics.description>
+
+    <KokuUltraBionicSpine.label>Ультра позвоночник</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraBionicSpine.description>
+
+    <KokuUltraTorsoModifications.label>Ультра модификации торса</KokuUltraTorsoModifications.label>
+    <KokuUltraTorsoModifications.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraTorsoModifications.description>
+
+    <KokuUltraOrgans.label>Ультра органы</KokuUltraOrgans.label>
+    <KokuUltraOrgans.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraOrgans.description>
+
+    <KokuUltraBrainSurgery.label>Ультра мозг</KokuUltraBrainSurgery.label>
+    <KokuUltraBrainSurgery.description>Улучшите продвинутую бионику с помощью ультра продвинутых компонентов, чтобы сделать ее еще лучше. Открывает новые рецепты на столе протезирования.</KokuUltraBrainSurgery.description>
+
+</LanguageData>

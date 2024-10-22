@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+  <DoBillsOrgansPrinter.verb>imprime</DoBillsOrgansPrinter.verb>
+  <DoBillsOrgansPrinter.gerund>imprimindo</DoBillsOrgansPrinter.gerund>
+
+  <DoBillsProstheticPrinter.verb>monta</DoBillsProstheticPrinter.verb>
+  <DoBillsProstheticPrinter.gerund>montando</DoBillsProstheticPrinter.gerund>
+
+</LanguageData>

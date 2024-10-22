@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bexiga biónica</KokuBionicBladder.label>
+    <KokuBionicBladder.Description>Substituto da bexiga feito de superliga e prata com adição de urânio. \nO sistema de reciclagem química decompõe os produtos do metabolismo do corpo em moléculas que são recicladas, enquanto a parte restante é liberada na forma de gás, cuja desvantagem é que ele emite gás para o usuário.</KokuBionicBladder.Description>
+
+    <KokuAdvancedBionicBladder.label>Bexiga biónica avançada</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.Description>Substituto da bexiga feito de superliga e prata com adição de urânio. \nO sistema de reciclagem química decompõe os produtos do metabolismo do corpo em moléculas que são recicladas, enquanto a parte restante é liberada na forma de gás, cuja desvantagem é que ele emite gás para o usuário.</KokuAdvancedBionicBladder.Description>
+
+    <KokuUltraBionicBladder.label>Ultra bexiga biónica</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.Description>Substituto da bexiga feito de superliga e prata com adição de urânio. \nO sistema de reciclagem química decompõe os produtos do metabolismo do corpo em moléculas que são recicladas, enquanto a parte restante é liberada na forma de gás, cuja desvantagem é que ele emite gás para o usuário.</KokuUltraBionicBladder.Description>
+
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Melhorador de higiene biónico</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.Description>Melhorador de higiene feito de superliga e prata com adição de urânio. \nLibera mecanites que decompõem células mortas da pele e outras impurezas na pele e nos cabelos, liberando-as de forma inofensiva no ar.</KokuHygieneEnhancer.Description>
+
+    <KokuAdvancedHygieneEnhancer.label>Melhorador de higiene biónico avançado</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.Description>Melhorador de higiene feito de superliga e prata com adição de urânio. \nLibera mecanites avançadas que decompõem células mortas da pele e outras impurezas na pele e nos cabelos, liberando-as de forma inofensiva no ar.</KokuAdvancedHygieneEnhancer.Description>
+
+    <KokuUltraHygieneEnhancer.label>Ultra melhorador de higiene biónico</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.Description>Melhorador de higiene feito de superliga e prata com adição de urânio. \nLibera ultramecanites que decompõem células mortas da pele e outras impurezas na pele e nos cabelos, liberando-as de forma inofensiva no ar.</KokuUltraHygieneEnhancer.Description>
+
+    <!--==============================organs==============================-->
+    
+
+
+</LanguageData>

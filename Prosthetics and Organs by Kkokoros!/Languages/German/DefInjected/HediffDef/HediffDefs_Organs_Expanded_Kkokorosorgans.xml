@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Künstliche Milz</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.labelNoun>Künstliche Milz</KokuArtificialSpleen.labelNoun>
+    <KokuArtificialSpleen.description>Montierte künstliche Milz.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Synthetische Milz</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.labelNoun>Synthetische Milz</KokuSyntheticSpleen.labelNoun>
+    <KokuSyntheticSpleen.description>Montierte synthetische Milz.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ultra Milz</KokuUltraSpleen.label>
+    <KokuUltraSpleen.labelNoun>Ultra Milz</KokuUltraSpleen.labelNoun>
+    <KokuUltraSpleen.description>Montierte ultra Milz.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Künstliche Bauchspeicheldrüse</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.labelNoun>Künstliche Bauchspeicheldrüse</KokuArtificialPancreas.labelNoun>
+    <KokuArtificialPancreas.description>Montierte künstliche Bauchspeicheldrüse.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Synthetische Bauchspeicheldrüse</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.labelNoun>Synthetische Bauchspeicheldrüse</KokuSyntheticPancreas.labelNoun>
+    <KokuSyntheticPancreas.description>Montierte synthetische Bauchspeicheldrüse.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ultra Bauchspeicheldrüse</KokuUltraPancreas.label>
+    <KokuUltraPancreas.labelNoun>Ultra Bauchspeicheldrüse</KokuUltraPancreas.labelNoun>
+    <KokuUltraPancreas.description>Montierte ultra Bauchspeicheldrüse.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Künstliche Gallenblase</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.labelNoun>Künstliche Gallenblase</KokuArtificialGallbladder.labelNoun>
+    <KokuArtificialGallbladder.description>Montierte künstliche Gallenblase.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Synthetische Gallenblase</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.labelNoun>Synthetische Gallenblase</KokuSyntheticGallbladder.labelNoun>
+    <KokuSyntheticGallbladder.description>Montierte synthetische Gallenblase.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ultra Gallenblase</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.labelNoun>Ultra Gallenblase</KokuUltraGallbladder.labelNoun>
+    <KokuUltraGallbladder.description>Montierte ultra Gallenblase.</KokuUltraGallbladder.description>
+</LanguageData>

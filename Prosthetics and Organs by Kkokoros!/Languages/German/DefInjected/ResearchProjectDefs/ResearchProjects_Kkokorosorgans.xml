@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuBasicProsthetics.label>Grundprothesen</KokuBasicProsthetics.label>
+    <KokuBasicProsthetics.description>Verstehe die Grundlagen eines Beins und kombiniere dein Wissen mit den Grundlagen der Holzverarbeitung.</KokuBasicProsthetics.description>
+    
+    <KokuProsthetics.label>Einfache Prothesen</KokuProsthetics.label>
+    <KokuProsthetics.description>Fortgeschrittene anatomische Studien und Materialuntersuchungen ermöglichen es dir, einfache Prothesen zu bauen. Schaltet den Prothesentisch frei.</KokuProsthetics.description>
+    
+    <KokuSimpleOrgans.label>Künstliche Organe</KokuSimpleOrgans.label>
+    <KokuSimpleOrgans.description>Wenn du mehr medizinisches und technisches Wissen erwirbst, wird es nun möglich, einen 3D-Drucker zur Herstellung einfacher Organe zu schaffen.</KokuSimpleOrgans.description>
+    
+    <KokuHeadModifications.label>Bionische Kopfmodifikationen</KokuHeadModifications.label>
+    <KokuHeadModifications.description>Bionik nur zur Wiederherstellung fehlender Gliedmaßen zu verwenden, scheint so verschwenderisch. Lassen Sie uns das für die Schönheit nutzen! Schaltet bionische Kopfmodifikationen frei.</KokuHeadModifications.description>
+    
+    <KokuBionics.label>Bionische Modifikationen</KokuBionics.label>
+    <KokuBionics.description>Die Entdeckung des Konzepts sehr kleiner Motoren und Schaltkreise eröffnet dir neue Möglichkeiten für bessere Prothesen. Schaltet neue Rezepte am Prothesentisch frei.</KokuBionics.description>
+    
+    <KokuBionicSpine.label>Bionische Wirbelsäule</KokuBionicSpine.label>
+    <KokuBionicSpine.description>Die Anatomie der menschlichen Wirbelsäule ist radikal kompliziert. Du solltest wahrscheinlich ein wenig recherchieren, bevor du damit herumspielst.</KokuBionicSpine.description>
+    
+    <KokuTorsoModifications.label>Rumpfmodifikationen</KokuTorsoModifications.label>
+    <KokuTorsoModifications.description>Bei der Entdeckung des Konzepts sehr kleiner Dosierer denkst du darüber nach, sie in den Brustkorb oder das Brustbein zu integrieren. Du kannst jetzt Brustimplantate erstellen und installieren oder den Brustkorb ersetzen.</KokuTorsoModifications.description>
+    
+    <KokuSyntheticOrgans.label>Synthetische Organe</KokuSyntheticOrgans.label>
+    <KokuSyntheticOrgans.description>Weiterführende Forschungen im Bereich der Nanotechnologie ermöglichen das Drucken von äußerst gut gestalteten künstlichen Organen. Schaltet neue Rezepte am Gewebedrucker frei.</KokuSyntheticOrgans.description>
+    
+    <KokuBrainSurgery.label>Künstliches Gehirn</KokuBrainSurgery.label>
+    <KokuBrainSurgery.description>Schaltet die Möglichkeit frei, grundlegende Gehirnimplantate zu erstellen und zu installieren.</KokuBrainSurgery.description>
+    
+    <KokuAdvancedHeadModifications.label>Fortgeschrittene Kopfmodifikationen</KokuAdvancedHeadModifications.label>
+    <KokuAdvancedHeadModifications.description>Bionik nur zur Wiederherstellung fehlender Gliedmaßen zu verwenden, scheint so verschwenderisch. Lassen Sie uns das für die Schönheit nutzen! Schaltet bionische Kopfmodifikationen frei.</KokuAdvancedHeadModifications.description>
+    
+    <KokuExoskeleton.label>Exoskelett</KokuExoskeleton.label>
+    <KokuExoskeleton.description>Nutze die absolut modernste Motorentechnologie und das Wissen über Ergonomie, um das Konzept von Exoskeletten zu verstehen und es auf Menschen zu übertragen. Ermöglicht die Produktion und Montage von Exoskelettanzügen.</KokuExoskeleton.description>
+    
+    <KokuAdvancedBionics.label>Fortgeschrittene bionische Modifikationen</KokuAdvancedBionics.label>
+    <KokuAdvancedBionics.description>Verbessere gewöhnliche Bionik mit fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuAdvancedBionics.description>
+    
+    <KokuAdvancedBionicSpine.label>Fortgeschrittene Wirbelsäule</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.description>Willst du noch komplexere Technologien in deine Wirbelsäule integrieren? Nimm dir etwas Zeit, um die Komplexität der Wirbelsäule zu studieren.</KokuAdvancedBionicSpine.description>
+    
+    <KokuAdvancedTorsoModifications.label>Fortgeschrittene Rumpfmodifikationen</KokuAdvancedTorsoModifications.label>
+    <KokuAdvancedTorsoModifications.description>Du hast die Aufladung gekostet und möchtest jetzt mehr?</KokuAdvancedTorsoModifications.description>
+    
+    <KokuAdvancedBrainSurgery.label>Fortgeschrittene Gehirnoperation</KokuAdvancedBrainSurgery.label>
+    <KokuAdvancedBrainSurgery.description>Ermöglicht die Erstellung fortgeschrittenerer Gehirnimplantate und die Durchführung von Gehirnoperationen.</KokuAdvancedBrainSurgery.description>
+    
+    <KokuUltraHeadModifications.label>Ultra Kopfmodifikationen</KokuUltraHeadModifications.label>
+    <KokuUltraHeadModifications.description>Bionik nur zur Wiederherstellung fehlender Gliedmaßen zu verwenden, scheint so verschwenderisch. Lassen Sie uns das für die Schönheit nutzen! Schaltet bionische Kopfmodifikationen frei.</KokuUltraHeadModifications.description>
+    
+    <KokuUltraExoskeleton.label>Ultra Exoskelett</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.description>Verbessere fortschrittliche Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraExoskeleton.description>
+    
+    <KokuUltraBionics.label>Ultra bionische Modifikationen</KokuUltraBionics.label>
+    <KokuUltraBionics.description>Verbessere fortschrittliche Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraBionics.description>
+    
+    <KokuUltraBionicSpine.label>Ultra Wirbelsäule</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.description>Verbessere fortgeschrittene Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraBionicSpine.description>
+    
+    <KokuUltraTorsoModifications.label>Ultra Rumpfmodifikationen</KokuUltraTorsoModifications.label>
+    <KokuUltraTorsoModifications.description>Verbessere fortschrittliche Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraTorsoModifications.description>
+    
+    <KokuUltraOrgans.label>Ultra Organe</KokuUltraOrgans.label>
+    <KokuUltraOrgans.description>Verbessere fortschrittliche Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraOrgans.description>
+    
+    <KokuUltraBrainSurgery.label>Ultra Gehirn</KokuUltraBrainSurgery.label>
+    <KokuUltraBrainSurgery.description>Verbessere fortschrittliche Bionik mit ultra fortschrittlichen Komponenten, um sie noch besser zu machen. Schaltet neue Rezepte am Prothesentisch frei.</KokuUltraBrainSurgery.description>
+</LanguageData>

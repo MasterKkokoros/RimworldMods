@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Біонічний міхур</KokuBionicBladder.label>
+    <KokuBionicBladder.labelNoun>Біонічний міхур</KokuBionicBladder.labelNoun>
+    <KokuBionicBladder.description>Встановлений біонічний міхур.</KokuBionicBladder.description>
+    <KokuAdvancedBionicBladder.label>Складний біонічний міхур</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.labelNoun>Складний біонічний міхур</KokuAdvancedBionicBladder.labelNoun>
+    <KokuAdvancedBionicBladder.description>Встановлений складний біонічний міхур.</KokuAdvancedBionicBladder.description>
+    <KokuUltraBionicBladder.label>Ультра біонічний міхур</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.labelNoun>Ультра біонічний міхур</KokuUltraBionicBladder.labelNoun>
+    <KokuUltraBionicBladder.description>Встановлений ультра біонічний міхур.</KokuUltraBionicBladder.description>
+
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Біонічний засіб для покращення гігієни</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.labelNoun>Біонічний засіб для покращення гігієни</KokuHygieneEnhancer.labelNoun>
+    <KokuHygieneEnhancer.description>Встановлений біонічний засіб для покращення гігієни.</KokuHygieneEnhancer.description>
+    <KokuAdvancedHygieneEnhancer.label>Складний біонічний засіб для покращення гігієни</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.labelNoun>Складний біонічний засіб для покращення гігієни</KokuAdvancedHygieneEnhancer.labelNoun>
+    <KokuAdvancedHygieneEnhancer.description>Встановлений складний біонічний засіб для покращення гігієни.</KokuAdvancedHygieneEnhancer.description>
+    <KokuUltraHygieneEnhancer.label>Ультра біонічний засіб для покращення гігієни</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.labelNoun>Ультра біонічний засіб для покращення гігієни</KokuUltraHygieneEnhancer.labelNoun>
+    <KokuUltraHygieneEnhancer.description>Встановлений ультра біонічний засіб для покращення гігієни.</KokuUltraHygieneEnhancer.description>
+
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

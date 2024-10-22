@@ -1,0 +1,255 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Дерев'яне рука</KokuWoodenArm.label>
+    <KokuWoodenArm.labelNoun>Дерев'яне рука</KokuWoodenArm.labelNoun>
+    <KokuWoodenArm.description>Встановлене дерев'яне рука.</KokuWoodenArm.description>
+    <KokuSimpleHydraulicArm.label>Гідравлічна рука</KokuSimpleHydraulicArm.label>
+    <KokuSimpleHydraulicArm.labelNoun>Гідравлічна рука</KokuSimpleHydraulicArm.labelNoun>
+    <KokuSimpleHydraulicArm.description>Встановлене гідравлічна рука.</KokuSimpleHydraulicArm.description>
+    <KokuBionicArm.label>Біонічна рука</KokuBionicArm.label>
+    <KokuBionicArm.labelNoun>Біонічна рука</KokuBionicArm.labelNoun>
+    <KokuBionicArm.description>Встановлене біонічна рука</KokuBionicArm.description>
+    <KokuAdvancedBionicArm.label>Складна біонічна рука</KokuAdvancedBionicArm.label>
+    <KokuAdvancedBionicArm.labelNoun>Складна біонічна рука</KokuAdvancedBionicArm.labelNoun>
+    <KokuAdvancedBionicArm.description>Встановлене складна біонічна рука</KokuAdvancedBionicArm.description>
+    <KokuUltraBionicArm.label>Ультра біонічна рука</KokuUltraBionicArm.label>
+    <KokuUltraBionicArm.labelNoun>Ультра біонічна рука</KokuUltraBionicArm.labelNoun>
+    <KokuUltraBionicArm.description>Встановлене ультра біонічна рука</KokuUltraBionicArm.description>
+    <!--==========leg==========-->
+    <KokuWoodenLeg.label>Дерев'яна нога</KokuWoodenLeg.label>
+    <KokuWoodenLeg.labelNoun>Дерев'яна нога</KokuWoodenLeg.labelNoun>
+    <KokuWoodenLeg.description>Встановлена дерев'яна нога.</KokuWoodenLeg.description>
+    <KokuSimpleHydraulicLeg.label>Гідравлічна нога</KokuSimpleHydraulicLeg.label>
+    <KokuSimpleHydraulicLeg.labelNoun>Гідравлічна нога</KokuSimpleHydraulicLeg.labelNoun>
+    <KokuSimpleHydraulicLeg.description>Встановлена гідравлічна нога.</KokuSimpleHydraulicLeg.description>
+    <KokuBionicLeg.label>Біонічна нога</KokuBionicLeg.label>
+    <KokuBionicLeg.labelNoun>Біонічна нога</KokuBionicLeg.labelNoun>
+    <KokuBionicLeg.description>Встановлена біонічна нога.</KokuBionicLeg.description>
+    <KokuAdvancedBionicLeg.label>Складна біонічна нога</KokuAdvancedBionicLeg.label>
+    <KokuAdvancedBionicLeg.labelNoun>Складна біонічна нога</KokuAdvancedBionicLeg.labelNoun>
+    <KokuAdvancedBionicLeg.description>Встановлена складна біонічна нога.</KokuAdvancedBionicLeg.description>
+    <KokuUltraBionicLeg.label>Ультра біонічна нога</KokuUltraBionicLeg.label>
+    <KokuUltraBionicLeg.labelNoun>Ультра біонічна нога</KokuUltraBionicLeg.labelNoun>
+    <KokuUltraBionicLeg.description>Встановлена ультра біонічна нога.</KokuUltraBionicLeg.description>
+    <!--==========jaw==========-->
+    <KokuWoodenJaw.label>Дерев'яна щелепа</KokuWoodenJaw.label>
+    <KokuWoodenJaw.labelNoun>Дерев'яна щелепа</KokuWoodenJaw.labelNoun>
+    <KokuWoodenJaw.description>Встановлена дерев'яна щелепа.</KokuWoodenJaw.description>
+    <KokuHydraulicJaw.label>Гідравлічна щелепа</KokuHydraulicJaw.label>
+    <KokuHydraulicJaw.labelNoun>Гідравлічна щелепа</KokuHydraulicJaw.labelNoun>
+    <KokuHydraulicJaw.description>Встановлена гідравлічна щелепа.</KokuHydraulicJaw.description>
+    <KokuBionicJaw.label>Біонічна щелепа</KokuBionicJaw.label>
+    <KokuBionicJaw.labelNoun>Біонічна щелепа</KokuBionicJaw.labelNoun>
+    <KokuBionicJaw.description>Встановлена біонічна щелепа.</KokuBionicJaw.description>
+    <KokuMuteJaw.label>Німота щелепа</KokuMuteJaw.label>
+    <KokuMuteJaw.labelNoun>Німота щелепа</KokuMuteJaw.labelNoun>
+    <KokuMuteJaw.description>Встановлена німота щелепа.</KokuMuteJaw.description>
+    <KokuAdvancedBionicJaw.label>Складна біонічна щелепа</KokuAdvancedBionicJaw.label>
+    <KokuAdvancedBionicJaw.labelNoun>Складна біонічна щелепа</KokuAdvancedBionicJaw.labelNoun>
+    <KokuAdvancedBionicJaw.description>Встановлена складна біонічна щелепа.</KokuAdvancedBionicJaw.description>
+    <KokuUltraBionicJaw.label>Ультра біонічна щелепа</KokuUltraBionicJaw.label>
+    <KokuUltraBionicJaw.labelNoun>Ультра біонічна щелепа</KokuUltraBionicJaw.labelNoun>
+    <KokuUltraBionicJaw.description>Встановлена ультра біонічна щелепа.</KokuUltraBionicJaw.description>
+    <!--==========nose==========-->
+    <KokuArtificialNose.label>Штучний ніс</KokuArtificialNose.label>
+    <KokuArtificialNose.labelNoun>Штучний ніс</KokuArtificialNose.labelNoun>
+    <KokuArtificialNose.description>Встановлений штучний ніс.</KokuArtificialNose.description>
+    <KokuBionicNose.label>Біонічний ніс</KokuBionicNose.label>
+    <KokuBionicNose.labelNoun>Біонічний ніс</KokuBionicNose.labelNoun>
+    <KokuBionicNose.description>Встановлений біонічний ніс.</KokuBionicNose.description>
+    <KokuAdvancedBionicNose.label>Складний біонічний ніс</KokuAdvancedBionicNose.label>
+    <KokuAdvancedBionicNose.labelNoun>Складний біонічний ніс</KokuAdvancedBionicNose.labelNoun>
+    <KokuAdvancedBionicNose.description>Встановлений складний біонічний ніс.</KokuAdvancedBionicNose.description>
+    <KokuUltraBionicNose.label>Ультра біонічний ніс</KokuUltraBionicNose.label>
+    <KokuUltraBionicNose.labelNoun>Ультра біонічний ніс</KokuUltraBionicNose.labelNoun>
+    <KokuUltraBionicNose.description>Встановлений ультра біонічний ніс.</KokuUltraBionicNose.description>
+    <!--==========ear==========-->
+    <KokuArtificialEar.label>Штучне вухо</KokuArtificialEar.label>
+    <KokuArtificialEar.labelNoun>Штучне вухо</KokuArtificialEar.labelNoun>
+    <KokuArtificialEar.description>Встановлене штучне вухо.</KokuArtificialEar.description>
+    <KokuBionicEar.label>Біонічне вухо</KokuBionicEar.label>
+    <KokuBionicEar.labelNoun>Біонічне вухо</KokuBionicEar.labelNoun>
+    <KokuBionicEar.description>Встановлене біонічне вухо.</KokuBionicEar.description>
+    <KokuAdvancedBionicEar.label>Складне біонічне вухо</KokuAdvancedBionicEar.label>
+    <KokuAdvancedBionicEar.labelNoun>Складне біонічне вухо</KokuAdvancedBionicEar.labelNoun>
+    <KokuAdvancedBionicEar.description>Встановлене складне біонічне вухо.</KokuAdvancedBionicEar.description>
+    <KokuUltraBionicEar.label>Ультра біонічне вухо</KokuUltraBionicEar.label>
+    <KokuUltraBionicEar.labelNoun>Ультра біонічне вухо</KokuUltraBionicEar.labelNoun>
+    <KokuUltraBionicEar.description>Встановлене ультра біонічне вухо.</KokuUltraBionicEar.description>
+    <!--==========eye==========-->
+    <KokuArtificialEye.label>Штучне око</KokuArtificialEye.label>
+    <KokuArtificialEye.labelNoun>Штучне око</KokuArtificialEye.labelNoun>
+    <KokuArtificialEye.description>Встановлене штучне око.</KokuArtificialEye.description>
+    <KokuBionicEye.label>Біонічне око</KokuBionicEye.label>
+    <KokuBionicEye.labelNoun>Біонічне око</KokuBionicEye.labelNoun>
+    <KokuBionicEye.description>Встановлене біонічне око.</KokuBionicEye.description>
+    <KokuAdvancedBionicEye.label>Складне біонічне око</KokuAdvancedBionicEye.label>
+    <KokuAdvancedBionicEye.labelNoun>Складне біонічне око</KokuAdvancedBionicEye.labelNoun>
+    <KokuAdvancedBionicEye.description>Встановлене складне біонічне око.</KokuAdvancedBionicEye.description>
+    <KokuUltraBionicEye.label>Ультра біонічне око</KokuUltraBionicEye.label>
+    <KokuUltraBionicEye.labelNoun>Ультра біонічне око</KokuUltraBionicEye.labelNoun>
+    <KokuUltraBionicEye.description>Встановлене ультра біонічне око.</KokuUltraBionicEye.description>
+    <!--==========spine==========-->
+    <KokuBionicSpine.label>Біонічний хребет</KokuBionicSpine.label>
+    <KokuBionicSpine.labelNoun>Біонічний хребет</KokuBionicSpine.labelNoun>
+    <KokuBionicSpine.description>Встановлений біонічний хребет.</KokuBionicSpine.description>
+    <KokuAdvancedBionicSpine.label>Складний біонічний хребет</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.labelNoun>Складний біонічний хребет</KokuAdvancedBionicSpine.labelNoun>
+    <KokuAdvancedBionicSpine.description>Встановлений складний біонічний хребет.</KokuAdvancedBionicSpine.description>
+    <KokuUltraBionicSpine.label>Ультра біонічний хребет</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.labelNoun>Ультра біонічний хребет</KokuUltraBionicSpine.labelNoun>
+    <KokuUltraBionicSpine.description>Встановлений ультра біонічний хребет.</KokuUltraBionicSpine.description>
+    <!--==========pelvis==========-->
+    <KokuBionicPelvis.label>Біонічна таз</KokuBionicPelvis.label>
+    <KokuBionicPelvis.labelNoun>Біонічна таз</KokuBionicPelvis.labelNoun>
+    <KokuBionicPelvis.description>Встановлена біонічна таз.</KokuBionicPelvis.description>
+    <KokuAdvancedBionicPelvis.label>Складна біонічна таз</KokuAdvancedBionicPelvis.label>
+    <KokuAdvancedBionicPelvis.labelNoun>Складна біонічна таз</KokuAdvancedBionicPelvis.labelNoun>
+    <KokuAdvancedBionicPelvis.description>Встановлена складна біонічна таз.</KokuAdvancedBionicPelvis.description>
+    <KokuUltraBionicPelvis.label>Ультра біонічна таз</KokuUltraBionicPelvis.label>
+    <KokuUltraBionicPelvis.labelNoun>Ультра біонічна таз</KokuUltraBionicPelvis.labelNoun>
+    <KokuUltraBionicPelvis.description>Встановлена ультра біонічна таз.</KokuUltraBionicPelvis.description>
+    <!--==========neck==========-->
+    <KokuBionicNeck.label>Біонічна шия</KokuBionicNeck.label>
+    <KokuBionicNeck.labelNoun>Біонічна шия</KokuBionicNeck.labelNoun>
+    <KokuBionicNeck.description>Встановлена біонічна шия.</KokuBionicNeck.description>
+    <KokuAdvancedBionicNeck.label>Складна біонічна шия</KokuAdvancedBionicNeck.label>
+    <KokuAdvancedBionicNeck.labelNoun>Складна біонічна шия</KokuAdvancedBionicNeck.labelNoun>
+    <KokuAdvancedBionicNeck.description>Встановлена складна біонічна шия.</KokuAdvancedBionicNeck.description>
+    <KokuUltraBionicNeck.label>Ультра біонічна шия</KokuUltraBionicNeck.label>
+    <KokuUltraBionicNeck.labelNoun>Ультра біонічна шия</KokuUltraBionicNeck.labelNoun>
+    <KokuUltraBionicNeck.description>Встановлена ультра біонічна шия.</KokuUltraBionicNeck.description>
+    <!--==========medsternum==========-->
+    <KokuMedicalSternum.label>Медичний груди</KokuMedicalSternum.label>
+    <KokuMedicalSternum.labelNoun>Медичний груди</KokuMedicalSternum.labelNoun>
+    <KokuMedicalSternum.description>Встановлений медичний груди.</KokuMedicalSternum.description>
+    <KokuAdvancedMedicalSternum.label>Складний медичний груди</KokuAdvancedMedicalSternum.label>
+    <KokuAdvancedMedicalSternum.labelNoun>Складний медичний груди</KokuAdvancedMedicalSternum.labelNoun>
+    <KokuAdvancedMedicalSternum.description>Встановлений складний медичний груди.</KokuAdvancedMedicalSternum.description>
+    <KokuUltraMedicalSternum.label>Ультра медичний груди</KokuUltraMedicalSternum.label>
+    <KokuUltraMedicalSternum.labelNoun>Ультра медичний груди</KokuUltraMedicalSternum.labelNoun>
+    <KokuUltraMedicalSternum.description>Встановлений ультра медичний груди.</KokuUltraMedicalSternum.description>
+    <!--==========druggsternum==========-->
+    <KokuDruggedSternum.label>Narkotyzujący mostek</KokuDruggedSternum.label>
+    <KokuDruggedSternum.labelNoun>Narkotyzujący mostek</KokuDruggedSternum.labelNoun>
+    <KokuDruggedSternum.description>Zamontowany narkotyzujący mostek.</KokuDruggedSternum.description>
+    <KokuAdvancedDruggedSternum.label>Zaawansowany narkotyzujący mostek</KokuAdvancedDruggedSternum.label>
+    <KokuAdvancedDruggedSternum.labelNoun>Zaawansowany narkotyzujący mostek</KokuAdvancedDruggedSternum.labelNoun>
+    <KokuAdvancedDruggedSternum.description>Zamontowany zaawansowany narkotyzujący mostek.</KokuAdvancedDruggedSternum.description>
+    <KokuUltraDruggedSternum.label>Ultra narkotyzujący mostek</KokuUltraDruggedSternum.label>
+    <KokuUltraDruggedSternum.labelNoun>Ultra narkotyzujący mostek</KokuUltraDruggedSternum.labelNoun>
+    <KokuUltraDruggedSternum.description>Zamontowany ultra narkotyzujący mostek.</KokuUltraDruggedSternum.description>
+
+    <!--==========adrsternum==========-->
+    <KokuAdrenalineSternum.label>Mostek z Adrenaliną</KokuAdrenalineSternum.label>
+    <KokuAdrenalineSternum.labelNoun>Mostek z Adrenaliną</KokuAdrenalineSternum.labelNoun>
+    <KokuAdrenalineSternum.description>Zamontowany mostek z Adrenaliną.</KokuAdrenalineSternum.description>
+    <KokuAdvancedAdrenalineSternum.label>Zaawansowany mostek z Adrenaliną</KokuAdvancedAdrenalineSternum.label>
+    <KokuAdvancedAdrenalineSternum.labelNoun>Zaawansowany mostek z Adrenaliną</KokuAdvancedAdrenalineSternum.labelNoun>
+    <KokuAdvancedAdrenalineSternum.description>Zamontowany zaawansowany mostek z Adrenaliną.</KokuAdvancedAdrenalineSternum.description>
+    <KokuUltraAdrenalineSternum.label>Ultra mostek z Adrenaliną</KokuUltraAdrenalineSternum.label>
+    <KokuUltraAdrenalineSternum.labelNoun>Ultra mostek z Adrenaliną</KokuUltraAdrenalineSternum.labelNoun>
+    <KokuUltraAdrenalineSternum.description>Zamontowany ultra mostek z Adrenaliną.</KokuUltraAdrenalineSternum.description>
+
+    <!--==========painsternum==========-->
+    <KokuPainkillerSternum.label>Przeciwbólowy mostek</KokuPainkillerSternum.label>
+    <KokuPainkillerSternum.labelNoun>Przeciwbólowy mostek</KokuPainkillerSternum.labelNoun>
+    <KokuPainkillerSternum.description>Zamontowany przeciwbólowy mostek.</KokuPainkillerSternum.description>
+    <KokuAdvancedPainkillerSternum.label>Zaawansowany przeciwbólowy mostek</KokuAdvancedPainkillerSternum.label>
+    <KokuAdvancedPainkillerSternum.labelNoun>Zaawansowany przeciwbólowy mostek</KokuAdvancedPainkillerSternum.labelNoun>
+    <KokuAdvancedPainkillerSternum.description>Zamontowany zaawansowany przeciwbólowy mostek.</KokuAdvancedPainkillerSternum.description>
+    <KokuUltraPainkillerSternum.label>Ultra przeciwbólowy mostek</KokuUltraPainkillerSternum.label>
+    <KokuUltraPainkillerSternum.labelNoun>Ultra przeciwbólowy mostek</KokuUltraPainkillerSternum.labelNoun>
+    <KokuUltraPainkillerSternum.description>Zamontowany ultra przeciwbólowy mostek.</KokuUltraPainkillerSternum.description>
+
+    <!--==========ribcage==========-->
+    <KokuNanomachinesRibcage.label>Klatka piersiowa z nanomaszynami</KokuNanomachinesRibcage.label>
+    <KokuNanomachinesRibcage.labelNoun>Klatka piersiowa z nanomaszynami</KokuNanomachinesRibcage.labelNoun>
+    <KokuNanomachinesRibcage.description>Zamontowana klatka piersiowa z nanomaszynami.</KokuNanomachinesRibcage.description>
+    <KokuAdvancedNanomachinesRibcage.label>Zaawansowana klatka piersiowa z nanomaszynami</KokuAdvancedNanomachinesRibcage.label>
+    <KokuAdvancedNanomachinesRibcage.labelNoun>Zaawansowana klatka piersiowa z nanomaszynami</KokuAdvancedNanomachinesRibcage.labelNoun>
+    <KokuAdvancedNanomachinesRibcage.description>Zamontowana zaawansowana klatka piersiowa z nanomaszynami.</KokuAdvancedNanomachinesRibcage.description>
+    <KokuUltraNanomachinesRibcage.label>Ultra klatka piersiowa z nanomaszynami</KokuUltraNanomachinesRibcage.label>
+    <KokuUltraNanomachinesRibcage.labelNoun>Ultra klatka piersiowa z nanomaszynami</KokuUltraNanomachinesRibcage.labelNoun>
+    <KokuUltraNanomachinesRibcage.description>Zamontowana ultra klatka piersiowa z nanomaszynami.</KokuUltraNanomachinesRibcage.description>
+
+    <!--==========exoskeleton==========-->
+    <KokuExoskeleton.label>Egzoszkielet</KokuExoskeleton.label>
+    <KokuExoskeleton.labelNoun>Egzoszkielet</KokuExoskeleton.labelNoun>
+    <KokuExoskeleton.description>Zamontowany egzoszkielet.</KokuExoskeleton.description>
+    <KokuUltraExoskeleton.label>Ultra Egzoszkielet</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.labelNoun>Ultra Egzoszkielet</KokuUltraExoskeleton.labelNoun>
+    <KokuUltraExoskeleton.description>Zamontowany ultra egzoszkielet.</KokuUltraExoskeleton.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuArtificialBrain.label>Штучний мозок</KokuArtificialBrain.label>
+    <KokuArtificialBrain.labelNoun>Штучний мозок</KokuArtificialBrain.labelNoun>
+    <KokuArtificialBrain.description>Встановлений штучний мозок.</KokuArtificialBrain.description>
+    <KokuAdvancedBrain.label>Складний штучний мозок</KokuAdvancedBrain.label>
+    <KokuAdvancedBrain.labelNoun>Складний штучний мозок</KokuAdvancedBrain.labelNoun>
+    <KokuAdvancedBrain.description>Встановлений складний штучний мозок.</KokuAdvancedBrain.description>
+    <KokuUltraBrain.label>Ультра складний штучний мозок</KokuUltraBrain.label>
+    <KokuUltraBrain.labelNoun>Ультра складний штучний мозок</KokuUltraBrain.labelNoun>
+    <KokuUltraBrain.description>Встановлений ультра складний штучний мозок.</KokuUltraBrain.description>
+
+    <!--==========lung==========-->
+    <KokuArtificialLung.label>Штучне легке</KokuArtificialLung.label>
+    <KokuArtificialLung.labelNoun>Штучне легке</KokuArtificialLung.labelNoun>
+    <KokuArtificialLung.description>Встановлене штучне легке.</KokuArtificialLung.description>
+    <KokuSyntheticLung.label>Синтетичне легке</KokuSyntheticLung.label>
+    <KokuSyntheticLung.labelNoun>Синтетичне легке</KokuSyntheticLung.labelNoun>
+    <KokuSyntheticLung.description>Встановлене синтетичне легке.</KokuSyntheticLung.description>
+    <KokuUltraLung.label>Ультра легке</KokuUltraLung.label>
+    <KokuUltraLung.labelNoun>Ультра легке</KokuUltraLung.labelNoun>
+    <KokuUltraLung.description>Встановлене ультра легке.</KokuUltraLung.description>
+
+    <!--==========stomach==========-->
+    <KokuArtificialStomach.label>Штучний шлунок</KokuArtificialStomach.label>
+    <KokuArtificialStomach.labelNoun>Штучний шлунок</KokuArtificialStomach.labelNoun>
+    <KokuArtificialStomach.description>Встановлений штучний шлунок.</KokuArtificialStomach.description>
+    <KokuSyntheticStomach.label>Синтетичний шлунок</KokuSyntheticStomach.label>
+    <KokuSyntheticStomach.labelNoun>Синтетичний шлунок</KokuSyntheticStomach.labelNoun>
+    <KokuSyntheticStomach.description>Встановлений синтетичний шлунок.</KokuSyntheticStomach.description>
+    <KokuUltraStomach.label>Ультра шлунок</KokuUltraStomach.label>
+    <KokuUltraStomach.labelNoun>Ультра шлунок</KokuUltraStomach.labelNoun>
+    <KokuUltraStomach.description>Встановлений ультра шлунок.</KokuUltraStomach.description>
+
+    <!--==========liver==========-->
+    <KokuArtificialLiver.label>Штучна печінка</KokuArtificialLiver.label>
+    <KokuArtificialLiver.labelNoun>Штучна печінка</KokuArtificialLiver.labelNoun>
+    <KokuArtificialLiver.description>Встановлена штучна печінка.</KokuArtificialLiver.description>
+    <KokuSyntheticLiver.label>Синтетична печінка</KokuSyntheticLiver.label>
+    <KokuSyntheticLiver.labelNoun>Синтетична печінка</KokuSyntheticLiver.labelNoun>
+    <KokuSyntheticLiver.description>Встановлена синтетична печінка.</KokuSyntheticLiver.description>
+    <KokuUltraLiver.label>Ультра печінка</KokuUltraLiver.label>
+    <KokuUltraLiver.labelNoun>Ультра печінка</KokuUltraLiver.labelNoun>
+    <KokuUltraLiver.description>Встановлена ультра печінка.</KokuUltraLiver.description>
+
+    <!--==========kidney==========-->
+    <KokuArtificialKidney.label>Штучна нирка</KokuArtificialKidney.label>
+    <KokuArtificialKidney.labelNoun>Штучна нирка</KokuArtificialKidney.labelNoun>
+    <KokuArtificialKidney.description>Встановлена штучна нирка.</KokuArtificialKidney.description>
+    <KokuSyntheticKidney.label>Синтетична нирка</KokuSyntheticKidney.label>
+    <KokuSyntheticKidney.labelNoun>Синтетична нирка</KokuSyntheticKidney.labelNoun>
+    <KokuSyntheticKidney.description>Встановлена синтетична нирка.</KokuSyntheticKidney.description>
+    <KokuUltraKidney.label>Ультра нирка</KokuUltraKidney.label>
+    <KokuUltraKidney.labelNoun>Ультра нирка</KokuUltraKidney.labelNoun>
+    <KokuUltraKidney.description>Встановлена ультра нирка.</KokuUltraKidney.description>
+
+    <!--==========heart==========-->
+    <KokuArtificialHeart.label>Штучне серце</KokuArtificialHeart.label>
+    <KokuArtificialHeart.labelNoun>Штучне серце</KokuArtificialHeart.labelNoun>
+    <KokuArtificialHeart.description>Встановлене штучне серце.</KokuArtificialHeart.description>
+    <KokuSyntheticHeart.label>Синтетичне серце</KokuSyntheticHeart.label>
+    <KokuSyntheticHeart.labelNoun>Синтетичне серце</KokuSyntheticHeart.labelNoun>
+    <KokuSyntheticHeart.description>Встановлене синтетичне серце.</KokuSyntheticHeart.description>
+    <KokuUltraHeart.label>Ультра серце</KokuUltraHeart.label>
+    <KokuUltraHeart.labelNoun>Ультра серце</KokuUltraHeart.labelNoun>
+    <KokuUltraHeart.description>Встановлене ультра серце.</KokuUltraHeart.description>
+
+</LanguageData>

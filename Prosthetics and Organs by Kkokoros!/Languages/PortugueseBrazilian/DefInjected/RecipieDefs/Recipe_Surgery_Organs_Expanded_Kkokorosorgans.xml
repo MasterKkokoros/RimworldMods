@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--==============================organs==============================-->
+	<!--==========Spleen==========-->
+
+	<KokuInstallArtificialSpleen.label>Instale o baço artificial</KokuInstallArtificialSpleen.label>
+	<KokuInstallArtificialSpleen.description>Instala um baço artificial.</KokuInstallArtificialSpleen.description>
+	<KokuInstallArtificialSpleen.jobString>Instala um baço artificial</KokuInstallArtificialSpleen.jobString>
+
+	<KokuInstallSyntheticSpleen.label>Instale o baço sintético</KokuInstallSyntheticSpleen.label>
+	<KokuInstallSyntheticSpleen.description>Instala um baço sintético.</KokuInstallSyntheticSpleen.description>
+	<KokuInstallSyntheticSpleen.jobString>Instala um baço sintético</KokuInstallSyntheticSpleen.jobString>
+
+	<KokuInstallUltraSpleen.label>Instale o baço ultra</KokuInstallUltraSpleen.label>
+	<KokuInstallUltraSpleen.description>Instala um baço ultra.</KokuInstallUltraSpleen.description>
+	<KokuInstallUltraSpleen.jobString>Instala um baço ultra</KokuInstallUltraSpleen.jobString>
+
+	<!--==========Pancreas==========-->
+	<KokuInstallArtificialPancreas.label>Instale o pâncreas artificial</KokuInstallArtificialPancreas.label>
+	<KokuInstallArtificialPancreas.description>Instala um pâncreas artificial.</KokuInstallArtificialPancreas.description>
+	<KokuInstallArtificialPancreas.jobString>Instala um pâncreas artificial</KokuInstallArtificialPancreas.jobString>
+
+	<KokuInstallSyntheticPancreas.label>Instale o pâncreas sintético</KokuInstallSyntheticPancreas.label>
+	<KokuInstallSyntheticPancreas.description>Instala um pâncreas sintético.</KokuInstallSyntheticPancreas.description>
+	<KokuInstallSyntheticPancreas.jobString>Instala um pâncreas sintético</KokuInstallSyntheticPancreas.jobString>
+
+	<KokuInstallUltraPancreas.label>Instale o pâncreas ultra</KokuInstallUltraPancreas.label>
+	<KokuInstallUltraPancreas.description>Instala um pâncreas ultra.</KokuInstallUltraPancreas.description>
+	<KokuInstallUltraPancreas.jobString>Instala um pâncreas ultra</KokuInstallUltraPancreas.jobString>
+
+	<!--==========GallBladder==========-->
+	<KokuInstallArtificialGallbladder.label>Instale a vesícula biliar artificial</KokuInstallArtificialGallbladder.label>
+	<KokuInstallArtificialGallbladder.description>Instala uma vesícula biliar artificial.</KokuInstallArtificialGallbladder.description>
+	<KokuInstallArtificialGallbladder.jobString>Instala uma vesícula biliar artificial</KokuInstallArtificialGallbladder.jobString>
+
+	<KokuInstallSyntheticGallbladder.label>Instale a vesícula biliar sintética</KokuInstallSyntheticGallbladder.label>
+	<KokuInstallSyntheticGallbladder.description>Instala uma vesícula biliar sintética.</KokuInstallSyntheticGallbladder.description>
+	<KokuInstallSyntheticGallbladder.jobString>Instala uma vesícula biliar sintética</KokuInstallSyntheticGallbladder.jobString>
+
+	<KokuInstallUltraGallbladder.label>Instale a vesícula biliar ultra</KokuInstallUltraGallbladder.label>
+	<KokuInstallUltraGallbladder.description>Instala uma vesícula biliar ultra.</KokuInstallUltraGallbladder.description>
+	<KokuInstallUltraGallbladder.jobString>Instala uma vesícula biliar ultra</KokuInstallUltraGallbladder.jobString>
+</LanguageData>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+<!--==============================organs==============================-->
+<!--==========Spleen==========-->
+
+<KokuInstallArtificialSpleen.label>Künstliche Milz installieren</KokuInstallArtificialSpleen.label>
+<KokuInstallArtificialSpleen.description>Installiert eine künstliche Milz.</KokuInstallArtificialSpleen.description>
+<KokuInstallArtificialSpleen.jobString>Künstliche Milz installieren</KokuInstallArtificialSpleen.jobString>
+<KokuInstallSyntheticSpleen.label>Synthetische Milz installieren</KokuInstallSyntheticSpleen.label>
+<KokuInstallSyntheticSpleen.description>Installiert eine syntetyczną Milz.</KokuInstallSyntheticSpleen.description>
+<KokuInstallSyntheticSpleen.jobString>Synthetische Milz installieren</KokuInstallSyntheticSpleen.jobString>
+<KokuInstallUltraSpleen.label>Ultra-Milz installieren</KokuInstallUltraSpleen.label>
+<KokuInstallUltraSpleen.description>Installiert eine ultra Milz.</KokuInstallUltraSpleen.description>
+<KokuInstallUltraSpleen.jobString>Ultra-Milz installieren</KokuInstallUltraSpleen.jobString>
+
+
+<!--==========Pancreas==========-->
+<KokuInstallArtificialPancreas.label>Künstliche Bauchspeicheldrüse installieren</KokuInstallArtificialPancreas.label>
+<KokuInstallArtificialPancreas.description>Installiert eine künstliche Bauchspeicheldrüse.</KokuInstallArtificialPancreas.description>
+<KokuInstallArtificialPancreas.jobString>Künstliche Bauchspeicheldrüse installieren</KokuInstallArtificialPancreas.jobString>
+<KokuInstallSyntheticPancreas.label>Synthetische Bauchspeicheldrüse installieren</KokuInstallSyntheticPancreas.label>
+<KokuInstallSyntheticPancreas.description>Installiert eine synthetische Bauchspeicheldrüse.</KokuInstallSyntheticPancreas.description>
+<KokuInstallSyntheticPancreas.jobString>Synthetische Bauchspeicheldrüse installieren</KokuInstallSyntheticPancreas.jobString>
+<KokuInstallUltraPancreas.label>Ultra-Bauchspeicheldrüse installieren</KokuInstallUltraPancreas.label>
+<KokuInstallUltraPancreas.description>Installiert eine ultra Bauchspeicheldrüse.</KokuInstallUltraPancreas.description>
+<KokuInstallUltraPancreas.jobString>Ultra-Bauchspeicheldrüse installieren</KokuInstallUltraPancreas.jobString>
+
+<!--==========GallBladder==========-->
+<KokuInstallArtificialGallbladder.label>Künstliche Gallenblase installieren</KokuInstallArtificialGallbladder.label>
+<KokuInstallArtificialGallbladder.description>Installiert eine künstliche Gallenblase.</KokuInstallArtificialGallbladder.description>
+<KokuInstallArtificialGallbladder.jobString>Künstliche Gallenblase installieren</KokuInstallArtificialGallbladder.jobString>
+<KokuInstallSyntheticGallbladder.label>Synthetische Gallenblase installieren</KokuInstallSyntheticGallbladder.label>
+<KokuInstallSyntheticGallbladder.description>Installiert eine synthetische Gallenblase.</KokuInstallSyntheticGallbladder.description>
+<KokuInstallSyntheticGallbladder.jobString>Synthetische Gallenblase installieren</KokuInstallSyntheticGallbladder.jobString>
+<KokuInstallUltraGallbladder.label>Ultra-Gallenblase installieren</KokuInstallUltraGallbladder.label>
+<KokuInstallUltraGallbladder.description>Installiert eine ultra Gallenblase.</KokuInstallUltraGallbladder.description>
+<KokuInstallUltraGallbladder.jobString>Ultra-Gallenblase installieren</KokuInstallUltraGallbladder.jobString>
+</LanguageData>

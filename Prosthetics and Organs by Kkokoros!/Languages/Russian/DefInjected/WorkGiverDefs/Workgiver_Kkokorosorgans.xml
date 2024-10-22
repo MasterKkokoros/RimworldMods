@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOrgansPrinter.verb>печатает</DoBillsOrgansPrinter.verb>
+  <DoBillsOrgansPrinter.gerund>печатью</DoBillsOrgansPrinter.gerund>
+
+  <DoBillsProstheticPrinter.verb>монтирует</DoBillsProstheticPrinter.verb>
+  <DoBillsProstheticPrinter.gerund>монтажом</DoBillsProstheticPrinter.gerund>
+
+</LanguageData>

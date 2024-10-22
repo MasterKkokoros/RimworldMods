@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!--==========wing==========-->
+	<KokuInstallHydraulicWing.label>Встановити гідравлічне крило</KokuInstallHydraulicWing.label>
+	<KokuInstallHydraulicWing.description>Встановлює гідравлічне крило.</KokuInstallHydraulicWing.description>
+	<KokuInstallHydraulicWing.jobString>Встановлює гідравлічне крило</KokuInstallHydraulicWing.jobString>
+
+	<KokuInstallBionicWing.label>Встановити біонічне крило</KokuInstallBionicWing.label>
+	<KokuInstallBionicWing.description>Встановлює біонічне крило.</KokuInstallBionicWing.description>
+	<KokuInstallBionicWing.jobString>Встановлює біонічне крило</KokuInstallBionicWing.jobString>
+
+	<KokuInstallAdvancedBionicWing.label>Встановити вдосконалене крило</KokuInstallAdvancedBionicWing.label>
+	<KokuInstallAdvancedBionicWing.description>Встановлює вдосконалене крило.</KokuInstallAdvancedBionicWing.description>
+	<KokuInstallAdvancedBionicWing.jobString>Встановлює вдосконалене крило</KokuInstallAdvancedBionicWing.jobString>
+
+	<KokuInstallUltraBionicWing.label>Встановити ультра крило</KokuInstallUltraBionicWing.label>
+	<KokuInstallUltraBionicWing.description>Встановлює ультра крило.</KokuInstallUltraBionicWing.description>
+	<KokuInstallUltraBionicWing.jobString>Встановлює ультра крило</KokuInstallUltraBionicWing.jobString>
+
+	<!--==========Antenna==========-->
+	<KokuInstallHydraulicAntenna.label>Встановити гідравлічну антени</KokuInstallHydraulicAntenna.label>
+	<KokuInstallHydraulicAntenna.description>Встановлює гідравлічну антени.</KokuInstallHydraulicAntenna.description>
+	<KokuInstallHydraulicAntenna.jobString>Встановлює гідравлічну антени</KokuInstallHydraulicAntenna.jobString>
+
+	<KokuInstallBionicAntenna.label>Встановити біонічну антени</KokuInstallBionicAntenna.label>
+	<KokuInstallBionicAntenna.description>Встановлює біонічну антени.</KokuInstallBionicAntenna.description>
+	<KokuInstallBionicAntenna.jobString>Встановлює біонічну антени</KokuInstallBionicAntenna.jobString>
+
+	<KokuInstallAdvancedBionicAntenna.label>Встановити вдосконалену антени</KokuInstallAdvancedBionicAntenna.label>
+	<KokuInstallAdvancedBionicAntenna.description>Встановлює вдосконалену антени.</KokuInstallAdvancedBionicAntenna.description>
+	<KokuInstallAdvancedBionicAntenna.jobString>Встановлює вдосконалену антени</KokuInstallAdvancedBionicAntenna.jobString>
+
+	<KokuInstallUltraBionicAntenna.label>Встановити ультра антени</KokuInstallUltraBionicAntenna.label>
+	<KokuInstallUltraBionicAntenna.description>Встановлює ультра антени.</KokuInstallUltraBionicAntenna.description>
+	<KokuInstallUltraBionicAntenna.jobString>Встановлює ультра антени</KokuInstallUltraBionicAntenna.jobString>
+
+	<!--==========Tail==========-->
+	<KokuInstallHydraulicTail.label>Встановити гідравлічний хвіст</KokuInstallHydraulicTail.label>
+	<KokuInstallHydraulicTail.description>Встановлює гідравлічний хвіст.</KokuInstallHydraulicTail.description>
+	<KokuInstallHydraulicTail.jobString>Встановлює гідравлічний хвіст</KokuInstallHydraulicTail.jobString>
+
+	<KokuInstallBionicTail.label>Встановити біонічний хвіст</KokuInstallBionicTail.label>
+	<KokuInstallBionicTail.description>Встановлює біонічний хвіст.</KokuInstallBionicTail.description>
+	<KokuInstallBionicTail.jobString>Встановлює біонічний хвіст</KokuInstallBionicTail.jobString>
+
+	<KokuInstallAdvancedBionicTail.label>Встановити вдосконалений хвіст</KokuInstallAdvancedBionicTail.label>
+	<KokuInstallAdvancedBionicTail.description>Встановлює вдосконалений хвіст.</KokuInstallAdvancedBionicTail.description>
+	<KokuInstallAdvancedBionicTail.jobString>Встановлює вдосконалений хвіст</KokuInstallAdvancedBionicTail.jobString>
+
+	<KokuInstallUltraBionicTail.label>Встановити ультра хвіст</KokuInstallUltraBionicTail.label>
+	<KokuInstallUltraBionicTail.description>Встановлює ультра хвіст.</KokuInstallUltraBionicTail.description>
+	<KokuInstallUltraBionicTail.jobString>Встановлює ультра хвіст</KokuInstallUltraBionicTail.jobString>
+
+	<!--==========abodmen==========-->
+	<KokuInstallBionicAbdomen.label>Встановити біонічний живіт</KokuInstallBionicAbdomen.label>
+	<KokuInstallBionicAbdomen.description>Встановлює біонічний живіт.</KokuInstallBionicAbdomen.description>
+	<KokuInstallBionicAbdomen.jobString>Встановлює біонічний живіт</KokuInstallBionicAbdomen.jobString>
+
+	<KokuInstallAdvancedBionicAbdomen.label>Встановити вдосконалений живіт</KokuInstallAdvancedBionicAbdomen.label>
+	<KokuInstallAdvancedBionicAbdomen.description>Встановлює вдосконалений живіт.</KokuInstallAdvancedBionicAbdomen.description>
+	<KokuInstallAdvancedBionicAbdomen.jobString>Встановлює вдосконалений живіт</KokuInstallAdvancedBionicAbdomen.jobString>
+
+	<KokuInstallUltraBionicAbdomen.label>Встановити ультра живіт</KokuInstallUltraBionicAbdomen.label>
+	<KokuInstallUltraBionicAbdomen.description>Встановлює ультра живіт.</KokuInstallUltraBionicAbdomen.description>
+	<KokuInstallUltraBionicAbdomen.jobString>Встановлює ультра живіт</KokuInstallUltraBionicAbdomen.jobString>
+
+	<!--==============================organs==============================-->
+
+	<!--==========HonechStomach==========-->
+	<KokuInstallArtificialHoneyStomach.label>Встановити штучний медовий шлунок</KokuInstallArtificialHoneyStomach.label>
+	<KokuInstallArtificialHoneyStomach.description>Встановлює штучний медовий шлунок.</KokuInstallArtificialHoneyStomach.description>
+	<KokuInstallArtificialHoneyStomach.jobString>Встановлює штучний медовий шлунок</KokuInstallArtificialHoneyStomach.jobString>
+
+	<KokuInstallSyntheticHoneyStomach.label>Встановити синтетичний медовий шлунок</KokuInstallSyntheticHoneyStomach.label>
+	<KokuInstallSyntheticHoneyStomach.description>Встановлює синтетичний медовий шлунок.</KokuInstallSyntheticHoneyStomach.description>
+	<KokuInstallSyntheticHoneyStomach.jobString>Встановлює синтетичний медовий шлунок</KokuInstallSyntheticHoneyStomach.jobString>
+
+	<KokuInstallUltraHoneyStomach.label>Встановити ультра медовий шлунок</KokuInstallUltraHoneyStomach.label>
+	<KokuInstallUltraHoneyStomach.description>Встановлює ультра медовий шлунок.</KokuInstallUltraHoneyStomach.description>
+	<KokuInstallUltraHoneyStomach.jobString>Встановлює ультра медовий шлунок</KokuInstallUltraHoneyStomach.jobString>
+
+
+</LanguageData>

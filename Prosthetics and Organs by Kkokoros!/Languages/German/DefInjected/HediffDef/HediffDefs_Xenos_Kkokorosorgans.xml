@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Hydraulischer Flügel</KokuHydraulicWing.label>
+    <KokuHydraulicWing.labelNoun>Hydraulischer Flügel</KokuHydraulicWing.labelNoun>
+    <KokuHydraulicWing.description>Montierter hydraulischer Flügel.</KokuHydraulicWing.description>
+    <KokuBionicWing.label>Bionischer Flügel</KokuBionicWing.label>
+    <KokuBionicWing.labelNoun>Bionischer Flügel</KokuBionicWing.labelNoun>
+    <KokuBionicWing.description>Montierter bionischer Flügel.</KokuBionicWing.description>
+    <KokuAdvancedBionicWing.label>Fortgeschrittener bionischer Flügel</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.labelNoun>Fortgeschrittener bionischer Flügel</KokuAdvancedBionicWing.labelNoun>
+    <KokuAdvancedBionicWing.description>Montierter fortgeschrittener bionischer Flügel.</KokuAdvancedBionicWing.description>
+    <KokuUltraBionicWing.label>Ultra bionischer Flügel</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.labelNoun>Ultra bionischer Flügel</KokuUltraBionicWing.labelNoun>
+    <KokuUltraBionicWing.description>Montierter ultra bionischer Flügel.</KokuUltraBionicWing.description>
+
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Hydraulische Antenne</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.labelNoun>Hydraulische Antenne</KokuHydraulicAntenna.labelNoun>
+    <KokuHydraulicAntenna.description>Montierte hydraulische Antenne.</KokuHydraulicAntenna.description>
+    <KokuBionicAntenna.label>Bionische Antenne</KokuBionicAntenna.label>
+    <KokuBionicAntenna.labelNoun>Bionische Antenne</KokuBionicAntenna.labelNoun>
+    <KokuBionicAntenna.description>Montierte bionische Antenne.</KokuBionicAntenna.description>
+    <KokuAdvancedBionicAntenna.label>Fortgeschrittene bionische Antenne</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.labelNoun>Fortgeschrittene bionische Antenne</KokuAdvancedBionicAntenna.labelNoun>
+    <KokuAdvancedBionicAntenna.description>Montierte fortgeschrittene bionische Antenne.</KokuAdvancedBionicAntenna.description>
+    <KokuUltraBionicAntenna.label>Ultra bionische Antenne</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.labelNoun>Ultra bionische Antenne</KokuUltraBionicAntenna.labelNoun>
+    <KokuUltraBionicAntenna.description>Montierte ultra bionische Antenne.</KokuUltraBionicAntenna.description>
+
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Hydraulischer Schwanz</KokuHydraulicTail.label>
+    <KokuHydraulicTail.labelNoun>Hydraulischer Schwanz</KokuHydraulicTail.labelNoun>
+    <KokuHydraulicTail.description>Montierter hydraulischer Schwanz.</KokuHydraulicTail.description>
+    <KokuBionicTail.label>Bionischer Schwanz</KokuBionicTail.label>
+    <KokuBionicTail.labelNoun>Bionischer Schwanz</KokuBionicTail.labelNoun>
+    <KokuBionicTail.description>Montierter bionischer Schwanz.</KokuBionicTail.description>
+    <KokuAdvancedBionicTail.label>Fortgeschrittener bionischer Schwanz</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.labelNoun>Fortgeschrittener bionischer Schwanz</KokuAdvancedBionicTail.labelNoun>
+    <KokuAdvancedBionicTail.description>Montierter fortgeschrittener bionischer Schwanz.</KokuAdvancedBionicTail.description>
+    <KokuUltraBionicTail.label>Ultra bionischer Schwanz</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.labelNoun>Ultra bionischer Schwanz</KokuUltraBionicTail.labelNoun>
+    <KokuUltraBionicTail.description>Montierter ultra bionischer Schwanz.</KokuUltraBionicTail.description>
+
+    <!--==========abdomen==========-->
+    <KokuBionicAbdomen.label>Bionischer Abdomen</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.labelNoun>Bionischer Abdomen</KokuBionicAbdomen.labelNoun>
+    <KokuBionicAbdomen.description>Montierter bionischer Abdomen.</KokuBionicAbdomen.description>
+    <KokuAdvancedBionicAbdomen.label>Fortgeschrittener bionischer Abdomen</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.labelNoun>Fortgeschrittener bionischer Abdomen</KokuAdvancedBionicAbdomen.labelNoun>
+    <KokuAdvancedBionicAbdomen.description>Montierter fortgeschrittener bionischer Abdomen.</KokuAdvancedBionicAbdomen.description>
+    <KokuUltraBionicAbdomen.label>Ultra bionischer Abdomen</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.labelNoun>Ultra bionischer Abdomen</KokuUltraBionicAbdomen.labelNoun>
+    <KokuUltraBionicAbdomen.description>Montierter ultra bionischer Abdomen.</KokuUltraBionicAbdomen.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Künstlicher Honigmagen</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.labelNoun>Künstlicher Honigmagen</KokuArtificialHoneyStomach.labelNoun>
+    <KokuArtificialHoneyStomach.description>Montierter künstlicher Honigmagen.</KokuArtificialHoneyStomach.description>
+    <KokuSyntheticHoneyStomach.label>Synthetischer Honigmagen</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.labelNoun>Synthetischer Honigmagen</KokuSyntheticHoneyStomach.labelNoun>
+    <KokuSyntheticHoneyStomach.description>Montierter synthetischer Honigmagen.</KokuSyntheticHoneyStomach.description>
+    <KokuUltraHoneyStomach.label>Ultra Honigmagen</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.labelNoun>Ultra Honigmagen</KokuUltraHoneyStomach.labelNoun>
+    <KokuUltraHoneyStomach.description>Montierter ultra Honigmagen.</KokuUltraHoneyStomach.description>
+</LanguageData>

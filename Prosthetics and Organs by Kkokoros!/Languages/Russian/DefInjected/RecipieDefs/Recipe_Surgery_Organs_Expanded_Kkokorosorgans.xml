@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!--==============================organs==============================-->
+	<!--==========Spleen==========-->
+
+	<KokuInstallArtificialSpleen.label>Установить искусственную селезенку</KokuInstallArtificialSpleen.label>
+	<KokuInstallArtificialSpleen.description>Устанавливает искусственную селезенку.</KokuInstallArtificialSpleen.description>
+	<KokuInstallArtificialSpleen.jobString>Устанавливает искусственную селезенку</KokuInstallArtificialSpleen.jobString>
+
+	<KokuInstallSyntheticSpleen.label>Установить синтетическую селезенку</KokuInstallSyntheticSpleen.label>
+	<KokuInstallSyntheticSpleen.description>Устанавливает синтетическую селезенку.</KokuInstallSyntheticSpleen.description>
+	<KokuInstallSyntheticSpleen.jobString>Устанавливает синтетическую селезенку</KokuInstallSyntheticSpleen.jobString>
+
+	<KokuInstallUltraSpleen.label>Установить ультра селезенку</KokuInstallUltraSpleen.label>
+	<KokuInstallUltraSpleen.description>Устанавливает ультра селезенку.</KokuInstallUltraSpleen.description>
+	<KokuInstallUltraSpleen.jobString>Устанавливает ультра селезенку</KokuInstallUltraSpleen.jobString>
+
+
+	<!--==========Pancreas==========-->
+	<KokuInstallArtificialPancreas.label>Установить искусственную поджелудочную железу</KokuInstallArtificialPancreas.label>
+	<KokuInstallArtificialPancreas.description>Устанавливает искусственную поджелудочную железу.</KokuInstallArtificialPancreas.description>
+	<KokuInstallArtificialPancreas.jobString>Устанавливает искусственную поджелудочную железу</KokuInstallArtificialPancreas.jobString>
+
+	<KokuInstallSyntheticPancreas.label>Установить синтетическую поджелудочную железу</KokuInstallSyntheticPancreas.label>
+	<KokuInstallSyntheticPancreas.description>Устанавливает синтетическую поджелудочную железу.</KokuInstallSyntheticPancreas.description>
+	<KokuInstallSyntheticPancreas.jobString>Устанавливает синтетическую поджелудочную железу</KokuInstallSyntheticPancreas.jobString>
+
+	<KokuInstallUltraPancreas.label>Установить ультра поджелудочную железу</KokuInstallUltraPancreas.label>
+	<KokuInstallUltraPancreas.description>Устанавливает ультра поджелудочную железу.</KokuInstallUltraPancreas.description>
+	<KokuInstallUltraPancreas.jobString>Устанавливает ультра поджелудочную железу</KokuInstallUltraPancreas.jobString>
+
+	<!--==========GallBladder==========-->
+	<KokuInstallArtificialGallbladder.label>Установить искусственный желчный пузырь</KokuInstallArtificialGallbladder.label>
+	<KokuInstallArtificialGallbladder.description>Устанавливает искусственный желчный пузырь.</KokuInstallArtificialGallbladder.description>
+	<KokuInstallArtificialGallbladder.jobString>Устанавливает искусственный желчный пузырь</KokuInstallArtificialGallbladder.jobString>
+
+	<KokuInstallSyntheticGallbladder.label>Установить синтетический желчный пузырь</KokuInstallSyntheticGallbladder.label>
+	<KokuInstallSyntheticGallbladder.description>Устанавливает синтетический желчный пузырь.</KokuInstallSyntheticGallbladder.description>
+	<KokuInstallSyntheticGallbladder.jobString>Устанавливает синтетический желчный пузырь</KokuInstallSyntheticGallbladder.jobString>
+
+	<KokuInstallUltraGallbladder.label>Установить ультра желчный пузырь</KokuInstallUltraGallbladder.label>
+	<KokuInstallUltraGallbladder.description>Устанавливает ультра желчный пузырь.</KokuInstallUltraGallbladder.description>
+	<KokuInstallUltraGallbladder.jobString>Устанавливает ультра желчный пузырь</KokuInstallUltraGallbladder.jobString>
+</LanguageData>

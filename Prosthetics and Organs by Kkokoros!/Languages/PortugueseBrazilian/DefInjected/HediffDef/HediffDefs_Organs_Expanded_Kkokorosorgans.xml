@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Bexiga artificial</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.labelNoun>Bexiga artificial</KokuArtificialSpleen.labelNoun>
+    <KokuArtificialSpleen.description>Bexiga artificial instalada.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Bexiga sintética</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.labelNoun>Bexiga sintética</KokuSyntheticSpleen.labelNoun>
+    <KokuSyntheticSpleen.description>Bexiga sintética instalada.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ultra bexiga</KokuUltraSpleen.label>
+    <KokuUltraSpleen.labelNoun>Ultra bexiga</KokuUltraSpleen.labelNoun>
+    <KokuUltraSpleen.description>Ultra bexiga instalada.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Pâncreas artificial</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.labelNoun>Pâncreas artificial</KokuArtificialPancreas.labelNoun>
+    <KokuArtificialPancreas.description>Pâncreas artificial instalado.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Pâncreas sintético</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.labelNoun>Pâncreas sintético</KokuSyntheticPancreas.labelNoun>
+    <KokuSyntheticPancreas.description>Pâncreas sintético instalado.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ultra pâncreas</KokuUltraPancreas.label>
+    <KokuUltraPancreas.labelNoun>Ultra pâncreas</KokuUltraPancreas.labelNoun>
+    <KokuUltraPancreas.description>Ultra pâncreas instalado.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Plexo biliar artificial</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.labelNoun>Plexo biliar artificial</KokuArtificialGallbladder.labelNoun>
+    <KokuArtificialGallbladder.description>Plexo biliar artificial instalado.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Plexo biliar sintético</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.labelNoun>Plexo biliar sintético</KokuSyntheticGallbladder.labelNoun>
+    <KokuSyntheticGallbladder.description>Plexo biliar sintético instalado.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ultra plexo biliar</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.labelNoun>Ultra plexo biliar</KokuUltraGallbladder.labelNoun>
+    <KokuUltraGallbladder.description>Ultra plexo biliar instalado.</KokuUltraGallbladder.description>
+
+</LanguageData>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bezerra biónica</KokuBionicBladder.label>
+    <KokuAdvancedBionicBladder.label>Bezerra biónica avançada</KokuAdvancedBionicBladder.label>
+    <KokuUltraBionicBladder.label>Ultra bezerra biónica</KokuUltraBionicBladder.label>
+
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Produto biónico melhorador de higiene</KokuHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.label>Produto biónico avançado melhorador de higiene</KokuAdvancedHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.label>Ultra produto biónico melhorador de higiene</KokuUltraHygieneEnhancer.label>
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

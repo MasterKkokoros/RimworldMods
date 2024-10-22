@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Искусственная селезенка</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.Description>Замена селезенки, выполненная из суперстали. \nИздает громкий звук.</KokuArtificialSpleen.Description>
+
+    <KokuSyntheticSpleen.label>Синтетическая селезенка</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.Description>Замена селезенки, выполненная из суперстали и серебра. \nИздает тихий звук.</KokuSyntheticSpleen.Description>
+
+    <KokuUltraSpleen.label>Ультра селезенка</KokuUltraSpleen.label>
+    <KokuUltraSpleen.Description>Замена селезенки, выполненная из суперстали и серебра с добавлением урана. \nНе издает никаких звуков.</KokuUltraSpleen.Description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Искусственная поджелудочная железа</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.Description>Замена поджелудочной железы, выполненная из суперстали. \nИздает громкий звук.</KokuArtificialPancreas.Description>
+
+    <KokuSyntheticPancreas.label>Синтетическая поджелудочная железа</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.Description>Замена поджелудочной железы, выполненная из суперстали и серебра. \nИздает тихий звук.</KokuSyntheticPancreas.Description>
+
+    <KokuUltraPancreas.label>Ультра поджелудочная железа</KokuUltraPancreas.label>
+    <KokuUltraPancreas.Description>Замена поджелудочной железы, выполненная из суперстали и серебра с добавлением урана. \nНе издает никаких звуков.</KokuUltraPancreas.Description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Искусственный желчный пузырь</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.Description>Замена желчного пузыря, выполненная из суперстали. \nИздает громкий звук.</KokuArtificialGallbladder.Description>
+
+    <KokuSyntheticGallbladder.label>Синтетический желчный пузырь</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.Description>Замена желчного пузыря, выполненная из суперстали и серебра. \nИздает тихий звук.</KokuSyntheticGallbladder.Description>
+
+    <KokuUltraGallbladder.label>Ультра желчный пузырь</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.Description>Замена желчного пузыря, выполненная из суперстали и серебра с добавлением урана. \nНе издает никаких звуков.</KokuUltraGallbladder.Description>
+
+</LanguageData>

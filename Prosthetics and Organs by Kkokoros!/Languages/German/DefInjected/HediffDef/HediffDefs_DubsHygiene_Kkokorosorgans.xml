@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bionische Blase</KokuBionicBladder.label>
+    <KokuBionicBladder.labelNoun>Bionische Blase</KokuBionicBladder.labelNoun>
+    <KokuBionicBladder.description>Montierte bionische Blase.</KokuBionicBladder.description>
+    <KokuAdvancedBionicBladder.label>Fortschrittliche bionische Blase</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.labelNoun>Fortschrittliche bionische Blase</KokuAdvancedBionicBladder.labelNoun>
+    <KokuAdvancedBionicBladder.description>Montierte fortschrittliche bionische Blase.</KokuAdvancedBionicBladder.description>
+    <KokuUltraBionicBladder.label>Ultra bionische Blase</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.labelNoun>Ultra bionische Blase</KokuUltraBionicBladder.labelNoun>
+    <KokuUltraBionicBladder.description>Montierte ultra bionische Blase.</KokuUltraBionicBladder.description>
+
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Bionisches Hygienemittel</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.labelNoun>Bionisches Hygienemittel</KokuHygieneEnhancer.labelNoun>
+    <KokuHygieneEnhancer.description>Montiertes bionisches Hygienemittel.</KokuHygieneEnhancer.description>
+    <KokuAdvancedHygieneEnhancer.label>Fortschrittliches bionisches Hygienemittel</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.labelNoun>Fortschrittliches bionisches Hygienemittel</KokuAdvancedHygieneEnhancer.labelNoun>
+    <KokuAdvancedHygieneEnhancer.description>Montiertes fortschrittliches bionisches Hygienemittel.</KokuAdvancedHygieneEnhancer.description>
+    <KokuUltraHygieneEnhancer.label>Ultra bionisches Hygienemittel</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.labelNoun>Ultra bionisches Hygienemittel</KokuUltraHygieneEnhancer.labelNoun>
+    <KokuUltraHygieneEnhancer.description>Montiertes ultra bionisches Hygienemittel.</KokuUltraHygieneEnhancer.description>
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

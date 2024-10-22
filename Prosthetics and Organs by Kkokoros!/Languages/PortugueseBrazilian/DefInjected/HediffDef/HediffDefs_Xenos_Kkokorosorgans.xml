@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+<KokuHydraulicWing.label>Ala hidráulica</KokuHydraulicWing.label>
+<KokuHydraulicWing.labelNoun>Ala hidráulica</KokuHydraulicWing.labelNoun>
+<KokuHydraulicWing.description>Ala hidráulica instalada.</KokuHydraulicWing.description>
+<KokuBionicWing.label>Ala biónica</KokuBionicWing.label>
+<KokuBionicWing.labelNoun>Ala biónica</KokuBionicWing.labelNoun>
+<KokuBionicWing.description>Ala biónica instalada.</KokuBionicWing.description>
+<KokuAdvancedBionicWing.label>Ala biónica avançada</KokuAdvancedBionicWing.label>
+<KokuAdvancedBionicWing.labelNoun>Ala biónica avançada</KokuAdvancedBionicWing.labelNoun>
+<KokuAdvancedBionicWing.description>Ala biónica avançada instalada.</KokuAdvancedBionicWing.description>
+<KokuUltraBionicWing.label>Ultra ala biónica</KokuUltraBionicWing.label>
+<KokuUltraBionicWing.labelNoun>Ultra ala biónica</KokuUltraBionicWing.labelNoun>
+<KokuUltraBionicWing.description>Ultra ala biónica instalada.</KokuUltraBionicWing.description>
+
+<!--==========Antenna==========-->
+<KokuHydraulicAntenna.label>Antenna hidráulica</KokuHydraulicAntenna.label>
+<KokuHydraulicAntenna.labelNoun>Antenna hidráulica</KokuHydraulicAntenna.labelNoun>
+<KokuHydraulicAntenna.description>Antenna hidráulica instalada.</KokuHydraulicAntenna.description>
+<KokuBionicAntenna.label>Antenna biónica</KokuBionicAntenna.label>
+<KokuBionicAntenna.labelNoun>Antenna biónica</KokuBionicAntenna.labelNoun>
+<KokuBionicAntenna.description>Antenna biónica instalada.</KokuBionicAntenna.description>
+<KokuAdvancedBionicAntenna.label>Antenna biónica avançada</KokuAdvancedBionicAntenna.label>
+<KokuAdvancedBionicAntenna.labelNoun>Antenna biónica avançada</KokuAdvancedBionicAntenna.labelNoun>
+<KokuAdvancedBionicAntenna.description>Antenna biónica avançada instalada.</KokuAdvancedBionicAntenna.description>
+<KokuUltraBionicAntenna.label>Ultra antenna biónica</KokuUltraBionicAntenna.label>
+<KokuUltraBionicAntenna.labelNoun>Ultra antenna biónica</KokuUltraBionicAntenna.labelNoun>
+<KokuUltraBionicAntenna.description>Ultra antenna biónica instalada.</KokuUltraBionicAntenna.description>
+
+<!--==========Tail==========-->
+<KokuHydraulicTail.label>Cauda hidráulica</KokuHydraulicTail.label>
+<KokuHydraulicTail.labelNoun>Cauda hidráulica</KokuHydraulicTail.labelNoun>
+<KokuHydraulicTail.description>Cauda hidráulica instalada.</KokuHydraulicTail.description>
+<KokuBionicTail.label>Cauda biónica</KokuBionicTail.label>
+<KokuBionicTail.labelNoun>Cauda biónica</KokuBionicTail.labelNoun>
+<KokuBionicTail.description>Cauda biónica instalada.</KokuBionicTail.description>
+<KokuAdvancedBionicTail.label>Cauda biónica avançada</KokuAdvancedBionicTail.label>
+<KokuAdvancedBionicTail.labelNoun>Cauda biónica avançada</KokuAdvancedBionicTail.labelNoun>
+<KokuAdvancedBionicTail.description>Cauda biónica avançada instalada.</KokuAdvancedBionicTail.description>
+<KokuUltraBionicTail.label>Ultra cauda biónica</KokuUltraBionicTail.label>
+<KokuUltraBionicTail.labelNoun>Ultra cauda biónica</KokuUltraBionicTail.labelNoun>
+<KokuUltraBionicTail.description>Ultra cauda biónica instalada.</KokuUltraBionicTail.description>
+
+<!--==========abdomen==========-->
+<KokuBionicAbdomen.label>Abdômen biónico</KokuBionicAbdomen.label>
+<KokuBionicAbdomen.labelNoun>Abdômen biónico</KokuBionicAbdomen.labelNoun>
+<KokuBionicAbdomen.description>Abdômen biónico instalado.</KokuBionicAbdomen.description>
+<KokuAdvancedBionicAbdomen.label>Abdômen biónico avançado</KokuAdvancedBionicAbdomen.label>
+<KokuAdvancedBionicAbdomen.labelNoun>Abdômen biónico avançado</KokuAdvancedBionicAbdomen.labelNoun>
+<KokuAdvancedBionicAbdomen.description>Abdômen biónico avançado instalado.</KokuAdvancedBionicAbdomen.description>
+<KokuUltraBionicAbdomen.label>Ultra abdômen biónico</KokuUltraBionicAbdomen.label>
+<KokuUltraBionicAbdomen.labelNoun>Ultra abdômen biónico</KokuUltraBionicAbdomen.labelNoun>
+<KokuUltraBionicAbdomen.description>Ultra abdômen biónico instalado.</KokuUltraBionicAbdomen.description>
+
+<!--==============================organs==============================-->
+
+<!--==========HonechStomach==========-->
+<KokuArtificialHoneyStomach.label>Estômago de mel artificial</KokuArtificialHoneyStomach.label>
+<KokuArtificialHoneyStomach.labelNoun>Estômago de mel artificial</KokuArtificialHoneyStomach.labelNoun>
+<KokuArtificialHoneyStomach.description>Estômago de mel artificial instalado.</KokuArtificialHoneyStomach.description>
+<KokuSyntheticHoneyStomach.label>Estômago de mel sintético</KokuSyntheticHoneyStomach.label>
+<KokuSyntheticHoneyStomach.labelNoun>Estômago de mel sintético</KokuSyntheticHoneyStomach.labelNoun>
+<KokuSyntheticHoneyStomach.description>Estômago de mel sintético instalado.</KokuSyntheticHoneyStomach.description>
+<KokuUltraHoneyStomach.label>Ultra estômago de mel</KokuUltraHoneyStomach.label>
+<KokuUltraHoneyStomach.labelNoun>Ultra estômago de mel</KokuUltraHoneyStomach.labelNoun>
+<KokuUltraHoneyStomach.description>Ultra estômago de mel instalado.</KokuUltraHoneyStomach.description>
+
+</LanguageData>

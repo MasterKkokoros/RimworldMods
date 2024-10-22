@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Біонічний сечовий міхур</KokuBionicBladder.label>
+    <KokuAdvancedBionicBladder.label>Розширений біонічний сечовий міхур</KokuAdvancedBionicBladder.label>
+    <KokuUltraBionicBladder.label>Ультра біонічний сечовий міхур</KokuUltraBionicBladder.label>
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Біонічний засіб для покращення гігієни</KokuHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.label>Розширений біонічний засіб для покращення гігієни</KokuAdvancedHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.label>Ультра біонічний засіб для покращення гігієни</KokuUltraHygieneEnhancer.label>
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

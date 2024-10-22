@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Holzarm</KokuWoodenArm.label>
+    <KokuWoodenArm.labelNoun>Holzarm</KokuWoodenArm.labelNoun>
+    <KokuWoodenArm.description>Montierter Holzarm.</KokuWoodenArm.description>
+    <KokuSimpleHydraulicArm.label>Hydraulikarm</KokuSimpleHydraulicArm.label>
+    <KokuSimpleHydraulicArm.labelNoun>Hydraulikarm</KokuSimpleHydraulicArm.labelNoun>
+    <KokuSimpleHydraulicArm.description>Montierter Hydraulikarm.</KokuSimpleHydraulicArm.description>
+    <KokuBionicArm.label>Bionischer Arm</KokuBionicArm.label>
+    <KokuBionicArm.labelNoun>Bionischer Arm</KokuBionicArm.labelNoun>
+    <KokuBionicArm.description>Montierter bionischer Arm.</KokuBionicArm.description>
+    <KokuAdvancedBionicArm.label>Erweiterter bionischer Arm</KokuAdvancedBionicArm.label>
+    <KokuAdvancedBionicArm.labelNoun>Erweiterter bionischer Arm</KokuAdvancedBionicArm.labelNoun>
+    <KokuAdvancedBionicArm.description>Montierter erweiterter bionischer Arm.</KokuAdvancedBionicArm.description>
+    <KokuUltraBionicArm.label>Ultrabionischer Arm</KokuUltraBionicArm.label>
+    <KokuUltraBionicArm.labelNoun>Ultrabionischer Arm</KokuUltraBionicArm.labelNoun>
+    <KokuUltraBionicArm.description>Montierter Ultrabionischer Arm.</KokuUltraBionicArm.description>
+    <!--==========leg==========-->
+    <KokuWoodenLeg.label>Holzbein</KokuWoodenLeg.label>
+    <KokuWoodenLeg.labelNoun>Holzbein</KokuWoodenLeg.labelNoun>
+    <KokuWoodenLeg.description>Montiertes Holzbein.</KokuWoodenLeg.description>
+    <KokuSimpleHydraulicLeg.label>Hydraulikbein</KokuSimpleHydraulicLeg.label>
+    <KokuSimpleHydraulicLeg.labelNoun>Hydraulikbein</KokuSimpleHydraulicLeg.labelNoun>
+    <KokuSimpleHydraulicLeg.description>Montiertes Hydraulikbein.</KokuSimpleHydraulicLeg.description>
+    <KokuBionicLeg.label>Bionisches Bein</KokuBionicLeg.label>
+    <KokuBionicLeg.labelNoun>Bionisches Bein</KokuBionicLeg.labelNoun>
+    <KokuBionicLeg.description>Montiertes bionisches Bein.</KokuBionicLeg.description>
+    <KokuAdvancedBionicLeg.label>Erweitertes bionisches Bein</KokuAdvancedBionicLeg.label>
+    <KokuAdvancedBionicLeg.labelNoun>Erweitertes bionisches Bein</KokuAdvancedBionicLeg.labelNoun>
+    <KokuAdvancedBionicLeg.description>Montiertes erweitertes bionisches Bein.</KokuAdvancedBionicLeg.description>
+    <KokuUltraBionicLeg.label>Ultrabionisches Bein</KokuUltraBionicLeg.label>
+    <KokuUltraBionicLeg.labelNoun>Ultrabionisches Bein</KokuUltraBionicLeg.labelNoun>
+    <KokuUltraBionicLeg.description>Montiertes ultrabionisches Bein.</KokuUltraBionicLeg.description>
+    <!--==========jaw==========-->
+    <KokuWoodenJaw.label>Holzkiefer</KokuWoodenJaw.label>
+    <KokuWoodenJaw.labelNoun>Holzkiefer</KokuWoodenJaw.labelNoun>
+    <KokuWoodenJaw.description>Montierter Holzkiefer.</KokuWoodenJaw.description>
+    <KokuHydraulicJaw.label>Hydraulikkiefer</KokuHydraulicJaw.label>
+    <KokuHydraulicJaw.labelNoun>Hydraulikkiefer</KokuHydraulicJaw.labelNoun>
+    <KokuHydraulicJaw.description>Montierter Hydraulikkiefer.</KokuHydraulicJaw.description>
+    <KokuBionicJaw.label>Bionischer Kiefer</KokuBionicJaw.label>
+    <KokuBionicJaw.labelNoun>Bionischer Kiefer</KokuBionicJaw.labelNoun>
+    <KokuBionicJaw.description>Montierter bionischer Kiefer.</KokuBionicJaw.description>
+    <KokuMuteJaw.label>Lautloser Kiefer</KokuMuteJaw.label>
+    <KokuMuteJaw.labelNoun>Lautloser Kiefer</KokuMuteJaw.labelNoun>
+    <KokuMuteJaw.description>Montierter lautloser Kiefer.</KokuMuteJaw.description>
+    <KokuAdvancedBionicJaw.label>Erweiterter bionischer Kiefer</KokuAdvancedBionicJaw.label>
+    <KokuAdvancedBionicJaw.labelNoun>Erweiterter bionischer Kiefer</KokuAdvancedBionicJaw.labelNoun>
+    <KokuAdvancedBionicJaw.description>Montierter erweiterter bionischer Kiefer.</KokuAdvancedBionicJaw.description>
+    <KokuUltraBionicJaw.label>Ultrabionischer Kiefer</KokuUltraBionicJaw.label>
+    <KokuUltraBionicJaw.labelNoun>Ultrabionischer Kiefer</KokuUltraBionicJaw.labelNoun>
+    <KokuUltraBionicJaw.description>Montierter ultrabionischer Kiefer.</KokuUltraBionicJaw.description>
+    <!--==========nose==========-->
+    <KokuArtificialNose.label>Künstliche Nase</KokuArtificialNose.label>
+    <KokuArtificialNose.labelNoun>Künstliche Nase</KokuArtificialNose.labelNoun>
+    <KokuArtificialNose.description>Montierte künstliche Nase.</KokuArtificialNose.description>
+    <KokuBionicNose.label>Bionische Nase</KokuBionicNose.label>
+    <KokuBionicNose.labelNoun>Bionische Nase</KokuBionicNose.labelNoun>
+    <KokuBionicNose.description>Montierte bionische Nase.</KokuBionicNose.description>
+    <KokuAdvancedBionicNose.label>Erweiterte bionische Nase</KokuAdvancedBionicNose.label>
+    <KokuAdvancedBionicNose.labelNoun>Erweiterte bionische Nase</KokuAdvancedBionicNose.labelNoun>
+    <KokuAdvancedBionicNose.description>Montierte erweiterte bionische Nase.</KokuAdvancedBionicNose.description>
+    <KokuUltraBionicNose.label>Ultrabionische Nase</KokuUltraBionicNose.label>
+    <KokuUltraBionicNose.labelNoun>Ultrabionische Nase</KokuUltraBionicNose.labelNoun>
+    <KokuUltraBionicNose.description>Montierte ultrabionische Nase.</KokuUltraBionicNose.description>
+    <!--==========ear==========-->
+    <KokuArtificialEar.label>Künstliches Ohr</KokuArtificialEar.label>
+    <KokuArtificialEar.labelNoun>Künstliches Ohr</KokuArtificialEar.labelNoun>
+    <KokuArtificialEar.description>Montiertes künstliches Ohr.</KokuArtificialEar.description>
+    <KokuBionicEar.label>Bionisches Ohr</KokuBionicEar.label>
+    <KokuBionicEar.labelNoun>Bionisches Ohr</KokuBionicEar.labelNoun>
+    <KokuBionicEar.description>Montiertes bionisches Ohr.</KokuBionicEar.description>
+    <KokuAdvancedBionicEar.label>Erweitertes bionisches Ohr</KokuAdvancedBionicEar.label>
+    <KokuAdvancedBionicEar.labelNoun>Erweitertes bionisches Ohr</KokuAdvancedBionicEar.labelNoun>
+    <KokuAdvancedBionicEar.description>Montiertes erweitertes bionisches Ohr.</KokuAdvancedBionicEar.description>
+    <KokuUltraBionicEar.label>Ultrabionisches Ohr</KokuUltraBionicEar.label>
+    <KokuUltraBionicEar.labelNoun>Ultrabionisches Ohr</KokuUltraBionicEar.labelNoun>
+    <KokuUltraBionicEar.description>Montiertes ultrabionisches Ohr.</KokuUltraBionicEar.description>
+    <!--==========eye==========-->
+    <KokuArtificialEye.label>Künstliches Auge</KokuArtificialEye.label>
+    <KokuArtificialEye.labelNoun>Künstliches Auge</KokuArtificialEye.labelNoun>
+    <KokuArtificialEye.description>Montiertes künstliches Auge.</KokuArtificialEye.description>
+    <KokuBionicEye.label>Bionisches Auge</KokuBionicEye.label>
+    <KokuBionicEye.labelNoun>Bionisches Auge</KokuBionicEye.labelNoun>
+    <KokuBionicEye.description>Montiertes bionisches Auge.</KokuBionicEye.description>
+    <KokuAdvancedBionicEye.label>Erweitertes bionisches Auge</KokuAdvancedBionicEye.label>
+    <KokuAdvancedBionicEye.labelNoun>Erweitertes bionisches Auge</KokuAdvancedBionicEye.labelNoun>
+    <KokuAdvancedBionicEye.description>Montiertes erweitertes bionisches Auge.</KokuAdvancedBionicEye.description>
+    <KokuUltraBionicEye.label>Ultrabionisches Auge</KokuUltraBionicEye.label>
+    <KokuUltraBionicEye.labelNoun>Ultrabionisches Auge</KokuUltraBionicEye.labelNoun>
+    <KokuUltraBionicEye.description>Montiertes ultrabionisches Auge.</KokuUltraBionicEye.description>
+    <!--==========spine==========-->
+    <KokuBionicSpine.label>Bionische Wirbelsäule</KokuBionicSpine.label>
+    <KokuBionicSpine.labelNoun>Bionische Wirbelsäule</KokuBionicSpine.labelNoun>
+    <KokuBionicSpine.description>Montierte bionische Wirbelsäule.</KokuBionicSpine.description>
+    <KokuAdvancedBionicSpine.label>Erweiterte bionische Wirbelsäule</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.labelNoun>Erweiterte bionische Wirbelsäule</KokuAdvancedBionicSpine.labelNoun>
+    <KokuAdvancedBionicSpine.description>Montierte erweiterte bionische Wirbelsäule.</KokuAdvancedBionicSpine.description>
+    <KokuUltraBionicSpine.label>Ultrabionische Wirbelsäule</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.labelNoun>Ultrabionische Wirbelsäule</KokuUltraBionicSpine.labelNoun>
+    <KokuUltraBionicSpine.description>Montierte ultrabionische Wirbelsäule.</KokuUltraBionicSpine.description>
+    <!--==========pelvis==========-->
+    <KokuBionicPelvis.label>Bionisches Becken</KokuBionicPelvis.label>
+    <KokuBionicPelvis.labelNoun>Bionisches Becken</KokuBionicPelvis.labelNoun>
+    <KokuBionicPelvis.description>Montiertes bionisches Becken.</KokuBionicPelvis.description>
+    <KokuAdvancedBionicPelvis.label>Erweiterte bionische Becken</KokuAdvancedBionicPelvis.label>
+    <KokuAdvancedBionicPelvis.labelNoun>Erweiterte bionische Becken</KokuAdvancedBionicPelvis.labelNoun>
+    <KokuAdvancedBionicPelvis.description>Montiertes erweitertes bionisches Becken.</KokuAdvancedBionicPelvis.description>
+    <KokuUltraBionicPelvis.label>Ultrabionisches Becken</KokuUltraBionicPelvis.label>
+    <KokuUltraBionicPelvis.labelNoun>Ultrabionisches Becken</KokuUltraBionicPelvis.labelNoun>
+    <KokuUltraBionicPelvis.description>Montiertes ultrabionisches Becken.</KokuUltraBionicPelvis.description>
+    <!--==========neck==========-->
+    <KokuBionicNeck.label>Bionischer Hals</KokuBionicNeck.label>
+    <KokuBionicNeck.labelNoun>Bionischer Hals</KokuBionicNeck.labelNoun>
+    <KokuBionicNeck.description>Montierter bionischer Hals.</KokuBionicNeck.description>
+    <KokuAdvancedBionicNeck.label>Erweiterter bionischer Hals</KokuAdvancedBionicNeck.label>
+    <KokuAdvancedBionicNeck.labelNoun>Erweiterter bionischer Hals</KokuAdvancedBionicNeck.labelNoun>
+    <KokuAdvancedBionicNeck.description>Montierter erweiterter bionischer Hals.</KokuAdvancedBionicNeck.description>
+    <KokuUltraBionicNeck.label>Ultrabionischer Hals</KokuUltraBionicNeck.label>
+    <KokuUltraBionicNeck.labelNoun>Ultrabionischer Hals</KokuUltraBionicNeck.labelNoun>
+    <KokuUltraBionicNeck.description>Montierter ultrabionischer Hals.</KokuUltraBionicNeck.description>
+    <!--==========medsternum==========-->
+    <KokuMedicalSternum.label>Medizinisches Brustbein</KokuMedicalSternum.label>
+    <KokuMedicalSternum.labelNoun>Medizinisches Brustbein</KokuMedicalSternum.labelNoun>
+    <KokuMedicalSternum.description>Montiertes medizinisches Brustbein.</KokuMedicalSternum.description>
+    <KokuAdvancedMedicalSternum.label>Erweitertes medizinisches Brustbein</KokuAdvancedMedicalSternum.label>
+    <KokuAdvancedMedicalSternum.labelNoun>Erweitertes medizinisches Brustbein</KokuAdvancedMedicalSternum.labelNoun>
+    <KokuAdvancedMedicalSternum.description>Montiertes erweitertes medizinisches Brustbein.</KokuAdvancedMedicalSternum.description>
+    <KokuUltraMedicalSternum.label>Ultramedizinisches Brustbein</KokuUltraMedicalSternum.label>
+    <KokuUltraMedicalSternum.labelNoun>Ultramedizinisches Brustbein</KokuUltraMedicalSternum.labelNoun>
+    <KokuUltraMedicalSternum.description>Montiertes ultramedizinisches Brustbein.</KokuUltraMedicalSternum.description>
+    <!--==========druggsternum==========-->
+    <KokuDruggedSternum.label>Betäubendes Brustbein</KokuDruggedSternum.label>
+    <KokuDruggedSternum.labelNoun>Betäubendes Brustbein</KokuDruggedSternum.labelNoun>
+    <KokuDruggedSternum.description>Montiertes betäubendes Brustbein.</KokuDruggedSternum.description>
+    <KokuAdvancedDruggedSternum.label>Erweitertes betäubendes Brustbein</KokuAdvancedDruggedSternum.label>
+    <KokuAdvancedDruggedSternum.labelNoun>Erweitertes betäubendes Brustbein</KokuAdvancedDruggedSternum.labelNoun>
+    <KokuAdvancedDruggedSternum.description>Montiertes erweitertes betäubendes Brustbein.</KokuAdvancedDruggedSternum.description>
+    <KokuUltraDruggedSternum.label>Ultrabetäubendes Brustbein</KokuUltraDruggedSternum.label>
+    <KokuUltraDruggedSternum.labelNoun>Ultrabetäubendes Brustbein</KokuUltraDruggedSternum.labelNoun>
+    <KokuUltraDruggedSternum.description>Montiertes ultrabetäubendes Brustbein.</KokuUltraDruggedSternum.description>
+
+    <!--==========adrsternum==========-->
+    <KokuAdrenalineSternum.label>Adrenalin-Brustbein</KokuAdrenalineSternum.label>
+    <KokuAdrenalineSternum.labelNoun>Adrenalin-Brustbein</KokuAdrenalineSternum.labelNoun>
+    <KokuAdrenalineSternum.description>Montiertes Adrenalin-Brustbein.</KokuAdrenalineSternum.description>
+    <KokuAdvancedAdrenalineSternum.label>Erweitertes Adrenalin-Brustbein</KokuAdvancedAdrenalineSternum.label>
+    <KokuAdvancedAdrenalineSternum.labelNoun>Erweitertes Adrenalin-Brustbein</KokuAdvancedAdrenalineSternum.labelNoun>
+    <KokuAdvancedAdrenalineSternum.description>Montiertes erweitertes Adrenalin-Brustbein.</KokuAdvancedAdrenalineSternum.description>
+    <KokuUltraAdrenalineSternum.label>Ultraberüstetes Adrenalin-Brustbein</KokuUltraAdrenalineSternum.label>
+    <KokuUltraAdrenalineSternum.labelNoun>Ultraberüstetes Adrenalin-Brustbein</KokuUltraAdrenalineSternum.labelNoun>
+    <KokuUltraAdrenalineSternum.description>Montiertes ultraberüstetes Adrenalin-Brustbein.</KokuUltraAdrenalineSternum.description>
+
+    <!--==========painsternum==========-->
+    <KokuPainkillerSternum.label>Schmerzlinderndes Brustbein</KokuPainkillerSternum.label>
+    <KokuPainkillerSternum.labelNoun>Schmerzlinderndes Brustbein</KokuPainkillerSternum.labelNoun>
+    <KokuPainkillerSternum.description>Montiertes schmerzlinderndes Brustbein.</KokuPainkillerSternum.description>
+    <KokuAdvancedPainkillerSternum.label>Erweitertes schmerzlinderndes Brustbein</KokuAdvancedPainkillerSternum.label>
+    <KokuAdvancedPainkillerSternum.labelNoun>Erweitertes schmerzlinderndes Brustbein</KokuAdvancedPainkillerSternum.labelNoun>
+    <KokuAdvancedPainkillerSternum.description>Montiertes erweitertes schmerzlinderndes Brustbein.</KokuAdvancedPainkillerSternum.description>
+    <KokuUltraPainkillerSternum.label>Ultra schmerzlinderndes Brustbein</KokuUltraPainkillerSternum.label>
+    <KokuUltraPainkillerSternum.labelNoun>Ultra schmerzlinderndes Brustbein</KokuUltraPainkillerSternum.labelNoun>
+    <KokuUltraPainkillerSternum.description>Montiertes ultra schmerzlinderndes Brustbein.</KokuUltraPainkillerSternum.description>
+    <!--==========ribcage==========-->
+    <KokuNanomachinesRibcage.label>Brustkorb mit Nanomaschinen</KokuNanomachinesRibcage.label>
+    <KokuNanomachinesRibcage.labelNoun>Brustkorb mit Nanomaschinen</KokuNanomachinesRibcage.labelNoun>
+    <KokuNanomachinesRibcage.description>Montierter Brustkorb mit Nanomaschinen.</KokuNanomachinesRibcage.description>
+    <KokuAdvancedNanomachinesRibcage.label>Erweiterter Brustkorb mit Nanomaschinen</KokuAdvancedNanomachinesRibcage.label>
+    <KokuAdvancedNanomachinesRibcage.labelNoun>Erweiterter Brustkorb mit Nanomaschinen</KokuAdvancedNanomachinesRibcage.labelNoun>
+    <KokuAdvancedNanomachinesRibcage.description>Montierter erweiterter Brustkorb mit Nanomaschinen.</KokuAdvancedNanomachinesRibcage.description>
+    <KokuUltraNanomachinesRibcage.label>Ultra Brustkorb mit Nanomaschinen</KokuUltraNanomachinesRibcage.label>
+    <KokuUltraNanomachinesRibcage.labelNoun>Ultra Brustkorb mit Nanomaschinen</KokuUltraNanomachinesRibcage.labelNoun>
+    <KokuUltraNanomachinesRibcage.description>Montierter ultra Brustkorb mit Nanomaschinen.</KokuUltraNanomachinesRibcage.description>
+
+    <!--==========exoskeleton==========-->
+    <KokuExoskeleton.label>Exoskelett</KokuExoskeleton.label>
+    <KokuExoskeleton.labelNoun>Exoskelett</KokuExoskeleton.labelNoun>
+    <KokuExoskeleton.description>Montiertes Exoskelett.</KokuExoskeleton.description>
+    <KokuUltraExoskeleton.label>Ultra Exoskelett</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.labelNoun>Ultra Exoskelett</KokuUltraExoskeleton.labelNoun>
+    <KokuUltraExoskeleton.description>Montiertes ultra Exoskelett.</KokuUltraExoskeleton.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuArtificialBrain.label>Künstliches Gehirn</KokuArtificialBrain.label>
+    <KokuArtificialBrain.labelNoun>Künstliches Gehirn</KokuArtificialBrain.labelNoun>
+    <KokuArtificialBrain.description>Montiertes künstliches Gehirn.</KokuArtificialBrain.description>
+    <KokuAdvancedBrain.label>Erweitertes künstliches Gehirn</KokuAdvancedBrain.label>
+    <KokuAdvancedBrain.labelNoun>Erweitertes künstliches Gehirn</KokuAdvancedBrain.labelNoun>
+    <KokuAdvancedBrain.description>Montiertes erweitertes künstliches Gehirn.</KokuAdvancedBrain.description>
+    <KokuUltraBrain.label>Ultra erweitertes künstliches Gehirn</KokuUltraBrain.label>
+    <KokuUltraBrain.labelNoun>Ultra erweitertes künstliches Gehirn</KokuUltraBrain.labelNoun>
+    <KokuUltraBrain.description>Montiertes ultra erweitertes künstliches Gehirn.</KokuUltraBrain.description>
+
+    <!--==========lung==========-->
+    <KokuArtificialLung.label>Künstliches Lungen</KokuArtificialLung.label>
+    <KokuArtificialLung.labelNoun>Künstliches Lungen</KokuArtificialLung.labelNoun>
+    <KokuArtificialLung.description>Montierte künstliche Lunge.</KokuArtificialLung.description>
+    <KokuSyntheticLung.label>Synthetische Lunge</KokuSyntheticLung.label>
+    <KokuSyntheticLung.labelNoun>Synthetische Lunge</KokuSyntheticLung.labelNoun>
+    <KokuSyntheticLung.description>Montierte synthetische Lunge.</KokuSyntheticLung.description>
+    <KokuUltraLung.label>Ultra Lunge</KokuUltraLung.label>
+    <KokuUltraLung.labelNoun>Ultra Lunge</KokuUltraLung.labelNoun>
+    <KokuUltraLung.description>Montierte ultra Lunge.</KokuUltraLung.description>
+    <!--==========stomach==========-->
+    <KokuArtificialStomach.label>Künstlicher Magen</KokuArtificialStomach.label>
+    <KokuArtificialStomach.labelNoun>Künstlicher Magen</KokuArtificialStomach.labelNoun>
+    <KokuArtificialStomach.description>Montierter künstlicher Magen.</KokuArtificialStomach.description>
+    <KokuSyntheticStomach.label>Synthetischer Magen</KokuSyntheticStomach.label>
+    <KokuSyntheticStomach.labelNoun>Synthetischer Magen</KokuSyntheticStomach.labelNoun>
+    <KokuSyntheticStomach.description>Montierter synthetischer Magen.</KokuSyntheticStomach.description>
+    <KokuUltraStomach.label>Ultra Magen</KokuUltraStomach.label>
+    <KokuUltraStomach.labelNoun>Ultra Magen</KokuUltraStomach.labelNoun>
+    <KokuUltraStomach.description>Montierter ultra Magen.</KokuUltraStomach.description>
+
+    <!--==========liver==========-->
+    <KokuArtificialLiver.label>Künstliche Leber</KokuArtificialLiver.label>
+    <KokuArtificialLiver.labelNoun>Künstliche Leber</KokuArtificialLiver.labelNoun>
+    <KokuArtificialLiver.description>Montierte künstliche Leber.</KokuArtificialLiver.description>
+    <KokuSyntheticLiver.label>Synthetische Leber</KokuSyntheticLiver.label>
+    <KokuSyntheticLiver.labelNoun>Synthetische Leber</KokuSyntheticLiver.labelNoun>
+    <KokuSyntheticLiver.description>Montierte synthetische Leber.</KokuSyntheticLiver.description>
+    <KokuUltraLiver.label>Ultra Leber</KokuUltraLiver.label>
+    <KokuUltraLiver.labelNoun>Ultra Leber</KokuUltraLiver.labelNoun>
+    <KokuUltraLiver.description>Montierte ultra Leber.</KokuUltraLiver.description>
+
+    <!--==========kidney==========-->
+    <KokuArtificialKidney.label>Künstliche Niere</KokuArtificialKidney.label>
+    <KokuArtificialKidney.labelNoun>Künstliche Niere</KokuArtificialKidney.labelNoun>
+    <KokuArtificialKidney.description>Montierte künstliche Niere.</KokuArtificialKidney.description>
+    <KokuSyntheticKidney.label>Synthetische Niere</KokuSyntheticKidney.label>
+    <KokuSyntheticKidney.labelNoun>Synthetische Niere</KokuSyntheticKidney.labelNoun>
+    <KokuSyntheticKidney.description>Montierte synthetische Niere.</KokuSyntheticKidney.description>
+    <KokuUltraKidney.label>Ultra Niere</KokuUltraKidney.label>
+    <KokuUltraKidney.labelNoun>Ultra Niere</KokuUltraKidney.labelNoun>
+    <KokuUltraKidney.description>Montierte ultra Niere.</KokuUltraKidney.description>
+
+    <!--==========heart==========-->
+    <KokuArtificialHeart.label>Künstliches Herz</KokuArtificialHeart.label>
+    <KokuArtificialHeart.labelNoun>Künstliches Herz</KokuArtificialHeart.labelNoun>
+    <KokuArtificialHeart.description>Montiertes künstliches Herz.</KokuArtificialHeart.description>
+    <KokuSyntheticHeart.label>Synthetisches Herz</KokuSyntheticHeart.label>
+    <KokuSyntheticHeart.labelNoun>Synthetisches Herz</KokuSyntheticHeart.labelNoun>
+    <KokuSyntheticHeart.description>Montiertes synthetisches Herz.</KokuSyntheticHeart.description>
+    <KokuUltraHeart.label>Ultra Herz</KokuUltraHeart.label>
+    <KokuUltraHeart.labelNoun>Ultra Herz</KokuUltraHeart.labelNoun>
+    <KokuUltraHeart.description>Montiertes ultra Herz.</KokuUltraHeart.description>
+
+</LanguageData>

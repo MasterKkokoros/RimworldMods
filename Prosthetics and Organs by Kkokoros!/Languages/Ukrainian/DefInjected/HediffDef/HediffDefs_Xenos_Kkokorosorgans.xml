@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Гідравлічне крило</KokuHydraulicWing.label>
+    <KokuHydraulicWing.labelNoun>Гідравлічне крило</KokuHydraulicWing.labelNoun>
+    <KokuHydraulicWing.description>Встановлене гідравлічне крило.</KokuHydraulicWing.description>
+    <KokuBionicWing.label>Біонічне крило</KokuBionicWing.label>
+    <KokuBionicWing.labelNoun>Біонічне крило</KokuBionicWing.labelNoun>
+    <KokuBionicWing.description>Встановлене біонічне крило.</KokuBionicWing.description>
+    <KokuAdvancedBionicWing.label>Розвинене біонічне крило</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.labelNoun>Розвинене біонічне крило</KokuAdvancedBionicWing.labelNoun>
+    <KokuAdvancedBionicWing.description>Встановлене розвинене біонічне крило.</KokuAdvancedBionicWing.description>
+    <KokuUltraBionicWing.label>Ультра біонічне крило</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.labelNoun>Ультра біонічне крило</KokuUltraBionicWing.labelNoun>
+    <KokuUltraBionicWing.description>Встановлене ультра біонічне крило.</KokuUltraBionicWing.description>
+
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Гідравлічна антена</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.labelNoun>Гідравлічна антена</KokuHydraulicAntenna.labelNoun>
+    <KokuHydraulicAntenna.description>Встановлена гідравлічна антена.</KokuHydraulicAntenna.description>
+    <KokuBionicAntenna.label>Біонічна антена</KokuBionicAntenna.label>
+    <KokuBionicAntenna.labelNoun>Біонічна антена</KokuBionicAntenna.labelNoun>
+    <KokuBionicAntenna.description>Встановлена біонічна антена.</KokuBionicAntenna.description>
+    <KokuAdvancedBionicAntenna.label>Розвинена біонічна антена</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.labelNoun>Розвинена біонічна антена</KokuAdvancedBionicAntenna.labelNoun>
+    <KokuAdvancedBionicAntenna.description>Встановлена розвинена біонічна антена.</KokuAdvancedBionicAntenna.description>
+    <KokuUltraBionicAntenna.label>Ультра біонічна антена</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.labelNoun>Ультра біонічна антена</KokuUltraBionicAntenna.labelNoun>
+    <KokuUltraBionicAntenna.description>Встановлена ультра біонічна антена.</KokuUltraBionicAntenna.description>
+
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Гідравлічний хвіст</KokuHydraulicTail.label>
+    <KokuHydraulicTail.labelNoun>Гідравлічний хвіст</KokuHydraulicTail.labelNoun>
+    <KokuHydraulicTail.description>Встановлений гідравлічний хвіст.</KokuHydraulicTail.description>
+    <KokuBionicTail.label>Біонічний хвіст</KokuBionicTail.label>
+    <KokuBionicTail.labelNoun>Біонічний хвіст</KokuBionicTail.labelNoun>
+    <KokuBionicTail.description>Встановлений біонічний хвіст.</KokuBionicTail.description>
+    <KokuAdvancedBionicTail.label>Розвинений біонічний хвіст</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.labelNoun>Розвинений біонічний хвіст</KokuAdvancedBionicTail.labelNoun>
+    <KokuAdvancedBionicTail.description>Встановлений розвинений біонічний хвіст.</KokuAdvancedBionicTail.description>
+    <KokuUltraBionicTail.label>Ультра біонічний хвіст</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.labelNoun>Ультра біонічний хвіст</KokuUltraBionicTail.labelNoun>
+    <KokuUltraBionicTail.description>Встановлений ультра біонічний хвіст.</KokuUltraBionicTail.description>
+
+    <!--==========abdomen==========-->
+    <KokuBionicAbdomen.label>Біонічний черевце</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.labelNoun>Біонічний черевце</KokuBionicAbdomen.labelNoun>
+    <KokuBionicAbdomen.description>Встановлене біонічне черевце.</KokuBionicAbdomen.description>
+    <KokuAdvancedBionicAbdomen.label>Розвинене біонічне черевце</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.labelNoun>Розвинене біонічне черевце</KokuAdvancedBionicAbdomen.labelNoun>
+    <KokuAdvancedBionicAbdomen.description>Встановлене розвинене біонічне черевце.</KokuAdvancedBionicAbdomen.description>
+    <KokuUltraBionicAbdomen.label>Ультра біонічне черевце</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.labelNoun>Ультра біонічне черевце</KokuUltraBionicAbdomen.labelNoun>
+    <KokuUltraBionicAbdomen.description>Встановлене ультра біонічне черевце.</KokuUltraBionicAbdomen.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Штучний медовий шлунок</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.labelNoun>Штучний медовий шлунок</KokuArtificialHoneyStomach.labelNoun>
+    <KokuArtificialHoneyStomach.description>Встановлений штучний медовий шлунок.</KokuArtificialHoneyStomach.description>
+    <KokuSyntheticHoneyStomach.label>Синтетичний медовий шлунок</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.labelNoun>Синтетичний медовий шлунок</KokuSyntheticHoneyStomach.labelNoun>
+    <KokuSyntheticHoneyStomach.description>Встановлений синтетичний медовий шлунок.</KokuSyntheticHoneyStomach.description>
+    <KokuUltraHoneyStomach.label>Ультра медовий шлунок</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.labelNoun>Ультра медовий шлунок</KokuUltraHoneyStomach.labelNoun>
+    <KokuUltraHoneyStomach.description>Встановлений ультра медовий шлунок.</KokuUltraHoneyStomach.description>
+
+</LanguageData>

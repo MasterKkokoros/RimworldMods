@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!--==========wing==========-->
+	<KokuInstallHydraulicWing.label>Instale a asa hidráulica</KokuInstallHydraulicWing.label>
+	<KokuInstallHydraulicWing.description>Instala uma asa hidráulica.</KokuInstallHydraulicWing.description>
+	<KokuInstallHydraulicWing.jobString>Instala uma asa hidráulica</KokuInstallHydraulicWing.jobString>
+
+	<KokuInstallBionicWing.label>Instale a asa biónica</KokuInstallBionicWing.label>
+	<KokuInstallBionicWing.description>Instala uma asa biónica.</KokuInstallBionicWing.description>
+	<KokuInstallBionicWing.jobString>Instala uma asa biónica</KokuInstallBionicWing.jobString>
+
+	<KokuInstallAdvancedBionicWing.label>Instale a asa biónica avançada</KokuInstallAdvancedBionicWing.label>
+	<KokuInstallAdvancedBionicWing.description>Instala uma asa biónica avançada.</KokuInstallAdvancedBionicWing.description>
+	<KokuInstallAdvancedBionicWing.jobString>Instala uma asa biónica avançada</KokuInstallAdvancedBionicWing.jobString>
+
+	<KokuInstallUltraBionicWing.label>Instale a ultra asa biónica</KokuInstallUltraBionicWing.label>
+	<KokuInstallUltraBionicWing.description>Instala uma ultra asa biónica.</KokuInstallUltraBionicWing.description>
+	<KokuInstallUltraBionicWing.jobString>Instala uma ultra asa biónica</KokuInstallUltraBionicWing.jobString>
+
+	<!--==========Antenna==========-->
+	<KokuInstallHydraulicAntenna.label>Instale a antena hidráulica</KokuInstallHydraulicAntenna.label>
+	<KokuInstallHydraulicAntenna.description>Instala uma antena hidráulica.</KokuInstallHydraulicAntenna.description>
+	<KokuInstallHydraulicAntenna.jobString>Instala uma antena hidráulica</KokuInstallHydraulicAntenna.jobString>
+
+	<KokuInstallBionicAntenna.label>Instale a antena biónica</KokuInstallBionicAntenna.label>
+	<KokuInstallBionicAntenna.description>Instala uma antena biónica.</KokuInstallBionicAntenna.description>
+	<KokuInstallBionicAntenna.jobString>Instala uma antena biónica</KokuInstallBionicAntenna.jobString>
+
+	<KokuInstallAdvancedBionicAntenna.label>Instale a antena biónica avançada</KokuInstallAdvancedBionicAntenna.label>
+	<KokuInstallAdvancedBionicAntenna.description>Instala uma antena biónica avançada.</KokuInstallAdvancedBionicAntenna.description>
+	<KokuInstallAdvancedBionicAntenna.jobString>Instala uma antena biónica avançada</KokuInstallAdvancedBionicAntenna.jobString>
+
+	<KokuInstallUltraBionicAntenna.label>Instale a ultra antena biónica</KokuInstallUltraBionicAntenna.label>
+	<KokuInstallUltraBionicAntenna.description>Instala uma ultra antena biónica.</KokuInstallUltraBionicAntenna.description>
+	<KokuInstallUltraBionicAntenna.jobString>Instala uma ultra antena biónica</KokuInstallUltraBionicAntenna.jobString>
+
+	<!--==========Tail==========-->
+	<KokuInstallHydraulicTail.label>Instale o rabo hidráulico</KokuInstallHydraulicTail.label>
+	<KokuInstallHydraulicTail.description>Instala um rabo hidráulico.</KokuInstallHydraulicTail.description>
+	<KokuInstallHydraulicTail.jobString>Instala um rabo hidráulico</KokuInstallHydraulicTail.jobString>
+
+	<KokuInstallBionicTail.label>Instale o rabo biónico</KokuInstallBionicTail.label>
+	<KokuInstallBionicTail.description>Instala um rabo biónico.</KokuInstallBionicTail.description>
+	<KokuInstallBionicTail.jobString>Instala um rabo biónico</KokuInstallBionicTail.jobString>
+
+	<KokuInstallAdvancedBionicTail.label>Instale o rabo biónico avançado</KokuInstallAdvancedBionicTail.label>
+	<KokuInstallAdvancedBionicTail.description>Instala um rabo biónico avançado.</KokuInstallAdvancedBionicTail.description>
+	<KokuInstallAdvancedBionicTail.jobString>Instala um rabo biónico avançado</KokuInstallAdvancedBionicTail.jobString>
+
+	<KokuInstallUltraBionicTail.label>Instale o ultra rabo biónico</KokuInstallUltraBionicTail.label>
+	<KokuInstallUltraBionicTail.description>Instala um ultra rabo biónico.</KokuInstallUltraBionicTail.description>
+	<KokuInstallUltraBionicTail.jobString>Instala um ultra rabo biónico</KokuInstallUltraBionicTail.jobString>
+
+	<!--==========abodmen==========-->
+	<KokuInstallBionicAbdomen.label>Instale o abdômen biónico</KokuInstallBionicAbdomen.label>
+	<KokuInstallBionicAbdomen.description>Instala um abdômen biónico.</KokuInstallBionicAbdomen.description>
+	<KokuInstallBionicAbdomen.jobString>Instala um abdômen biónico</KokuInstallBionicAbdomen.jobString>
+
+	<KokuInstallAdvancedBionicAbdomen.label>Instale o abdômen biónico avançado</KokuInstallAdvancedBionicAbdomen.label>
+	<KokuInstallAdvancedBionicAbdomen.description>Instala um abdômen biónico avançado.</KokuInstallAdvancedBionicAbdomen.description>
+	<KokuInstallAdvancedBionicAbdomen.jobString>Instala um abdômen biónico avançado</KokuInstallAdvancedBionicAbdomen.jobString>
+
+	<KokuInstallUltraBionicAbdomen.label>Instale o ultra abdômen biónico</KokuInstallUltraBionicAbdomen.label>
+	<KokuInstallUltraBionicAbdomen.description>Instala um ultra abdômen biónico.</KokuInstallUltraBionicAbdomen.description>
+	<KokuInstallUltraBionicAbdomen.jobString>Instala um ultra abdômen biónico</KokuInstallUltraBionicAbdomen.jobString>
+
+	<!--==============================organs==============================-->
+
+	<!--==========HonechStomach==========-->
+	<KokuInstallArtificialHoneyStomach.label>Instale o estômago de mel artificial</KokuInstallArtificialHoneyStomach.label>
+	<KokuInstallArtificialHoneyStomach.description>Instala um estômago de mel artificial.</KokuInstallArtificialHoneyStomach.description>
+	<KokuInstallArtificialHoneyStomach.jobString>Instala um estômago de mel artificial</KokuInstallArtificialHoneyStomach.jobString>
+
+	<KokuInstallSyntheticHoneyStomach.label>Instale o estômago de mel sintético</KokuInstallSyntheticHoneyStomach.label>
+	<KokuInstallSyntheticHoneyStomach.description>Instala um estômago de mel sintético.</KokuInstallSyntheticHoneyStomach.description>
+	<KokuInstallSyntheticHoneyStomach.jobString>Instala um estômago de mel sintético</KokuInstallSyntheticHoneyStomach.jobString>
+
+	<KokuInstallUltraHoneyStomach.label>Instale o ultra estômago de mel</KokuInstallUltraHoneyStomach.label>
+	<KokuInstallUltraHoneyStomach.description>Instala um ultra estômago de mel.</KokuInstallUltraHoneyStomach.description>
+	<KokuInstallUltraHoneyStomach.jobString>Instala um ultra estômago de mel</KokuInstallUltraHoneyStomach.jobString>
+
+</LanguageData>

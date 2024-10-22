@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Біонічний сечовий міхур</KokuBionicBladder.label>
+    <KokuBionicBladder.Description>Замінник сечового міхура, виконаний з суперсталі та срібла з додаванням урану. \nСистема хімічної переробки розкладає продукти обміну речовин з організму на молекули, які підлягають переробці, а залишок вивільняється у вигляді газу, недоліком є те, що вона виділяє газ для користувача.</KokuBionicBladder.Description>
+
+    <KokuAdvancedBionicBladder.label>Покращений біонічний сечовий міхур</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.Description>Замінник сечового міхура, виконаний з суперсталі та срібла з додаванням урану. \nСистема хімічної переробки розкладає продукти обміну речовин з організму на молекули, які підлягають переробці, а залишок вивільняється у вигляді газу, недоліком є те, що вона виділяє газ для користувача.</KokuAdvancedBionicBladder.Description>
+
+    <KokuUltraBionicBladder.label>Ультра біонічний сечовий міхур</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.Description>Замінник сечового міхура, виконаний з суперсталі та срібла з додаванням урану. \nСистема хімічної переробки розкладає продукти обміну речовин з організму на молекули, які підлягають переробці, а залишок вивільняється у вигляді газу, недоліком є те, що вона виділяє газ для користувача.</KokuUltraBionicBladder.Description>
+
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Біонічний засіб для покращення гігієни</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.Description>Засіб для покращення гігієни, виконаний з суперсталі та срібла з додаванням урану. \nВивільняє механіти, які розкладають мертві клітини шкіри та інші забруднення на шкірі та волоссі, вивільняючи їх безпечним чином в атмосферу.</KokuHygieneEnhancer.Description>
+
+    <KokuAdvancedHygieneEnhancer.label>Покращений біонічний засіб для покращення гігієни</KokuAdvancedHygieneEnhancer.label>
+    <KokuAdvancedHygieneEnhancer.Description>Засіб для покращення гігієни, виконаний з суперсталі та срібла з додаванням урану. \nВивільняє покращені механіти, які розкладають мертві клітини шкіри та інші забруднення на шкірі та волоссі, вивільняючи їх безпечним чином в атмосферу.</KokuAdvancedHygieneEnhancer.Description>
+
+    <KokuUltraHygieneEnhancer.label>Ультра біонічний засіб для покращення гігієни</KokuUltraHygieneEnhancer.label>
+    <KokuUltraHygieneEnhancer.Description>Засіб для покращення гігієни, виконаний з суперсталі та срібла з додаванням урану. \nВивільняє ультрамеханіти, які розкладають мертві клітини шкіри та інші забруднення на шкірі та волоссі, вивільняючи їх безпечним чином в атмосферу.</KokuUltraHygieneEnhancer.Description>
+
+    <!--==============================organs==============================-->
+
+
+</LanguageData>

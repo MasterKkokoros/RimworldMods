@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================órgãos==============================-->
+    <!--==========Baço==========-->
+    <KokuArtificialSpleen.label>Baço artificial</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.Description>Substituto do baço feito de super-aço. \nEmite um som alto.</KokuArtificialSpleen.Description>
+    <KokuSyntheticSpleen.label>Baço sintético</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.Description>Substituto do baço feito de super-aço e prata. \nEmite um som baixo.</KokuSyntheticSpleen.Description>
+    <KokuUltraSpleen.label>Ultra baço</KokuUltraSpleen.label>
+    <KokuUltraSpleen.Description>Substituto do baço feito de super-aço e prata com adição de urânio. \nNão emite som algum.</KokuUltraSpleen.Description>
+
+    <!--==========Pâncreas==========-->
+    <KokuArtificialPancreas.label>Pâncreas artificial</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.Description>Substituto do pâncreas feito de super-aço. \nEmite um som alto.</KokuArtificialPancreas.Description>
+    <KokuSyntheticPancreas.label>Pâncreas sintético</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.Description>Substituto do pâncreas feito de super-aço e prata. \nEmite um som baixo.</KokuSyntheticPancreas.Description>
+    <KokuUltraPancreas.label>Ultra pâncreas</KokuUltraPancreas.label>
+    <KokuUltraPancreas.Description>Substituto do pâncreas feito de super-aço e prata com adição de urânio. \nNão emite som algum.</KokuUltraPancreas.Description>
+
+    <!--==========Bexiga biliar==========-->
+    <KokuArtificialGallbladder.label>Bexiga biliar artificial</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.Description>Substituto da bexiga biliar feito de super-aço. \nEmite um som alto.</KokuArtificialGallbladder.Description>
+    <KokuSyntheticGallbladder.label>Bexiga biliar sintética</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.Description>Substituto da bexiga biliar feito de super-aço e prata. \nEmite um som baixo.</KokuSyntheticGallbladder.Description>
+    <KokuUltraGallbladder.label>Ultra bexiga biliar</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.Description>Substituto da bexiga biliar feito de super-aço e prata com adição de urânio. \nNão emite som algum.</KokuUltraGallbladder.Description>
+</LanguageData>
