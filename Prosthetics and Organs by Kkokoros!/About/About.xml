@@ -32,6 +32,7 @@
 		Adds compatibility to other mods like:
 		-Dubs Bad Hygiene(bladder,hygiene enhancer)
 		-Organs Expanded by Kkokoros (spleen, pancreas, gallbladder)
+		-Medical System Expansion 2
 
 		Adds compatibility to Xeno mods like:
 		-Apini Playable Race, Continued! (apini stuff)
@@ -85,6 +86,7 @@
 		<li>Nemonian.MY</li>
 		<li>Dubwise.DubsBadHygiene</li>
 		<li>Kkokoros.expandedorgans</li>
+		<li>MSE2.Core</li>
 	</loadAfter>
 	<modIconPath IgnoreIfNoMatchingField="True">Things/Item/BodyPart/KokuUnfinishedOrgansOrBionics</modIconPath>
 </ModMetaData>

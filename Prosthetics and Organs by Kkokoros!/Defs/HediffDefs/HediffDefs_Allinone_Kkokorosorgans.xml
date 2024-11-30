@@ -31,6 +31,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>5</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <HediffDef Name="KokuaddedSimpleOrgans" Abstract="True">
@@ -45,6 +48,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>5</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <HediffDef Name="KokuaddedAdvanced" Abstract="True">
@@ -59,6 +65,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>10</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <HediffDef Name="KokuaddedSyntheticOrgans" Abstract="True">
@@ -73,6 +82,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>10</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>1</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <HediffDef Name="KokuaddedUltra" Abstract="True">
@@ -87,6 +99,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>15</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>2</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <HediffDef Name="KokuaddedUltraOrgans" Abstract="True">
@@ -101,6 +116,9 @@
          <li MayRequire="V1024.EBFramework" Class="EBF.Hediffs.HediffCompProperties_MaxHPAdjust">
             <linearAdjustment>15</linearAdjustment>
          </li>
+         <li MayRequire="MSE2.Core" Class="MSE2.HediffCompProperties_ModuleHolder">
+				<maxModules>2</maxModules>
+			</li>
       </comps>
    </HediffDef>
    <!--===============================Tier0===================================-->
