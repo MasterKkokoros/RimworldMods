@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>artificial skull implants</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Unlocks the ability to craft skull implants and install them.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>advanced skull implants</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Allows you to craft advanced skull implants.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra skull implants</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Allows you to craft ultra skull implants.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

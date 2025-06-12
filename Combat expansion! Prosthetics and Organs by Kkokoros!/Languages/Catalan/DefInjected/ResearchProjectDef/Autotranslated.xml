@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Complements de combat biònic</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Afegeix complements de combat biònics com ara autopistola o arpa incorporada.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Complements de combat avançats</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Afegeix complements de combat biònics avançats com ara autopistola o arpa incorporada.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Complements ultra combat</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Afegeix complements de combat ultra biònics com ara autopistola o arpa incorporada.</KokuUltraBionicsGun.description>
+</LanguageData>

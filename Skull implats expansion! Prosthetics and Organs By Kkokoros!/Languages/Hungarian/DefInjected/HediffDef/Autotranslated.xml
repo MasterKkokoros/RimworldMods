@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 álmatlan koponya implantátum</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Beépített V1 álmatlan koponya implantátum.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 álmatlan koponya implantátum</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Beépített V2 álmatlan koponyaimplantátum.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 álmatlan koponya implantátum</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Beépített V3 álmatlan koponyaimplantátum.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 pszichés koponyaimplantátum</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Beépített V1 pszichés koponyaimplantátum.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 pszichés koponyaimplantátum</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Beépített V2 pszichés koponyaimplantátum.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 pszichés koponyaimplantátum</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Beépített V3 pszichés koponyaimplantátum.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1 kutató koponya implantátum</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Beépített V1 kutató koponyaimplantátum.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2 kutató koponyaimplantátum</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Beépített V2 kutató implantátum.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3 kutató koponya implantátum</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Beépített V3 kutató koponyaimplantátum.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 bányász koponya implantátum</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Beépített V1 bányász koponyaimplantátum.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 bányász koponya implantátum</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Beépített V2 miner implantátum.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 bányász koponya implantátum</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Beépített V3 bányász koponyaimplantátum.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 farmer koponya implantátum</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Beépített V1 farmer koponyaimplantátum.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 farmer koponya implantátum</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Beépített V2 farmer implantátum.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 farmer koponya implantátum</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Beépített V3 farmer koponyaimplantátum.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 rancher koponya implantátum</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Beépített V1 rancher koponya implantátum.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 rancher koponya implantátum</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Beépített V2 rancher implantátum.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 rancher koponya implantátum</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Beépített V3 rancher koponya implantátum.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1 chef koponya implantátum</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Beépített V1 chef koponyaimplantátum.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2 chef koponya implantátum</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Beépített V2 chef implantátum.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3 chef koponya implantátum</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Beépített V3 chef koponyaimplantátum.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 builder koponya implantátum</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Beépített V1 builder koponyaimplantátum.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2 builder koponya implantátum</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Beépített V2 builder implantátum.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 builder koponya implantátum</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Beépített V3 builder koponyaimplantátum.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 szobalány koponya implantátum</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Beépített V1 cselédkoponya implantátum.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2 szobalány koponya implantátum</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Beépített V2 szobalány implantátum.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3 szobalány koponya implantátum</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Beépített V3 cselédkoponya implantátum.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 szociális koponya implantátum</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Beépített V1 szociális koponya implantátum.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 szociális koponya implantátum</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Beépített V2 szociális implantátum.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 szociális koponya implantátum</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Beépített V3 szociális koponya implantátum.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 medikus koponya implantátum</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Beépített V1 medic koponyaimplantátum.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 medikus koponya implantátum</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Beépített V2 farmer implantátum.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 medikus koponya implantátum</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Beépített V3-as orvosi koponyaimplantátum.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 gyors tanuló koponyaimplantátum</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Beépített V1 gyors tanuló koponyaimplantátum.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 gyors tanuló koponyaimplantátum</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Beépített V2 gyors tanuló koponyaimplantátum.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 gyors tanuló koponyaimplantátum</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Beépített V3 gyors tanuló koponyaimplantátum.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 közelharci katona koponya implantátum</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Beépített V1 közelharci katona koponya implantátum.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 közelharci katona koponya implantátum</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Beépített V2 közelharci katona koponya implantátum.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 közelharci katona koponya implantátum</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Beépített V3 közelharci katona koponya implantátum.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>V1 tartomány katona koponya implantátum</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Beépített V1-es tartomány katonakoponya implantátum.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>V2 tartomány katona koponya implantátum</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Beépített V2 tartomány katonakoponya implantátum.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>V3 tartomány katona koponya implantátum</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Beépített V3-as katonakoponya implantátum.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

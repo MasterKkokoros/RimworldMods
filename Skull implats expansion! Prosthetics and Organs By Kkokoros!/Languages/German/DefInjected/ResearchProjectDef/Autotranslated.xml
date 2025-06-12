@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>künstliche Schädelimplantate</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Schaltet die Fähigkeit frei, Schädelimplantate herzustellen und zu installieren.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>fortgeschrittene Schädelimplantate</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Ermöglicht die Herstellung fortschrittlicher Schädelimplantate.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>Ultra-Schädelimplantate</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Ermöglicht die Herstellung von Ultra-Schädelimplantaten.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

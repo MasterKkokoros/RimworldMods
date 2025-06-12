@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>수사이드</KokuSuicidevest.label>
+    <KokuSuicidevest.description>파괴력이 강한 자살조끼입니다.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>폭탄 기폭 장치</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>생체공학 발톱</KokuBionicClaw.label>
+    <KokuBionicClaw.description>가장 정교한 팔 교체 중 하나입니다. 사용자에게 극도의 힘을 줍니다.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>생체 공학 총 팔</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>가장 정교한 팔 교체 중 하나입니다. 사용자에게 극도의 힘을 부여하며 자동 권총이 내장되어 있습니다.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>생체공학 EMP 팔</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>가장 정교한 팔 교체 중 하나입니다. 사용자에게 극도의 힘을 부여하며 EMP 런처가 내장되어 있습니다.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>생체 공학 방화 팔</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>가장 정교한 팔 교체 중 하나입니다. 사용자에게 극도의 힘을 부여하며, 소이 발사 장치가 내장되어 있습니다.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>생체 공학 연기 팔</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>가장 정교한 팔 교체 중 하나입니다. 사용자에게 극도의 힘을 부여하며 연막 발사기가 내장되어 있습니다.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>바이오닉 파이어 브레스 턱</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>가장 정교한 턱 교체 중 하나입니다. 화염방사기가 내장되어 있습니다.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>고급 생체공학 발톱</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>아직도 팔인가요? 이는 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>고급 생체 공학 총 팔</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>아직도 팔인가요? 자동 권총이 내장되어 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>고급 생체공학 EMP 팔</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>아직도 팔인가요? 내장된 EMP 런처를 통해 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>고급 생체 공학 방화 팔</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>아직도 팔인가요? 내장된 소이탄 발사기로 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>고급 생체공학 연기 팔</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>아직도 팔인가요? 내장된 연기 발사기로 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>고급 생체 공학 화재 호흡 턱</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>아직도 턱이야? 내장된 화염방사기로 사용자에게 극도의 힘을 제공합니다.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>울트라 바이오닉 발톱</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>이건 F%^$^ng 미쳤어요.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>울트라 바이오닉 총 팔</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>이건 F%^$^ng 미쳤어요. 자동 권총도 내장되어 있어요.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>울트라 바이오닉 EMP 팔</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>이것은 F%^$^ng 미쳤으며 EMP 발사기도 내장되어 있습니다.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>울트라 바이오닉 방화 팔</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>이것은 F%^$^ng 미쳤으며 소이탄 발사기도 내장되어 있습니다.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>울트라 바이오닉 스모크 암</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>이것은 F%^$^ng 미친 것입니다. 또한 연막탄 발사기도 내장되어 있습니다.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>울트라 바이오닉 파이어 브레스 턱</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>이것은 F%^$^ng 미쳤습니다. 또한 화염방사기도 내장되어 있습니다.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

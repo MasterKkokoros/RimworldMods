@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Suplimente de luptă bionic</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Adaugă suplimente bionice de luptă, cum ar fi autopistol sau gheare încorporate.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Suplimente avansate de luptă</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Adaugă suplimente avansate de luptă bionică, cum ar fi autopistol sau gheare încorporate.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Suplimente ultra combat</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Adaugă suplimente de luptă ultra bionice, cum ar fi autopistol sau gheare încorporate.</KokuUltraBionicsGun.description>
+</LanguageData>

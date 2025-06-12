@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Αυτό είναι ένα γιλέκο αυτοκτονίας με καταστροφική δύναμη.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>πυροκροτητής βόμβας</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>βιονικό νύχι</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις βραχιόνων. Δίνει εξαιρετική δύναμη στον χρήστη του.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>βραχίονα βιονικού όπλου</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις βραχιόνων. Δίνει εξαιρετική δύναμη στον χρήστη του και είναι εξοπλισμένο με ενσωματωμένο αυτόματο πιστόλι.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>βιονικός βραχίονας EMP</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις βραχιόνων. Δίνει εξαιρετική δύναμη στον χρήστη του και είναι εξοπλισμένο με ενσωματωμένο εκτοξευτή EMP.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>βιονικό εμπρηστικό βραχίονα</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις βραχιόνων. Δίνει εξαιρετική δύναμη στον χρήστη του και είναι εξοπλισμένο με ενσωματωμένο εμπρηστικό εκτοξευτή.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>βιονικός βραχίονας καπνού</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις βραχιόνων. Δίνει εξαιρετική δύναμη στον χρήστη του και είναι εξοπλισμένο με ενσωματωμένο εκτοξευτή καπνού.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>βιονικό σαγόνι αναπνοής φωτιάς</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Μια από τις πιο εξελιγμένες αντικαταστάσεις γνάθων. Είναι εξοπλισμένο με ενσωματωμένο φλογοβόλο.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>προηγμένο βιονικό νύχι</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Είναι ακόμα ένα χέρι; Δίνει στο χρήστη εξαιρετικά εξαιρετική δύναμη.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>προηγμένος βραχίονας βιονικού όπλου</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Είναι ακόμα ένα χέρι; Δίνει στον χρήστη εξαιρετικά εξαιρετική δύναμη με ενσωματωμένο αυτόματο πιστόλι.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>προηγμένος βιονικός βραχίονας EMP</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Είναι ακόμα ένα χέρι; Δίνει στον χρήστη εξαιρετικά εξαιρετική δύναμη με ενσωματωμένο εκτοξευτή EMP.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>προηγμένο βιονικό εμπρηστικό βραχίονα</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Είναι ακόμα ένα χέρι; Δίνει στον χρήστη εξαιρετικά εξαιρετική δύναμη με ενσωματωμένο εμπρηστικό εκτοξευτή.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>προηγμένος βιονικός βραχίονας καπνού</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Είναι ακόμα ένα χέρι; Δίνει στον χρήστη εξαιρετικά εξαιρετική δύναμη με ενσωματωμένο εκτοξευτή καπνού.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>προηγμένη βιονική σιαγόνα αναπνοής φωτιάς</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Είναι ακόμα σαγόνι; Δίνει στον χρήστη εξαιρετικά εξαιρετική αντοχή με ενσωματωμένο φλογοβόλο.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>υπερβιονικό νύχι</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Αυτό είναι F%^$^ng τρελό.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>βραχίονας υπερβιονικού όπλου</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Αυτό είναι F%^$^ng τρελό και είναι εξοπλισμένο με ενσωματωμένο αυτόματο πιστόλι.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>υπερβιονικός βραχίονας EMP</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Αυτό είναι F%^$^ng τρελό και είναι εξοπλισμένο με ενσωματωμένο εκτοξευτή EMP.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>υπερβιονικός εμπρηστικός βραχίονας</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Αυτό είναι F%^$^ng τρελό και είναι εξοπλισμένο με ενσωματωμένο εμπρηστικό εκτοξευτή.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>υπερβιονικός βραχίονας καπνού</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Αυτό είναι F%^$^ng τρελό και είναι εξοπλισμένο με ενσωματωμένο εκτοξευτή καπνού.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>υπερβιονικό σαγόνι αναπνοής φωτιάς</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Αυτό είναι F%^$^ng τρελό και είναι εξοπλισμένο με ενσωματωμένο φλογοβόλο.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

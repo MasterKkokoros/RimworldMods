@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>苏赛德</KokuSuicidevest.label>
+    <KokuSuicidevest.description>这是一件具有破坏力的自杀背心。</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>炸弹雷管</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>仿生爪</KokuBionicClaw.label>
+    <KokuBionicClaw.description>最复杂的手臂替代品之一。为其使用者提供极大的力量。</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>仿生枪臂</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>最复杂的手臂替代品之一。为使用者提供极大的力量，并配备内置自动手枪。</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>仿生电磁脉冲臂</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>最复杂的手臂替代品之一。为用户提供极大的力量，并配备内置电磁脉冲发射器。</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>仿生燃烧臂</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>最复杂的手臂替代品之一。为使用者提供极大的力量，并配备内置燃烧弹发射器。</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>仿生烟臂</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>最复杂的手臂替代品之一。为使用者提供极大的力量，并配备内置烟雾发射器。</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>仿生火息颌</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>最复杂的颌骨替代品之一。配备有内置火焰喷射器。</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>先进的仿生爪</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>这还是手臂吗？它赋予使用者极其极致的力量。</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>先进仿生枪臂</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>这还是手臂吗？它通过内置自动手枪为用户提供了极其强大的力量。</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>先进的仿生电磁脉冲臂</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>这还是手臂吗？它通过内置的 EMP 发射器为用户提供了极其强大的力量。</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>先进仿生燃烧臂</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>这还是手臂吗？它通过内置的燃烧发射器为用户提供了极其强大的力量。</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>先进仿生烟臂</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>这还是手臂吗？它通过内置的烟雾发射器为用户提供了极其强大的力量。</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>先进的仿生火息颌</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>这还是下巴吗？它通过内置的火焰喷射器为用户提供了极其强大的力量。</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>超仿生爪</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>这真是 F%^$^ng 疯了。</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>超仿生枪臂</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>这真是F%^$^ng 疯狂还配备了内置自动手枪。</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>超仿生电磁脉冲臂</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>这真是 F%^$^ng 疯狂，还配备了内置 EMP 发射器。</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>超仿生燃烧臂</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>这真是 F%^$^ng 疯狂，还配备了内置燃烧弹发射器。</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>超仿生烟臂</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>这真是 F%^$^ng 疯狂，还配备了内置烟雾发射器。</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>超仿生火息颌</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>这真是 F%^$^ng 疯狂，还配备了内置火焰喷射器。</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

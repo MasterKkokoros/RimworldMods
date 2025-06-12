@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>bionische klauw installeren</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Installeert bionische klauw.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Bionische klauw installeren.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>bionische pistoolarm installeren</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Installeert bionische pistoolarm.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Bionische pistoolarm installeren.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>installeer bionische EMP-arm</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Installeert bionische EMP-arm.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Bionische EMP-arm installeren.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>installeer een bionische brandgevaarlijke arm</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Installeert bionische brandgevaarlijke arm.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Bionische brandgevaarlijke arm installeren.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>installeer bionische rookarm</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Installeert bionische rookarm.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Bionische rookarm installeren.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>installeer bionische vuurademkaak</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Installeert bionische vuurademkaak.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Bionische vuurademkaak installeren.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>installeer geavanceerde bionische klauw</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Installeert geavanceerde bionische klauw.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Geavanceerde bionische klauw installeren.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>installeer een geavanceerde bionische pistoolarm</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Installeert geavanceerde bionische pistoolarm.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Geavanceerde bionische pistoolarm installeren.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>installeer een geavanceerde bionische EMP-arm</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Installeert geavanceerde bionische EMP-arm.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Geavanceerde bionische EMP-arm installeren.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>installeer een geavanceerde bionische brandgevaarlijke arm</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Installeert geavanceerde bionische brandgevaarlijke arm.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Geavanceerde bionische brandgevaarlijke arm installeren.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>installeer een geavanceerde bionische rookarm</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Installeert geavanceerde bionische rookarm.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Geavanceerde bionische rookarm installeren.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>installeer een geavanceerde bionische vuurademkaak</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Installeert geavanceerde bionische vuurademkaak.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Geavanceerde bionische vuurademkaak installeren.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>installeer ultrabionische klauw</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Installeert ultra bionische klauw.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Ultrabionische klauw installeren.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>installeer een ultrabionische pistoolarm</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Installeert ultrabionische pistoolarm.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Ultrabionische wapenarm installeren.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>installeer ultrabionische EMP-arm</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Installeert ultra bionische EMP-arm.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Ultrabionische EMP-arm installeren.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>installeer een ultrabionische brandgevaarlijke arm</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Installeert een ultrabionische brandgevaarlijke arm.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Ultrabionische brandgevaarlijke arm installeren.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>installeer een ultrabionische rookarm</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Installeert ultra bionische rookarm.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Ultra bionische rookarm installeren.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>installeer een ultrabionische vuurademkaak</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Installeert ultra bionische vuurademkaak.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Ultrabionische vuurademkaak installeren.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallV1SleepLessSkullImplant.label>paigaldage V1 unetu kolju implantaat</KokuInstallV1SleepLessSkullImplant.label>
+    <KokuInstallV1SleepLessSkullImplant.description>Paigaldab V1 unetu kolju implantaadi.</KokuInstallV1SleepLessSkullImplant.description>
+    <KokuInstallV2SleepLessSkullImplant.label>paigaldage V2 unetu kolju implantaat</KokuInstallV2SleepLessSkullImplant.label>
+    <KokuInstallV2SleepLessSkullImplant.description>Paigaldab V2 unetu kolju implantaadi.</KokuInstallV2SleepLessSkullImplant.description>
+    <KokuInstallV3SleepLessSkullImplant.label>paigalda V3 unetu kolju implantaat</KokuInstallV3SleepLessSkullImplant.label>
+    <KokuInstallV3SleepLessSkullImplant.description>Paigaldab V3 unetu kolju implantaadi.</KokuInstallV3SleepLessSkullImplant.description>
+    <KokuInstallV1PsychicLessSkullImplant.label>paigalda V1 psüühikata koljuimplantaat</KokuInstallV1PsychicLessSkullImplant.label>
+    <KokuInstallV1PsychicLessSkullImplant.description>Paigaldab V1 psüühikata koljuimplantaadi.</KokuInstallV1PsychicLessSkullImplant.description>
+    <KokuInstallV2PsychicLessSkullImplant.label>paigalda V2 psüühikata koljuimplantaat</KokuInstallV2PsychicLessSkullImplant.label>
+    <KokuInstallV2PsychicLessSkullImplant.description>Paigaldab V2 psüühikata koljuimplantaadi.</KokuInstallV2PsychicLessSkullImplant.description>
+    <KokuInstallV3PsychicLessSkullImplant.label>paigalda V3 psüühikata koljuimplant</KokuInstallV3PsychicLessSkullImplant.label>
+    <KokuInstallV3PsychicLessSkullImplant.description>Paigaldab V3 psüühikata koljuimplantaadi.</KokuInstallV3PsychicLessSkullImplant.description>
+    <KokuInstallV1ResearcherSkullImplant.label>paigaldage V1 uurija koljuimplantaat</KokuInstallV1ResearcherSkullImplant.label>
+    <KokuInstallV1ResearcherSkullImplant.description>Paigaldab V1 uurija koljuimplantaadi.</KokuInstallV1ResearcherSkullImplant.description>
+    <KokuInstallV2ResearcherSkullImplant.label>paigalda V2-uurija koljuimplant</KokuInstallV2ResearcherSkullImplant.label>
+    <KokuInstallV2ResearcherSkullImplant.description>Paigaldab V2-uurija koljuimplantaadi.</KokuInstallV2ResearcherSkullImplant.description>
+    <KokuInstallV3ResearcherSkullImplant.label>paigalda V3-uurija koljuimplant</KokuInstallV3ResearcherSkullImplant.label>
+    <KokuInstallV3ResearcherSkullImplant.description>Paigaldab V3 uurija koljuimplantaadi.</KokuInstallV3ResearcherSkullImplant.description>
+    <KokuInstallV1MinerSkullImplant.label>paigaldage V1 miner koljuimplantaat</KokuInstallV1MinerSkullImplant.label>
+    <KokuInstallV1MinerSkullImplant.description>Paigaldab V1 kaevandaja koljuimplantaadi.</KokuInstallV1MinerSkullImplant.description>
+    <KokuInstallV2MinerSkullImplant.label>paigalda V2 miner koljuimplant</KokuInstallV2MinerSkullImplant.label>
+    <KokuInstallV2MinerSkullImplant.description>Paigaldab V2 kaevandaja koljuimplantaadi.</KokuInstallV2MinerSkullImplant.description>
+    <KokuInstallV3MinerSkullImplant.label>paigaldage V3 miner koljuimplantaat</KokuInstallV3MinerSkullImplant.label>
+    <KokuInstallV3MinerSkullImplant.description>Paigaldab V3 kaevandaja koljuimplantaadi.</KokuInstallV3MinerSkullImplant.description>
+    <KokuInstallV1FarmerSkullImplant.label>paigaldage V1 farmeri koljuimplantaat</KokuInstallV1FarmerSkullImplant.label>
+    <KokuInstallV1FarmerSkullImplant.description>Paigaldab V1 farmeri koljuimplantaadi.</KokuInstallV1FarmerSkullImplant.description>
+    <KokuInstallV2FarmerSkullImplant.label>paigaldage V2 farmeri koljuimplant</KokuInstallV2FarmerSkullImplant.label>
+    <KokuInstallV2FarmerSkullImplant.description>Paigaldab V2 farmeri koljuimplantaadi.</KokuInstallV2FarmerSkullImplant.description>
+    <KokuInstallV3FarmerSkullImplant.label>paigaldage V3 farmeri koljuimplant</KokuInstallV3FarmerSkullImplant.label>
+    <KokuInstallV3FarmerSkullImplant.description>Paigaldab V3 farmeri koljuimplantaadi.</KokuInstallV3FarmerSkullImplant.description>
+    <KokuInstallV1RancherSkullImplant.label>paigaldage V1 rantcheri koljuimplantaat</KokuInstallV1RancherSkullImplant.label>
+    <KokuInstallV1RancherSkullImplant.description>Paigaldab V1 ranteri koljuimplantaadi.</KokuInstallV1RancherSkullImplant.description>
+    <KokuInstallV2RancherSkullImplant.label>paigaldage V2 rantcheri koljuimplant</KokuInstallV2RancherSkullImplant.label>
+    <KokuInstallV2RancherSkullImplant.description>Paigaldab V2 rantcheri koljuimplantaadi.</KokuInstallV2RancherSkullImplant.description>
+    <KokuInstallV3RancherSkullImplant.label>paigaldage V3 rantcheri koljuimplant</KokuInstallV3RancherSkullImplant.label>
+    <KokuInstallV3RancherSkullImplant.description>Paigaldab V3 ranteri koljuimplantaadi.</KokuInstallV3RancherSkullImplant.description>
+    <KokuInstallV1ChefSkullImplant.label>paigalda V1 chef koljuimplant</KokuInstallV1ChefSkullImplant.label>
+    <KokuInstallV1ChefSkullImplant.description>Paigaldab V1 chef koljuimplantaadi.</KokuInstallV1ChefSkullImplant.description>
+    <KokuInstallV2ChefSkullImplant.label>paigalda V2 chef koljuimplant</KokuInstallV2ChefSkullImplant.label>
+    <KokuInstallV2ChefSkullImplant.description>Paigaldab V2 chef koljuimplantaadi.</KokuInstallV2ChefSkullImplant.description>
+    <KokuInstallV3ChefSkullImplant.label>paigalda V3 chef koljuimplant</KokuInstallV3ChefSkullImplant.label>
+    <KokuInstallV3ChefSkullImplant.description>Paigaldab V3 chef koljuimplantaadi.</KokuInstallV3ChefSkullImplant.description>
+    <KokuInstallV1BuilderSkullImplant.label>paigaldage V1 builder koljuimplantaat</KokuInstallV1BuilderSkullImplant.label>
+    <KokuInstallV1BuilderSkullImplant.description>Paigaldab V1 builder koljuimplantaadi.</KokuInstallV1BuilderSkullImplant.description>
+    <KokuInstallV2BuilderSkullImplant.label>paigalda V2 builder koljuimplant</KokuInstallV2BuilderSkullImplant.label>
+    <KokuInstallV2BuilderSkullImplant.description>Paigaldab V2 builder koljuimplantaadi.</KokuInstallV2BuilderSkullImplant.description>
+    <KokuInstallV3BuilderSkullImplant.label>paigaldage V3 builder koljuimplantaat</KokuInstallV3BuilderSkullImplant.label>
+    <KokuInstallV3BuilderSkullImplant.description>Paigaldab V3 ehitaja koljuimplantaati.</KokuInstallV3BuilderSkullImplant.description>
+    <KokuInstallV1MaidSkullImplant.label>paigalda V1 neiu kolju implantaat</KokuInstallV1MaidSkullImplant.label>
+    <KokuInstallV1MaidSkullImplant.description>Paigaldab V1 neiu koljuimplantaadi.</KokuInstallV1MaidSkullImplant.description>
+    <KokuInstallV2MaidSkullImplant.label>paigalda V2 neiu kolju implantaat</KokuInstallV2MaidSkullImplant.label>
+    <KokuInstallV2MaidSkullImplant.description>Paigaldab V2 neiu koljuimplantaadi.</KokuInstallV2MaidSkullImplant.description>
+    <KokuInstallV3MaidSkullImplant.label>paigalda V3 neiu koljuimplant</KokuInstallV3MaidSkullImplant.label>
+    <KokuInstallV3MaidSkullImplant.description>Paigaldab V3 neiu koljuimplantaadi.</KokuInstallV3MaidSkullImplant.description>
+    <KokuInstallV1SocialSkullImplant.label>paigalda V1 sotsiaalne koljuimplant</KokuInstallV1SocialSkullImplant.label>
+    <KokuInstallV1SocialSkullImplant.description>Paigaldab V1 sotsiaalse kolju implantaadi.</KokuInstallV1SocialSkullImplant.description>
+    <KokuInstallV2SocialSkullImplant.label>paigalda V2 sotsiaalne koljuimplant</KokuInstallV2SocialSkullImplant.label>
+    <KokuInstallV2SocialSkullImplant.description>Paigaldab V2 sotsiaalse kolju implantaadi.</KokuInstallV2SocialSkullImplant.description>
+    <KokuInstallV3SocialSkullImplant.label>paigalda V3 sotsiaalne koljuimplant</KokuInstallV3SocialSkullImplant.label>
+    <KokuInstallV3SocialSkullImplant.description>Paigaldab V3 sotsiaalse kolju implantaadi.</KokuInstallV3SocialSkullImplant.description>
+    <KokuInstallV1MedicSkullImplant.label>paigaldage V1 meditsiinilise kolju implantaat</KokuInstallV1MedicSkullImplant.label>
+    <KokuInstallV1MedicSkullImplant.description>Paigaldab V1 meditsiinilise koljuimplantaadi.</KokuInstallV1MedicSkullImplant.description>
+    <KokuInstallV2MedicSkullImplant.label>paigaldage V2 meditsiinilise kolju implantaat</KokuInstallV2MedicSkullImplant.label>
+    <KokuInstallV2MedicSkullImplant.description>Paigaldab V2 meditsiinilise koljuimplantaadi.</KokuInstallV2MedicSkullImplant.description>
+    <KokuInstallV3MedicSkullImplant.label>paigaldage V3 meditsiinilise koljuimplantaat</KokuInstallV3MedicSkullImplant.label>
+    <KokuInstallV3MedicSkullImplant.description>Paigaldab V3 meditsiinilise koljuimplantaadi.</KokuInstallV3MedicSkullImplant.description>
+    <KokuInstallV1FastLearnerSkullImplant.label>paigaldage V1 kiire õppija koljuimplantaat</KokuInstallV1FastLearnerSkullImplant.label>
+    <KokuInstallV1FastLearnerSkullImplant.description>Paigaldab V1 kiire õppija koljuimplantaadi.</KokuInstallV1FastLearnerSkullImplant.description>
+    <KokuInstallV2FastLearnerSkullImplant.label>paigaldage V2 kiire õppija koljuimplantaat</KokuInstallV2FastLearnerSkullImplant.label>
+    <KokuInstallV2FastLearnerSkullImplant.description>Paigaldab V2 kiire õppija koljuimplantaadi.</KokuInstallV2FastLearnerSkullImplant.description>
+    <KokuInstallV3FastLearnerSkullImplant.label>paigaldage V3 kiire õppija koljuimplantaat</KokuInstallV3FastLearnerSkullImplant.label>
+    <KokuInstallV3FastLearnerSkullImplant.description>Paigaldab V3 kiire õppija koljuimplantaadi.</KokuInstallV3FastLearnerSkullImplant.description>
+    <KokuInstallV1MeleeSoldierSkullImplant.label>paigalda V1 lähivõitlussõduri kolju implantaat</KokuInstallV1MeleeSoldierSkullImplant.label>
+    <KokuInstallV1MeleeSoldierSkullImplant.description>Paigaldab V1 lähivõitlussõduri kolju implantaadi.</KokuInstallV1MeleeSoldierSkullImplant.description>
+    <KokuInstallV2MeleeSoldierSkullImplant.label>paigalda V2 lähivõitlussõduri kolju implantaat</KokuInstallV2MeleeSoldierSkullImplant.label>
+    <KokuInstallV2MeleeSoldierSkullImplant.description>Paigaldab V2 lähivõitlussõduri kolju implantaadi.</KokuInstallV2MeleeSoldierSkullImplant.description>
+    <KokuInstallV3MeleeSoldierSkullImplant.label>paigalda V3 lähivõitlussõduri kolju implantaat</KokuInstallV3MeleeSoldierSkullImplant.label>
+    <KokuInstallV3MeleeSoldierSkullImplant.description>Paigaldab V3 lähivõitlussõduri koljuimplantaadi.</KokuInstallV3MeleeSoldierSkullImplant.description>
+    <KokuInstallV1RangeSoldierSkullImplant.label>paigaldage V1 vahemiku sõduri kolju implantaat</KokuInstallV1RangeSoldierSkullImplant.label>
+    <KokuInstallV1RangeSoldierSkullImplant.description>Paigaldab V1 vahemiku sõduri kolju implantaadi.</KokuInstallV1RangeSoldierSkullImplant.description>
+    <KokuInstallV2RangeSoldierSkullImplant.label>paigaldage V2-vahemiku sõduri kolju implantaat</KokuInstallV2RangeSoldierSkullImplant.label>
+    <KokuInstallV2RangeSoldierSkullImplant.description>Paigaldab V2 vahemiku sõduri kolju implantaadi.</KokuInstallV2RangeSoldierSkullImplant.description>
+    <KokuInstallV3RangeSoldierSkullImplant.label>paigaldage V3 vahemiku sõduri kolju implantaat</KokuInstallV3RangeSoldierSkullImplant.label>
+    <KokuInstallV3RangeSoldierSkullImplant.description>Paigaldab V3 vahemiku sõduri kolju implantaadi.</KokuInstallV3RangeSoldierSkullImplant.description>
+</LanguageData>

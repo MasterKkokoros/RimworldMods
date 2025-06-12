@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>nainstalovat bionický dráp</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Instaluje bionický dráp.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Instalace bionického drápu.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>nainstalujte rameno bionické zbraně</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Instaluje rameno bionické zbraně.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Instalace ramene bionické zbraně.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>nainstalujte bionické EMP rameno</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Instaluje bionické EMP rameno.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Instalace bionického EMP ramena.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>nainstalujte bionické zápalné rameno</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Instaluje bionické zápalné rameno.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Instalace bionického zápalného ramene.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>nainstalujte rameno bionického kouře</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Instaluje rameno bionického kouře.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Instalace ramena pro bionický kouř.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>nainstalujte bionické ohnivé dechové čelisti</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Instaluje dechovou čelist bionického ohně.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Instalace dechové čelisti bionického ohně.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>nainstalujte pokročilý bionický dráp</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Instaluje pokročilý bionický dráp.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Instalace pokročilého bionického drápu.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>nainstalujte pokročilé rameno bionické zbraně</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Instaluje pokročilé rameno bionické zbraně.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Instalace pokročilého ramena bionické zbraně.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>nainstalujte pokročilé bionické EMP rameno</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Instaluje pokročilé bionické EMP rameno.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Instalace pokročilého bionického EMP ramena.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>nainstalujte pokročilé bionické zápalné rameno</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Instaluje pokročilé bionické zápalné rameno.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Instalace pokročilého bionického zápalného ramene.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>nainstalujte pokročilé rameno bionického kouře</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Instaluje pokročilé rameno bionického kouře.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Instalace pokročilého ramena pro bionický kouř.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>nainstalovat pokročilou čelist bionického ohně</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Instaluje pokročilou čelist bionického ohně.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Instalace pokročilé čelisti bionického ohně.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>nainstalujte ultra bionický dráp</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Instaluje ultra bionický dráp.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Instalace ultra bionického drápu.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>nainstalujte rameno ultra bionické zbraně</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Instaluje rameno ultra bionické zbraně.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Instalace ramene ultra bionické zbraně.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>nainstalujte ultra bionické EMP rameno</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Instaluje ultra bionické EMP rameno.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Instalace ultra bionického EMP ramena.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>nainstalujte ultra bionické zápalné rameno</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Instaluje ultra bionické zápalné rameno.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Instalace ultra bionického zápalného ramene.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>nainstalujte ultra bionické kouřové rameno</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Instaluje ultra bionické kouřové rameno.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Instalace ultra bionického kouřového ramene.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>nainstalujte ultra bionické ohnivé dechové čelisti</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Instaluje ultra bionickou dechovou čelist ohně.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Instalace ultra bionické dechové čelisti ohně.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

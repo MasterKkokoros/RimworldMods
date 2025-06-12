@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>仿生爪</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>仿生爪</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>已安装的仿生爪。</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>仿生爪</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>仿生枪臂</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>仿生枪臂</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>安装的仿生枪臂。</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>仿生枪臂</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>仿生电磁脉冲臂</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>已安装的仿生电磁脉冲臂</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>已安装的仿生电磁脉冲臂。</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>仿生电磁脉冲臂</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>仿生燃烧臂</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>安装的仿生燃烧臂</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>已安装的仿生燃烧臂。</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>仿生燃烧臂</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>仿生烟臂</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>安装的仿生烟臂</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>安装的仿生烟臂。</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>仿生烟臂</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>仿生火息颌</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>安装的仿生火息颌</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>已安装的仿生火息颚。</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>先进的仿生爪</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>先进的仿生爪</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>安装了先进的仿生爪。</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>先进的仿生爪</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>先进仿生枪臂</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>先进的仿生枪臂</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>安装了先进的仿生枪臂。</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>先进仿生枪臂</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>先进仿生电磁脉冲臂</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>安装先进的仿生电磁脉冲臂</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>安装了先进的仿生电磁脉冲臂。</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>先进的仿生电磁脉冲臂</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>先进仿生燃烧臂</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>安装的先进仿生燃烧臂</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>安装了先进的仿生燃烧臂。</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>先进仿生燃烧臂</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>先进仿生烟臂</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>安装先进的仿生烟臂</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>安装了先进的仿生烟臂。</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>先进仿生烟臂</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>先进的仿生火息颌</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>安装先进的仿生火息颚</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>安装了先进的仿生火息颚。</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>超仿生爪</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>超仿生爪</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>已安装的超仿生爪。</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>超仿生爪</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>超仿生枪臂</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>超仿生枪臂</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>安装的超仿生枪臂。</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>超仿生枪臂</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>超仿生电磁脉冲臂</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>已安装的超仿生电磁脉冲臂</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>已安装的超仿生电磁脉冲臂。</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>超仿生电磁脉冲臂</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>超仿生燃烧臂</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>安装的超仿生燃烧臂</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>已安装的超仿生燃烧臂。</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>超仿生燃烧臂</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>超仿生烟臂</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>安装的超仿生烟臂</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>安装的超仿生烟臂。</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>超仿生烟臂</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>超仿生火息颌</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>安装的超仿生火息颚</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>已安装的超仿生火息颚。</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

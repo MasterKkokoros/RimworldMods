@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 sömnlös skalleimplantat</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Ett installerat V1 sömnlöst skallimplantat.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 sömnlös skalleimplantat</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Ett installerat V2 sömnlöst skallimplantat.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 sömnlös skalleimplantat</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Ett installerat V3 sömnlöst skallimplantat.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 psychicless skalleimplantat</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Ett installerat V1 psychicless skalleimplantat.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 psychicless skalleimplantat</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Ett installerat V2 psychicless skalleimplantat.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 psychicless skalleimplantat</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Ett installerat V3 psychicless skalleimplantat.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1 forskarskalleimplantat</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Ett installerat V1 forskarskalleimplantat.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2 forskarskalleimplantat</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Ett installerat V2 forskarimplantat.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3 forskarskalleimplantat</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Ett installerat V3-forskarskalleimplantat.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 miner skalleimplantat</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Ett installerat V1 miner skalleimplantat.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 miner skalleimplantat</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Ett installerat V2-gruvarbetarimplantat.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 miner skalleimplantat</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Ett installerat V3 miner skalleimplantat.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 farmer skalleimplantat</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Ett installerat V1 farmer skalleimplantat.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 farmer skalleimplantat</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Ett installerat V2 farmer-implantat.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 farmer skalleimplantat</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Ett installerat V3 farmer skalleimplantat.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 rancher skalleimplantat</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Ett installerat V1 rancher skalleimplantat.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 rancher skalleimplantat</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Ett installerat V2 rancher-implantat.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 rancher skalleimplantat</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Ett installerat V3 rancher skalleimplantat.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1 kockskalleimplantat</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Ett installerat V1 chefskalleimplantat.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2 kockskalleimplantat</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Ett installerat V2-kockimplantat.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3 kockskalleimplantat</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Ett installerat V3-kockskalleimplantat.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 builder skalleimplantat</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Ett installerat V1 builder skalleimplantat.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2 builder skalleimplantat</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Ett installerat V2 builder-implantat.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 builder skalleimplantat</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Ett installerat V3 builder skalleimplantat.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 maid skalleimplantat</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Ett installerat V1 hemskalleimplantat.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2 hemskalleimplantat</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Ett installerat V2 städimplantat.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3 piga skallimplantat</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Ett installerat V3-dödskalleimplantat.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 socialt skalleimplantat</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Ett installerat V1 socialt skalleimplantat.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 socialt skalleimplantat</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Ett installerat V2 socialt implantat.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 socialt skalleimplantat</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Ett installerat V3 socialt skalleimplantat.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 medic skalleimplantat</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Ett installerat V1 medic skalleimplantat.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 medic skalleimplantat</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Ett installerat V2 farmer-implantat.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 medic skalleimplantat</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Ett installerat V3 medic skalleimplantat.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 snabbt lärande skalleimplantat</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Ett installerat V1 fast lärande skalleimplantat.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 snabbt lärande skalleimplantat</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Ett installerat V2 fast lärande skalleimplantat.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 snabbt lärande skalleimplantat</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Ett installerat V3-implantat för snabbt lärande skalle.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 närstridssoldat skallimplantat</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Ett installerat V1 närstridssoldatskalleimplantat.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 närstridssoldat skallimplantat</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Ett installerat V2 närstridssoldatskalleimplantat.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 närstridssoldat skallimplantat</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Ett installerat V3 närstridssoldatskalleimplantat.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>V1-seriens soldatskalleimplantat</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Ett installerat V1-sortiment soldatskalleimplantat.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>V2-seriens soldatskalleimplantat</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Ett installerat V2-sortiment soldatskalleimplantat.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>V3-seriens soldatskalleimplantat</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Ett installerat V3-sortiment soldatskalleimplantat.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

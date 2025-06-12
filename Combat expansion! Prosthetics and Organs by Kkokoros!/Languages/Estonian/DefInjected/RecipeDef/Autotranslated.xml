@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>paigalda biooniline küünis</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Paigaldab bioonilise küünise.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Bioonilise küünise paigaldamine.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>paigaldage biooniline püstoli õlg</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Paigaldab bioonilise relva käe.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Bioonilise relva käe paigaldamine.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>paigaldage biooniline EMP vars</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Paigaldab bioonilise EMP käe.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Bioonilise EMP käe paigaldamine.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>paigaldage biooniline süüteõlg</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Paigaldab bioonilise süüteõla.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Bioonilise süüteõla paigaldamine.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>paigalda biooniline suitsuvars</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Paigaldab bioonilise suitsuhoova.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Bioonilise suitsuvarre paigaldamine.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>paigaldage biooniline tulehingamislõug</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Paigaldab bioonilise tule hingelõua.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Bioonilise tulehingamislõua paigaldamine.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>paigaldage täiustatud biooniline küünis</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Paigaldab täiustatud bioonilise küünise.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Täiustatud bioonilise küünise paigaldamine.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>paigaldage täiustatud biooniline püstolivars</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Paigaldab täiustatud bioonilise relva käe.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Täiustatud bioonilise relva käe paigaldamine.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>paigaldage täiustatud biooniline EMP-vars</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Paigaldab täiustatud bioonilise EMP käe.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Täiustatud bioonilise EMP käe paigaldamine.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>paigaldage täiustatud biooniline süüteõlg</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Paigaldab täiustatud bioonilise süüteõla.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Täiustatud bioonilise süüteõla paigaldamine.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>paigaldage täiustatud biooniline suitsuhoob</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Paigaldab täiustatud bioonilise suitsuhoova.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Täiustatud bioonilise suitsuhoova paigaldamine.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>paigaldage täiustatud biooniline tulehingamislõug</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Paigaldab täiustatud bioonilise tulehingamislõua.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Täiustatud bioonilise tulehingamislõua paigaldamine.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>paigaldage ultra biooniline küünis</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Paigaldab ultrabioonilise küünise.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Ultra bioonilise küünise paigaldamine.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>paigaldage ultrabiooniline relvavars</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Paigaldab ultrabioonilise relva varre.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Ultra bioonilise püstoli käe paigaldamine.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>paigaldage ultrabionic EMP vars</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Paigaldab ultrabioonilise EMP käe.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Ultra bioonilise EMP käe paigaldamine.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>paigaldage ultrabiooniline süütevars</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Paigaldab ultrabioonilise süütehoova.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Ultra bioonilise süüteõla paigaldamine.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>paigaldage ultra biooniline suitsuvars</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Paigaldab ultrabioonilise suitsuhoova.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Ultra bioonilise suitsuvarre paigaldamine.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>paigaldage ultra biooniline tulehingamislõug</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Paigaldab ultrabionic fire hingelõua.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Ultra bioonilise tulehingamislõua paigaldamine.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

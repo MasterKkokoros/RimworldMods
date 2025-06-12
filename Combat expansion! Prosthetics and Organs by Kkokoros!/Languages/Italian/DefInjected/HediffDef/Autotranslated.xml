@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Artiglio bionico</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>un artiglio bionico</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Un artiglio bionico installato.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>artiglio bionico</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Braccio della pistola bionica</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>un braccio armato bionico</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Un braccio di pistola bionico installato.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>braccio della pistola bionica</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Braccio EMP bionico</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>un braccio EMP bionico installato</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Un braccio EMP bionico installato.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>braccio EMP bionico</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Braccio incendiario bionico</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>un braccio incendiario bionico installato</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Un braccio incendiario bionico installato.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>braccio incendiario bionico</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Braccio fumogeno bionico</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>un braccio di fumo bionico installato</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Un braccio fumogeno bionico installato.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>braccio fumogeno bionico</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Mascella bionica del soffio di fuoco</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>una mascella bionica per il soffio di fuoco installata</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Una mascella bionica del soffio di fuoco installata.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>artiglio bionico avanzato</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>un artiglio bionico avanzato</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Un artiglio bionico avanzato installato.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>artiglio bionico avanzato</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>braccio armato bionico avanzato</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>un braccio armato bionico avanzato</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Un braccio di pistola bionico avanzato installato.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>braccio armato bionico avanzato</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Braccio EMP bionico avanzato</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>un braccio EMP bionico avanzato installato</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Un braccio EMP bionico avanzato installato.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>braccio EMP bionico avanzato</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Braccio incendiario bionico avanzato</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>un braccio incendiario bionico avanzato installato</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Un braccio incendiario bionico avanzato installato.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>braccio incendiario bionico avanzato</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Braccio fumogeno bionico avanzato</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>un braccio fumogeno bionico avanzato installato</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Un braccio fumogeno bionico avanzato installato.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>braccio fumogeno bionico avanzato</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Mascella bionica avanzata per il soffio di fuoco</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>una mascella bionica avanzata per il soffio di fuoco installata</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Una mascella bionica avanzata per il soffio di fuoco installata.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>artiglio ultra bionico</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>un artiglio ultra bionico</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Un artiglio ultra bionico installato.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>artiglio ultra bionico</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>braccio della pistola ultra bionico</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>un braccio armato ultra bionico</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Un braccio di pistola ultra bionico installato.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>braccio della pistola ultra bionico</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Braccio EMP ultra bionico</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>un braccio EMP ultra bionico installato</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Un braccio EMP ultra bionico installato.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>braccio EMP ultra bionico</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Braccio incendiario ultra bionico</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>un braccio incendiario ultra bionico installato</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Un braccio incendiario ultra bionico installato.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>braccio incendiario ultra bionico</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Braccio fumogeno ultra bionico</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>un braccio fumogeno ultra bionico installato</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Un braccio fumogeno ultra bionico installato.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>braccio fumogeno ultra bionico</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Mascella del soffio di fuoco ultra bionico</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>una mascella di alito di fuoco ultra bionica installata</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Una mascella di fuoco ultrabionica installata.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

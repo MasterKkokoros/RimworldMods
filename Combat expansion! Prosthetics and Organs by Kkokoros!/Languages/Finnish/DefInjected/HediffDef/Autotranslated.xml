@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Bionic kynsi</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>bioninen kynsi</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Asennettu bioninen kynsi.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>bioninen kynsi</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Bionic aseen varsi</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>bioninen aseen käsivarsi</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Asennettu bioninen aseen varsi.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>bioninen aseen varsi</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Bionic EMP-varsi</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>asennettu bioninen EMP-varsi</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Asennettu bioninen EMP-varsi.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>Bionic EMP-varsi</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Bionic sytytysvarsi</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>asennettu bioninen sytytysvarsi</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Asennettu bioninen sytytysvarsi.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>bioninen sytytysvarsi</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Bionic savuvarsi</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>asennettu bioninen savuvarsi</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Asennettu bioninen savuvarsi.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>bioninen savuvarsi</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Bionic tulihengitysleuka</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>asennettu bioninen tulihengitysleuka</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Asennettu bioninen tulihengitysleuka.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>kehittynyt bioninen kynsi</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>kehittynyt bioninen kynsi</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Asennettu edistyksellinen bionic claw.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>kehittynyt bioninen kynsi</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>kehittynyt bioninen aseen varsi</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>kehittynyt bioninen asevarsi</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Asennettu edistyksellinen bioninen aseen varsi.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>kehittynyt bioninen aseen varsi</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Kehittynyt bioninen EMP-varsi</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>asennettu edistyksellinen bioninen EMP-varsi</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Asennettu edistyksellinen bioninen EMP-varsi.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>kehittynyt bioninen EMP-varsi</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Kehittynyt bioninen sytytysvarsi</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>asennettu edistynyt bioninen sytytysvarsi</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Asennettu edistyksellinen bioninen sytytysvarsi.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>kehittynyt bioninen sytytysvarsi</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Kehittynyt bioninen savuvarsi</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>asennettu edistynyt bioninen savuvarsi</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Asennettu edistyksellinen bioninen savuvarsi.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>kehittynyt bioninen savuvarsi</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Kehittynyt bioninen tulihengitysleuka</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>asennettu edistynyt bioninen tulihengitysleuka</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Asennettu edistyksellinen bioninen tulihengitysleuka.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bioninen kynsi</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ultra bioninen kynsi</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Asennettu ultrabionic claw.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra bioninen kynsi</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ultra bioninen aseen varsi</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ultrabionic aseen varsi</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Asennettu ultrabionic aseen varsi.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ultra bioninen aseen varsi</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultrabionic EMP-varsi</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>asennettu ultrabionic EMP-varsi</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Asennettu ultrabionic EMP-varsi.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultrabionic EMP-varsi</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultrabionic sytytysvarsi</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>asennettu ultrabionic sytytysvarsi</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Asennettu ultrabionic-sytytysvarsi.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra bioninen sytytysvarsi</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultrabionic savuvarsi</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>asennettu ultrabionic savuvarsi</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Asennettu ultrabionic savuvarsi.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra bioninen savuvarsi</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultrabionic tulihengitysleuka</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>asennettu ultrabionic palohengitysleuka</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Asennettu ultrabionic tulihengitysleuka.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

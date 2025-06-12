@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>See on hävitava jõuga enesetapuvest.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>pommi detonaator</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>biooniline küünis</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Üks keerukamaid käe asendusi. Annab selle kasutajale äärmise tugevuse.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>biooniline relva käsi</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Üks keerukamaid käe asendusi. Annab selle kasutajale äärmise tugevuse ja on varustatud sisseehitatud autopüstoliga.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>biooniline EMP käsi</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Üks keerukamaid käe asendusi. Annab selle kasutajale äärmise tugevuse ja on varustatud sisseehitatud EMP käivitajaga.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>biooniline süütekäsi</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Üks keerukamaid käe asendusi. Annab selle kasutajale äärmise tugevuse ja on varustatud sisseehitatud süüteheitjaga.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>biooniline suitsukäsi</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Üks keerukamaid käe asendusi. Annab selle kasutajale äärmise tugevuse ja on varustatud sisseehitatud suitsuheitjaga.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>biooniline tulihingamise lõualuu</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Üks keerukamaid lõualuu asendusi. Varustatud sisseehitatud leegiheitjaga.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>arenenud biooniline küünis</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Kas see on ikka käsi? See annab kasutajale äärmiselt äärmise tugevuse.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>täiustatud biooniline relva käsi</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Kas see on ikka käsi? See annab kasutajale äärmiselt äärmise jõu sisseehitatud autopüstoliga.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>täiustatud biooniline EMP käsi</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Kas see on ikka käsi? See annab kasutajale äärmiselt äärmise jõu sisseehitatud EMP käivitajaga.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>täiustatud biooniline süütekäsi</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Kas see on ikka käsi? See annab kasutajale äärmiselt äärmise tugevuse koos sisseehitatud süüteheitjaga.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>täiustatud biooniline suitsukäsi</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Kas see on ikka käsi? See annab kasutajale äärmiselt äärmise tugevuse koos sisseehitatud suitsuheitjaga.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>täiustatud biooniline tulehingamise lõualuu</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Kas see on ikka lõualuu? See annab kasutajale sisseehitatud leegiheitjaga äärmiselt äärmise tugevuse.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra biooniline küünis</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>See on F%^$^ng hull.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra biooniline relva käsi</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>See on F%^$^ng hullumeelne, samuti on varustatud sisseehitatud autopüstoliga.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra biooniline EMP käsi</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>See on F%^$^ng hullumeelne, samuti on see varustatud sisseehitatud EMP-käivitiga.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra biooniline süütevars</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>See on F%^$^ng hullumeelne, samuti on varustatud sisseehitatud süüteheitjaga.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra biooniline suitsuvars</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>See on F%^$^ng hullumeelne, samuti on see varustatud sisseehitatud suitsuheitjaga.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra biooniline tulehingamise lõualuu</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>See on F%^$^ng hullumeelne, samuti on see varustatud sisseehitatud leegiheitjaga.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

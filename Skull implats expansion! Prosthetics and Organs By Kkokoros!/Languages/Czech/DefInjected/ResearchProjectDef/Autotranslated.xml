@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>umělé implantáty lebky</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Odemyká schopnost vytvářet implantáty lebky a instalovat je.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>pokročilé implantáty lebky</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Umožňuje vytvořit pokročilé implantáty lebky.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra implantáty lebky</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Umožňuje vytvořit ultra implantáty lebky.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

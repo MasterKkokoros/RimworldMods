@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>instalați gheara bionică</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Instalează gheara bionică.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Instalarea ghearei bionice.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>instalați brațul pistolului bionic</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Instalează brațul pistolului bionic.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Instalarea brațului pistolului bionic.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>instalați brațul EMP bionic</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Instalează brațul EMP bionic.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Instalarea brațului EMP bionic.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>instalați braț incendiar bionic</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Instalează braț incendiar bionic.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Instalarea brațului incendiar bionic.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>instalați brațul de fum bionic</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Instalează brațul de fum bionic.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Instalarea brațului de fum bionic.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>instalați maxilarul bionic de respirație de foc</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Instalează maxilarul de respirație de foc bionic.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Instalarea maxilarului bionic de respirație de foc.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>instalați gheara bionică avansată</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Instalează gheara bionică avansată.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Instalarea ghearei bionice avansate.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>instalați brațul de armă bionic avansat</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Instalează un braț bionic avansat.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Instalarea brațului de armă bionic avansat.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>instalați brațul EMP bionic avansat</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Instalează braț EMP bionic avansat.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Instalarea brațului EMP bionic avansat.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>instalați braț incendiar bionic avansat</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Instalează braț incendiar bionic avansat.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Instalarea brațului incendiar bionic avansat.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>instalați un braț de fum bionic avansat</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Instalează un braț de fum bionic avansat.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Instalarea brațului de fum bionic avansat.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>instalați maxilare avansată de respirație de foc bionic</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Instalează maxilarul avansat de respirație de foc bionic.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Instalarea maxilarului avansat de respirație de foc bionic.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>instalați gheara ultra bionică</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Instalează gheara ultra bionică.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Instalarea ghearei ultra bionice.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>instalați brațul pistolului ultra bionic</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Instalează brațul pistolului ultra bionic.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Instalarea brațului pistolului ultra bionic.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>instalați brațul EMP ultra bionic</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Instalează brațul EMP ultra bionic.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Instalarea brațului EMP ultra bionic.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>instalați braț incendiar ultra bionic</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Instalează braț incendiar ultra bionic.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Instalarea brațului incendiar ultra bionic.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>instalați un braț de fum ultra bionic</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Instalează braț de fum ultra bionic.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Instalarea brațului de fum ultra bionic.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>instalați maxilarul de respirație de foc ultra bionic</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Instalează maxilarul de respirație de foc ultra bionic.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Instalarea maxilarului ultrabionic de respirație de foc.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

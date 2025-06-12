@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bioniczne dodatki bojowe</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Dodaje bioniczne dodatki bojowe, takie jak wbudowany pistolet automatyczny lub pazur.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Zaawansowane dodatki bojowe</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Dodaje zaawansowane bioniczne dodatki bojowe, takie jak wbudowany pistolet automatyczny lub pazur.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Dodatki ultra-bojowe</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Dodaje ultra bioniczne dodatki bojowe, takie jak wbudowany pistolet automatyczny lub pazur.</KokuUltraBionicsGun.description>
+</LanguageData>

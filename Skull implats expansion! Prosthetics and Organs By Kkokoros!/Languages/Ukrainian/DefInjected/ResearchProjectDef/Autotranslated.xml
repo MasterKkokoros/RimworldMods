@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>штучні імплантати черепа</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Розблоковує можливість створювати імплантати черепа та встановлювати їх.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>передові імплантати черепа</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Дозволяє створювати передові імплантати черепа.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ультрачерепні імплантати</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Дозволяє створювати ультраімплантати черепа.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

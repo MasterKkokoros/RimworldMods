@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallV1SleepLessSkullImplant.label>instalar el implante de cráneo sin dormir V1</KokuInstallV1SleepLessSkullImplant.label>
+    <KokuInstallV1SleepLessSkullImplant.description>Instala el implante de cráneo sin dormir V1.</KokuInstallV1SleepLessSkullImplant.description>
+    <KokuInstallV2SleepLessSkullImplant.label>instalar el implante de cráneo sin dormir V2</KokuInstallV2SleepLessSkullImplant.label>
+    <KokuInstallV2SleepLessSkullImplant.description>Instala el implante de cráneo V2 Sleepless.</KokuInstallV2SleepLessSkullImplant.description>
+    <KokuInstallV3SleepLessSkullImplant.label>instalar el implante de cráneo sin dormir V3</KokuInstallV3SleepLessSkullImplant.label>
+    <KokuInstallV3SleepLessSkullImplant.description>Instala el implante de cráneo sin dormir V3.</KokuInstallV3SleepLessSkullImplant.description>
+    <KokuInstallV1PsychicLessSkullImplant.label>instalar el implante de cráneo sin psíquico V1</KokuInstallV1PsychicLessSkullImplant.label>
+    <KokuInstallV1PsychicLessSkullImplant.description>Instala el implante de cráneo sin psíquico V1.</KokuInstallV1PsychicLessSkullImplant.description>
+    <KokuInstallV2PsychicLessSkullImplant.label>instalar el implante de cráneo sin psíquico V2</KokuInstallV2PsychicLessSkullImplant.label>
+    <KokuInstallV2PsychicLessSkullImplant.description>Instala el implante de cráneo sin psíquico V2.</KokuInstallV2PsychicLessSkullImplant.description>
+    <KokuInstallV3PsychicLessSkullImplant.label>instalar el implante de cráneo sin psíquico V3</KokuInstallV3PsychicLessSkullImplant.label>
+    <KokuInstallV3PsychicLessSkullImplant.description>Instala el implante de cráneo sin psíquico V3.</KokuInstallV3PsychicLessSkullImplant.description>
+    <KokuInstallV1ResearcherSkullImplant.label>instalar el implante de cráneo del investigador V1</KokuInstallV1ResearcherSkullImplant.label>
+    <KokuInstallV1ResearcherSkullImplant.description>Instala el implante de cráneo del investigador V1.</KokuInstallV1ResearcherSkullImplant.description>
+    <KokuInstallV2ResearcherSkullImplant.label>instalar el implante de cráneo V2 Researcher</KokuInstallV2ResearcherSkullImplant.label>
+    <KokuInstallV2ResearcherSkullImplant.description>Instala el implante de cráneo del investigador V2.</KokuInstallV2ResearcherSkullImplant.description>
+    <KokuInstallV3ResearcherSkullImplant.label>instalar el implante de cráneo V3 Researcher</KokuInstallV3ResearcherSkullImplant.label>
+    <KokuInstallV3ResearcherSkullImplant.description>Instala el implante de cráneo del investigador V3.</KokuInstallV3ResearcherSkullImplant.description>
+    <KokuInstallV1MinerSkullImplant.label>instalar el implante de cráneo minero V1</KokuInstallV1MinerSkullImplant.label>
+    <KokuInstallV1MinerSkullImplant.description>Instala el implante de cráneo minero V1.</KokuInstallV1MinerSkullImplant.description>
+    <KokuInstallV2MinerSkullImplant.label>instalar el implante de cráneo minero V2</KokuInstallV2MinerSkullImplant.label>
+    <KokuInstallV2MinerSkullImplant.description>Instala el implante de cráneo minero V2.</KokuInstallV2MinerSkullImplant.description>
+    <KokuInstallV3MinerSkullImplant.label>instalar el implante de cráneo minero V3</KokuInstallV3MinerSkullImplant.label>
+    <KokuInstallV3MinerSkullImplant.description>Instala el implante de cráneo minero V3.</KokuInstallV3MinerSkullImplant.description>
+    <KokuInstallV1FarmerSkullImplant.label>instalar el implante de cráneo de granjero V1</KokuInstallV1FarmerSkullImplant.label>
+    <KokuInstallV1FarmerSkullImplant.description>Instala el implante de cráneo de granjero V1.</KokuInstallV1FarmerSkullImplant.description>
+    <KokuInstallV2FarmerSkullImplant.label>instalar el implante de cráneo de granjero V2</KokuInstallV2FarmerSkullImplant.label>
+    <KokuInstallV2FarmerSkullImplant.description>Instala el implante de cráneo de granjero V2.</KokuInstallV2FarmerSkullImplant.description>
+    <KokuInstallV3FarmerSkullImplant.label>instalar el implante de cráneo de granjero V3</KokuInstallV3FarmerSkullImplant.label>
+    <KokuInstallV3FarmerSkullImplant.description>Instala el implante de cráneo de granjero V3.</KokuInstallV3FarmerSkullImplant.description>
+    <KokuInstallV1RancherSkullImplant.label>instalar el implante de cráneo ranchero V1</KokuInstallV1RancherSkullImplant.label>
+    <KokuInstallV1RancherSkullImplant.description>Instala el implante de cráneo ranchero V1.</KokuInstallV1RancherSkullImplant.description>
+    <KokuInstallV2RancherSkullImplant.label>instalar el implante de cráneo ranchero V2</KokuInstallV2RancherSkullImplant.label>
+    <KokuInstallV2RancherSkullImplant.description>Instala el implante de cráneo ranchero V2.</KokuInstallV2RancherSkullImplant.description>
+    <KokuInstallV3RancherSkullImplant.label>instalar el implante de cráneo ranchero V3</KokuInstallV3RancherSkullImplant.label>
+    <KokuInstallV3RancherSkullImplant.description>Instala el implante de cráneo ranchero V3.</KokuInstallV3RancherSkullImplant.description>
+    <KokuInstallV1ChefSkullImplant.label>instalar el implante de cráneo chef V1</KokuInstallV1ChefSkullImplant.label>
+    <KokuInstallV1ChefSkullImplant.description>Instala el implante de cráneo chef V1.</KokuInstallV1ChefSkullImplant.description>
+    <KokuInstallV2ChefSkullImplant.label>instalar el implante de cráneo chef V2</KokuInstallV2ChefSkullImplant.label>
+    <KokuInstallV2ChefSkullImplant.description>Instala el implante de cráneo V2 Chef.</KokuInstallV2ChefSkullImplant.description>
+    <KokuInstallV3ChefSkullImplant.label>instalar el implante de cráneo chef V3</KokuInstallV3ChefSkullImplant.label>
+    <KokuInstallV3ChefSkullImplant.description>Instala el implante de cráneo V3 Chef.</KokuInstallV3ChefSkullImplant.description>
+    <KokuInstallV1BuilderSkullImplant.label>instalar el implante de cráneo V1 Builder</KokuInstallV1BuilderSkullImplant.label>
+    <KokuInstallV1BuilderSkullImplant.description>Instala el implante craneal constructor V1.</KokuInstallV1BuilderSkullImplant.description>
+    <KokuInstallV2BuilderSkullImplant.label>instalar el implante de cráneo V2 Builder</KokuInstallV2BuilderSkullImplant.label>
+    <KokuInstallV2BuilderSkullImplant.description>Instala el implante craneal V2 Builder.</KokuInstallV2BuilderSkullImplant.description>
+    <KokuInstallV3BuilderSkullImplant.label>instalar el implante de cráneo V3 Builder</KokuInstallV3BuilderSkullImplant.label>
+    <KokuInstallV3BuilderSkullImplant.description>Instala el implante craneal constructor V3.</KokuInstallV3BuilderSkullImplant.description>
+    <KokuInstallV1MaidSkullImplant.label>instalar el implante de cráneo de criada V1</KokuInstallV1MaidSkullImplant.label>
+    <KokuInstallV1MaidSkullImplant.description>Instala el implante de cráneo de criada V1.</KokuInstallV1MaidSkullImplant.description>
+    <KokuInstallV2MaidSkullImplant.label>instalar el implante de cráneo de criada V2</KokuInstallV2MaidSkullImplant.label>
+    <KokuInstallV2MaidSkullImplant.description>Instala el implante de cráneo de criada V2.</KokuInstallV2MaidSkullImplant.description>
+    <KokuInstallV3MaidSkullImplant.label>instalar el implante de cráneo de criada V3</KokuInstallV3MaidSkullImplant.label>
+    <KokuInstallV3MaidSkullImplant.description>Instala el implante de cráneo de criada V3.</KokuInstallV3MaidSkullImplant.description>
+    <KokuInstallV1SocialSkullImplant.label>instalar el implante de cráneo social V1</KokuInstallV1SocialSkullImplant.label>
+    <KokuInstallV1SocialSkullImplant.description>Instala el implante de cráneo social V1.</KokuInstallV1SocialSkullImplant.description>
+    <KokuInstallV2SocialSkullImplant.label>instalar el implante de cráneo social V2</KokuInstallV2SocialSkullImplant.label>
+    <KokuInstallV2SocialSkullImplant.description>Instala el implante de cráneo social V2.</KokuInstallV2SocialSkullImplant.description>
+    <KokuInstallV3SocialSkullImplant.label>instalar el implante social de cráneo V3</KokuInstallV3SocialSkullImplant.label>
+    <KokuInstallV3SocialSkullImplant.description>Instala el implante de cráneo social V3.</KokuInstallV3SocialSkullImplant.description>
+    <KokuInstallV1MedicSkullImplant.label>instalar el implante de cráneo médico V1</KokuInstallV1MedicSkullImplant.label>
+    <KokuInstallV1MedicSkullImplant.description>Instala el implante craneal médico V1.</KokuInstallV1MedicSkullImplant.description>
+    <KokuInstallV2MedicSkullImplant.label>instalar el implante de cráneo médico V2</KokuInstallV2MedicSkullImplant.label>
+    <KokuInstallV2MedicSkullImplant.description>Instala el implante craneal médico V2.</KokuInstallV2MedicSkullImplant.description>
+    <KokuInstallV3MedicSkullImplant.label>instalar el implante de cráneo médico V3</KokuInstallV3MedicSkullImplant.label>
+    <KokuInstallV3MedicSkullImplant.description>Instala el implante craneal médico V3.</KokuInstallV3MedicSkullImplant.description>
+    <KokuInstallV1FastLearnerSkullImplant.label>instalar el implante de cráneo V1 de aprendizaje rápido</KokuInstallV1FastLearnerSkullImplant.label>
+    <KokuInstallV1FastLearnerSkullImplant.description>Instala el implante craneal de aprendizaje rápido V1.</KokuInstallV1FastLearnerSkullImplant.description>
+    <KokuInstallV2FastLearnerSkullImplant.label>instalar el implante de cráneo V2 Fast Learner</KokuInstallV2FastLearnerSkullImplant.label>
+    <KokuInstallV2FastLearnerSkullImplant.description>Instala el implante craneal V2 de aprendizaje rápido.</KokuInstallV2FastLearnerSkullImplant.description>
+    <KokuInstallV3FastLearnerSkullImplant.label>instalar el implante de cráneo V3 Fast Learner</KokuInstallV3FastLearnerSkullImplant.label>
+    <KokuInstallV3FastLearnerSkullImplant.description>Instala el implante craneal de aprendizaje rápido V3.</KokuInstallV3FastLearnerSkullImplant.description>
+    <KokuInstallV1MeleeSoldierSkullImplant.label>instalar el implante de cráneo de soldado cuerpo a cuerpo V1</KokuInstallV1MeleeSoldierSkullImplant.label>
+    <KokuInstallV1MeleeSoldierSkullImplant.description>Instala el implante de cráneo de soldado cuerpo a cuerpo V1.</KokuInstallV1MeleeSoldierSkullImplant.description>
+    <KokuInstallV2MeleeSoldierSkullImplant.label>instalar el implante de cráneo de soldado cuerpo a cuerpo V2</KokuInstallV2MeleeSoldierSkullImplant.label>
+    <KokuInstallV2MeleeSoldierSkullImplant.description>Instala el implante de cráneo de soldado cuerpo a cuerpo V2.</KokuInstallV2MeleeSoldierSkullImplant.description>
+    <KokuInstallV3MeleeSoldierSkullImplant.label>instalar el implante de cráneo de soldado cuerpo a cuerpo V3</KokuInstallV3MeleeSoldierSkullImplant.label>
+    <KokuInstallV3MeleeSoldierSkullImplant.description>Instala el implante de cráneo de soldado cuerpo a cuerpo V3.</KokuInstallV3MeleeSoldierSkullImplant.description>
+    <KokuInstallV1RangeSoldierSkullImplant.label>instalar implante de cráneo de soldado gama V1</KokuInstallV1RangeSoldierSkullImplant.label>
+    <KokuInstallV1RangeSoldierSkullImplant.description>Instala el implante de cráneo de soldado de rango V1.</KokuInstallV1RangeSoldierSkullImplant.description>
+    <KokuInstallV2RangeSoldierSkullImplant.label>instalar implante de cráneo de soldado gama V2</KokuInstallV2RangeSoldierSkullImplant.label>
+    <KokuInstallV2RangeSoldierSkullImplant.description>Instala el implante de cráneo de soldado de rango V2.</KokuInstallV2RangeSoldierSkullImplant.description>
+    <KokuInstallV3RangeSoldierSkullImplant.label>instalar implante de cráneo de soldado gama V3</KokuInstallV3RangeSoldierSkullImplant.label>
+    <KokuInstallV3RangeSoldierSkullImplant.description>Instala el implante de cráneo de soldado de rango V3.</KokuInstallV3RangeSoldierSkullImplant.description>
+</LanguageData>

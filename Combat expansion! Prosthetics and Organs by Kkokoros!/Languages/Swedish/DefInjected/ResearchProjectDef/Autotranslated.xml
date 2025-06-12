@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionic stridstillägg</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Lägger till bioniska stridstillägg som inbyggd autopistol eller klo.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Avancerade stridstillägg</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Lägger till avancerade bioniska stridstillägg som inbyggd autopistol eller klo.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra stridstillägg</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Lägger till ultrabioniska stridstillägg som inbyggd autopistol eller klo.</KokuUltraBionicsGun.description>
+</LanguageData>

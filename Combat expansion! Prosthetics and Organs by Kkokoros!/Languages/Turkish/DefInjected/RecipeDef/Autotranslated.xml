@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>biyonik pençeyi yükle</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Biyonik pençeyi yükler.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Biyonik pençenin takılması.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>biyonik silah kolunu takın</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Biyonik tabanca kolunu takar.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Biyonik silah kolunun takılması.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>biyonik EMP kolunu takın</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Biyonik EMP kolunu kurar.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Biyonik EMP kolunun takılması.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>biyonik yangın söndürücü kolu takın</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Biyonik yangın çıkarıcı kolu takar.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Biyonik yangın çıkarıcı kolun takılması.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>biyonik duman kolunu takın</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Biyonik duman kolunu kurar.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Biyonik duman kolunun takılması.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>biyonik ateş nefesi çenesini takın</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Biyonik yangın nefesi çenesini takar.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Biyonik yangın nefesi çenesinin takılması.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>gelişmiş biyonik pençeyi yükleyin</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Gelişmiş biyonik pençeyi kurar.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Gelişmiş biyonik pençenin takılması.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>gelişmiş biyonik silah kolunu takın</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Gelişmiş biyonik tabanca kolunu kurar.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Gelişmiş biyonik silah kolunun takılması.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>gelişmiş biyonik EMP kolunu kurun</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Gelişmiş biyonik EMP kolunu kurar.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Gelişmiş biyonik EMP kolunun takılması.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>gelişmiş biyonik yangın çıkarıcı kolu takın</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Gelişmiş biyonik yangın çıkarıcı kolu kurar.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Gelişmiş biyonik yangın çıkarıcı kolun takılması.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>gelişmiş biyonik duman kolunu takın</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Gelişmiş biyonik duman kolunu kurar.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Gelişmiş biyonik duman kolunun takılması.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>gelişmiş biyonik yangın nefesi çenesini takın</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Gelişmiş biyonik yangın nefesi çenesini kurar.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Gelişmiş biyonik yangın nefesi çenesinin takılması.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>ultra biyonik pençeyi takın</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Ultra biyonik pençeyi kurar.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Ultra biyonik pençenin takılması.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>ultra biyonik silah kolunu takın</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Ultra biyonik tabanca kolunu takar.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Ultra biyonik tabanca kolunun takılması.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>ultra biyonik EMP kolunu takın</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Ultra biyonik EMP kolunu kurar.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Ultra biyonik EMP kolunun takılması.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>ultra biyonik yangın çıkarıcı kolu takın</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Ultra biyonik yangın çıkarıcı kolu kurar.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Ultra biyonik yangın çıkarıcı kolun takılması.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>ultra biyonik duman kolunu takın</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Ultra biyonik duman kolunu kurar.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Ultra biyonik duman kolunun takılması.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>ultra biyonik yangın nefesi çenesini takın</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Ultra biyonik yangın nefesi çenesini takar.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Ultra biyonik yangın nefesi çenesinin takılması.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

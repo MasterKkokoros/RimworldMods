@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>バイオニッククロー</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>バイオニックの爪</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>設置されたバイオニッククロー。</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>バイオニッククロー</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>バイオニックガンアーム</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>バイオニックガンアーム</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>設置されたバイオニックガンアーム。</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>バイオニックガンアーム</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>バイオニックEMPアーム</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>設置されたバイオニックEMPアーム</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>設置されたバイオニックEMPアーム。</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>バイオニックEMPアーム</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>バイオニック焼夷アーム</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>設置されたバイオニック焼夷アーム</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>設置されたバイオニック焼夷アーム。</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>バイオニック焼夷アーム</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>バイオニックスモークアーム</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>設置されたバイオニックスモークアーム</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>取り付けられたバイオニックスモークアーム。</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>バイオニックスモークアーム</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>バイオニックファイアブレスジョー</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>取り付けられたバイオニックファイアブレスジョー</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>設置されたバイオニックファイアブレスジョー。</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>先進的なバイオニッククロー</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>先進的なバイオニッククロー</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>先進的なバイオニッククローを搭載。</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>先進的なバイオニッククロー</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>先進的なバイオニックガンアーム</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>先進的なバイオニックガンアーム</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>先進的なバイオニックガンアームを搭載。</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>先進的なバイオニックガンアーム</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>先進的なバイオニックEMPアーム</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>先進的なバイオニックEMPアームを設置</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>先進的なバイオニックEMPアームを搭載。</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>先進的なバイオニックEMPアーム</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>先進的なバイオニック焼夷兵器</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>設置された先進的なバイオニック焼夷アーム</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>設置された先進的なバイオニック焼夷アーム。</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>先進的なバイオニック焼夷兵器</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>先進的なバイオニックスモークアーム</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>設置された先進的なバイオニックスモークアーム</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>先進的なバイオニックスモークアームを搭載。</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>先進的なバイオニックスモークアーム</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>高度なバイオニックファイアブレスジョー</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>取り付けられた高度なバイオニックファイアブレスジョー</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>高度なバイオニックファイアブレスジョーを搭載。</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ウルトラバイオニッククロー</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ウルトラバイオニッククロー</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>ウルトラバイオニッククローを搭載。</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ウルトラバイオニッククロー</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ウルトラバイオニックガンアーム</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ウルトラバイオニックガンアーム</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>取り付けられたウルトラバイオニックガンアーム。</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ウルトラバイオニックガンアーム</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>超生体EMPアーム</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>設置されたウルトラバイオニックEMPアーム</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>設置されたウルトラバイオニックEMPアーム。</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ウルトラバイオニックEMPアーム</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>超バイオニック焼夷アーム</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>設置された超バイオニック焼夷アーム</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>設置された超バイオニック焼夷アーム。</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ウルトラバイオニック焼夷アーム</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>ウルトラバイオニックスモークアーム</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>設置されたウルトラバイオニックスモークアーム</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>取り付けられたウルトラバイオニックスモークアーム。</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ウルトラバイオニックスモークアーム</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>ウルトラバイオニックファイアブレスジョー</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>取り付けられたウルトラバイオニックファイアブレスジョー</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>取り付けられたウルトラバイオニックファイアブレスジョー。</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Βιονικά πρόσθετα μάχης</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Προσθέτει πρόσθετα βιονικής μάχης όπως ενσωματωμένο αυτόματο πιστόλι ή νύχι.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Προηγμένα πρόσθετα μάχης</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Προσθέτει προηγμένα πρόσθετα βιονικής μάχης όπως ενσωματωμένο αυτόματο πιστόλι ή νύχι.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra combat addons</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Προσθέτει εξαιρετικά βιονικά πρόσθετα μάχης όπως ενσωματωμένο αυτόματο πιστόλι ή νύχι.</KokuUltraBionicsGun.description>
+</LanguageData>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>telepítse a bionikus karmot</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Telepíti a bionikus karmot.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Bionikus karom felszerelése.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>telepítse a bionikus pisztolykart</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Telepíti a bionikus pisztolykart.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Bionikus pisztolykar felszerelése.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>telepítse a bionikus EMP kart</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Telepíti a bionikus EMP kart.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>A bionikus EMP kar felszerelése.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>telepítse a bionikus gyújtókart</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Telepíti a bionikus gyújtókart.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Bionikus gyújtókar beszerelése.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>telepítse a bionikus füstkart</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Telepíti a bionikus füstkart.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Bionikus füstkar felszerelése.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>telepítse a bionikus tűzlégzéspofát</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Telepíti a bionikus tűzlégzéspofát.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Bionikus tűzlégzés beszerelése.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>telepítse a fejlett bionikus karomat</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Fejlett bionikus karmot telepít.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Fejlett bionikus karom telepítése.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>telepítse a fejlett bionikus fegyvert</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Felszereli a fejlett bionikus pisztolykart.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Fejlett bionikus fegyverkar felszerelése.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>telepítse a fejlett bionikus EMP kart</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Fejlett bionikus EMP kart telepít.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Fejlett bionikus EMP kar telepítése.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>telepítse a fejlett bionikus gyújtókart</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Fejlett bionikus gyújtókart telepít.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Fejlett bionikus gyújtókar felszerelése.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>telepítse a fejlett bionikus füstkart</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Felszereli a fejlett bionikus füstkart.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Fejlett bionikus füstkar felszerelése.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>telepítse a fejlett bionikus tűzlégzéspofát</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Felszereli a fejlett bionikus tűzlégzéspofát.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Fejlett bionikus tűzlégzés beszerelése.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>telepítse az ultra bionikus karmot</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Ultra bionikus karmot telepít.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Ultra bionikus karom felszerelése.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>telepítse az ultra bionikus pisztolykart</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Ultra bionikus pisztolykart telepít.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Ultra bionikus pisztolykar felszerelése.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>telepítse az ultra bionikus EMP kart</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Ultra bionikus EMP kart telepít.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Ultra bionikus EMP kar felszerelése.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>telepítse az ultra bionikus gyújtókart</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Ultra bionikus gyújtókart telepít.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Ultra bionikus gyújtókar felszerelése.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>telepítse az ultra bionikus füstkart</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Ultra bionikus füstkar felszerelése.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Ultra bionikus füstkar felszerelése.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>telepítse az ultra bionikus tűzlégzéspofát</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Ultra bionikus tűzoltópofát telepít.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Ultra bionikus tűzlégzés beszerelése.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

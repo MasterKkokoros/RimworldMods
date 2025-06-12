@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bioonilised võitluse lisad</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Lisab bioonilised võitluse lisad, nagu sisseehitatud autopüstol või küünis.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Täiustatud lahingulisand</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Lisab täiustatud bioonilise võitluse lisad, nagu sisseehitatud autopüstol või küünis.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra lahingulisand</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Lisab ülibioonilised võitluslisanded, nagu sisseehitatud autopüstol või küünis.</KokuUltraBionicsGun.description>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>Impianto di cranio insonne V1</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Un impianto cranico insonne V1 installato.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>Impianto di cranio insonne V2</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Un impianto cranico insonne V2 installato.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>Impianto di cranio insonne V3</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Un impianto cranico insonne V3 installato.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>Impianto di cranio psichico V1</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Un impianto cranico psichico V1 installato.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>Impianto di cranio psichico V2</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Un impianto cranico psichico V2 installato.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>Impianto di cranio psichico V3</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Un impianto cranico psichico V3 installato.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>Impianto del cranio del ricercatore V1</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Un impianto cranico da ricercatore V1 installato.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Impianto del cranio del ricercatore V2</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Un impianto da ricercatore V2 installato.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Impianto del cranio del ricercatore V3</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Un impianto cranico da ricercatore V3 installato.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Impianto del cranio del minatore V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Un impianto del cranio di un minatore V1 installato.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Impianto del cranio del minatore V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Un impianto minatore V2 installato.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Impianto del cranio del minatore V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Un impianto del cranio di un minatore V3 installato.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>Impianto di cranio di contadino V1</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Un impianto cranico di contadino V1 installato.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>Impianto di cranio di contadino V2</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Un impianto agricolo V2 installato.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>Impianto di cranio di contadino V3</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Un impianto cranico di contadino V3 installato.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Impianto del cranio del rancher V1</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Un impianto del cranio di un allevatore V1 installato.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Impianto del cranio del rancher V2</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Un impianto rancher V2 installato.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Impianto del cranio del rancher V3</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Un impianto del cranio di un allevatore V3 installato.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Impianto del cranio dello chef V1</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Un impianto del cranio dello chef V1 installato.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Impianto del cranio dello chef V2</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Un impianto chef V2 installato.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Impianto del cranio dello chef V3</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Un impianto del cranio dello chef V3 installato.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Impianto cranio costruttore V1</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Un impianto cranico del costruttore V1 installato.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Impianto cranico del costruttore V2</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Un impianto costruttore V2 installato.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>Impianto cranico del costruttore V3</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Un impianto cranico del costruttore V3 installato.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>Impianto del cranio della cameriera V1</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Un impianto del cranio della cameriera V1 installato.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>Impianto del cranio della cameriera V2</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Un impianto domestico V2 installato.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>Impianto del cranio della cameriera V3</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Un impianto del cranio della cameriera V3 installato.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>Impianto di cranio sociale V1</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Un impianto di cranio sociale V1 installato.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Impianto di cranio sociale V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Un impianto sociale V2 installato.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Impianto di cranio sociale V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Un impianto di cranio sociale V3 installato.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>Impianto cranico medico V1</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Un impianto cranico medico V1 installato.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>Impianto cranico medico V2</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Un impianto agricolo V2 installato.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>Impianto cranico medico V3</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Un impianto cranico medico V3 installato.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>Impianto cranico V1 per apprendimento rapido</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Un impianto cranico V1 ad apprendimento rapido installato.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>Impianto cranico ad apprendimento rapido V2</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Un impianto cranico V2 ad apprendimento rapido installato.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>Impianto cranico V3 per apprendimento rapido</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Un impianto cranico V3 ad apprendimento rapido installato.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Impianto cranico del soldato corpo a corpo V1</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Un impianto cranico di soldato corpo a corpo V1 installato.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Impianto cranico del soldato corpo a corpo V2</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Un impianto cranico per soldato corpo a corpo V2 installato.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Impianto cranico del soldato corpo a corpo V3</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Un impianto cranico per soldato corpo a corpo V3 installato.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Impianto cranico del soldato della gamma V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Un impianto cranico di soldato della gamma V1 installato.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Impianto cranico del soldato della gamma V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Un impianto cranico di soldato della gamma V2 installato.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Impianto cranico del soldato della gamma V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Un impianto cranico di soldato della gamma V3 installato.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

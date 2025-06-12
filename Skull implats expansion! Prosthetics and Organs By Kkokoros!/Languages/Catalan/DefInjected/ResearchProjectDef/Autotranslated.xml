@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>implants artificials de crani</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Desbloqueja la capacitat de crear implants de crani i instal·lar-los.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>implants cranials avançats</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Li permet crear implants de crani avançats.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>implants ultra cranials</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Li permet crear implants de crani ultra.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallV1SleepLessSkullImplant.label>V1スリープレス頭蓋骨インプラントを取り付けます</KokuInstallV1SleepLessSkullImplant.label>
+    <KokuInstallV1SleepLessSkullImplant.description>V1 スリープレス頭蓋骨インプラントを取り付けます。</KokuInstallV1SleepLessSkullImplant.description>
+    <KokuInstallV2SleepLessSkullImplant.label>V2スリープレス頭蓋骨インプラントを取り付けます</KokuInstallV2SleepLessSkullImplant.label>
+    <KokuInstallV2SleepLessSkullImplant.description>V2 スリープレス頭蓋骨インプラントを取り付けます。</KokuInstallV2SleepLessSkullImplant.description>
+    <KokuInstallV3SleepLessSkullImplant.label>V3スリープレス頭蓋骨インプラントを設置します</KokuInstallV3SleepLessSkullImplant.label>
+    <KokuInstallV3SleepLessSkullImplant.description>V3スリープレス頭蓋骨インプラントを取り付けます。</KokuInstallV3SleepLessSkullImplant.description>
+    <KokuInstallV1PsychicLessSkullImplant.label>V1 サイキックレス頭蓋骨インプラントを取り付けます</KokuInstallV1PsychicLessSkullImplant.label>
+    <KokuInstallV1PsychicLessSkullImplant.description>V1 サイキックレス頭蓋骨インプラントを取り付けます。</KokuInstallV1PsychicLessSkullImplant.description>
+    <KokuInstallV2PsychicLessSkullImplant.label>V2 サイキックレス頭蓋骨インプラントを取り付けます</KokuInstallV2PsychicLessSkullImplant.label>
+    <KokuInstallV2PsychicLessSkullImplant.description>V2 サイキックレス頭蓋骨インプラントを取り付けます。</KokuInstallV2PsychicLessSkullImplant.description>
+    <KokuInstallV3PsychicLessSkullImplant.label>V3 サイキックレス頭蓋骨インプラントを取り付けます</KokuInstallV3PsychicLessSkullImplant.label>
+    <KokuInstallV3PsychicLessSkullImplant.description>V3 サイキックレス頭蓋骨インプラントを取り付けます。</KokuInstallV3PsychicLessSkullImplant.description>
+    <KokuInstallV1ResearcherSkullImplant.label>V1 研究者の頭蓋骨インプラントを取り付ける</KokuInstallV1ResearcherSkullImplant.label>
+    <KokuInstallV1ResearcherSkullImplant.description>V1 研究者の頭蓋骨インプラントを取り付けます。</KokuInstallV1ResearcherSkullImplant.description>
+    <KokuInstallV2ResearcherSkullImplant.label>V2 研究者の頭蓋骨インプラントを取り付けます</KokuInstallV2ResearcherSkullImplant.label>
+    <KokuInstallV2ResearcherSkullImplant.description>V2 研究者の頭蓋骨インプラントを取り付けます。</KokuInstallV2ResearcherSkullImplant.description>
+    <KokuInstallV3ResearcherSkullImplant.label>V3 研究者の頭蓋骨インプラントを取り付ける</KokuInstallV3ResearcherSkullImplant.label>
+    <KokuInstallV3ResearcherSkullImplant.description>V3 研究者の頭蓋骨インプラントを取り付けます。</KokuInstallV3ResearcherSkullImplant.description>
+    <KokuInstallV1MinerSkullImplant.label>V1 マイナー頭蓋骨インプラントを取り付けます</KokuInstallV1MinerSkullImplant.label>
+    <KokuInstallV1MinerSkullImplant.description>V1 鉱夫の頭蓋骨インプラントを取り付けます。</KokuInstallV1MinerSkullImplant.description>
+    <KokuInstallV2MinerSkullImplant.label>V2 マイナー頭蓋骨インプラントを取り付けます</KokuInstallV2MinerSkullImplant.label>
+    <KokuInstallV2MinerSkullImplant.description>V2 マイナーの頭蓋骨インプラントを取り付けます。</KokuInstallV2MinerSkullImplant.description>
+    <KokuInstallV3MinerSkullImplant.label>V3 マイナー頭蓋骨インプラントを取り付けます</KokuInstallV3MinerSkullImplant.label>
+    <KokuInstallV3MinerSkullImplant.description>V3 マイナーの頭蓋骨インプラントを取り付けます。</KokuInstallV3MinerSkullImplant.description>
+    <KokuInstallV1FarmerSkullImplant.label>V1 ファーマー頭蓋骨インプラントを取り付けます</KokuInstallV1FarmerSkullImplant.label>
+    <KokuInstallV1FarmerSkullImplant.description>V1 ファーマー スカル インプラントを取り付けます。</KokuInstallV1FarmerSkullImplant.description>
+    <KokuInstallV2FarmerSkullImplant.label>V2 ファーマー頭蓋骨インプラントを取り付けます</KokuInstallV2FarmerSkullImplant.label>
+    <KokuInstallV2FarmerSkullImplant.description>V2 ファーマー スカル インプラントを取り付けます。</KokuInstallV2FarmerSkullImplant.description>
+    <KokuInstallV3FarmerSkullImplant.label>V3ファーマー頭蓋骨インプラントを取り付けます</KokuInstallV3FarmerSkullImplant.label>
+    <KokuInstallV3FarmerSkullImplant.description>V3 ファーマー スカル インプラントを取り付けます。</KokuInstallV3FarmerSkullImplant.description>
+    <KokuInstallV1RancherSkullImplant.label>V1 ランチャー頭蓋骨インプラントを取り付けます</KokuInstallV1RancherSkullImplant.label>
+    <KokuInstallV1RancherSkullImplant.description>V1 ランチャー スカル インプラントを取り付けます。</KokuInstallV1RancherSkullImplant.description>
+    <KokuInstallV2RancherSkullImplant.label>V2 ランチャー頭蓋骨インプラントを取り付けます</KokuInstallV2RancherSkullImplant.label>
+    <KokuInstallV2RancherSkullImplant.description>V2 ランチャー スカル インプラントを取り付けます。</KokuInstallV2RancherSkullImplant.description>
+    <KokuInstallV3RancherSkullImplant.label>V3ランチャー頭蓋骨インプラントを取り付けます</KokuInstallV3RancherSkullImplant.label>
+    <KokuInstallV3RancherSkullImplant.description>V3 ランチャー スカル インプラントを取り付けます。</KokuInstallV3RancherSkullImplant.description>
+    <KokuInstallV1ChefSkullImplant.label>V1 シェフ頭蓋骨インプラントを取り付けます</KokuInstallV1ChefSkullImplant.label>
+    <KokuInstallV1ChefSkullImplant.description>V1シェフスカルインプラントを取り付けます。</KokuInstallV1ChefSkullImplant.description>
+    <KokuInstallV2ChefSkullImplant.label>V2 シェフの頭蓋骨インプラントを取り付けます</KokuInstallV2ChefSkullImplant.label>
+    <KokuInstallV2ChefSkullImplant.description>V2シェフスカルインプラントを取り付けます。</KokuInstallV2ChefSkullImplant.description>
+    <KokuInstallV3ChefSkullImplant.label>V3 シェフ頭蓋骨インプラントを取り付けます</KokuInstallV3ChefSkullImplant.label>
+    <KokuInstallV3ChefSkullImplant.description>V3シェフスカルインプラントを取り付けます。</KokuInstallV3ChefSkullImplant.description>
+    <KokuInstallV1BuilderSkullImplant.label>V1ビルダー頭蓋骨インプラントを取り付けます</KokuInstallV1BuilderSkullImplant.label>
+    <KokuInstallV1BuilderSkullImplant.description>V1 ビルダー頭蓋骨インプラントを取り付けます。</KokuInstallV1BuilderSkullImplant.description>
+    <KokuInstallV2BuilderSkullImplant.label>V2ビルダー頭蓋骨インプラントを取り付けます</KokuInstallV2BuilderSkullImplant.label>
+    <KokuInstallV2BuilderSkullImplant.description>V2 ビルダー頭蓋骨インプラントを取り付けます。</KokuInstallV2BuilderSkullImplant.description>
+    <KokuInstallV3BuilderSkullImplant.label>V3 ビルダー頭蓋骨インプラントを取り付けます</KokuInstallV3BuilderSkullImplant.label>
+    <KokuInstallV3BuilderSkullImplant.description>V3ビルダー頭蓋骨インプラントを取り付けます。</KokuInstallV3BuilderSkullImplant.description>
+    <KokuInstallV1MaidSkullImplant.label>V1メイド頭蓋骨インプラントを取り付けます</KokuInstallV1MaidSkullImplant.label>
+    <KokuInstallV1MaidSkullImplant.description>V1メイド頭蓋骨インプラントを取り付けます。</KokuInstallV1MaidSkullImplant.description>
+    <KokuInstallV2MaidSkullImplant.label>V2メイド頭蓋骨インプラントを取り付けます</KokuInstallV2MaidSkullImplant.label>
+    <KokuInstallV2MaidSkullImplant.description>V2メイド頭蓋骨インプラントを取り付けます。</KokuInstallV2MaidSkullImplant.description>
+    <KokuInstallV3MaidSkullImplant.label>V3メイド頭蓋骨インプラントを取り付けます</KokuInstallV3MaidSkullImplant.label>
+    <KokuInstallV3MaidSkullImplant.description>V3メイドスカルインプラントを取り付けます。</KokuInstallV3MaidSkullImplant.description>
+    <KokuInstallV1SocialSkullImplant.label>V1 ソーシャルスカルインプラントを取り付けます</KokuInstallV1SocialSkullImplant.label>
+    <KokuInstallV1SocialSkullImplant.description>V1 ソーシャル スカル インプラントを取り付けます。</KokuInstallV1SocialSkullImplant.description>
+    <KokuInstallV2SocialSkullImplant.label>V2 ソーシャルスカルインプラントを取り付けます</KokuInstallV2SocialSkullImplant.label>
+    <KokuInstallV2SocialSkullImplant.description>V2 ソーシャル スカル インプラントを取り付けます。</KokuInstallV2SocialSkullImplant.description>
+    <KokuInstallV3SocialSkullImplant.label>V3ソーシャルスカルインプラントを取り付けます</KokuInstallV3SocialSkullImplant.label>
+    <KokuInstallV3SocialSkullImplant.description>V3 ソーシャル スカル インプラントを取り付けます。</KokuInstallV3SocialSkullImplant.description>
+    <KokuInstallV1MedicSkullImplant.label>V1メディックスカルインプラントを取り付けます</KokuInstallV1MedicSkullImplant.label>
+    <KokuInstallV1MedicSkullImplant.description>V1 メディックスカルインプラントを取り付けます。</KokuInstallV1MedicSkullImplant.description>
+    <KokuInstallV2MedicSkullImplant.label>V2 メディックスカルインプラントを取り付けます</KokuInstallV2MedicSkullImplant.label>
+    <KokuInstallV2MedicSkullImplant.description>V2 メディックスカルインプラントを取り付けます。</KokuInstallV2MedicSkullImplant.description>
+    <KokuInstallV3MedicSkullImplant.label>V3 メディックスカルインプラントを取り付けます</KokuInstallV3MedicSkullImplant.label>
+    <KokuInstallV3MedicSkullImplant.description>V3 メディックスカルインプラントを取り付けます。</KokuInstallV3MedicSkullImplant.description>
+    <KokuInstallV1FastLearnerSkullImplant.label>V1 高速学習頭蓋骨インプラントを取り付けます</KokuInstallV1FastLearnerSkullImplant.label>
+    <KokuInstallV1FastLearnerSkullImplant.description>V1 高速学習頭蓋骨インプラントを取り付けます。</KokuInstallV1FastLearnerSkullImplant.description>
+    <KokuInstallV2FastLearnerSkullImplant.label>V2 高速学習頭蓋骨インプラントを取り付けます</KokuInstallV2FastLearnerSkullImplant.label>
+    <KokuInstallV2FastLearnerSkullImplant.description>V2 高速学習頭蓋骨インプラントを取り付けます。</KokuInstallV2FastLearnerSkullImplant.description>
+    <KokuInstallV3FastLearnerSkullImplant.label>V3 高速学習頭蓋骨インプラントを取り付けます</KokuInstallV3FastLearnerSkullImplant.label>
+    <KokuInstallV3FastLearnerSkullImplant.description>V3 高速学習頭蓋骨インプラントを取り付けます。</KokuInstallV3FastLearnerSkullImplant.description>
+    <KokuInstallV1MeleeSoldierSkullImplant.label>V1 近接兵士の頭蓋骨インプラントを取り付けます</KokuInstallV1MeleeSoldierSkullImplant.label>
+    <KokuInstallV1MeleeSoldierSkullImplant.description>V1 近接兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV1MeleeSoldierSkullImplant.description>
+    <KokuInstallV2MeleeSoldierSkullImplant.label>V2 近接兵士の頭蓋骨インプラントを取り付けます</KokuInstallV2MeleeSoldierSkullImplant.label>
+    <KokuInstallV2MeleeSoldierSkullImplant.description>V2 近接兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV2MeleeSoldierSkullImplant.description>
+    <KokuInstallV3MeleeSoldierSkullImplant.label>V3 近接兵士の頭蓋骨インプラントを取り付けます</KokuInstallV3MeleeSoldierSkullImplant.label>
+    <KokuInstallV3MeleeSoldierSkullImplant.description>V3 近接兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV3MeleeSoldierSkullImplant.description>
+    <KokuInstallV1RangeSoldierSkullImplant.label>V1 範囲の兵士の頭蓋骨インプラントを取り付けます</KokuInstallV1RangeSoldierSkullImplant.label>
+    <KokuInstallV1RangeSoldierSkullImplant.description>V1 範囲の兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV1RangeSoldierSkullImplant.description>
+    <KokuInstallV2RangeSoldierSkullImplant.label>V2 範囲の兵士の頭蓋骨インプラントを取り付けます</KokuInstallV2RangeSoldierSkullImplant.label>
+    <KokuInstallV2RangeSoldierSkullImplant.description>V2 範囲兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV2RangeSoldierSkullImplant.description>
+    <KokuInstallV3RangeSoldierSkullImplant.label>V3 範囲の兵士の頭蓋骨インプラントを取り付けます</KokuInstallV3RangeSoldierSkullImplant.label>
+    <KokuInstallV3RangeSoldierSkullImplant.description>V3 範囲の兵士の頭蓋骨インプラントを取り付けます。</KokuInstallV3RangeSoldierSkullImplant.description>
+</LanguageData>

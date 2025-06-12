@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>yapay kafatası implantları</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Kafatası implantları oluşturma ve yerleştirme yeteneğinin kilidini açar.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>gelişmiş kafatası implantları</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Gelişmiş kafatası implantları oluşturmanıza olanak sağlar.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra kafatası implantları</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Ultra kafatası implantları oluşturmanıza olanak sağlar.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

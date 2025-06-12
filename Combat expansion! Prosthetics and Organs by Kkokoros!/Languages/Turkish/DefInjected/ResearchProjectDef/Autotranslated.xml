@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Biyonik savaş eklentileri</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Yerleşik otopistol veya pençe gibi biyonik savaş eklentileri ekler.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Gelişmiş savaş eklentileri</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Yerleşik otopistol veya pençe gibi gelişmiş biyonik savaş eklentileri ekler.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra savaş eklentileri</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Yerleşik otopistol veya pençe gibi ultra biyonik savaş eklentileri ekler.</KokuUltraBionicsGun.description>
+</LanguageData>

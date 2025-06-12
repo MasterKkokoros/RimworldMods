@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionické bojové doplnky</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Pridáva bionické bojové doplnky, ako je vstavaná autopištoľ alebo pazúr.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Pokročilé bojové doplnky</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Pridáva pokročilé bionické bojové doplnky, ako je vstavaná autopištoľ alebo pazúr.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra bojové doplnky</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Pridáva ultra bionické bojové doplnky, ako je vstavaná autopištoľ alebo pazúr.</KokuUltraBionicsGun.description>
+</LanguageData>

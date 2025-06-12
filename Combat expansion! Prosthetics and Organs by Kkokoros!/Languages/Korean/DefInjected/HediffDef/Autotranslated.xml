@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>생체공학 발톱</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>생체공학 발톱</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>설치된 생체공학 발톱.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>생체공학 발톱</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>바이오닉 총 팔</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>생체 공학 총 팔</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>설치된 생체 공학 총 팔.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>생체 공학 총 팔</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>바이오닉 EMP 팔</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>설치된 생체공학 EMP 팔</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>설치된 생체공학 EMP 팔.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>생체공학 EMP 팔</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>생체 공학 방화 팔</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>설치된 생체 공학 소이 팔</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>설치된 생체 공학 소이 팔.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>생체 공학 방화 팔</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>바이오닉 스모크 암</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>설치된 생체공학 연기 팔</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>설치된 생체공학 연기 팔.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>생체 공학 연기 팔</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>바이오닉 파이어 브레스 턱</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>설치된 생체 공학 화재 호흡 턱</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>설치된 생체 공학 화재 호흡 턱.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>고급 생체공학 발톱</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>진보된 생체공학 발톱</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>설치된 첨단 생체공학 발톱.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>고급 생체공학 발톱</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>고급 생체 공학 총 팔</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>고급 생체 공학 총 팔</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>설치된 첨단 생체 공학 총 팔.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>고급 생체 공학 총 팔</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>고급 생체공학 EMP 팔</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>설치된 고급 생체공학 EMP 팔</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>설치된 고급 생체공학 EMP 팔.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>고급 생체공학 EMP 팔</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>고급 생체 공학 방화 팔</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>설치된 첨단 생체 공학 소이 팔</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>설치된 첨단 생체 공학 소이 팔.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>고급 생체 공학 방화 팔</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>고급 생체공학 연기 팔</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>설치된 고급 생체공학 연기 팔</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>설치된 고급 생체공학 연기 팔.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>고급 생체공학 연기 팔</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>고급 생체 공학 화재 호흡 턱</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>설치된 고급 생체 공학 화재 호흡 턱</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>설치된 고급 생체 공학 화재 호흡 턱.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>울트라 바이오닉 발톱</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>울트라 바이오닉 클로</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>설치된 울트라 바이오닉 클로.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>울트라 바이오닉 발톱</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>울트라 바이오닉 총 팔</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>울트라 바이오닉 총 팔</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>설치된 울트라 바이오닉 총 팔.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>울트라 바이오닉 총 팔</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>울트라 바이오닉 EMP 팔</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>설치된 울트라 바이오닉 EMP 팔</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>설치된 울트라 바이오닉 EMP 팔.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>울트라 바이오닉 EMP 팔</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>울트라 바이오닉 방화 팔</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>설치된 울트라 바이오닉 소이 팔</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>설치된 울트라 바이오닉 소이 팔.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>울트라 바이오닉 방화 팔</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>울트라 바이오닉 스모크 암</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>설치된 울트라 바이오닉 연기 팔</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>설치된 울트라 바이오닉 연기 팔.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>울트라 바이오닉 스모크 암</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>울트라 바이오닉 파이어 브레스 턱</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>설치된 울트라 바이오닉 파이어 브레스 턱</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>설치된 울트라 바이오닉 파이어 브레스 턱.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

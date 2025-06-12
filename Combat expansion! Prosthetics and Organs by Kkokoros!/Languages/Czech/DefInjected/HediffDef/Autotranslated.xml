@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Bionický dráp</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>bionický dráp</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Instalovaný bionický dráp.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>bionický dráp</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Bionické zbraňové rameno</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>rameno bionické zbraně</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Instalované rameno bionické zbraně.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>rameno bionické zbraně</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Bionické EMP rameno</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>instalované bionické EMP rameno</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Instalované bionické EMP rameno.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>bionické EMP rameno</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Bionické zápalné rameno</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>instalované bionické zápalné rameno</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Instalované bionické zápalné rameno.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>bionické zápalné rameno</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Bionické kouřové rameno</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>instalované bionické kouřové rameno</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Instalované bionické kouřové rameno.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>bionické kouřové rameno</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Čelist bionického ohně</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>instalovaná bionická čelist na dýchání ohně</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Instalovaná čelist bionického dechu ohně.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>pokročilý bionický dráp</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>pokročilý bionický dráp</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Instalovaný pokročilý bionický dráp.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>pokročilý bionický dráp</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>pokročilé rameno bionické zbraně</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>pokročilé rameno bionické zbraně</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Instalované pokročilé rameno bionické zbraně.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>pokročilé rameno bionické zbraně</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Pokročilé bionické EMP rameno</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>instalované pokročilé bionické EMP rameno</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Instalované pokročilé bionické EMP rameno.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>pokročilé bionické EMP rameno</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Pokročilé bionické zápalné rameno</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>instalované pokročilé bionické zápalné rameno</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Instalované pokročilé bionické zápalné rameno.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>pokročilé bionické zápalné rameno</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Pokročilé bionické kouřové rameno</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>instalované pokročilé bionické kouřové rameno</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Instalované pokročilé bionické kouřové rameno.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>pokročilé rameno bionického kouře</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Pokročilá čelist bionického ohně</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>instalovaná pokročilá čelist bionického ohně</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Instalovaná pokročilá bionická dechová čelist.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionický dráp</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ultra bionický dráp</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Instalovaný ultra bionický dráp.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra bionický dráp</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>rameno ultra bionické zbraně</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ultra bionické zbraňové rameno</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Instalované rameno ultra bionické zbraně.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>rameno ultra bionické zbraně</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra bionické EMP rameno</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>instalované ultra bionické EMP rameno</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Instalované ultra bionické EMP rameno.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultra bionické EMP rameno</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultra bionické zápalné rameno</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>instalované ultra bionické zápalné rameno</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Instalované ultra bionické zápalné rameno.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra bionické zápalné rameno</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultra bionické kouřové rameno</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>instalované ultra bionické kouřové rameno</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Instalované ultra bionické kouřové rameno.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra bionické kouřové rameno</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultra bionická dechová čelist ohně</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>instalovaná ultra bionická čelist na dýchání ohně</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Instalovaná ultra bionická čelist na dýchání ohně.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>スサイド</KokuSuicidevest.label>
+    <KokuSuicidevest.description>破壊力のある特攻ベストです。</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>爆弾起爆装置</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>バイオニッククロー</KokuBionicClaw.label>
+    <KokuBionicClaw.description>最も洗練された腕の交換品の 1 つ。使用者に極度の強さを与える。</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>バイオニックガンアーム</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>最も洗練された腕の交換品の 1 つ。使用者に極度の強さを与え、オートピストルを内蔵している。</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>バイオニックEMPアーム</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>最も洗練された腕の交換品の 1 つ。使用者に極度の強さを与え、EMPランチャーを内蔵。</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>バイオニック焼夷アーム</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>最も洗練された腕の交換品の 1 つ。使用者に極度の強さを与え、焼夷弾を内蔵する。</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>バイオニックスモークアーム</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>最も洗練された腕の交換品の 1 つ。使用者に極度の強さを与え、スモークランチャーを内蔵。</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>バイオニックファイアブレスジョー</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>最も洗練された顎置換術の 1 つ。火炎放射器を内蔵しています。</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>先進的なバイオニッククロー</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>やはり腕ですか？それは使用者に非常に強力な力を与えます。</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>先進的なバイオニックガンアーム</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>やはり腕ですか？内蔵のオートピストルにより、ユーザーに非常に強力な力を与えます。</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>先進的なバイオニックEMPアーム</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>やはり腕ですか？内蔵のEMPランチャーにより、ユーザーに非常に強力な力を与えます。</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>先進的なバイオニック焼夷兵器</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>やはり腕ですか？内蔵の焼夷ランチャーにより、ユーザーに非常に強力な力を与えます。</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>先進的なバイオニックスモークアーム</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>やはり腕ですか？内蔵のスモークランチャーにより、ユーザーに非常に強力な力を与えます。</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>先進的なバイオニックファイアブレスジョー</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>まだ顎ですか？内蔵の火炎放射器により、ユーザーに非常に強力な力を与えます。</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ウルトラバイオニッククロー</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>これは F%^$^ng 正気の沙汰ではありません。</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ウルトラバイオニックガンアーム</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>これは F%^$^ng の正気の沙汰ではありませんが、自動拳銃も装備されています。</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ウルトラバイオニックEMPアーム</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>これは非常識です F%^$^ng には EMP ランチャーも内蔵されています。</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ウルトラバイオニック焼夷アーム</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>これは F%^$^ng の正気の沙汰ではありませんが、焼夷発射装置も内蔵されています。</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ウルトラバイオニックスモークアーム</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>これは F%^$^ng の正気の沙汰ではありませんが、スモークランチャーも内蔵されています。</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ウルトラバイオニックファイアブレスジョー</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>これは狂気の沙汰で、火炎放射器も装備されています。</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

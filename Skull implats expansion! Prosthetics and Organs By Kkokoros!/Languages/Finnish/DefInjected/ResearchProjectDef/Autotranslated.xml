@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>keinotekoiset kallo-implantit</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Avaa mahdollisuuden valmistaa kalloimplantteja ja asentaa niitä.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>kehittyneet kalloimplantteja</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Mahdollistaa edistyneiden kallo-implanttien valmistamisen.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultrakallo-implantteja</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Mahdollistaa ultrakallo-implanttien valmistamisen.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

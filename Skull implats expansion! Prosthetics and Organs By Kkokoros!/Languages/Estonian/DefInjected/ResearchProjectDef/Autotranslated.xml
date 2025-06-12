@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>kunstlikud koljuimplantaadid</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Avab võimaluse meisterdada koljuimplantaate ja neid paigaldada.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>täiustatud koljuimplantaadid</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Võimaldab meisterdada täiustatud koljuimplantaate.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>Ultra kolju implantaadid</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Võimaldab meisterdada ultra-kolju implantaate.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

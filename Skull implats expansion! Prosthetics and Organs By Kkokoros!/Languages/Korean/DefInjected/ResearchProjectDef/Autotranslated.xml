@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>인공 두개골 임플란트</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>두개골 임플란트를 제작하고 설치하는 능력을 잠금 해제합니다.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>고급 두개골 임플란트</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>고급 두개골 임플란트를 제작할 수 있습니다.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>울트라 두개골 임플란트</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>울트라 두개골 임플란트를 제작할 수 있습니다.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

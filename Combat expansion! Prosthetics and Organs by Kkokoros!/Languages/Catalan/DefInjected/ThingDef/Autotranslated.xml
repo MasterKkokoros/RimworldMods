@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>A part</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Aquesta és una armilla suïcida amb poder destructiu.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>detonador de bombes</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>urpa biònica</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Un dels reemplaçaments de braços més sofisticats. Dóna una força extrema al seu usuari.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>braç de la pistola biònica</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Un dels reemplaçaments de braços més sofisticats. Dóna una força extrema al seu usuari i està equipat amb una pistola automàtica integrada.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>braç biònic EMP</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Un dels reemplaçaments de braços més sofisticats. Dóna una força extrema al seu usuari i està equipat amb un llançador EMP integrat.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>braç incendiari biònic</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Un dels reemplaçaments de braços més sofisticats. Dóna una força extrema al seu usuari i està equipat amb un llançador incendiari integrat.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>braç de fum biònic</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Un dels reemplaçaments de braços més sofisticats. Dóna una força extrema al seu usuari i està equipat amb un llançador de fum integrat.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>mandíbula d'alè de foc biònic</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Un dels reemplaçaments de mandíbula més sofisticats. Està equipat amb un llançaflames integrat.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>urpa biònica avançada</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Encara és un braç? Dóna a l'usuari una força extremadament extrema.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>braç biònic avançat</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Encara és un braç? Dóna a l'usuari una força extremadament extrema amb una pistola automàtica integrada.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>braç EMP biònic avançat</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Encara és un braç? Ofereix a l'usuari una força extremadament extrema amb un llançador EMP integrat.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>braç incendiari biònic avançat</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Encara és un braç? Dóna a l'usuari una força extremadament extrema amb un llançador incendiari integrat.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>braç de fum biònic avançat</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Encara és un braç? Ofereix a l'usuari una força extremadament extrema amb un llançador de fum integrat.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>mandíbula d'alè de foc biònic avançat</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Encara és una mandíbula? Dóna a l'usuari una força extremadament extrema amb un llançaflames integrat.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>urpa ultra biònica</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Aquest és F%^$^ng boig.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>braç de pistola ultra biònic</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Aquest és F%^$^ng boig també està equipat amb una pistola automàtica integrada.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>braç EMP ultra biònic</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Aquest és F%^$^ng boig també està equipat amb un llançador EMP integrat.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>braç incendiari ultra biònic</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Aquest és F%^$^ng boig també està equipat amb un llançador incendiari integrat.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>braç de fum ultra biònic</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Aquest és F%^$^ng boig també està equipat amb un llançador de fum integrat.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>mandíbula ultra biònica d'alè de foc</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Aquest és F%^$^ng boig també està equipat amb un llançaflames integrat.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

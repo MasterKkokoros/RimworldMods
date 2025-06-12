@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>This is a suicide vest with destructive power.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>bomb detonator</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bionic claw</KokuBionicClaw.label>
+    <KokuBionicClaw.description>One of the most sophisticated arm replacements. Gives extreme strength to its user.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>bionic gun arm</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in autopistol.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bionic EMP arm</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in EMP launcher.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bionic incendiary arm</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in incendiary launcher.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bionic smoke arm</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>One of the most sophisticated arm replacements. Gives extreme strength to its user and is equipped with a built-in smoke launcher.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bionic fire breath jaw</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>One of the most sophisticated jaw replacements. Is equipped with a built-in flamethrower.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>advanced bionic claw</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Is it still an arm? It gives the user extremely extreme strength.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>advanced bionic gun arm</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Is it still an arm? It gives the user extremely extreme strength with a built-in autopistol.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>advanced bionic EMP arm</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Is it still an arm? It gives the user extremely extreme strength with a built-in EMP launcher.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>advanced bionic incendiary arm</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Is it still an arm? It gives the user extremely extreme strength with a built-in incendiary launcher.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>advanced bionic smoke arm</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Is it still an arm? It gives the user extremely extreme strength with a built-in smoke launcher.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>advanced bionic fire breath jaw</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Is it still a jaw? It gives the user extremely extreme strength with a built-in flamethrower.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionic claw</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>This one is F%^$^ng insane.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra bionic gun arm</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>This one is F%^$^ng insane also is equipped with a built-in autopistol.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra bionic EMP arm</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>This one is F%^$^ng insane also is equipped with a built-in EMP launcher.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra bionic incendiary arm</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>This one is F%^$^ng insane also is equipped with a built-in incendiary launcher.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bionic smoke arm</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>This one is F%^$^ng insane also is equipped with a built-in smoke launcher.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra bionic fire breath jaw</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>This one is F%^$^ng insane also is equipped with a built-in flamethrower.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

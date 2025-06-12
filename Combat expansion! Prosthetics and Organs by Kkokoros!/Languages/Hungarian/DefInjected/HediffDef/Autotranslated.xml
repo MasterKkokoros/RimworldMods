@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Bionikus karom</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>egy bionikus karom</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Beépített bionikus karom.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>bionikus karom</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Bionikus fegyver kar</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>egy bionikus fegyverkar</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Telepített bionikus fegyverkar.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>bionikus fegyverkar</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Bionic EMP kar</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>telepített bionikus EMP kar</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Telepített bionikus EMP kar.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>bionikus EMP kar</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Bionikus gyújtókar</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>telepített bionikus gyújtókar</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Beépített bionikus gyújtókar.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>bionikus gyújtókar</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Bionikus füstkar</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>telepített bionikus füstkar</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Beépített bionikus füstkar.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>bionikus füstkar</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Bionikus tűzlégzés állkapocs</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>telepített bionikus tűzlégzéspofa</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Beépített bionikus tűzlégzéspofa.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>fejlett bionikus karom</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>fejlett bionikus karom</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Beépített fejlett bionikus karom.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>fejlett bionikus karom</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>fejlett bionikus fegyverkar</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>fejlett bionikus fegyverkar</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Beépített fejlett bionikus fegyverkar.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>fejlett bionikus fegyverkar</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Fejlett bionikus EMP kar</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>telepített fejlett bionikus EMP kar</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Beépített fejlett bionikus EMP kar.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>fejlett bionikus EMP kar</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Fejlett bionikus gyújtókar</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>telepített fejlett bionikus gyújtókar</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Beépített fejlett bionikus gyújtókar.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>fejlett bionikus gyújtókar</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Fejlett bionikus füstkar</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>telepített fejlett bionikus füstkar</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Beépített fejlett bionikus füstkar.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>fejlett bionikus füstkar</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Fejlett bionikus tűzlégzés állkapocs</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>telepített fejlett bionikus tűzlégzéspofa</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Beépített fejlett bionikus tűzlégzéspofa.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionikus karom</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ultra bionikus karom</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Beépített ultra bionikus karom.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra bionikus karom</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ultra bionikus fegyverkar</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ultra bionikus fegyverkar</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Telepített ultra bionikus fegyverkar.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ultra bionikus fegyverkar</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra bionikus EMP kar</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>telepített ultra bionikus EMP kar</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Telepített ultra bionikus EMP kar.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultra bionikus EMP kar</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultra bionikus gyújtókar</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>telepített ultra bionikus gyújtókar</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Beépített ultra bionikus gyújtókar.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra bionikus gyújtókar</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultra bionikus füstkar</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>telepített ultra bionikus füstkar</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Telepített ultra bionikus füstkar.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra bionikus füstkar</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultra bionikus tűzlégzéspofa</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>telepített ultra bionikus tűzlégzéspofa</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Telepített ultra bionikus tűzlégzéspofa.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

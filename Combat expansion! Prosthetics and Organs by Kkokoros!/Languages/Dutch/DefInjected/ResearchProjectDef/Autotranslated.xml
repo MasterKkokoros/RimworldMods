@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionische gevechtsadd-ons</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Voegt bionische gevechtsadd-ons toe, zoals een ingebouwd autopistool of klauw.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Geavanceerde gevechtsadd-ons</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Voegt geavanceerde bionische gevechtsadd-ons toe, zoals een ingebouwd autopistool of klauw.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra-gevechtsadd-ons</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Voegt ultrabionische gevechtsadd-ons toe, zoals een ingebouwd autopistool of klauw.</KokuUltraBionicsGun.description>
+</LanguageData>

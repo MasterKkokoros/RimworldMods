@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>kunstige kranieimplantater</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Låser op for evnen til at lave kranieimplantater og installere dem.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>avancerede kranieimplantater</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Giver dig mulighed for at lave avancerede kranieimplantater.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultrakranieimplantater</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Giver dig mulighed for at lave ultrakranieimplantater.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

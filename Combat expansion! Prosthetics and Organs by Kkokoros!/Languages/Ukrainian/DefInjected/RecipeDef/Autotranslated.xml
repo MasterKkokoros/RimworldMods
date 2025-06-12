@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>встановити біонічну клешню</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Встановлює біонічну клешню.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Установка біонічного когтеточка.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>встановити рукоятку біонічного пістолета</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Встановлює біонічну зброю.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Встановлення рукоятки біонічного пістолета.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>встановити біонічну руку EMP</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Встановлює біонічну руку EMP.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Встановлення bionic EMP arm.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>встановити біонічну запалювальну зброю</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Встановлює біонічну запалювальну зброю.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Встановлення біонічної запальної зброї.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>встановити біонічну димову руку</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Встановлює біонічну димову руку.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Встановлення біонічної димової руки.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>встановити біонічну щелепу дихання вогню</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Встановлює біонічну щелепу дихання вогню.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Встановлення щелепи біонічного вогняного дихання.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>встановити вдосконалений біонічний кіготь</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Встановлює вдосконалений біонічний кіготь.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Встановлення передового біонічного кігтя.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>встановити передову біонічну зброю</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Встановлює вдосконалену біонічну зброю.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Встановлення вдосконаленої біонічної зброї.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>встановити передову біонічну руку EMP</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Встановлює передову біонічну руку EMP.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Встановлення вдосконаленого біонічного плеча EMP.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>встановити передову біонічну запалювальну зброю</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Встановлює вдосконалену біонічну запалювальну зброю.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Встановлення вдосконаленої біонічної запальної зброї.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>встановити передову біонічну димову руку</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Встановлює вдосконалену біонічну димову руку.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Встановлення вдосконаленої біонічної димової руки.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>встановити передову біонічну щелепу дихання вогню</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Встановлює передову біонічну щелепу дихання вогню.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Встановлення вдосконаленої біонічної щелепи дихання вогню.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>встановити ультрабіонічний кіготь</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Встановлює ультрабіонічний кіготь.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Установка ультрабіонічної когтеточки.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>встановити ультрабіонічну зброю</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Встановлює ультрабіонічну зброю.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Встановлення ультрабіонічної зброї.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>встановити ультрабіонічну руку EMP</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Встановлює ультрабіонічну руку EMP.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Встановлення ультрабіонічної ЕМІ-руки.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>встановити ультрабіонічну запалювальну зброю</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Встановлює ультрабіонічну запалювальну зброю.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Встановлення ультрабіонічної запальної зброї.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>встановити ультрабіонічну димову руку</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Встановлює ультрабіонічну димову руку.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Встановлення ультрабіонічної димової руки.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>встановити ультрабіонічну щелепу дихання вогню</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Встановлює щелепу ультрабіонічного вогняного дихання.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Встановлення щелепи ультрабіонічного вогняного дихання.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Tämä on itsemurhaliivi, jolla on tuhoisa voima.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>pommin sytytin</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bioninen kynsi</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Yksi hienostuneimmista käsivarsien vaihto-osista. Antaa käyttäjälleen äärimmäisen vahvuuden.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>bioninen aseen varsi</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Yksi hienostuneimmista käsivarsien vaihto-osista. Antaa käyttäjälleen äärimmäistä voimaa ja on varustettu sisäänrakennetulla autopistoolilla.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>Bionic EMP-varsi</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Yksi hienostuneimmista käsivarsien vaihto-osista. Antaa käyttäjälleen äärimmäisen lujuuden ja on varustettu sisäänrakennetulla EMP-laukaisulaitteella.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bioninen sytytysvarsi</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Yksi hienostuneimmista käsivarsien vaihto-osista. Antaa käyttäjälleen äärimmäisen lujuuden ja on varustettu sisäänrakennetulla sytytysheittimellä.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bioninen savuvarsi</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Yksi hienostuneimmista käsivarsien vaihto-osista. Antaa käyttäjälleen äärimmäisen lujuuden ja on varustettu sisäänrakennetulla savunheittimellä.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bioninen tulihengitysleuka</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Yksi hienostuneimmista leuan vaihdoista. Varustettu sisäänrakennetulla liekinheittimellä.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>kehittynyt bioninen kynsi</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Onko se vielä käsivarsi? Se antaa käyttäjälle erittäin äärimmäisen voiman.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>kehittynyt bioninen aseen varsi</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Onko se vielä käsivarsi? Se antaa käyttäjälle erittäin äärimmäisen voiman sisäänrakennetulla automaattipistoolilla.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>kehittynyt bioninen EMP-varsi</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Onko se vielä käsivarsi? Se antaa käyttäjälle erittäin äärimmäisen voiman sisäänrakennetun EMP-laukaisimen avulla.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>kehittynyt bioninen sytytysvarsi</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Onko se vielä käsivarsi? Se antaa käyttäjälle äärimmäisen äärimmäisen voiman sisäänrakennetun sytytysheittimen avulla.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>kehittynyt bioninen savuvarsi</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Onko se vielä käsivarsi? Se antaa käyttäjälle erittäin äärimmäisen lujuuden sisäänrakennetulla savunheittimellä.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>kehittynyt bioninen tulihengitysleuka</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Onko se vielä leuka? Se antaa käyttäjälle erittäin äärimmäisen lujuuden sisäänrakennetun liekinheittimen ansiosta.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bioninen kynsi</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Tämä on F%^$^ng hullu.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra bioninen aseen varsi</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Tämä on F%^$^ng hullu, ja se on myös varustettu sisäänrakennetulla autopistoolilla.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultrabionic EMP-varsi</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Tämä on F%^$^ng hullu, ja siinä on myös sisäänrakennettu EMP-kantoraketti.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra bioninen sytytysvarsi</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Tämä on F%^$^ng hullu, ja se on myös varustettu sisäänrakennetulla sytytysheittimellä.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bioninen savuvarsi</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Tämä on F%^$^ng hullu, ja siinä on myös sisäänrakennettu savunheitin.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultrabionic tulihengitysleuka</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Tämä on F%^$^ng hullu, ja se on myös varustettu sisäänrakennetulla liekinheittimellä.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Complementos de combate biónico</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Agrega complementos de combate biónico como pistola automática o garra incorporada.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Complementos de combate avanzados</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Agrega complementos avanzados de combate biónico como pistola automática o garra incorporada.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Complementos de ultra combate</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Agrega complementos de combate ultrabiónicos como pistola automática o garra incorporada.</KokuUltraBionicsGun.description>
+</LanguageData>

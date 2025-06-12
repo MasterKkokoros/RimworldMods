@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Det här är en självmordsväst med destruktiv kraft.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>bombsprängkapsel</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bionisk klo</KokuBionicClaw.label>
+    <KokuBionicClaw.description>En av de mest sofistikerade armbytena. Ger extrem styrka till sin användare.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>bionisk pistolarm</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>En av de mest sofistikerade armbytena. Ger extrem styrka till sin användare och är utrustad med en inbyggd autopistol.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bionisk EMP-arm</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>En av de mest sofistikerade armbytena. Ger extrem styrka till sin användare och är utrustad med en inbyggd EMP launcher.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bionisk brandarm</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>En av de mest sofistikerade armbytena. Ger extrem styrka till sin användare och är utrustad med en inbyggd brandraket.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bionisk rökarm</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>En av de mest sofistikerade armbytena. Ger extrem styrka till sin användare och är utrustad med en inbyggd rökkastare.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bionisk eld andedräkt käke</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>En av de mest sofistikerade käkersättningarna. Är utrustad med en inbyggd eldkastare.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>avancerad bionisk klo</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Är det fortfarande en arm? Det ger användaren extrem styrka.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>avancerad bionisk pistolarm</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Är det fortfarande en arm? Det ger användaren extremt extrem styrka med en inbyggd autopistol.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>avancerad bionisk EMP-arm</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Är det fortfarande en arm? Det ger användaren extremt extrem styrka med en inbyggd EMP launcher.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>avancerad bionisk brandarm</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Är det fortfarande en arm? Det ger användaren extremt extrem styrka med en inbyggd brandraket.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>avancerad bionisk rökarm</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Är det fortfarande en arm? Det ger användaren extremt extrem styrka med en inbyggd rökkastare.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>avancerad bionisk eldandningskäke</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Är det fortfarande en käke? Det ger användaren extremt extrem styrka med en inbyggd eldkastare.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionisk klo</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Den här är F%^$^ng galen.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra bionisk pistolarm</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Den här är F%^$^ng galen också är utrustad med en inbyggd autopistol.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra bionisk EMP-arm</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Den här är F%^$^ng galen också är utrustad med en inbyggd EMP launcher.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra bionisk brandarm</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Den här är F%^$^ng galen också är utrustad med en inbyggd brandstartare.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bionisk rökarm</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Den här är F%^$^ng galen också är utrustad med en inbyggd rökkastare.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra bionisk eld andedräkt käke</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Den här är F%^$^ng galen också är utrustad med en inbyggd eldkastare.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

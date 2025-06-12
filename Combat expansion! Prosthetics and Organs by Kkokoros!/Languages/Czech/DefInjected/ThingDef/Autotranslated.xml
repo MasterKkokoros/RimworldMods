@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Toto je sebevražedná vesta s destruktivní silou.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>rozbuška bomby</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bionický dráp</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Jedna z nejpropracovanějších náhrad ramen. Poskytuje svému uživateli extrémní sílu.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>rameno bionické zbraně</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Jedna z nejpropracovanějších náhrad ramen. Poskytuje extrémní sílu svému uživateli a je vybavena vestavěnou autopistolí.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bionické EMP rameno</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Jedna z nejpropracovanějších náhrad ramen. Poskytuje extrémní sílu svému uživateli a je vybaven vestavěným EMP launcherem.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bionické zápalné rameno</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Jedna z nejpropracovanějších náhrad ramen. Poskytuje svému uživateli extrémní sílu a je vybavena vestavěným zápalným odpalovačem.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bionické kouřové rameno</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Jedna z nejpropracovanějších náhrad ramen. Poskytuje svému uživateli extrémní sílu a je vybavena vestavěným odpalovačem kouře.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bionický oheň dech čelist</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Jedna z nejpropracovanějších náhrad čelistí. Je vybavena vestavěným plamenometem.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>pokročilý bionický dráp</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Je to ještě paže? Poskytuje uživateli extrémně extrémní sílu.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>pokročilé rameno bionické zbraně</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Je to ještě paže? Poskytuje uživateli extrémně extrémní sílu s vestavěnou autopistolí.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>pokročilé bionické EMP rameno</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Je to ještě paže? Poskytuje uživateli extrémně extrémní sílu s vestavěným spouštěčem EMP.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>pokročilé bionické zápalné rameno</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Je to ještě paže? Poskytuje uživateli extrémně extrémní sílu s vestavěným zápalným odpalovačem.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>pokročilé rameno bionického kouře</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Je to ještě paže? Poskytuje uživateli extrémně extrémní sílu s vestavěným odpalovačem kouře.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>pokročilá čelist bionického ohně</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Je to ještě čelist? Poskytuje uživateli extrémně extrémní sílu s vestavěným plamenometem.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionický dráp</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Tenhle je F%^$^ng šílený.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>rameno ultra bionické zbraně</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Tenhle je F%^$^ng šílený a je také vybaven vestavěnou autopistolí.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra bionické EMP rameno</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Tento je F%^$^ng šílený a je také vybaven vestavěným spouštěčem EMP.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra bionické zápalné rameno</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Tento je F%^$^ng šílený a je také vybaven vestavěným zápalným odpalovacím zařízením.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bionické kouřové rameno</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Tento je F%^$^ng šílený a je také vybaven vestavěným odpalovačem kouře.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra bionická ohnivá čelist</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Tento je F%^$^ng šílený a je také vybaven vestavěným plamenometem.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>人造颅骨植入物</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>解锁制作和安装颅骨植入物的能力。</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>先进的颅骨植入物</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>允许你制作先进的头骨植入物。</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>超颅骨植入物</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>允许您制作超级头骨植入物。</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

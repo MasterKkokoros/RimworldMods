@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>εγκαταστήστε βιονικό νύχι</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Εγκαθιστά βιονικό νύχι.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Εγκατάσταση βιονικού νυχιού.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>εγκαταστήστε βραχίονα βιονικού όπλου</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Εγκαθιστά βιονικό βραχίονα όπλου.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Εγκατάσταση βραχίονα βιονικού όπλου.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>εγκαταστήστε βιονικό βραχίονα EMP</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Εγκαθιστά βιονικό βραχίονα EMP.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Εγκατάσταση βιονικού βραχίονα EMP.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>εγκαταστήστε βιονικό εμπρηστικό βραχίονα</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Εγκαθιστά βιονικό εμπρηστικό βραχίονα.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Εγκατάσταση βιονικού εμπρηστικού βραχίονα.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>εγκαταστήστε βιονικό βραχίονα καπνού</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Εγκαθιστά βιονικό βραχίονα καπνού.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Εγκατάσταση βιονικού βραχίονα καπνού.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>εγκαταστήστε βιονική σιαγόνα αναπνοής φωτιάς</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Εγκαθιστά βιονική σιαγόνα αναπνοής φωτιάς.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Εγκατάσταση βιονικής σιαγόνας αναπνοής φωτιάς.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>εγκαταστήστε προηγμένο βιονικό νύχι</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Εγκαθιστά προηγμένο βιονικό νύχι.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Εγκατάσταση προηγμένου βιονικού νυχιού.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>εγκαταστήστε προηγμένο βραχίονα βιονικού όπλου</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Εγκαθιστά προηγμένο βραχίονα βιονικού όπλου.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Εγκατάσταση προηγμένου βραχίονα βιονικού όπλου.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>εγκαταστήστε προηγμένο βιονικό βραχίονα EMP</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Εγκαθιστά προηγμένο βιονικό βραχίονα EMP.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Εγκατάσταση προηγμένου βιονικού βραχίονα EMP.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>εγκαταστήστε προηγμένο βιονικό εμπρηστικό βραχίονα</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Εγκαθιστά προηγμένο βιονικό εμπρηστικό βραχίονα.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Εγκατάσταση προηγμένου βιονικού εμπρηστικού βραχίονα.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>εγκαταστήστε προηγμένο βιονικό βραχίονα καπνού</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Εγκαθιστά προηγμένο βιονικό βραχίονα καπνού.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Εγκατάσταση προηγμένου βιονικού βραχίονα καπνού.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>εγκαταστήστε προηγμένη βιονική σιαγόνα αναπνοής φωτιάς</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Εγκαθιστά προηγμένη βιονική σιαγόνα αναπνοής φωτιάς.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Εγκατάσταση προηγμένης βιονικής σιαγόνας αναπνοής φωτιάς.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>εγκαταστήστε το εξαιρετικά βιονικό νύχι</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Εγκαθιστά εξαιρετικά βιονικό νύχι.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Εγκατάσταση υπερβιονικού νυχιού.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>εγκαταστήστε βραχίονα υπερβιονικού όπλου</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Εγκαθιστά βραχίονα υπερβιονικού όπλου.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Εγκατάσταση βραχίονα υπερβιονικού όπλου.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>εγκαταστήστε βραχίονα ultra bionic EMP</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Εγκαθιστά υπερβιονικό βραχίονα EMP.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Εγκατάσταση βραχίονα υπερβιονικού EMP.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>εγκαταστήστε υπερβιονικό εμπρηστικό βραχίονα</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Εγκαθιστά υπερβιονικό εμπρηστικό βραχίονα.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Εγκατάσταση υπερβιονικού εμπρηστικού βραχίονα.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>εγκαταστήστε υπερβιονικό βραχίονα καπνού</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Εγκαθιστά εξαιρετικά βιονικό βραχίονα καπνού.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Εγκατάσταση υπερβιονικού βραχίονα καπνού.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>εγκαταστήστε εξαιρετικά βιονική σιαγόνα αναπνοής φωτιάς</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Εγκαθιστά εξαιρετικά βιονική σιαγόνα αναπνοής φωτιάς.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Εγκατάσταση υπερβιονικής σιαγόνας αναπνοής φωτιάς.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

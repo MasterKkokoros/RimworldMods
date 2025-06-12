@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Βιονικό νύχι</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>ένα βιονικό νύχι</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Ένα εγκατεστημένο βιονικό νύχι.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>βιονικό νύχι</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Βιονικό βραχίονα όπλου</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>ένα βιονικό βραχίονα όπλου</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Ένας εγκατεστημένος βραχίονας βιονικού όπλου.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>βραχίονα βιονικού όπλου</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Βραχίονας Bionic EMP</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>έναν εγκατεστημένο βιονικό βραχίονα EMP</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Ένα εγκατεστημένο βιονικό βραχίονα EMP.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>βιονικός βραχίονας EMP</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Βιονικός εμπρηστικός βραχίονας</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>εγκατεστημένο βιονικό εμπρηστικό βραχίονα</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Εγκατεστημένος βιονικός εμπρηστικός βραχίονας.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>βιονικό εμπρηστικό βραχίονα</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Βιονικός βραχίονας καπνού</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>εγκατεστημένο βιονικό βραχίονα καπνού</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Εγκατεστημένος βιονικός βραχίονας καπνού.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>βιονικός βραχίονας καπνού</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Βιονικό σαγόνι αναπνοής φωτιάς</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>μια εγκατεστημένη βιονική σιαγόνα αναπνοής φωτιάς</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Μια εγκατεστημένη βιονική σιαγόνα αναπνοής φωτιάς.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>προηγμένο βιονικό νύχι</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>ένα προηγμένο βιονικό νύχι</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Ένα εγκατεστημένο προηγμένο βιονικό νύχι.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>προηγμένο βιονικό νύχι</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>προηγμένος βραχίονας βιονικού όπλου</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>ένα προηγμένο βιονικό βραχίονα όπλου</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Ένας εγκατεστημένος προηγμένος βραχίονας βιονικού όπλου.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>προηγμένος βραχίονας βιονικού όπλου</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Προηγμένος βιονικός βραχίονας EMP</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>έναν εγκατεστημένο προηγμένο βιονικό βραχίονα EMP</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Ένα εγκατεστημένο προηγμένο βιονικό βραχίονα EMP.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>προηγμένος βιονικός βραχίονας EMP</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Προηγμένος βιονικός εμπρηστικός βραχίονας</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>εγκατεστημένο προηγμένο βιονικό εμπρηστικό βραχίονα</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Εγκατεστημένος προηγμένος βιονικός εμπρηστικός βραχίονας.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>προηγμένο βιονικό εμπρηστικό βραχίονα</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Προηγμένος βιονικός βραχίονας καπνού</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>έναν εγκατεστημένο προηγμένο βιονικό βραχίονα καπνού</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Εγκατεστημένος προηγμένος βιονικός βραχίονας καπνού.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>προηγμένος βιονικός βραχίονας καπνού</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Προηγμένη βιονική σιαγόνα αναπνοής φωτιάς</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>μια εγκατεστημένη προηγμένη βιονική σιαγόνα αναπνοής φωτιάς</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Μια εγκατεστημένη προηγμένη βιονική σιαγόνα αναπνοής φωτιάς.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>υπερβιονικό νύχι</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ένα υπερβιονικό νύχι</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Ένα εγκατεστημένο υπερβιονικό νύχι.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>υπερβιονικό νύχι</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>βραχίονας υπερβιονικού όπλου</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ένα υπερβιονικό βραχίονα όπλου</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Εγκατεστημένος βραχίονας υπερβιονικού όπλου.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>βραχίονας υπερβιονικού όπλου</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra bionic EMP βραχίονας</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>έναν εγκατεστημένο βραχίονα υπερβιονικού EMP</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Ένας εγκατεστημένος υπερβιονικός βραχίονας EMP.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>υπερβιονικός βραχίονας EMP</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Υπερβιονικός εμπρηστικός βραχίονας</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>έναν εγκατεστημένο υπερβιονικό εμπρηστικό βραχίονα</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Ένα εγκατεστημένο υπερβιονικό εμπρηστικό βραχίονα.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>υπερβιονικός εμπρηστικός βραχίονας</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Υπερβιονικός βραχίονας καπνού</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>έναν εγκατεστημένο υπερβιονικό βραχίονα καπνού</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Εγκατεστημένος υπερβιονικός βραχίονας καπνού.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>υπερβιονικός βραχίονας καπνού</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Υπερβιονικό σαγόνι αναπνοής φωτιάς</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>μια εγκατεστημένη υπερβιονική σιαγόνα αναπνοής φωτιάς</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Εγκατεστημένη υπερβιονική σιαγόνα αναπνοής φωτιάς.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

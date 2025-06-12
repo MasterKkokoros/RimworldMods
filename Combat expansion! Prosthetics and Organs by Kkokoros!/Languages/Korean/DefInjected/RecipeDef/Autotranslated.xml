@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>생체공학 발톱을 설치하다</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>생체공학 발톱을 설치합니다.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>생체공학 발톱을 설치합니다.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>생체공학 총 팔 설치</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>생체 공학 총 팔을 설치합니다.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>생체공학 총 팔을 설치합니다.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>생체공학 EMP 팔 설치</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>생체공학 EMP 팔을 설치합니다.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>생체공학 EMP 팔 설치.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>생체 공학 방화 팔 설치</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>생체 공학 방화 팔을 설치합니다.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>생체 공학 소이 팔을 설치합니다.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>바이오닉 스모크 암 설치</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>생체공학 연기 팔을 설치합니다.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>생체공학 연기 팔을 설치합니다.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>생체 공학 화재 호흡 턱 설치</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>바이오닉 파이어 브레스 턱을 설치합니다.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>생체 공학 화재 호흡 턱 설치.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>고급 생체공학 발톱 설치</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>고급 생체공학 발톱을 설치합니다.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>고급 생체공학 발톱을 설치합니다.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>고급 생체 공학 총 팔 설치</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>고급 생체 공학 총 팔을 설치합니다.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>고급 생체 공학 총 팔을 설치합니다.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>고급 생체공학 EMP 팔 설치</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>고급 생체공학 EMP 팔을 설치합니다.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>고급 생체공학 EMP 팔 설치.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>고급 생체 공학 방화 팔 설치</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>첨단 생체 공학 방화 팔을 설치합니다.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>첨단 생체 공학 소이 팔을 설치합니다.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>고급 생체공학 연기 팔 설치</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>고급 생체공학 연기 팔을 설치합니다.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>고급 생체공학 연기 팔 설치.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>고급 생체 공학 화재 호흡 턱 설치</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>고급 생체 공학 화재 호흡 턱을 설치합니다.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>고급 생체 공학 화재 호흡 턱 설치.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>울트라 바이오닉 클로를 설치하다</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>울트라 바이오닉 클로를 설치합니다.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>울트라 바이오닉 클로를 설치합니다.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>울트라 바이오닉 건 암 설치</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>울트라 바이오닉 건 암을 설치합니다.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>울트라 바이오닉 건 암 설치.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>울트라 바이오닉 EMP 암 설치</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>울트라 바이오닉 EMP 팔을 설치합니다.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>울트라 바이오닉 EMP 팔 설치.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>울트라 바이오닉 방화 팔 설치</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>울트라 바이오닉 방화 팔을 설치합니다.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>울트라 바이오닉 소이 팔을 설치합니다.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>울트라 바이오닉 스모크 암 설치</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>울트라 바이오닉 연기 팔을 설치합니다.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>울트라 바이오닉 연기 팔 설치.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>울트라 바이오닉 파이어 브레스 턱 설치</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>울트라 바이오닉 파이어 브레스 턱을 설치합니다.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>울트라 바이오닉 파이어 브레스 턱 설치.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

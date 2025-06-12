@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>仿生战斗插件</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>添加仿生战斗插件，例如内置自动手枪或爪子。</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>高级战斗插件</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>添加先进的仿生战斗插件，如内置自动手枪或爪子。</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>超级战斗插件</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>添加超仿生战斗插件，如内置自动手枪或爪子。</KokuUltraBionicsGun.description>
+</LanguageData>

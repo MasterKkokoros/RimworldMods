@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionikus harci kiegészítők</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Olyan bionikus harci kiegészítőket ad hozzá, mint a beépített autopisztoly vagy karom.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Fejlett harci kiegészítők</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Fejlett bionikus harci kiegészítőket ad hozzá, mint például a beépített automata pisztoly vagy karom.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra harci kiegészítők</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Ultra bionikus harci kiegészítőket ad hozzá, például beépített autopisztolyt vagy karmot.</KokuUltraBionicsGun.description>
+</LanguageData>

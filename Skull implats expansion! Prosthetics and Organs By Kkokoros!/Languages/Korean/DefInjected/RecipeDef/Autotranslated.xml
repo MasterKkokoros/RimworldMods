@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallV1SleepLessSkullImplant.label>V1 잠 못 이루는 두개골 임플란트 설치</KokuInstallV1SleepLessSkullImplant.label>
+    <KokuInstallV1SleepLessSkullImplant.description>V1 잠 못 이루는 두개골 임플란트를 설치합니다.</KokuInstallV1SleepLessSkullImplant.description>
+    <KokuInstallV2SleepLessSkullImplant.label>V2 불면증 두개골 임플란트 설치</KokuInstallV2SleepLessSkullImplant.label>
+    <KokuInstallV2SleepLessSkullImplant.description>V2 잠 못 드는 두개골 임플란트를 설치합니다.</KokuInstallV2SleepLessSkullImplant.description>
+    <KokuInstallV3SleepLessSkullImplant.label>V3 잠들지 않는 두개골 임플란트 설치</KokuInstallV3SleepLessSkullImplant.label>
+    <KokuInstallV3SleepLessSkullImplant.description>V3 잠들지 않는 두개골 임플란트를 설치합니다.</KokuInstallV3SleepLessSkullImplant.description>
+    <KokuInstallV1PsychicLessSkullImplant.label>V1 무심령 두개골 임플란트 설치</KokuInstallV1PsychicLessSkullImplant.label>
+    <KokuInstallV1PsychicLessSkullImplant.description>V1 무심령 두개골 임플란트를 설치합니다.</KokuInstallV1PsychicLessSkullImplant.description>
+    <KokuInstallV2PsychicLessSkullImplant.label>V2 무심령 두개골 임플란트 설치</KokuInstallV2PsychicLessSkullImplant.label>
+    <KokuInstallV2PsychicLessSkullImplant.description>V2 무심령 두개골 임플란트를 설치합니다.</KokuInstallV2PsychicLessSkullImplant.description>
+    <KokuInstallV3PsychicLessSkullImplant.label>V3 무심령 두개골 임플란트 설치</KokuInstallV3PsychicLessSkullImplant.label>
+    <KokuInstallV3PsychicLessSkullImplant.description>V3 무심령 두개골 임플란트를 설치합니다.</KokuInstallV3PsychicLessSkullImplant.description>
+    <KokuInstallV1ResearcherSkullImplant.label>V1 연구원 두개골 임플란트 설치</KokuInstallV1ResearcherSkullImplant.label>
+    <KokuInstallV1ResearcherSkullImplant.description>V1 연구원 두개골 임플란트를 설치합니다.</KokuInstallV1ResearcherSkullImplant.description>
+    <KokuInstallV2ResearcherSkullImplant.label>V2 연구원 두개골 임플란트 설치</KokuInstallV2ResearcherSkullImplant.label>
+    <KokuInstallV2ResearcherSkullImplant.description>V2 연구원 두개골 임플란트를 설치합니다.</KokuInstallV2ResearcherSkullImplant.description>
+    <KokuInstallV3ResearcherSkullImplant.label>V3 연구원 두개골 임플란트 설치</KokuInstallV3ResearcherSkullImplant.label>
+    <KokuInstallV3ResearcherSkullImplant.description>V3 연구원 두개골 임플란트를 설치합니다.</KokuInstallV3ResearcherSkullImplant.description>
+    <KokuInstallV1MinerSkullImplant.label>V1 광부 두개골 임플란트 설치</KokuInstallV1MinerSkullImplant.label>
+    <KokuInstallV1MinerSkullImplant.description>V1 광부 두개골 임플란트를 설치합니다.</KokuInstallV1MinerSkullImplant.description>
+    <KokuInstallV2MinerSkullImplant.label>V2 광부 두개골 임플란트 설치</KokuInstallV2MinerSkullImplant.label>
+    <KokuInstallV2MinerSkullImplant.description>V2 광부 두개골 임플란트를 설치합니다.</KokuInstallV2MinerSkullImplant.description>
+    <KokuInstallV3MinerSkullImplant.label>V3 광부 두개골 임플란트 설치</KokuInstallV3MinerSkullImplant.label>
+    <KokuInstallV3MinerSkullImplant.description>V3 광부 두개골 임플란트를 설치합니다.</KokuInstallV3MinerSkullImplant.description>
+    <KokuInstallV1FarmerSkullImplant.label>V1 농부 두개골 임플란트 설치</KokuInstallV1FarmerSkullImplant.label>
+    <KokuInstallV1FarmerSkullImplant.description>V1 농부 두개골 임플란트를 설치합니다.</KokuInstallV1FarmerSkullImplant.description>
+    <KokuInstallV2FarmerSkullImplant.label>V2 파머 두개골 임플란트 설치</KokuInstallV2FarmerSkullImplant.label>
+    <KokuInstallV2FarmerSkullImplant.description>V2 농부 두개골 임플란트를 설치합니다.</KokuInstallV2FarmerSkullImplant.description>
+    <KokuInstallV3FarmerSkullImplant.label>V3 파머 두개골 임플란트 설치</KokuInstallV3FarmerSkullImplant.label>
+    <KokuInstallV3FarmerSkullImplant.description>V3 농부 두개골 임플란트를 설치합니다.</KokuInstallV3FarmerSkullImplant.description>
+    <KokuInstallV1RancherSkullImplant.label>V1 랜처 두개골 임플란트 설치</KokuInstallV1RancherSkullImplant.label>
+    <KokuInstallV1RancherSkullImplant.description>V1 랜처 두개골 임플란트를 설치합니다.</KokuInstallV1RancherSkullImplant.description>
+    <KokuInstallV2RancherSkullImplant.label>V2 랜처 두개골 임플란트 설치</KokuInstallV2RancherSkullImplant.label>
+    <KokuInstallV2RancherSkullImplant.description>V2 랜처 두개골 임플란트를 설치합니다.</KokuInstallV2RancherSkullImplant.description>
+    <KokuInstallV3RancherSkullImplant.label>V3 랜처 두개골 임플란트 설치</KokuInstallV3RancherSkullImplant.label>
+    <KokuInstallV3RancherSkullImplant.description>V3 랜처 두개골 임플란트를 설치합니다.</KokuInstallV3RancherSkullImplant.description>
+    <KokuInstallV1ChefSkullImplant.label>V1 셰프 두개골 임플란트 설치</KokuInstallV1ChefSkullImplant.label>
+    <KokuInstallV1ChefSkullImplant.description>V1 셰프 두개골 임플란트를 설치합니다.</KokuInstallV1ChefSkullImplant.description>
+    <KokuInstallV2ChefSkullImplant.label>V2 셰프 두개골 임플란트 설치</KokuInstallV2ChefSkullImplant.label>
+    <KokuInstallV2ChefSkullImplant.description>V2 셰프 두개골 임플란트를 설치합니다.</KokuInstallV2ChefSkullImplant.description>
+    <KokuInstallV3ChefSkullImplant.label>V3 셰프 두개골 임플란트 설치</KokuInstallV3ChefSkullImplant.label>
+    <KokuInstallV3ChefSkullImplant.description>V3 셰프 두개골 임플란트를 설치합니다.</KokuInstallV3ChefSkullImplant.description>
+    <KokuInstallV1BuilderSkullImplant.label>V1 빌더 두개골 임플란트 설치</KokuInstallV1BuilderSkullImplant.label>
+    <KokuInstallV1BuilderSkullImplant.description>V1 빌더 두개골 임플란트를 설치합니다.</KokuInstallV1BuilderSkullImplant.description>
+    <KokuInstallV2BuilderSkullImplant.label>V2 빌더 두개골 임플란트 설치</KokuInstallV2BuilderSkullImplant.label>
+    <KokuInstallV2BuilderSkullImplant.description>V2 빌더 두개골 임플란트를 설치합니다.</KokuInstallV2BuilderSkullImplant.description>
+    <KokuInstallV3BuilderSkullImplant.label>V3 빌더 두개골 임플란트 설치</KokuInstallV3BuilderSkullImplant.label>
+    <KokuInstallV3BuilderSkullImplant.description>V3 빌더 두개골 임플란트를 설치합니다.</KokuInstallV3BuilderSkullImplant.description>
+    <KokuInstallV1MaidSkullImplant.label>V1 메이드 두개골 임플란트 설치</KokuInstallV1MaidSkullImplant.label>
+    <KokuInstallV1MaidSkullImplant.description>V1 메이드 두개골 임플란트를 설치합니다.</KokuInstallV1MaidSkullImplant.description>
+    <KokuInstallV2MaidSkullImplant.label>V2 메이드 두개골 임플란트 설치</KokuInstallV2MaidSkullImplant.label>
+    <KokuInstallV2MaidSkullImplant.description>V2 메이드 두개골 임플란트를 설치합니다.</KokuInstallV2MaidSkullImplant.description>
+    <KokuInstallV3MaidSkullImplant.label>V3 메이드 두개골 임플란트 설치</KokuInstallV3MaidSkullImplant.label>
+    <KokuInstallV3MaidSkullImplant.description>V3 메이드 두개골 임플란트를 설치합니다.</KokuInstallV3MaidSkullImplant.description>
+    <KokuInstallV1SocialSkullImplant.label>V1 소셜 두개골 임플란트 설치</KokuInstallV1SocialSkullImplant.label>
+    <KokuInstallV1SocialSkullImplant.description>V1 소셜 두개골 임플란트를 설치합니다.</KokuInstallV1SocialSkullImplant.description>
+    <KokuInstallV2SocialSkullImplant.label>V2 소셜 두개골 임플란트 설치</KokuInstallV2SocialSkullImplant.label>
+    <KokuInstallV2SocialSkullImplant.description>V2 소셜 두개골 임플란트를 설치합니다.</KokuInstallV2SocialSkullImplant.description>
+    <KokuInstallV3SocialSkullImplant.label>V3 소셜 두개골 임플란트 설치</KokuInstallV3SocialSkullImplant.label>
+    <KokuInstallV3SocialSkullImplant.description>V3 소셜 두개골 임플란트를 설치합니다.</KokuInstallV3SocialSkullImplant.description>
+    <KokuInstallV1MedicSkullImplant.label>V1 의료진 두개골 임플란트 설치</KokuInstallV1MedicSkullImplant.label>
+    <KokuInstallV1MedicSkullImplant.description>V1 의료진 두개골 임플란트를 설치합니다.</KokuInstallV1MedicSkullImplant.description>
+    <KokuInstallV2MedicSkullImplant.label>V2 의료진 두개골 임플란트 설치</KokuInstallV2MedicSkullImplant.label>
+    <KokuInstallV2MedicSkullImplant.description>V2 의료진 두개골 임플란트를 설치합니다.</KokuInstallV2MedicSkullImplant.description>
+    <KokuInstallV3MedicSkullImplant.label>V3 의료진 두개골 임플란트 설치</KokuInstallV3MedicSkullImplant.label>
+    <KokuInstallV3MedicSkullImplant.description>V3 의료진 두개골 임플란트를 설치합니다.</KokuInstallV3MedicSkullImplant.description>
+    <KokuInstallV1FastLearnerSkullImplant.label>V1 Fast Learner 두개골 임플란트 설치</KokuInstallV1FastLearnerSkullImplant.label>
+    <KokuInstallV1FastLearnerSkullImplant.description>V1 Fast Learner 두개골 임플란트를 설치합니다.</KokuInstallV1FastLearnerSkullImplant.description>
+    <KokuInstallV2FastLearnerSkullImplant.label>V2 Fast Learner 두개골 임플란트 설치</KokuInstallV2FastLearnerSkullImplant.label>
+    <KokuInstallV2FastLearnerSkullImplant.description>V2 fast learner 두개골 임플란트를 설치합니다.</KokuInstallV2FastLearnerSkullImplant.description>
+    <KokuInstallV3FastLearnerSkullImplant.label>V3 Fast Learner 두개골 임플란트 설치</KokuInstallV3FastLearnerSkullImplant.label>
+    <KokuInstallV3FastLearnerSkullImplant.description>V3 Fast Learner 두개골 임플란트를 설치합니다.</KokuInstallV3FastLearnerSkullImplant.description>
+    <KokuInstallV1MeleeSoldierSkullImplant.label>V1 근접 군인 두개골 임플란트 설치</KokuInstallV1MeleeSoldierSkullImplant.label>
+    <KokuInstallV1MeleeSoldierSkullImplant.description>V1 근접 병사 두개골 임플란트를 설치합니다.</KokuInstallV1MeleeSoldierSkullImplant.description>
+    <KokuInstallV2MeleeSoldierSkullImplant.label>V2 근접 병사 두개골 임플란트 설치</KokuInstallV2MeleeSoldierSkullImplant.label>
+    <KokuInstallV2MeleeSoldierSkullImplant.description>V2 근접 병사 두개골 임플란트를 설치합니다.</KokuInstallV2MeleeSoldierSkullImplant.description>
+    <KokuInstallV3MeleeSoldierSkullImplant.label>V3 근접 병사 두개골 임플란트 설치</KokuInstallV3MeleeSoldierSkullImplant.label>
+    <KokuInstallV3MeleeSoldierSkullImplant.description>V3 근접 병사 두개골 임플란트를 설치합니다.</KokuInstallV3MeleeSoldierSkullImplant.description>
+    <KokuInstallV1RangeSoldierSkullImplant.label>V1 제품군 군인 두개골 임플란트 설치</KokuInstallV1RangeSoldierSkullImplant.label>
+    <KokuInstallV1RangeSoldierSkullImplant.description>V1 범위 군인 두개골 임플란트를 설치합니다.</KokuInstallV1RangeSoldierSkullImplant.description>
+    <KokuInstallV2RangeSoldierSkullImplant.label>V2 범위 군인 두개골 임플란트 설치</KokuInstallV2RangeSoldierSkullImplant.label>
+    <KokuInstallV2RangeSoldierSkullImplant.description>V2 범위 군인 두개골 임플란트를 설치합니다.</KokuInstallV2RangeSoldierSkullImplant.description>
+    <KokuInstallV3RangeSoldierSkullImplant.label>V3 제품군 군인 두개골 임플란트 설치</KokuInstallV3RangeSoldierSkullImplant.label>
+    <KokuInstallV3RangeSoldierSkullImplant.description>V3 제품군 군인 두개골 임플란트를 설치합니다.</KokuInstallV3RangeSoldierSkullImplant.description>
+</LanguageData>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallV1SleepLessSkullImplant.label>Installieren Sie das schlaflose Schädelimplantat V1</KokuInstallV1SleepLessSkullImplant.label>
+    <KokuInstallV1SleepLessSkullImplant.description>Installiert das schlaflose Schädelimplantat V1.</KokuInstallV1SleepLessSkullImplant.description>
+    <KokuInstallV2SleepLessSkullImplant.label>Installieren Sie das schlaflose Schädelimplantat V2</KokuInstallV2SleepLessSkullImplant.label>
+    <KokuInstallV2SleepLessSkullImplant.description>Installiert das schlaflose V2-Schädelimplantat.</KokuInstallV2SleepLessSkullImplant.description>
+    <KokuInstallV3SleepLessSkullImplant.label>Installieren Sie das schlaflose V3-Schädelimplantat</KokuInstallV3SleepLessSkullImplant.label>
+    <KokuInstallV3SleepLessSkullImplant.description>Installiert das schlaflose V3-Schädelimplantat.</KokuInstallV3SleepLessSkullImplant.description>
+    <KokuInstallV1PsychicLessSkullImplant.label>Installieren Sie das V1-Psychicless-Schädelimplantat</KokuInstallV1PsychicLessSkullImplant.label>
+    <KokuInstallV1PsychicLessSkullImplant.description>Installiert das V1-Psychicless-Schädelimplantat.</KokuInstallV1PsychicLessSkullImplant.description>
+    <KokuInstallV2PsychicLessSkullImplant.label>Installieren Sie das V2 Psychicless-Schädelimplantat</KokuInstallV2PsychicLessSkullImplant.label>
+    <KokuInstallV2PsychicLessSkullImplant.description>Installiert das V2-Psychicless-Schädelimplantat.</KokuInstallV2PsychicLessSkullImplant.description>
+    <KokuInstallV3PsychicLessSkullImplant.label>Installieren Sie das V3-Psychicless-Schädelimplantat</KokuInstallV3PsychicLessSkullImplant.label>
+    <KokuInstallV3PsychicLessSkullImplant.description>Installiert das V3-Psychicless-Schädelimplantat.</KokuInstallV3PsychicLessSkullImplant.description>
+    <KokuInstallV1ResearcherSkullImplant.label>Installieren Sie das V1-Forscher-Schädelimplantat</KokuInstallV1ResearcherSkullImplant.label>
+    <KokuInstallV1ResearcherSkullImplant.description>Installiert das V1-Forscher-Schädelimplantat.</KokuInstallV1ResearcherSkullImplant.description>
+    <KokuInstallV2ResearcherSkullImplant.label>Installieren Sie das V2-Forscher-Schädelimplantat</KokuInstallV2ResearcherSkullImplant.label>
+    <KokuInstallV2ResearcherSkullImplant.description>Installiert das V2-Forscher-Schädelimplantat.</KokuInstallV2ResearcherSkullImplant.description>
+    <KokuInstallV3ResearcherSkullImplant.label>Installieren Sie das V3-Forscher-Schädelimplantat</KokuInstallV3ResearcherSkullImplant.label>
+    <KokuInstallV3ResearcherSkullImplant.description>Installiert ein V3-Forscher-Schädelimplantat.</KokuInstallV3ResearcherSkullImplant.description>
+    <KokuInstallV1MinerSkullImplant.label>Installieren Sie das V1-Miner-Schädelimplantat</KokuInstallV1MinerSkullImplant.label>
+    <KokuInstallV1MinerSkullImplant.description>Installiert das V1-Minenarbeiter-Schädelimplantat.</KokuInstallV1MinerSkullImplant.description>
+    <KokuInstallV2MinerSkullImplant.label>Installieren Sie das V2-Miner-Schädelimplantat</KokuInstallV2MinerSkullImplant.label>
+    <KokuInstallV2MinerSkullImplant.description>Installiert das V2-Miner-Schädelimplantat.</KokuInstallV2MinerSkullImplant.description>
+    <KokuInstallV3MinerSkullImplant.label>Installieren Sie das V3-Miner-Schädelimplantat</KokuInstallV3MinerSkullImplant.label>
+    <KokuInstallV3MinerSkullImplant.description>Installiert das V3-Minenarbeiter-Schädelimplantat.</KokuInstallV3MinerSkullImplant.description>
+    <KokuInstallV1FarmerSkullImplant.label>Installieren Sie das V1-Farmer-Schädelimplantat</KokuInstallV1FarmerSkullImplant.label>
+    <KokuInstallV1FarmerSkullImplant.description>Installiert V1-Farmer-Schädelimplantat.</KokuInstallV1FarmerSkullImplant.description>
+    <KokuInstallV2FarmerSkullImplant.label>Installieren Sie das V2-Farmer-Schädelimplantat</KokuInstallV2FarmerSkullImplant.label>
+    <KokuInstallV2FarmerSkullImplant.description>Installiert das V2-Farmer-Schädelimplantat.</KokuInstallV2FarmerSkullImplant.description>
+    <KokuInstallV3FarmerSkullImplant.label>Installieren Sie das V3-Farmer-Schädelimplantat</KokuInstallV3FarmerSkullImplant.label>
+    <KokuInstallV3FarmerSkullImplant.description>Installiert das V3-Farmer-Schädelimplantat.</KokuInstallV3FarmerSkullImplant.description>
+    <KokuInstallV1RancherSkullImplant.label>Installieren Sie das V1-Rancher-Schädelimplantat</KokuInstallV1RancherSkullImplant.label>
+    <KokuInstallV1RancherSkullImplant.description>Installiert ein V1-Rancher-Schädelimplantat.</KokuInstallV1RancherSkullImplant.description>
+    <KokuInstallV2RancherSkullImplant.label>Installieren Sie das V2-Rancher-Schädelimplantat</KokuInstallV2RancherSkullImplant.label>
+    <KokuInstallV2RancherSkullImplant.description>Installiert das V2-Rancher-Schädelimplantat.</KokuInstallV2RancherSkullImplant.description>
+    <KokuInstallV3RancherSkullImplant.label>Installieren Sie das V3-Rancher-Schädelimplantat</KokuInstallV3RancherSkullImplant.label>
+    <KokuInstallV3RancherSkullImplant.description>Installiert ein V3-Rancher-Schädelimplantat.</KokuInstallV3RancherSkullImplant.description>
+    <KokuInstallV1ChefSkullImplant.label>Installieren Sie das V1 Chef-Schädelimplantat</KokuInstallV1ChefSkullImplant.label>
+    <KokuInstallV1ChefSkullImplant.description>Installiert V1-Chef-Schädelimplantat.</KokuInstallV1ChefSkullImplant.description>
+    <KokuInstallV2ChefSkullImplant.label>Installieren Sie das V2-Chef-Schädelimplantat</KokuInstallV2ChefSkullImplant.label>
+    <KokuInstallV2ChefSkullImplant.description>Installiert das V2-Chef-Schädelimplantat.</KokuInstallV2ChefSkullImplant.description>
+    <KokuInstallV3ChefSkullImplant.label>Installieren Sie das V3 Chef-Schädelimplantat</KokuInstallV3ChefSkullImplant.label>
+    <KokuInstallV3ChefSkullImplant.description>Installiert das V3-Chef-Schädelimplantat.</KokuInstallV3ChefSkullImplant.description>
+    <KokuInstallV1BuilderSkullImplant.label>Installieren Sie das V1 Builder-Schädelimplantat</KokuInstallV1BuilderSkullImplant.label>
+    <KokuInstallV1BuilderSkullImplant.description>Installiert das V1-Builder-Schädelimplantat.</KokuInstallV1BuilderSkullImplant.description>
+    <KokuInstallV2BuilderSkullImplant.label>Installieren Sie das V2 Builder-Schädelimplantat</KokuInstallV2BuilderSkullImplant.label>
+    <KokuInstallV2BuilderSkullImplant.description>Installiert das V2-Builder-Schädelimplantat.</KokuInstallV2BuilderSkullImplant.description>
+    <KokuInstallV3BuilderSkullImplant.label>Installieren Sie das V3 Builder-Schädelimplantat</KokuInstallV3BuilderSkullImplant.label>
+    <KokuInstallV3BuilderSkullImplant.description>Installiert das V3-Builder-Schädelimplantat.</KokuInstallV3BuilderSkullImplant.description>
+    <KokuInstallV1MaidSkullImplant.label>Installieren Sie das V1-Dienstmädchen-Schädelimplantat</KokuInstallV1MaidSkullImplant.label>
+    <KokuInstallV1MaidSkullImplant.description>Installiert V1-Dienstmädchen-Schädelimplantat.</KokuInstallV1MaidSkullImplant.description>
+    <KokuInstallV2MaidSkullImplant.label>Installieren Sie das V2-Maid-Schädelimplantat</KokuInstallV2MaidSkullImplant.label>
+    <KokuInstallV2MaidSkullImplant.description>Installiert das V2-Dienstmädchen-Schädelimplantat.</KokuInstallV2MaidSkullImplant.description>
+    <KokuInstallV3MaidSkullImplant.label>Installieren Sie das V3-Maid-Schädelimplantat</KokuInstallV3MaidSkullImplant.label>
+    <KokuInstallV3MaidSkullImplant.description>Installiert das V3-Dienstmädchen-Schädelimplantat.</KokuInstallV3MaidSkullImplant.description>
+    <KokuInstallV1SocialSkullImplant.label>Installieren Sie das soziale Schädelimplantat V1</KokuInstallV1SocialSkullImplant.label>
+    <KokuInstallV1SocialSkullImplant.description>Installiert das soziale Schädelimplantat V1.</KokuInstallV1SocialSkullImplant.description>
+    <KokuInstallV2SocialSkullImplant.label>Installieren Sie das soziale Schädelimplantat V2</KokuInstallV2SocialSkullImplant.label>
+    <KokuInstallV2SocialSkullImplant.description>Installiert das soziale Schädelimplantat V2.</KokuInstallV2SocialSkullImplant.description>
+    <KokuInstallV3SocialSkullImplant.label>Installieren Sie das soziale Schädelimplantat V3</KokuInstallV3SocialSkullImplant.label>
+    <KokuInstallV3SocialSkullImplant.description>Installiert das soziale Schädelimplantat V3.</KokuInstallV3SocialSkullImplant.description>
+    <KokuInstallV1MedicSkullImplant.label>Installieren Sie das V1 Medic-Schädelimplantat</KokuInstallV1MedicSkullImplant.label>
+    <KokuInstallV1MedicSkullImplant.description>Installiert ein V1-Mediziner-Schädelimplantat.</KokuInstallV1MedicSkullImplant.description>
+    <KokuInstallV2MedicSkullImplant.label>Installieren Sie das V2 Medic-Schädelimplantat</KokuInstallV2MedicSkullImplant.label>
+    <KokuInstallV2MedicSkullImplant.description>Installiert ein V2-Sanitäter-Schädelimplantat.</KokuInstallV2MedicSkullImplant.description>
+    <KokuInstallV3MedicSkullImplant.label>Installieren Sie das V3 Medic-Schädelimplantat</KokuInstallV3MedicSkullImplant.label>
+    <KokuInstallV3MedicSkullImplant.description>Installiert ein V3-Sanitäter-Schädelimplantat.</KokuInstallV3MedicSkullImplant.description>
+    <KokuInstallV1FastLearnerSkullImplant.label>Installieren Sie das V1 Fast Learner-Schädelimplantat</KokuInstallV1FastLearnerSkullImplant.label>
+    <KokuInstallV1FastLearnerSkullImplant.description>Installiert das V1-Fast-Learning-Schädelimplantat.</KokuInstallV1FastLearnerSkullImplant.description>
+    <KokuInstallV2FastLearnerSkullImplant.label>Installieren Sie das V2 Fast Learner-Schädelimplantat</KokuInstallV2FastLearnerSkullImplant.label>
+    <KokuInstallV2FastLearnerSkullImplant.description>Installiert das V2-Fast-Learning-Schädelimplantat.</KokuInstallV2FastLearnerSkullImplant.description>
+    <KokuInstallV3FastLearnerSkullImplant.label>Installieren Sie das V3 Fast Learner-Schädelimplantat</KokuInstallV3FastLearnerSkullImplant.label>
+    <KokuInstallV3FastLearnerSkullImplant.description>Installiert das V3-Fast-Learning-Schädelimplantat.</KokuInstallV3FastLearnerSkullImplant.description>
+    <KokuInstallV1MeleeSoldierSkullImplant.label>Installieren Sie das V1-Nahkampfsoldaten-Schädelimplantat</KokuInstallV1MeleeSoldierSkullImplant.label>
+    <KokuInstallV1MeleeSoldierSkullImplant.description>Installiert ein V1-Nahkampfsoldaten-Schädelimplantat.</KokuInstallV1MeleeSoldierSkullImplant.description>
+    <KokuInstallV2MeleeSoldierSkullImplant.label>Installieren Sie das V2-Nahkampfsoldaten-Schädelimplantat</KokuInstallV2MeleeSoldierSkullImplant.label>
+    <KokuInstallV2MeleeSoldierSkullImplant.description>Installiert ein V2-Nahkampfsoldaten-Schädelimplantat.</KokuInstallV2MeleeSoldierSkullImplant.description>
+    <KokuInstallV3MeleeSoldierSkullImplant.label>Installieren Sie das V3-Nahkampfsoldaten-Schädelimplantat</KokuInstallV3MeleeSoldierSkullImplant.label>
+    <KokuInstallV3MeleeSoldierSkullImplant.description>Installiert ein V3-Nahkampfsoldaten-Schädelimplantat.</KokuInstallV3MeleeSoldierSkullImplant.description>
+    <KokuInstallV1RangeSoldierSkullImplant.label>Installieren Sie das Soldatenschädelimplantat der V1-Reihe</KokuInstallV1RangeSoldierSkullImplant.label>
+    <KokuInstallV1RangeSoldierSkullImplant.description>Installiert ein Soldatenschädelimplantat der Reihe V1.</KokuInstallV1RangeSoldierSkullImplant.description>
+    <KokuInstallV2RangeSoldierSkullImplant.label>Installieren Sie das Soldatenschädelimplantat der V2-Reihe</KokuInstallV2RangeSoldierSkullImplant.label>
+    <KokuInstallV2RangeSoldierSkullImplant.description>Installiert ein Soldatenschädelimplantat der V2-Reihe.</KokuInstallV2RangeSoldierSkullImplant.description>
+    <KokuInstallV3RangeSoldierSkullImplant.label>Installieren Sie das Soldatenschädelimplantat der V3-Reihe</KokuInstallV3RangeSoldierSkullImplant.label>
+    <KokuInstallV3RangeSoldierSkullImplant.description>Installiert ein Soldatenschädelimplantat der V3-Reihe.</KokuInstallV3RangeSoldierSkullImplant.description>
+</LanguageData>

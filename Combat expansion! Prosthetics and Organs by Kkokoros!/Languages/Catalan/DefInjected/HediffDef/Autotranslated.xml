@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Urpa biònica</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>una urpa biònica</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Una urpa biònica instal·lada.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>urpa biònica</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Braç de pistola biònica</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>un braç d'arma biònica</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Un braç de pistola biònic instal·lat.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>braç de la pistola biònica</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Braç EMP biònic</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>un braç biònic EMP instal·lat</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Un braç biònic EMP instal·lat.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>braç biònic EMP</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Braç incendiari biònic</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>un braç incendiari biònic instal·lat</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Un braç incendiari biònic instal·lat.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>braç incendiari biònic</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Braç de fum biònic</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>un braç de fum biònic instal·lat</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Un braç de fum biònic instal·lat.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>braç de fum biònic</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Mandíbula d'alè de foc biònic</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>una mandíbula de foc biònic instal·lada</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Una mandíbula de foc biònic instal·lada.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>urpa biònica avançada</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>una urpa biònica avançada</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Una urpa biònica avançada instal·lada.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>urpa biònica avançada</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>braç biònic avançat</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>un braç de pistola biònic avançat</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Un braç de pistola biònic avançat instal·lat.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>braç biònic avançat</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Braç EMP biònic avançat</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>un braç EMP biònic avançat instal·lat</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Un braç EMP biònic avançat instal·lat.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>braç EMP biònic avançat</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Braç incendiari biònic avançat</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>un braç incendiari biònic avançat instal·lat</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Un braç incendiari biònic avançat instal·lat.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>braç incendiari biònic avançat</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Braç de fum biònic avançat</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>un braç de fum biònic avançat instal·lat</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Un braç de fum biònic avançat instal·lat.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>braç de fum biònic avançat</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Mandíbula d'alè de foc biònic avançat</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>una mandíbula d'alè de foc biònic avançada instal·lada</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Una mandíbula d'alè de foc biònic avançat instal·lada.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>urpa ultra biònica</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>una urpa ultra biònica</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Una urpa ultra biònica instal·lada.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>urpa ultra biònica</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>braç de pistola ultra biònic</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>un braç de pistola ultra biònic</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Un braç de pistola ultra biònic instal·lat.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>braç de pistola ultra biònic</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Braç EMP ultra biònic</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>un braç EMP ultra biònic instal·lat</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Un braç EMP ultra biònic instal·lat.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>braç EMP ultra biònic</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Braç incendiari ultra biònic</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>un braç incendiari ultra biònic instal·lat</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Un braç incendiari ultra biònic instal·lat.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>braç incendiari ultra biònic</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Braç de fum ultra biònic</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>un braç de fum ultra biònic instal·lat</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Un braç de fum ultra biònic instal·lat.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>braç de fum ultra biònic</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Mandíbula ultra biònica d'alè de foc</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>una mandíbula ultra biònica instal·lada</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Una mandíbula ultra biònica instal·lada.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

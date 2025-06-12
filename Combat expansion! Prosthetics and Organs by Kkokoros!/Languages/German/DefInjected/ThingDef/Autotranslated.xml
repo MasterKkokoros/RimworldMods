@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Dies ist eine Selbstmordweste mit zerstörerischer Kraft.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>Bombenzünder</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bionische Klaue</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Einer der anspruchsvollsten Armersatzteile. Verleiht seinem Benutzer extreme Kraft.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>Bionischer Waffenarm</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Einer der anspruchsvollsten Armersatzteile. Verleiht dem Benutzer extreme Kraft und ist mit einer eingebauten Autopistole ausgestattet.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bionischer EMP-Arm</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Einer der anspruchsvollsten Armersatzteile. Verleiht dem Benutzer extreme Kraft und ist mit einem integrierten EMP-Werfer ausgestattet.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>Bionischer Brandarm</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Einer der anspruchsvollsten Armersatzteile. Verleiht dem Benutzer extreme Kraft und ist mit einem eingebauten Brandwerfer ausgestattet.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>Bionischer Raucharm</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Einer der anspruchsvollsten Armersatzteile. Verleiht dem Benutzer extreme Kraft und ist mit einem eingebauten Rauchwerfer ausgestattet.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bionischer Feueratem-Kiefer</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Einer der anspruchsvollsten Kieferersatzprodukte. Ist mit einem eingebauten Flammenwerfer ausgestattet.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>Fortgeschrittene bionische Klaue</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Ist es noch ein Arm? Es verleiht dem Benutzer extrem extreme Kraft.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>fortschrittlicher bionischer Waffenarm</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Ist es noch ein Arm? Es verleiht dem Benutzer mit einer eingebauten Autopistole extrem extreme Kraft.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>fortschrittlicher bionischer EMP-Arm</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Ist es noch ein Arm? Es verleiht dem Benutzer mit einem integrierten EMP-Launcher extrem extreme Kraft.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>fortschrittlicher bionischer Brandarm</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Ist es noch ein Arm? Es verleiht dem Benutzer mit einem eingebauten Brandwerfer äußerste Kraft.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>fortschrittlicher bionischer Raucharm</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Ist es noch ein Arm? Es verleiht dem Benutzer mit einem eingebauten Rauchwerfer extrem extreme Kraft.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>fortgeschrittener bionischer Feueratem-Kiefer</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Ist es noch ein Kiefer? Es verleiht dem Benutzer mit einem eingebauten Flammenwerfer extrem extreme Kraft.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>Ultrabionische Klaue</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Das hier ist wahnsinnig.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>Ultrabionischer Waffenarm</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Dieser ist wahnsinnig und außerdem mit einer eingebauten Autopistole ausgestattet.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>Ultrabionischer EMP-Arm</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Dieser ist F%^$^ng verrückt und verfügt außerdem über einen integrierten EMP-Launcher.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>Ultrabionischer Brandarm</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Dieser ist F%^$^ng verrückt und verfügt außerdem über einen eingebauten Brandwerfer.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>Ultrabionischer Raucharm</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Dieser ist wahnsinnig und außerdem mit einem eingebauten Rauchwerfer ausgestattet.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>Ultrabionischer Feueratem-Kiefer</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Dieser ist wahnsinnig und mit einem eingebauten Flammenwerfer ausgestattet.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionic kamptillegg</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Legger til bioniske kamptillegg som innebygd autopistol eller klo.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Avanserte kamptillegg</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Legger til avanserte bioniske kamptillegg som innebygd autopistol eller klo.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultrakamptillegg</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Legger til ultrabioniske kamptillegg som innebygd autopistol eller klo.</KokuUltraBionicsGun.description>
+</LanguageData>

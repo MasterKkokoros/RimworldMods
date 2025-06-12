@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Ez egy öngyilkos mellény pusztító erővel.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>bomba detonátor</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bionikus karom</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Az egyik legkifinomultabb karcsere. Rendkívüli erőt ad használójának.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>bionikus fegyverkar</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Az egyik legkifinomultabb karcsere. Rendkívüli erőt ad használójának, és beépített autopisztollyal van felszerelve.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bionikus EMP kar</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Az egyik legkifinomultabb karcsere. Rendkívüli erőt ad a felhasználónak, és beépített EMP indítóval van felszerelve.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bionikus gyújtókar</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Az egyik legkifinomultabb karcsere. Rendkívüli erőt ad használójának, és beépített gyújtóindítóval van felszerelve.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bionikus füstkar</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Az egyik legkifinomultabb karcsere. Rendkívüli erőt ad használójának, és beépített füstölővel van felszerelve.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bionikus tűzlégzés állkapocs</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Az egyik legkifinomultabb állkapocscsere. Beépített lángszóróval van felszerelve.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>fejlett bionikus karom</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Még mindig egy kar? Rendkívül extrém erőt ad a felhasználónak.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>fejlett bionikus fegyverkar</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Még mindig egy kar? Rendkívül extrém erőt ad a felhasználónak a beépített autopisztollyal.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>fejlett bionikus EMP kar</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Még mindig egy kar? Rendkívül extrém erőt ad a felhasználónak a beépített EMP indítóval.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>fejlett bionikus gyújtókar</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Még mindig egy kar? Rendkívül extrém erőt ad a felhasználónak a beépített gyújtóindítóval.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>fejlett bionikus füstkar</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Még mindig egy kar? Rendkívül extrém erőt ad a felhasználónak a beépített füstölővel.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>fejlett bionikus tűzlégzés állkapocs</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Még mindig állkapocs? Rendkívül extrém erőt ad a felhasználónak a beépített lángszóróval.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionikus karom</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Ez F%^$^ng őrült.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra bionikus fegyverkar</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Ez F%^$^ng őrült, és egy beépített autopisztollyal is fel van szerelve.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra bionikus EMP kar</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Ez F%^$^ng őrült, és beépített EMP indítóval is fel van szerelve.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra bionikus gyújtókar</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Ez F%^$^ng őrült, és beépített gyújtóvetővel is fel van szerelve.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bionikus füstkar</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Ez F%^$^ng őrült, és beépített füstölővel is fel van szerelve.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra bionikus tűzlégzés állkapocs</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Ez F%^$^ng őrült, és beépített lángszóróval is fel van szerelve.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

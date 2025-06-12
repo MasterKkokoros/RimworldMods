@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Questo è un giubbotto suicida con potere distruttivo.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>detonatore di bombe</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>artiglio bionico</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Una delle sostituzioni del braccio più sofisticate. Dona una forza estrema a chi lo utilizza.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>braccio della pistola bionica</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Una delle sostituzioni del braccio più sofisticate. Dona estrema forza a chi lo utilizza ed è dotato di pistola automatica incorporata.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>braccio EMP bionico</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Una delle sostituzioni del braccio più sofisticate. Dona estrema forza a chi lo utilizza ed è dotato di un lanciatore EMP integrato.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>braccio incendiario bionico</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Una delle sostituzioni del braccio più sofisticate. Dona una forza estrema a chi lo usa ed è dotato di un lanciatore incendiario incorporato.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>braccio fumogeno bionico</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Una delle sostituzioni del braccio più sofisticate. Dona estrema forza a chi lo utilizza ed è dotato di un lanciafumo incorporato.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>mascella bionica del soffio di fuoco</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Una delle sostituzioni della mascella più sofisticate. È dotato di lanciafiamme incorporato.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>artiglio bionico avanzato</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>È ancora un braccio? Fornisce all'utente una forza estremamente estrema.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>braccio armato bionico avanzato</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>È ancora un braccio? Offre all'utente una forza estremamente estrema con una pistola automatica incorporata.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>braccio EMP bionico avanzato</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>È ancora un braccio? Offre all'utente una forza estremamente estrema con un launcher EMP integrato.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>braccio incendiario bionico avanzato</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>È ancora un braccio? Fornisce all'utente una forza estremamente estrema con un lanciatore incendiario incorporato.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>braccio fumogeno bionico avanzato</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>È ancora un braccio? Offre all'utente una forza estremamente estrema con un lanciafumo integrato.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>mascella bionica avanzata del soffio di fuoco</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>È ancora una mascella? Fornisce all'utente una forza estremamente estrema con un lanciafiamme incorporato.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>artiglio ultra bionico</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Questo è F%^$^ng pazzo.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>braccio della pistola ultra bionico</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Questo è F%^$^ng pazzo ed è anche dotato di una pistola automatica incorporata.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>braccio EMP ultra bionico</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Questo è F%^$^ng pazzesco ed è dotato anche di un launcher EMP integrato.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>braccio incendiario ultra bionico</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Questo è F%^$^ng pazzo ed è anche dotato di un lanciatore incendiario incorporato.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>braccio fumogeno ultra bionico</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Questo è F%^$^ng pazzesco ed è dotato anche di un lanciafumo incorporato.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>mascella di alito di fuoco ultra bionico</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Questo è F%^$^ng pazzo ed è dotato anche di un lanciafiamme incorporato.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

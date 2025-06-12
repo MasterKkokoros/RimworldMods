@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Biooniline küünis</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>biooniline küünis</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Paigaldatud biooniline küünis.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>biooniline küünis</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Biooniline relva käsi</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>biooniline relva käsi</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Paigaldatud biooniline püstoli õlg.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>biooniline relva käsi</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Biooniline EMP käsi</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>paigaldatud biooniline EMP vars</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Paigaldatud biooniline EMP vars.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>biooniline EMP käsi</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Biooniline süütekäsi</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>paigaldatud biooniline süüteõlg</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Paigaldatud biooniline süüteõlg.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>biooniline süütekäsi</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Biooniline suitsuvars</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>paigaldatud biooniline suitsuvars</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Paigaldatud biooniline suitsuvars.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>biooniline suitsukäsi</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Bioonilise tule hingelõua</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>paigaldatud biooniline tulelõug</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Paigaldatud biooniline tulehingamislõug.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>arenenud biooniline küünis</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>täiustatud biooniline küünis</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Paigaldatud täiustatud biooniline küünis.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>arenenud biooniline küünis</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>täiustatud biooniline relva käsi</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>täiustatud biooniline relva käsi</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Paigaldatud täiustatud biooniline püstol.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>täiustatud biooniline relva käsi</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Täiustatud biooniline EMP vars</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>paigaldatud täiustatud biooniline EMP käsi</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Paigaldatud täiustatud biooniline EMP-vars.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>täiustatud biooniline EMP käsi</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Täiustatud biooniline süütevars</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>paigaldatud täiustatud biooniline süüteõlg</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Paigaldatud täiustatud biooniline süüteõlg.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>täiustatud biooniline süütekäsi</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Täiustatud biooniline suitsuvars</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>paigaldatud täiustatud biooniline suitsuhoob</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Paigaldatud täiustatud biooniline suitsuhoob.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>täiustatud biooniline suitsukäsi</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Täiustatud biooniline tulehingamislõug</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>paigaldatud täiustatud biooniline tulehingamislõug</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Paigaldatud täiustatud biooniline tulehingamislõug.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra biooniline küünis</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ülibiooniline küünis</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Paigaldatud ultrabiooniline küünis.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra biooniline küünis</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ultra biooniline relva käsi</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ülibiooniline relvavars</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Paigaldatud ultrabiooniline püstolivars.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ultra biooniline relva käsi</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra biooniline EMP vars</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>paigaldatud ultrabiooniline EMP vars</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Paigaldatud ultrabiooniline EMP-vars.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultra biooniline EMP käsi</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultra biooniline süütevars</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>paigaldatud ultrabiooniline süütevars</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Paigaldatud ultrabiooniline süüteõlg.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra biooniline süütevars</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultra biooniline suitsuvars</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>paigaldatud ultrabiooniline suitsuvars</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Paigaldatud ultrabiooniline suitsuvars.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra biooniline suitsuvars</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultra biooniline tulehingamislõug</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>paigaldatud ultrabiooniline tulehingamislõug</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Paigaldatud ultrabiooniline tulehingamislõug.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

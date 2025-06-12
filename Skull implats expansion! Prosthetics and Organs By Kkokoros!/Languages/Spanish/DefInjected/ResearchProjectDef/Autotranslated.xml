@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>implantes de cráneo artificiales</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Desbloquea la capacidad de crear implantes de cráneo e instalarlos.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>implantes de cráneo avanzados</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Le permite crear implantes de cráneo avanzados.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>implantes ultra craneales</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Le permite crear implantes ultracráneos.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

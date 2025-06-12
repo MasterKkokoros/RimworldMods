@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>konstgjorda skallimplantat</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Låser upp möjligheten att tillverka skallimplantat och installera dem.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>avancerade skallimplantat</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Låter dig skapa avancerade skallimplantat.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultraskalleimplantat</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Låter dig skapa ultraskalleimplantat.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>バイオニック戦闘アドオン</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>内蔵オートピストルやクローなどのバイオニック戦闘アドオンを追加します。</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>高度な戦闘アドオン</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>内蔵オートピストルやクローなどの高度なバイオニック戦闘アドオンを追加します。</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>ウルトラコンバットアドオン</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>内蔵オートピストルやクローなどのウルトラバイオニック戦闘アドオンを追加します。</KokuUltraBionicsGun.description>
+</LanguageData>

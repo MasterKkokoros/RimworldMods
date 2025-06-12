@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>installera bionisk klo</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Installerar bionisk klo.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Installation av bionisk klo.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>installera bionisk pistolarm</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Installerar bionisk pistolarm.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Installation av bionisk pistolarm.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>installera bionisk EMP-arm</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Installerar bionisk EMP-arm.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Installation av bionisk EMP-arm.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>installera bionisk brandarm</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Installerar bionisk brandarm.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Installerar bionisk brandarm.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>installera bionisk rökarm</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Installerar bionisk rökarm.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Installation av bionisk rökarm.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>installera bionisk brand andedräkt käke</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Installerar bionisk eldandningskäke.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Installation av bionisk eldandningskäft.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>installera avancerad bionisk klo</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Installerar avancerad bionisk klo.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Installation av avancerad bionisk klo.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>installera avancerad bionisk pistolarm</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Installerar avancerad bionisk pistolarm.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Installation av avancerad bionisk pistolarm.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>installera avancerad bionisk EMP-arm</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Installerar avancerad bionisk EMP-arm.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Installerar avancerad bionisk EMP-arm.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>installera avancerad bionisk brandarm</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Installerar avancerad bionisk brandarm.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Installerar avancerad bionisk brandarm.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>installera avancerad bionisk rökarm</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Installerar avancerad bionisk rökarm.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Installation av avancerad bionisk rökarm.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>installera avancerad bionisk eldandningskäft</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Installerar avancerad bionisk eldandningskäft.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Installation av avancerad bionisk eldandningskäft.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>installera ultra bionisk klo</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Installerar ultra bionisk klo.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Installera ultra bionisk klo.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>installera ultrabionic pistolarm</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Installerar ultrabionic pistolarm.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Installation av ultrabionic pistolarm.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>installera ultrabionic EMP-arm</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Installerar ultrabionic EMP-arm.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Installation av ultrabionic EMP-arm.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>installera ultra bionisk brandarm</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Installerar ultra bionisk brandarm.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Installation av ultrabionisk brandarm.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>installera ultra bionisk rökarm</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Installerar ultra bionisk rökarm.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Installation av ultra bionisk rökarm.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>installera ultra bionisk brand andedräkt käke</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Installerar ultra bionisk eldandningskäke.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Installation av ultra bionisk eldandningskäft.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

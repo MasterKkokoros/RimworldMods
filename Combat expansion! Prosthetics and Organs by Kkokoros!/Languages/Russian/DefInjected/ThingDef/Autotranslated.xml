@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Сусайд</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Это жилет смертника, обладающий разрушительной силой.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>детонатор бомбы</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>бионический коготь</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Одна из самых сложных замен рук. Дает невероятную силу своему пользователю.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>рука с бионическим пистолетом</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Одна из самых сложных замен рук. Дает пользователю невероятную силу и оснащен встроенным автопистолетом.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>бионическая ЭМИ рука</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Одна из самых сложных замен рук. Дает пользователю невероятную силу и оснащен встроенной ЭМИ-пусковой установкой.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>бионическая зажигательная рука</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Одна из самых сложных замен рук. Дает пользователю невероятную силу и оснащен встроенной зажигательной гранатой.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>бионическая дымовая рука</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Одна из самых сложных замен рук. Дает пользователю невероятную силу и оснащен встроенным дымомётом.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>бионическое огненное дыхание челюсть</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Одна из самых сложных замен челюстей. Оснащен встроенным огнеметом.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>продвинутый бионический коготь</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Это все еще рука? Это дает пользователю чрезвычайно чрезвычайную силу.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>усовершенствованная бионическая рука-пушка</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Это все еще рука? Он дает пользователю невероятную силу благодаря встроенному автопистолету.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>усовершенствованная бионическая рука с ЭМИ</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Это все еще рука? Он дает пользователю невероятную силу благодаря встроенной ЭМИ-пусковой установке.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>усовершенствованная бионическая зажигательная рука</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Это все еще рука? Он дает пользователю невероятную силу благодаря встроенной зажигательной пусковой установке.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>усовершенствованная бионическая дымовая рука</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Это все еще рука? Он дает пользователю невероятную силу благодаря встроенному дымовому гранатомету.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>усовершенствованная бионическая челюсть с огненным дыханием</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Это все еще челюсть? Он дает пользователю невероятную силу благодаря встроенному огнемету.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ультра бионический коготь</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Этот чертовски безумен.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ультра бионическая рука-пистолет</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Этот чертовски безумен и оснащен встроенным автопистолетом.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ультрабионическая рука с ЭМИ</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Этот F%^$^ng безумен и оснащен встроенной ЭМИ-пусковой установкой.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>Ультрабионическая зажигательная рука</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Этот чертовски безумен и оснащен встроенной зажигательной установкой.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>Ультра бионическая дымовая рука</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Этот чертовски безумен и оснащен встроенной дымовой установкой.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>Ультрабионическая челюсть с огненным дыханием</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Этот чертовски безумен и оснащен встроенным огнеметом.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

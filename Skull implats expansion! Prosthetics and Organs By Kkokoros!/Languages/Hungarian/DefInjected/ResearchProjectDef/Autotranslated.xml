@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>mesterséges koponya implantátumok</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Felszabadítja a koponyaimplantátumok készítésének és beszerelésének lehetőségét.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>fejlett koponya implantátumok</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Lehetővé teszi fejlett koponyaimplantátumok készítését.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra koponya implantátumok</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Lehetővé teszi ultrakoponya implantátumok készítését.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

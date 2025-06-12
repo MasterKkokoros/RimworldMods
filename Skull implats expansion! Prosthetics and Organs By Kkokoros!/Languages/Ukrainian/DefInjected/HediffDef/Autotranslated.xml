@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>Імплантат безсонного черепа V1</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Встановлений безсонний черепний імплантат V1.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 безсонний імплантат черепа</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Встановлений безсонний черепний імплантат V2.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>Імплантат безсонного черепа V3</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Встановлений безсонний черепний імплантат V3.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>Імплантат V1 без психічного черепа</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Встановлений безекстрасенсний черепний імплантат V1.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>Імплантат V2 без психічного черепа</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Встановлений безекстрасенсний черепний імплантат V2.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>Імплантат V3 без психічного черепа</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Встановлений безекстрасенсний черепний імплантат V3.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>Імплантат черепа дослідника V1</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Встановлений імплантат черепа дослідника V1.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Імплантат черепа дослідника V2</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Встановлений дослідницький імплантат V2.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Імплантат черепа дослідника V3</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Встановлений імплантат черепа дослідника V3.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Імплантат черепа шахтаря V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Встановлений імплантат черепа майнера V1.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Імплантат черепа шахтаря V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Встановлений майнер-імплантат V2.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Імплантат черепа шахтаря V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Встановлений імплантат черепа майнера V3.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>Імплантат черепа фермера V1</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Встановлений імплантат черепа фермера V1.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>Імплантат черепа фермера V2</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Встановлений фермерський імплантат V2.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>Імплантат черепа фермера V3</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Встановлений імплантат черепа фермера V3.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Імплантат черепа ранчера V1</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Встановлений імплантат черепа ранчера V1.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Імплантат черепа ранчера V2</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Встановлений імплантат V2 Rancher.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Імплантат черепа ранчера V3</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Встановлений імплантат черепа ранчера V3.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Імплантат черепа шеф-кухаря V1</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Встановлений імплантат черепа шеф-кухаря V1.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Імплантат черепа шеф-кухаря V2</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Встановлений імплант V2 chef.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Імплантат черепа шеф-кухаря V3</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Встановлений імплантат черепа шеф-кухаря V3.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Черепний імплантат V1 builder</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Встановлений черепний імплантат V1 builder.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Черепний імплантат V2 builder</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Встановлений імплантат V2 builder.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>Черепний імплантат V3 builder</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Встановлений черепний імплантат V3 builder.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>Імплантат черепа покоївки V1</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Встановлений імплантат черепа покоївки V1.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>Імплантат черепа покоївки V2</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Встановлений імплантат V2 maid.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>Імплантат черепа покоївки V3</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Встановлений імплантат черепа покоївки V3.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>Соціальний імплантат черепа V1</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Встановлений соціальний черепний імплантат V1.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Соціальний черепний імплантат V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Встановлений соціальний імплантат V2.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Соціальний імплантат черепа V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Встановлений соціальний черепний імплантат V3.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 медичний імплантат черепа</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Встановлений медичний черепний імплантат V1.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 медичний імплантат черепа</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Встановлений фермерський імплантат V2.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 медичний імплантат черепа</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Встановлений медичний черепний імплантат V3.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>Черепний імплантат V1 для швидкого навчання</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Встановлений черепний імплантат V1 швидкого навчання.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>Черепний імплантат V2 для швидкого навчання</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Встановлений черепний імплантат V2 швидкого навчання.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>Імплантат черепа для швидкого навчання V3</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Встановлений черепний імплантат V3 швидкого навчання.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Імплантат черепа солдата ближнього бою V1</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Встановлений імплантат черепа солдата ближнього бою V1.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Імплантат черепа солдата ближнього бою V2</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Встановлений імплантат черепа солдата ближнього бою V2.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Імплантат черепа солдата ближнього бою V3</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Встановлений імплантат черепа солдата ближнього бою V3.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Імплантат солдатського черепа серії V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Встановлений солдатський імплантат серії V1.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Імплантат солдатського черепа серії V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Встановлений солдатський імплантат серії V2.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Імплантат солдатського черепа серії V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Встановлений солдатський імплантат серії V3.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

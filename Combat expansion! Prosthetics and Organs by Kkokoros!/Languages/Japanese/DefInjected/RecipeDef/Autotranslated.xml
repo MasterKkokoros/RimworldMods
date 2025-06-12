@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>バイオニッククローを取り付ける</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>バイオニッククローを装着します。</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>バイオニッククローの取り付け。</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>バイオニックガンアームを取り付ける</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>バイオニックガンアームを取り付けます。</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>バイオニックガンアームの取り付け。</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>バイオニックEMPアームを取り付ける</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>バイオニックEMPアームを取り付けます。</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>バイオニックEMPアームの取り付け。</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>バイオニック焼夷アームを設置する</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>バイオニック焼夷アームを設置します。</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>バイオニック焼夷アームの設置。</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>バイオニックスモークアームを取り付ける</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>バイオニックスモークアームを取り付けます。</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>バイオニックスモークアームの取り付け。</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>バイオニックファイアブレスジョーを取り付けます</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>バイオニックファイアブレスジョーを取り付けます。</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>バイオニックファイアブレスジョーを取り付けます。</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>高度なバイオニッククローをインストールする</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>先進のバイオニッククローを搭載。</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>先進のバイオニッククローを搭載。</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>高度なバイオニックガンアームを取り付ける</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>先進的なバイオニックガンアームを搭載。</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>先進的なバイオニックガンアームの取り付け。</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>高度なバイオニック EMP アームをインストールする</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>先進のバイオニックEMPアームを搭載。</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>先進的なバイオニックEMPアームを搭載。</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>先進的なバイオニック焼夷アームを設置する</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>先進的なバイオニック焼夷アームを搭載。</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>先進的なバイオニック焼夷アームの設置。</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>高度なバイオニックスモークアームを設置する</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>先進のバイオニックスモークアームを搭載。</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>先進的なバイオニックスモークアームを搭載。</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>高度なバイオニックファイアブレスジョーをインストールする</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>先進的なバイオニックファイアブレスジョーを搭載。</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>先進的なバイオニックファイアブレスジョーを搭載。</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>ウルトラバイオニッククローを取り付ける</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>ウルトラバイオニッククローを装着。</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>ウルトラバイオニッククローの取り付け。</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>ウルトラバイオニックガンアームを取り付ける</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>ウルトラバイオニックガンアームを取り付けます。</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>ウルトラバイオニックガンアームの取り付け。</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>ウルトラバイオニックEMPアームを取り付ける</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>ウルトラバイオニックEMPアームを搭載。</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>ウルトラバイオニックEMPアームの取り付け。</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>ウルトラバイオニック焼夷アームを設置する</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>超バイオニック焼夷アームを設置します。</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>超バイオニック焼夷アームの設置。</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>ウルトラバイオニックスモークアームを取り付ける</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>ウルトラバイオニックスモークアームを取り付けます。</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>ウルトラバイオニックスモークアームの取り付け。</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>ウルトラバイオニックファイアブレスジョーを取り付けます</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>ウルトラバイオニックファイアブレスジョーを取り付けます。</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>ウルトラバイオニックファイアブレスジョーを取り付けます。</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Addons de combat bionique</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Ajoute des modules complémentaires de combat bionique comme un pistolet automatique ou une griffe intégré.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Addons de combat avancés</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Ajoute des modules complémentaires de combat bionique avancés comme un pistolet automatique ou une griffe intégré.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Extensions d'ultra-combat</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Ajoute des modules complémentaires de combat ultra bioniques comme un pistolet automatique ou une griffe intégré.</KokuUltraBionicsGun.description>
+</LanguageData>

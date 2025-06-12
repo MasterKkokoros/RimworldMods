@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>Implant craniu insomn V1</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>Implant craniu insomn V2</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>Implant craniu insomn V3</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>Implant craniu fără psihic V1</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>Implant craniu fără psihic V2</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>Implant craniu fără psihic V3</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>Cercetător V1 Implant craniu</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Cercetător V2 Implant craniu</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Cercetător V3 Skull Implant</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Implant craniu miner V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Implant craniu miner V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Implant craniu miner V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>Implant craniu fermier V1</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>Implant craniu fermier V2</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>Implant craniu fermier V3</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Implant craniu rancher V1</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Implant craniu rancher V2</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Implant craniu rancher V3</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Implant de craniu V1 chef</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Implant de craniu V2 chef</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Implant de craniu V3 chef</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Implant de craniu constructor V1</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Implant de craniu constructor V2</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>Implant de craniu constructor V3</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>Implant de craniu de servitoare V1</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>Implant de craniu de servitoare V2</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>Implant de craniu de servitoare V3</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>Implant de craniu social V1</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Implant de craniu social V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Implant de craniu social V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>Implant de craniu V1 medic</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>Implant de craniu V2 medic</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>Implant de craniu V3 medic</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>Implant craniu pentru învățare rapidă V1</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>Implant de craniu pentru învățare rapidă V2</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>Implant craniu pentru învățare rapidă V3</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Implant de craniu soldat corp la corp V1</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Implant de craniu soldat corp la corp V2</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Implant de craniu soldat corp la corp V3</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Implant de craniu soldat gama V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Implant de craniu soldat gama V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Implant de craniu soldat gama V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Un dispozitiv mic care face tot posibilul pentru a îmbunătăți abilitățile utilizatorilor.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

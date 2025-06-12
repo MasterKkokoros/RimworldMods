@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Бионические боевые дополнения</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Добавляет бионические боевые дополнения, такие как встроенный автопистолет или коготь.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Продвинутые боевые дополнения</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Добавляет продвинутые бионические боевые дополнения, такие как встроенный автопистолет или коготь.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ультра боевые аддоны</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Добавляет ультрабионические боевые дополнения, такие как встроенный автопистолет или коготь.</KokuUltraBionicsGun.description>
+</LanguageData>

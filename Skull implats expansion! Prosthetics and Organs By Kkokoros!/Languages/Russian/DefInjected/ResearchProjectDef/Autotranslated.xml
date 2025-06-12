@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>имплантаты искусственного черепа</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Открывает возможность создавать имплантаты черепа и устанавливать их.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>усовершенствованные имплантаты черепа</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Позволяет создавать усовершенствованные имплантаты черепа.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ультра черепные имплантаты</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Позволяет создавать имплантаты ультрачерепа.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

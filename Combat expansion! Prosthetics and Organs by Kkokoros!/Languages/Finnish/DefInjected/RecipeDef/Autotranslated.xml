@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>asenna bionic claw</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Asentaa bionisen kynnen.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Bionic claw asennus.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>asenna bionisen aseen varsi</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Asenna bionisen aseen varren.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Bionic pistoolin varren asennus.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>asenna bioninen EMP-varsi</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Asentaa bionisen EMP-varren.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Bionic EMP -varren asennus.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>asenna bioninen sytytysvarsi</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Asenna bionisen sytytysvarren.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Bionicin sytytysvarren asennus.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>asenna bioninen savuvarsi</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Asenna bionisen savuvarren.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Bionic-savuvarren asennus.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>asenna bionic fire hengitysleuka</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Asenna bionisen tulihengitysleuan.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Bionic fire hengitysleuan asennus.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>asenna edistynyt bionic claw</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Asentaa edistyneen bionisen kynnen.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Edistyneen bionisen kynnen asennus.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>asenna kehittynyt bioninen aseen varsi</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Asenna kehittyneen bionisen aseen varren.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Kehittyneen bionisen aseen varren asennus.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>asenna kehittynyt bioninen EMP-varsi</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Asenna edistyneen bionisen EMP-varren.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Edistyneen bionisen EMP-varren asennus.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>asenna kehittynyt bioninen sytytysvarsi</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Asenna kehittyneen bionisen sytytysvarren.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Edistyneen bionisen sytytysvarren asennus.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>asenna kehittynyt bioninen savuvarsi</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Asenna kehittyneen bionisen savuvarren.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Edistyneen bionisen savuvarren asennus.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>asenna edistynyt bioninen tulihengitysleuka</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Asenna edistyneen bionisen tulihengitysleuan.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Edistyneen bionisen tulihengitysleuan asennus.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>asenna ultrabionic claw</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Asenna ultrabionic claw.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Ultra bionic claw asennus.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>asenna ultrabionic aseen varsi</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Asenna ultrabionic-aseen varren.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Ultrabionic aseen varren asennus.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>asenna ultrabionic EMP-varsi</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Asenna ultrabionic EMP-varren.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Ultrabionic EMP-varren asennus.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>asenna ultrabionic sytytysvarsi</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Asenna ultrabionic-sytytysvarsi.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Ultrabionic-sytytysvarren asennus.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>asenna ultrabionic savuvarsi</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Asenna ultrabionic-savuvarren.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Ultrabionic savuvarren asennus.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>asenna ultra bionic tulihengitysleuka</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Asenna ultrabionic tulihengitysleuan.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Ultra Bionic Fire Hengitysleuan asennus.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

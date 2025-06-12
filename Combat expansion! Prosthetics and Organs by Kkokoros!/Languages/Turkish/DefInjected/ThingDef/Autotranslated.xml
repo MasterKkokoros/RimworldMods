@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>Bu yıkıcı güce sahip bir intihar yeleği.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>bomba patlatıcı</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>biyonik pençe</KokuBionicClaw.label>
+    <KokuBionicClaw.description>En karmaşık kol değiştirme yöntemlerinden biri. Kullanıcısına olağanüstü güç verir.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>biyonik silah kolu</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>En karmaşık kol değiştirme yöntemlerinden biri. Kullanıcısına olağanüstü güç verir ve yerleşik bir otopistol ile donatılmıştır.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>biyonik EMP kolu</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>En karmaşık kol değiştirme yöntemlerinden biri. Kullanıcısına olağanüstü güç verir ve yerleşik bir EMP başlatıcısı ile donatılmıştır.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>biyonik yangın çıkarıcı kol</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>En karmaşık kol değiştirme yöntemlerinden biri. Kullanıcısına aşırı güç verir ve yerleşik bir yangın çıkarıcı fırlatıcıyla donatılmıştır.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>biyonik duman kolu</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>En karmaşık kol değiştirme yöntemlerinden biri. Kullanıcısına olağanüstü güç verir ve yerleşik bir duman fırlatıcıyla donatılmıştır.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>biyonik ateş nefesli çene</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>En karmaşık çene değiştirme yöntemlerinden biri. Dahili bir alev makinesi ile donatılmıştır.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>gelişmiş biyonik pençe</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Hala bir kol mu? Kullanıcıya son derece olağanüstü bir güç verir.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>gelişmiş biyonik silah kolu</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Hala bir kol mu? Dahili otopistol ile kullanıcıya son derece ekstrem bir güç kazandırır.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>gelişmiş biyonik EMP kolu</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Hala bir kol mu? Yerleşik bir EMP başlatıcısı ile kullanıcıya son derece olağanüstü bir güç verir.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>gelişmiş biyonik yangın çıkarıcı kol</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Hala bir kol mu? Yerleşik bir yangın çıkarıcı fırlatıcı ile kullanıcıya son derece olağanüstü bir güç verir.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>gelişmiş biyonik duman kolu</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Hala bir kol mu? Yerleşik bir duman fırlatıcı ile kullanıcıya son derece olağanüstü bir güç verir.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>gelişmiş biyonik ateş nefesi çenesi</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Hala çene mi? Yerleşik alev makinesiyle kullanıcıya son derece olağanüstü güç verir.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra biyonik pençe</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Bu F%^$^ng delilik.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultra biyonik silah kolu</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Bu F%^$^ng deli, aynı zamanda yerleşik bir otopistol ile donatılmıştır.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultra biyonik EMP kolu</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Bu F%^$^ng çılgınca, aynı zamanda yerleşik bir EMP başlatıcısı ile donatılmıştır.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultra biyonik yangın çıkarıcı kol</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Bu F%^$^ng çılgınca, aynı zamanda yerleşik bir yangın çıkarıcı fırlatıcı ile donatılmıştır.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra biyonik duman kolu</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Bu F%^$^ng çılgınca, aynı zamanda yerleşik bir duman fırlatıcı ile donatılmıştır.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultra biyonik ateş nefesli çene</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Bu F%^$^ng deli aynı zamanda yerleşik bir alev makinesiyle donatılmıştır.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

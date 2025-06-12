@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuInstallBionicClaw.label>installer une griffe bionique</KokuInstallBionicClaw.label>
+    <KokuInstallBionicClaw.description>Installe la griffe bionique.</KokuInstallBionicClaw.description>
+    <KokuInstallBionicClaw.jobString>Installation d'une griffe bionique.</KokuInstallBionicClaw.jobString>
+    <KokuInstallBionicGunArm.label>installer un bras de pistolet bionique</KokuInstallBionicGunArm.label>
+    <KokuInstallBionicGunArm.description>Installe le bras du pistolet bionique.</KokuInstallBionicGunArm.description>
+    <KokuInstallBionicGunArm.jobString>Installation du bras du pistolet bionique.</KokuInstallBionicGunArm.jobString>
+    <KokuInstallBionicEMPArm.label>installer le bras bionique EMP</KokuInstallBionicEMPArm.label>
+    <KokuInstallBionicEMPArm.description>Installe le bras bionique EMP.</KokuInstallBionicEMPArm.description>
+    <KokuInstallBionicEMPArm.jobString>Installation du bras bionique EMP.</KokuInstallBionicEMPArm.jobString>
+    <KokuInstallBionicIncendiaryArm.label>installer un bras incendiaire bionique</KokuInstallBionicIncendiaryArm.label>
+    <KokuInstallBionicIncendiaryArm.description>Installe un bras incendiaire bionique.</KokuInstallBionicIncendiaryArm.description>
+    <KokuInstallBionicIncendiaryArm.jobString>Installation d'un bras incendiaire bionique.</KokuInstallBionicIncendiaryArm.jobString>
+    <KokuInstallBionicSmokeArm.label>installer un bras anti-fumée bionique</KokuInstallBionicSmokeArm.label>
+    <KokuInstallBionicSmokeArm.description>Installe un bras fumigène bionique.</KokuInstallBionicSmokeArm.description>
+    <KokuInstallBionicSmokeArm.jobString>Installation d'un bras fumigène bionique.</KokuInstallBionicSmokeArm.jobString>
+    <KokuInstallBionicFireBreathJaw.label>installer une mâchoire de souffle de feu bionique</KokuInstallBionicFireBreathJaw.label>
+    <KokuInstallBionicFireBreathJaw.description>Installe une mâchoire de souffle de feu bionique.</KokuInstallBionicFireBreathJaw.description>
+    <KokuInstallBionicFireBreathJaw.jobString>Installation d'une mâchoire de souffle de feu bionique.</KokuInstallBionicFireBreathJaw.jobString>
+    <KokuInstallAdvancedBionicClaw.label>installer une griffe bionique avancée</KokuInstallAdvancedBionicClaw.label>
+    <KokuInstallAdvancedBionicClaw.description>Installe une griffe bionique avancée.</KokuInstallAdvancedBionicClaw.description>
+    <KokuInstallAdvancedBionicClaw.jobString>Installation d'une griffe bionique avancée.</KokuInstallAdvancedBionicClaw.jobString>
+    <KokuInstallAdvancedBionicGunArm.label>installer un bras de pistolet bionique avancé</KokuInstallAdvancedBionicGunArm.label>
+    <KokuInstallAdvancedBionicGunArm.description>Installe un bras de pistolet bionique avancé.</KokuInstallAdvancedBionicGunArm.description>
+    <KokuInstallAdvancedBionicGunArm.jobString>Installation d'un bras de pistolet bionique avancé.</KokuInstallAdvancedBionicGunArm.jobString>
+    <KokuInstallAdvancedBionicEMPArm.label>installer un bras EMP bionique avancé</KokuInstallAdvancedBionicEMPArm.label>
+    <KokuInstallAdvancedBionicEMPArm.description>Installe un bras EMP bionique avancé.</KokuInstallAdvancedBionicEMPArm.description>
+    <KokuInstallAdvancedBionicEMPArm.jobString>Installation d'un bras EMP bionique avancé.</KokuInstallAdvancedBionicEMPArm.jobString>
+    <KokuInstallAdvancedBionicIncendiaryArm.label>installer un bras incendiaire bionique avancé</KokuInstallAdvancedBionicIncendiaryArm.label>
+    <KokuInstallAdvancedBionicIncendiaryArm.description>Installe un bras incendiaire bionique avancé.</KokuInstallAdvancedBionicIncendiaryArm.description>
+    <KokuInstallAdvancedBionicIncendiaryArm.jobString>Installation d'un bras incendiaire bionique avancé.</KokuInstallAdvancedBionicIncendiaryArm.jobString>
+    <KokuInstallAdvancedBionicSmokeArm.label>installer un bras anti-fumée bionique avancé</KokuInstallAdvancedBionicSmokeArm.label>
+    <KokuInstallAdvancedBionicSmokeArm.description>Installe un bras anti-fumée bionique avancé.</KokuInstallAdvancedBionicSmokeArm.description>
+    <KokuInstallAdvancedBionicSmokeArm.jobString>Installation d'un bras anti-fumée bionique avancé.</KokuInstallAdvancedBionicSmokeArm.jobString>
+    <KokuInstallAdvancedBionicFireBreathJaw.label>installer une mâchoire de souffle de feu bionique avancée</KokuInstallAdvancedBionicFireBreathJaw.label>
+    <KokuInstallAdvancedBionicFireBreathJaw.description>Installe une mâchoire de souffle de feu bionique avancée.</KokuInstallAdvancedBionicFireBreathJaw.description>
+    <KokuInstallAdvancedBionicFireBreathJaw.jobString>Installation d'une mâchoire de souffle de feu bionique avancée.</KokuInstallAdvancedBionicFireBreathJaw.jobString>
+    <KokuInstallUltraBionicClaw.label>installer une griffe ultra bionique</KokuInstallUltraBionicClaw.label>
+    <KokuInstallUltraBionicClaw.description>Installe une griffe ultra bionique.</KokuInstallUltraBionicClaw.description>
+    <KokuInstallUltraBionicClaw.jobString>Installation d'une griffe ultra bionique.</KokuInstallUltraBionicClaw.jobString>
+    <KokuInstallUltraBionicGunArm.label>installer un bras de pistolet ultra bionique</KokuInstallUltraBionicGunArm.label>
+    <KokuInstallUltraBionicGunArm.description>Installe un bras de pistolet ultra bionique.</KokuInstallUltraBionicGunArm.description>
+    <KokuInstallUltraBionicGunArm.jobString>Installation d'un bras de pistolet ultra bionique.</KokuInstallUltraBionicGunArm.jobString>
+    <KokuInstallUltraBionicEMPArm.label>installer un bras EMP ultra bionique</KokuInstallUltraBionicEMPArm.label>
+    <KokuInstallUltraBionicEMPArm.description>Installe le bras EMP ultra bionique.</KokuInstallUltraBionicEMPArm.description>
+    <KokuInstallUltraBionicEMPArm.jobString>Installation du bras EMP ultra bionique.</KokuInstallUltraBionicEMPArm.jobString>
+    <KokuInstallUltraBionicIncendiaryArm.label>installer un bras incendiaire ultra bionique</KokuInstallUltraBionicIncendiaryArm.label>
+    <KokuInstallUltraBionicIncendiaryArm.description>Installe un bras incendiaire ultra bionique.</KokuInstallUltraBionicIncendiaryArm.description>
+    <KokuInstallUltraBionicIncendiaryArm.jobString>Installation d'un bras incendiaire ultra bionique.</KokuInstallUltraBionicIncendiaryArm.jobString>
+    <KokuInstallUltraBionicSmokeArm.label>installer un bras fumigène ultra bionique</KokuInstallUltraBionicSmokeArm.label>
+    <KokuInstallUltraBionicSmokeArm.description>Installe un bras fumigène ultra bionique.</KokuInstallUltraBionicSmokeArm.description>
+    <KokuInstallUltraBionicSmokeArm.jobString>Installation d'un bras fumigène ultra bionique.</KokuInstallUltraBionicSmokeArm.jobString>
+    <KokuInstallUltraBionicFireBreathJaw.label>installer une mâchoire de souffle de feu ultra bionique</KokuInstallUltraBionicFireBreathJaw.label>
+    <KokuInstallUltraBionicFireBreathJaw.description>Installe une mâchoire de souffle de feu ultra bionique.</KokuInstallUltraBionicFireBreathJaw.description>
+    <KokuInstallUltraBionicFireBreathJaw.jobString>Installation d'une mâchoire de souffle de feu ultra bionique.</KokuInstallUltraBionicFireBreathJaw.jobString>
+</LanguageData>

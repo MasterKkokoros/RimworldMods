@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 uneton kalloimplantti</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Asennettu V1 uneton kalloimplantti.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 uneton kalloimplantti</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Asennettu V2 uneton kalloimplantti.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 uneton kalloimplantti</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Asennettu V3 uneton kalloimplantti.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 psyykkinen kalloimplantti</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Asennettu V1 psyykkinen kallo-implantti.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 psyykkinen kallo-implantti</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Asennettu V2 psyykkinen kallo-implantti.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 psyykkinen kalloimplantti</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Asennettu V3 psyykkinen kalloimplantti.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1-tutkijan kalloimplantti</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Asennettu V1-tutkijan kalloimplantti.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2-tutkijan kalloimplantti</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Asennettu V2-tutkijaimplantti.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3-tutkijan kalloimplantti</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Asennettu V3-tutkijan kalloimplantti.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 Miner kalloimplantti</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Asennettu V1-kaivoskallo-implantti.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 Miner kalloimplantti</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Asennettu V2-kaivosimplantti.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 Miner kalloimplantti</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Asennettu V3 Miner kalloimplantti.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 viljelijän kalloimplantti</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Asennettu V1 viljelijän kalloimplantti.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 viljelijän kalloimplantti</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Asennettu V2 viljelijän implantti.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 viljelijän kalloimplantti</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Asennettu V3 viljelijän kalloimplantti.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 rancherin kalloimplantti</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Asennettu V1 rancherin kalloimplantti.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 rancherin kalloimplantti</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Asennettu V2 rancher -implantti.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 rancherin kalloimplantti</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Asennettu V3 rancherin kalloimplantti.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1-kokin kalloimplantti</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Asennettu V1-kokin kalloimplantti.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2-kokin kalloimplantti</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Asennettu V2 chef -implantti.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3-kokin kalloimplantti</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Asennettu V3-kokin kalloimplantti.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 builder kalloimplantti</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Asennettu V1 builder -kalloimplantti.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2 builder kalloimplantti</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Asennettu V2 builder -implantti.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 builder kalloimplantti</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Asennettu V3 builder kalloimplantti.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 palvelijan kalloimplantti</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Asennettu V1 piikan kalloimplantti.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2 palvelijan kalloimplantti</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Asennettu V2 piikaimplantti.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3 maid kallo implantti</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Asennettu V3 palvelijan kalloimplantti.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 sosiaalinen kallo-implantti</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Asennettu V1 sosiaalinen kalloimplantti.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 sosiaalinen kalloimplantti</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Asennettu V2 sosiaalinen implantti.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 sosiaalinen kallo-implantti</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Asennettu V3 sosiaalinen kalloimplantti.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 medicin kalloimplantti</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Asennettu V1-medicin kalloimplantti.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 medicin kalloimplantti</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Asennettu V2 viljelijän implantti.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 medicin kalloimplantti</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Asennettu V3-medicin kalloimplantti.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 nopea oppijan kalloimplantti</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Asennettu V1 nopea oppijan kalloimplantti.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 nopea oppijan kalloimplantti</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Asennettu V2 nopea oppijan kalloimplantti.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 nopea oppijan kalloimplantti</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Asennettu V3 nopea oppijan kalloimplantti.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 lähitaistelusotilaan kalloimplantti</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Asennettu V1 lähitaistelusotilaan kalloimplantti.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 lähitaistelusotilaan kalloimplantti</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Asennettu V2 lähitaistelusotilaan kalloimplantti.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 lähitaistelusotilaan kalloimplantti</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Asennettu V3 lähitaistelusotilaan kalloimplantti.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>V1-sarjan sotilaan kalloimplantti</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Asennettu V1-sarjan sotilaan kalloimplantti.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>V2-sarjan sotilaan kalloimplantti</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Asennettu V2-sarjan sotilaan kalloimplantti.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>V3-sarjan sotilaan kalloimplantti</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Asennettu V3-sarjan sotilaan kalloimplantti.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

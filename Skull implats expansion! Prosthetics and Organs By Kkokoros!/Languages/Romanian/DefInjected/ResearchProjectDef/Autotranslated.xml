@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>implanturi de craniu artificiale</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Deblochează capacitatea de a crea implanturi de craniu și de a le instala.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>implanturi craniene avansate</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Vă permite să creați implanturi avansate de craniu.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra implanturi de craniu</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Vă permite să creați implanturi de craniu ultra.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

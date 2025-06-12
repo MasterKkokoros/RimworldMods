@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Biyonik pençe</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>biyonik bir pençe</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Kurulu bir biyonik pençe.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>biyonik pençe</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Biyonik silah kolu</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>biyonik silah kolu</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Takılı bir biyonik silah kolu.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>biyonik silah kolu</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Biyonik EMP kolu</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>kurulu bir biyonik EMP kolu</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Kurulu bir biyonik EMP kolu.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>biyonik EMP kolu</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Biyonik yangın çıkarıcı kol</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>kurulu bir biyonik yangın çıkarıcı kol</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Kurulu bir biyonik yangın çıkarıcı kol.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>biyonik yangın çıkarıcı kol</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Biyonik duman kolu</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>kurulu bir biyonik duman kolu</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Takılı bir biyonik duman kolu.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>biyonik duman kolu</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Biyonik ateş nefesli çene</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>kurulu bir biyonik ateş nefesi çenesi</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Takılı bir biyonik yangın nefesi çenesi.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>gelişmiş biyonik pençe</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>gelişmiş bir biyonik pençe</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Kurulu gelişmiş bir biyonik pençe.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>gelişmiş biyonik pençe</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>gelişmiş biyonik silah kolu</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>gelişmiş bir biyonik silah kolu</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Takılı gelişmiş bir biyonik silah kolu.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>gelişmiş biyonik silah kolu</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Gelişmiş biyonik EMP kolu</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>kurulu bir gelişmiş biyonik EMP kolu</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Kurulu bir gelişmiş biyonik EMP kolu.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>gelişmiş biyonik EMP kolu</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Gelişmiş biyonik yangın çıkarıcı kol</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>kurulu gelişmiş biyonik yangın çıkarıcı kol</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Kurulu bir gelişmiş biyonik yangın çıkarıcı kol.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>gelişmiş biyonik yangın çıkarıcı kol</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Gelişmiş biyonik duman kolu</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>kurulu gelişmiş biyonik duman kolu</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Kurulu bir gelişmiş biyonik duman kolu.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>gelişmiş biyonik duman kolu</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Gelişmiş biyonik ateş nefesi çenesi</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>kurulu gelişmiş biyonik yangın nefesi çenesi</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Kurulu gelişmiş biyonik yangın nefesi çenesi.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra biyonik pençe</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ultra biyonik bir pençe</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Kurulu bir ultra biyonik pençe.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra biyonik pençe</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ultra biyonik silah kolu</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ultra biyonik silah kolu</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Takılı bir ultra biyonik tabanca kolu.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ultra biyonik silah kolu</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra biyonik EMP kolu</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>kurulu bir ultra biyonik EMP kolu</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Kurulu bir ultra biyonik EMP kolu.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultra biyonik EMP kolu</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultra biyonik yangın çıkarıcı kol</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>kurulu bir ultra biyonik yangın çıkarıcı kol</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Kurulu bir ultra biyonik yangın çıkarıcı kol.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra biyonik yangın çıkarıcı kol</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultra biyonik duman kolu</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>kurulu bir ultra biyonik duman kolu</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Takılı bir ultra biyonik duman kolu.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra biyonik duman kolu</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultra biyonik ateş nefesli çene</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>kurulu bir ultra biyonik yangın nefesi çenesi</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Takılı bir ultra biyonik yangın nefesi çenesi.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

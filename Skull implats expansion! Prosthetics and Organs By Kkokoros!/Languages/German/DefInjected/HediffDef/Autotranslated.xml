@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 schlafloses Schädelimplantat</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Ein installiertes schlafloses Schädelimplantat V1.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 schlafloses Schädelimplantat</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Ein installiertes schlafloses V2-Schädelimplantat.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 schlafloses Schädelimplantat</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Ein installiertes schlafloses V3-Schädelimplantat.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 psychisches Schädelimplantat</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Ein installiertes V1-Psychicless-Schädelimplantat.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 Psychicless-Schädelimplantat</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Ein installiertes V2-Psychicless-Schädelimplantat.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 Psychicless-Schädelimplantat</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Ein installiertes V3-Psychicless-Schädelimplantat.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1-Forscher-Schädelimplantat</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Ein installiertes V1-Forscher-Schädelimplantat.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2-Forscher-Schädelimplantat</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Ein installiertes V2-Forscherimplantat.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3-Forscher-Schädelimplantat</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Ein installiertes V3-Forscher-Schädelimplantat.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 Bergmannsschädelimplantat</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Ein installiertes V1-Bergmannsschädelimplantat.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 Bergmannsschädelimplantat</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Ein installiertes V2-Miner-Implantat.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 Bergmannsschädelimplantat</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Ein installiertes V3-Bergmannsschädelimplantat.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 Bauernschädelimplantat</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Ein installiertes V1-Farmer-Schädelimplantat.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2-Bauernschädelimplantat</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Ein installiertes V2-Farmer-Implantat.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3-Bauernschädelimplantat</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Ein installiertes V3-Farmer-Schädelimplantat.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 Rancher-Schädelimplantat</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Ein installiertes V1-Rancher-Schädelimplantat.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 Rancher-Schädelimplantat</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Ein installiertes V2-Rancher-Implantat.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 Rancher-Schädelimplantat</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Ein installiertes V3-Rancher-Schädelimplantat.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1 Chef-Schädelimplantat</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Ein installiertes V1-Chef-Schädelimplantat.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2 Chef-Schädelimplantat</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Ein installiertes V2-Chef-Implantat.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3 Chef-Schädelimplantat</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Ein installiertes V3-Chef-Schädelimplantat.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 Builder-Schädelimplantat</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Ein installiertes V1-Builder-Schädelimplantat.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2-Builder-Schädelimplantat</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Ein installiertes V2-Builder-Implantat.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3-Builder-Schädelimplantat</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Ein installiertes V3-Builder-Schädelimplantat.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 Dienstmädchen-Schädelimplantat</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Ein installiertes V1-Dienstmädchen-Schädelimplantat.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2-Dienstmädchen-Schädelimplantat</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Ein installiertes V2-Maid-Implantat.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3-Dienstmädchen-Schädelimplantat</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Ein installiertes V3-Dienstmädchen-Schädelimplantat.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 soziales Schädelimplantat</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Ein installiertes soziales Schädelimplantat V1.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 soziales Schädelimplantat</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Ein installiertes soziales V2-Implantat.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 soziales Schädelimplantat</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Ein installiertes soziales V3-Schädelimplantat.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 medizinisches Schädelimplantat</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Ein installiertes V1-Medizin-Schädelimplantat.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 medizinisches Schädelimplantat</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Ein installiertes V2-Farmer-Implantat.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 medizinisches Schädelimplantat</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Ein installiertes V3-Medizin-Schädelimplantat.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 Schnelllern-Schädelimplantat</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Ein installiertes V1-Fast-Learning-Schädelimplantat.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2-Schnelllern-Schädelimplantat</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Ein installiertes V2-Fast-Learning-Schädelimplantat.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3-Fast-Learning-Schädelimplantat</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Ein installiertes V3-Fast-Learning-Schädelimplantat.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 Nahkampfsoldaten-Schädelimplantat</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Ein installiertes V1-Nahkampfsoldaten-Schädelimplantat.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 Nahkampfsoldaten-Schädelimplantat</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Ein installiertes V2-Schädelimplantat für Nahkampfsoldaten.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 Nahkampfsoldaten-Schädelimplantat</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Ein installiertes V3-Nahkampfsoldaten-Schädelimplantat.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Soldatenschädelimplantat der V1-Reihe</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Ein installiertes Soldatenschädelimplantat der V1-Reihe.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Soldatenschädelimplantat der V2-Reihe</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Ein installiertes Soldatenschädelimplantat der V2-Reihe.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Soldatenschädelimplantat der V3-Reihe</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Ein installiertes Soldatenschädelimplantat der V3-Reihe.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

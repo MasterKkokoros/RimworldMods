@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>Implantát lebky bez spánku V1</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Instalovaný implantát lebky bez spánku V1.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>Implantát lebky bez spánku V2</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Instalovaný implantát lebky bez spánku V2.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>Implantát lebky bez spánku V3</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Instalovaný implantát lebky bez spánku V3.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>Implantát lebky bez psychiky V1</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Instalovaný implantát lebky bez psychiky V1.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>Implantát lebky bez psychiky V2</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Instalovaný implantát lebky bez psychiky V2.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>Implantát lebky bez psychiky V3</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Instalovaný implantát lebky bez psychiky V3.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>Implantát lebky výzkumníka V1</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Instalovaný implantát lebky výzkumníka V1.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Implantát lebky výzkumníka V2</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Instalovaný výzkumný implantát V2.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Implantát lebky výzkumníka V3</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Instalovaný implantát lebky výzkumníka V3.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Implantát lebky horníka V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Instalovaný implantát lebky horníka V1.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Implantát lebky horníka V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Instalovaný důlní implantát V2.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Implantát lebky horníka V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Instalovaný implantát lebky horníka V3.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>Implantát farmářské lebky V1</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Instalovaný implantát farmářské lebky V1.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>Implantát farmářské lebky V2</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Instalovaný farmářský implantát V2.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>Implantát farmářské lebky V3</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Instalovaný implantát farmářské lebky V3.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Implantát lebky rančera V1</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Instalovaný implantát lebky rančera V1.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Implantát lebky rančera V2</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Instalovaný rančerský implantát V2.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Implantát lebky rančera V3</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Instalovaný implantát lebky rančera V3.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Implantát lebky šéfkuchaře V1</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Instalovaný implantát lebky šéfkuchaře V1.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Implantát lebky šéfkuchaře V2</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Instalovaný kuchařský implantát V2.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Implantát lebky šéfkuchaře V3</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Instalovaný implantát lebky šéfkuchaře V3.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Implantát lebky builder V1</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Nainstalovaný implantát lebky V1 builder.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Implantát lebky builder V2</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Nainstalovaný stavební implantát V2.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>Implantát lebky builder V3</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Instalovaný implantát lebky V3 builder.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>Implantát lebky služky V1</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Instalovaný implantát lebky služky V1.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>Implantát lebky služky V2</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Instalovaný V2 služkový implantát.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>Implantát lebky služky V3</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Instalovaný implantát lebky služky V3.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>Implantát sociální lebky V1</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Instalovaný sociální implantát lebky V1.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Implantát sociální lebky V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Instalovaný sociální implantát V2.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Implantát sociální lebky V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Instalovaný sociální implantát lebky V3.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>Implantát lékařské lebky V1</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Instalovaný lékařský implantát lebky V1.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>Implantát lékařské lebky V2</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Instalovaný farmářský implantát V2.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>Implantát lékařské lebky V3</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Instalovaný lékařský implantát lebky V3.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>Implantát lebky rychlého učení V1</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Instalovaný V1 rychle se učící lebeční implantát.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>Implantát lebky rychlého učení V2</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Instalovaný V2 rychle se učící lebkový implantát.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>Implantát lebky rychlého učení V3</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Instalovaný lebeční implantát V3 rychle se učící.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Implantát lebky vojáka na blízko V1</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka zblízka V1.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Implantát lebky vojáka zblízka V2</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka na blízko V2.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Implantát lebky vojáka zblízka V3</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka zblízka V3.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Implantát lebky vojáka řady V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka řady V1.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Implantát lebky vojáka řady V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka řady V2.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Implantát lebky vojáka řady V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Instalovaný implantát lebky vojáka řady V3.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

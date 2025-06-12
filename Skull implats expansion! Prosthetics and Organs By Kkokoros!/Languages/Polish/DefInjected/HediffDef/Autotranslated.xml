@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>Implant czaszki bezsennej V1</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Zainstalowany implant czaszki bezsennej V1.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>Implant czaszki bezsennej V2</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Zainstalowany implant czaszki bezsennej V2.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>Implant czaszki bezsennej V3</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Zainstalowany implant czaszki bezsennej V3.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>Bezpsychiczny implant czaszki V1</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Zainstalowany bezpsychiczny implant czaszki V1.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>Bezpsychiczny implant czaszki V2</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Zainstalowany bezpsychiczny implant czaszki V2.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>Bezpsychiczny implant czaszki V3</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Zainstalowany bezpsychiczny implant czaszki V3.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>Implant czaszki badacza V1</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Zainstalowany implant czaszki badacza V1.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Implant czaszki badacza V2</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Zainstalowany implant badawczy V2.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Implant czaszki badacza V3</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Zainstalowany implant czaszki badacza V3.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Implant czaszki górnika V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Zainstalowany implant czaszki górnika V1.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Implant czaszki górnika V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Zainstalowany implant górniczy V2.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Implant czaszki górnika V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Zainstalowany implant czaszki górnika V3.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>Implant czaszki rolnika V1</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Zainstalowany implant czaszki rolnika V1.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>Implant czaszki rolnika V2</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Zainstalowany implant rolnika V2.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>Implant czaszki rolnika V3</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Zainstalowany implant czaszki rolnika V3.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Implant czaszki farmera V1</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Zainstalowany implant czaszki farmera V1.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Implant czaszki farmera V2</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Zainstalowany implant farmera V2.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Implant czaszki farmera V3</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Zainstalowany implant czaszki farmera V3.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Implant czaszki szefa kuchni V1</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Zainstalowany implant czaszki szefa kuchni V1.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Implant czaszki szefa kuchni V2</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Zainstalowany implant szefa kuchni V2.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Implant czaszki szefa kuchni V3</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Zainstalowany implant czaszki szefa kuchni V3.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Implant czaszki budowniczego V1</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Zainstalowany implant czaszki budowniczego V1.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Implant czaszki V2 Builder</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Zainstalowany implant budowniczy V2.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>Implant czaszki budowniczego V3</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Zainstalowany implant czaszki budowniczego V3.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>Implant czaszki pokojówki V1</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Zainstalowany implant czaszki pokojówki V1.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>Implant czaszki pokojówki V2</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Zainstalowany implant pokojówki V2.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>Implant czaszki pokojówki V3</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Zainstalowany implant czaszki pokojówki V3.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>Implant czaszki społecznej V1</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Zainstalowany implant czaszki społecznej V1.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Implant czaszki społecznościowej V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Zainstalowany implant społecznościowy V2.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Implant czaszki społecznościowej V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Zainstalowany implant czaszki społecznościowej V3.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>Implant czaszki lekarza V1</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Zainstalowany implant czaszki lekarza V1.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>Implant czaszki lekarza V2</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Zainstalowany implant rolnika V2.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>Implant czaszki lekarza V3</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Zainstalowany implant czaszki lekarza V3.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>Szybko uczący się implant czaszkowy V1</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Zainstalowany szybko uczący się implant czaszkowy V1.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>Implant czaszki szybkiego uczenia się V2</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Zainstalowany szybko uczący się implant czaszki V2.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>Implant czaszki szybkiego uczenia się V3</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Zainstalowany szybko uczący się implant czaszkowy V3.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Implant czaszki żołnierza walczącego w zwarciu V1</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza walczącego w zwarciu V1.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Implant czaszki żołnierza walczącego w zwarciu V2</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza walczącego w zwarciu V2.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Implant czaszki żołnierza walczącego w zwarciu V3</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza walczącego w zwarciu V3.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Implant czaszki żołnierza zasięgu V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza zasięgu V1.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Implant czaszki żołnierza zasięgu V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza serii V2.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Implant czaszki żołnierza zasięgu V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Zainstalowany implant czaszki żołnierza serii V3.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

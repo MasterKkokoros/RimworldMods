@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSuicidevest.label>Suside</KokuSuicidevest.label>
+    <KokuSuicidevest.description>To kamizelka samobójcza o niszczycielskiej mocy.</KokuSuicidevest.description>
+    <KokuSuicideVestBomb.label>detonator bomby</KokuSuicideVestBomb.label>
+    <KokuBionicClaw.label>bioniczny pazur</KokuBionicClaw.label>
+    <KokuBionicClaw.description>Jeden z najbardziej wyrafinowanych zamienników ramion. Daje użytkownikowi niezwykłą siłę.</KokuBionicClaw.description>
+    <KokuBionicGunArm.label>ramię z bronią bioniczną</KokuBionicGunArm.label>
+    <KokuBionicGunArm.description>Jeden z najbardziej wyrafinowanych zamienników ramion. Zapewnia użytkownikowi niezwykłą siłę i jest wyposażony we wbudowany pistolet automatyczny.</KokuBionicGunArm.description>
+    <KokuBionicEMPArm.label>bioniczne ramię EMP</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.description>Jeden z najbardziej wyrafinowanych zamienników ramion. Daje użytkownikowi ekstremalną siłę i jest wyposażony we wbudowaną wyrzutnię EMP.</KokuBionicEMPArm.description>
+    <KokuBionicIncendiaryArm.label>bioniczne ramię zapalające</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.description>Jeden z najbardziej wyrafinowanych zamienników ramion. Zapewnia użytkownikowi niezwykłą siłę i jest wyposażony we wbudowaną wyrzutnię zapalającą.</KokuBionicIncendiaryArm.description>
+    <KokuBionicSmokeArm.label>bioniczne ramię dymne</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.description>Jeden z najbardziej wyrafinowanych zamienników ramion. Daje użytkownikowi niezwykłą siłę i jest wyposażony we wbudowaną wyrzutnię dymu.</KokuBionicSmokeArm.description>
+    <KokuBionicFireBreathJaw.label>bioniczna szczęka z ognistym oddechem</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.description>Jeden z najbardziej wyrafinowanych zamienników szczęk. Wyposażony jest we wbudowany miotacz ognia.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>zaawansowany bioniczny pazur</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.description>Czy to nadal ramię? Daje użytkownikowi niezwykle ekstremalną siłę.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicGunArm.label>zaawansowane ramię z bronią bioniczną</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.description>Czy to nadal ramię? Daje użytkownikowi niezwykle ekstremalną siłę dzięki wbudowanemu pistoletowi automatycznemu.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicEMPArm.label>zaawansowane bioniczne ramię EMP</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.description>Czy to nadal ramię? Daje użytkownikowi niezwykle ekstremalną siłę dzięki wbudowanej wyrzutni EMP.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicIncendiaryArm.label>zaawansowane bioniczne ramię zapalające</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.description>Czy to nadal ramię? Daje użytkownikowi niezwykle ekstremalną siłę dzięki wbudowanej wyrzutni zapalającej.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicSmokeArm.label>zaawansowane bioniczne ramię dymne</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.description>Czy to nadal ramię? Daje użytkownikowi niezwykle ekstremalną siłę dzięki wbudowanej wyrzutni dymu.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicFireBreathJaw.label>zaawansowana bioniczna szczęka z ognistym oddechem</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.description>Czy to nadal szczęka? Daje użytkownikowi niezwykle ekstremalną siłę dzięki wbudowanemu miotaczowi ognia.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultrabioniczny pazur</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.description>Ten jest F%^$^ng szalony.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicGunArm.label>ultrabioniczne ramię pistoletu</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.description>Ten jest F%^$^ng szalony i wyposażony we wbudowany pistolet automatyczny.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicEMPArm.label>ultrabioniczne ramię EMP</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.description>Ten jest F%^$^ng szalony i wyposażony we wbudowaną wyrzutnię EMP.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicIncendiaryArm.label>ultrabioniczne ramię zapalające</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.description>Ten jest F%^$^ng szalony i wyposażony we wbudowaną wyrzutnię zapalającą.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicSmokeArm.label>ultra bioniczne ramię dymne</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.description>Ten jest F%^$^ng szalony i wyposażony we wbudowaną wyrzutnię dymu.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicFireBreathJaw.label>ultrabioniczna szczęka z ognistym oddechem</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.description>Ten jest F%^$^ng szalony i wyposażony we wbudowany miotacz ognia.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

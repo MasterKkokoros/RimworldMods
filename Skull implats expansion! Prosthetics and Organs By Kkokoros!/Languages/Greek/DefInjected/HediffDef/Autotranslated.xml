@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 εμφύτευμα ακοίμητου κρανίου</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Εγκατεστημένο V1 εμφύτευμα κρανίου χωρίς ύπνο.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 ακοίμητο εμφύτευμα κρανίου</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Εγκατεστημένο V2 εμφύτευμα κρανίου χωρίς ύπνο.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 ακοίμητο εμφύτευμα κρανίου</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου χωρίς ύπνο V3.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 εμφύτευμα κρανίου χωρίς ψυχικό</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Ένα εγκατεστημένο V1 εμφύτευμα κρανίου χωρίς ψυχικό.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 χωρίς ψυχικό εμφύτευμα κρανίου</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Ένα εγκατεστημένο V2 χωρίς ψυχικό εμφύτευμα κρανίου.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 εμφύτευμα κρανίου χωρίς ψυχικό</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Ένα εγκατεστημένο V3 χωρίς ψυχικό εμφύτευμα κρανίου.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1 εμφύτευμα κρανίου ερευνητή</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου ερευνητή V1.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>Ερευνητικό εμφύτευμα κρανίου V2</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Ένα εγκατεστημένο ερευνητικό εμφύτευμα V2.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>Ερευνητικό εμφύτευμα κρανίου V3</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου ερευνητή V3.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>Εμφύτευμα κρανίου ανθρακωρύχου V1</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου ανθρακωρύχου V1.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>Εμφύτευμα κρανίου ανθρακωρύχου V2</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα ανθρακωρύχου V2.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>Εμφύτευμα κρανίου ανθρακωρύχου V3</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου ανθρακωρύχου V3.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 εμφύτευμα κρανίου αγρότη</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Εγκατεστημένο V1 εμφύτευμα κρανίου αγρότη.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 εμφύτευμα κρανίου αγρότη</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα V2 farmer.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 εμφύτευμα κρανίου αγρότη</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Εγκατεστημένο V3 εμφύτευμα κρανίου αγρότη.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>Εμφύτευμα κρανίου V1 rancher</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου V1 rancher.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>Εμφύτευμα κρανίου V2 rancher</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα V2 rancher.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>Εμφύτευμα κρανίου V3 rancher</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου V3 rancher.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>Εμφύτευμα κρανίου σεφ V1</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου σεφ V1.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>Εμφύτευμα κρανίου σεφ V2</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα chef V2.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>Εμφύτευμα κρανίου σεφ V3</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Ένα εγκατεστημένο V3 εμφύτευμα κρανίου σεφ.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>Εμφύτευμα κρανίου builder V1</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου builder V1.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>Εμφύτευμα κρανίου builder V2</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα builder V2.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 εμφύτευμα κρανίου builder</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου builder V3.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 εμφύτευμα κρανίου καμαριέρας</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου καθαριότητας V1.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2 εμφύτευμα κρανίου καμαριέρας</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα καμαριέρας V2.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3 εμφύτευμα κρανίου καμαριέρας</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Εγκατεστημένο V3 εμφύτευμα κρανίου καμαριέρας.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 κοινωνικό εμφύτευμα κρανίου</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Ένα εγκατεστημένο κοινωνικό εμφύτευμα κρανίου V1.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>Κοινωνικό εμφύτευμα κρανίου V2</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Ένα εγκατεστημένο κοινωνικό εμφύτευμα V2.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>Κοινωνικό εμφύτευμα κρανίου V3</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Ένα εγκατεστημένο κοινωνικό εμφύτευμα κρανίου V3.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>Ιατρικό εμφύτευμα κρανίου V1</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Ένα εγκατεστημένο V1 ιατρικό εμφύτευμα κρανίου.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>Ιατρικό εμφύτευμα κρανίου V2</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα V2 farmer.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>Ιατρικό εμφύτευμα κρανίου V3</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Ένα εγκατεστημένο V3 ιατρικό εμφύτευμα κρανίου.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 εμφύτευμα κρανίου γρήγορου μαθητή</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Ένα εγκατεστημένο V1 εμφύτευμα κρανίου ταχείας εκμάθησης.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 εμφύτευμα κρανίου ταχείας εκμάθησης</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Ένα εγκατεστημένο V2 εμφύτευμα κρανίου γρήγορης εκμάθησης.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 εμφύτευμα κρανίου γρήγορου μαθητή</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Ένα εγκατεστημένο V3 εμφύτευμα κρανίου γρήγορης εκμάθησης.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη V1 melee</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη V1 melee.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη V2 melee</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη V2 melee.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη V3 melee</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη V3 melee.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη εμβέλειας V1</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη εμβέλειας V1.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη εμβέλειας V2</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη εμβέλειας V2.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>Εμφύτευμα κρανίου στρατιώτη εμβέλειας V3</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Ένα εγκατεστημένο εμφύτευμα κρανίου στρατιώτη εμβέλειας V3.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

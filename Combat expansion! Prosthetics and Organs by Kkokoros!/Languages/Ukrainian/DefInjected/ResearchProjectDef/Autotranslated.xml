@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Біонічні бойові аддони</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Додає біонічні бойові аддони, такі як вбудований автопістолет або кіготь.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Розширені бойові аддони</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Додає передові біонічні бойові аддони, такі як вбудований автопістолет або кіготь.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ультра бойові аддони</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Додає ультрабіонічні бойові аддони, такі як вбудований автопістолет або кіготь.</KokuUltraBionicsGun.description>
+</LanguageData>

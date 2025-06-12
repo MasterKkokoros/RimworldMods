@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 uykusuz kafatası implantı</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>Kurulu bir V1 uykusuz kafatası implantı.</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 uykusuz kafatası implantı</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>Kurulu bir V2 uykusuz kafatası implantı.</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 uykusuz kafatası implantı</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>Kurulu bir V3 uykusuz kafatası implantı.</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 psişik olmayan kafatası implantı</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>Kurulu bir V1 psişiksiz kafatası implantı.</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 psişik olmayan kafatası implantı</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>Kurulu bir V2 psişiksiz kafatası implantı.</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 psişik olmayan kafatası implantı</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>Kurulu bir V3 psişiksiz kafatası implantı.</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1 araştırmacı kafatası implantı</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>Kurulu bir V1 araştırmacı kafatası implantı.</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2 araştırmacı kafatası implantı</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>Kurulu bir V2 araştırmacı implantı.</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3 araştırmacı kafatası implantı</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>Kurulu bir V3 araştırmacı kafatası implantı.</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 madenci kafatası implantı</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>Kurulu bir V1 madenci kafatası implantı.</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 madenci kafatası implantı</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>Kurulu bir V2 madenci implantı.</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 madenci kafatası implantı</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>Kurulu bir V3 madenci kafatası implantı.</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 çiftçi kafatası implantı</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>Kurulu bir V1 çiftçi kafatası implantı.</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 çiftçi kafatası implantı</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>Kurulu bir V2 çiftçi implantı.</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 çiftçi kafatası implantı</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>Kurulu bir V3 çiftçi kafatası implantı.</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 çiftçi kafatası implantı</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>Kurulu bir V1 çiftlik sahibi kafatası implantı.</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 çiftçi kafatası implantı</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>Kurulu bir V2 rancher implantı.</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 çiftçi kafatası implantı</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>Kurulu bir V3 çiftlik sahibi kafatası implantı.</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1 şef kafatası implantı</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>Kurulu bir V1 şef kafatası implantı.</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2 şef kafatası implantı</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>Kurulu bir V2 şef implantı.</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3 şef kafatası implantı</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>Kurulu bir V3 şef kafatası implantı.</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 oluşturucu kafatası implantı</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>Kurulu bir V1 oluşturucu kafatası implantı.</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2 oluşturucu kafatası implantı</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>Kurulu bir V2 oluşturucu implantı.</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 oluşturucu kafatası implantı</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>Kurulu bir V3 oluşturucu kafatası implantı.</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1 hizmetçi kafatası implantı</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>Kurulu bir V1 hizmetçi kafatası implantı.</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2 hizmetçi kafatası implantı</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>Kurulu bir V2 hizmetçi implantı.</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3 hizmetçi kafatası implantı</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>Kurulu bir V3 hizmetçi kafatası implantı.</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 sosyal kafatası implantı</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>Kurulu bir V1 sosyal kafatası implantı.</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 sosyal kafatası implantı</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>Kurulu bir V2 sosyal implantı.</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 sosyal kafatası implantı</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>Kurulu bir V3 sosyal kafatası implantı.</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 doktor kafatası implantı</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>Kurulu bir V1 doktor kafatası implantı.</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 doktor kafatası implantı</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>Kurulu bir V2 çiftçi implantı.</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 doktor kafatası implantı</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>Kurulu bir V3 doktor kafatası implantı.</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 hızlı öğrenen kafatası implantı</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>Kurulu bir V1 hızlı öğrenen kafatası implantı.</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 hızlı öğrenen kafatası implantı</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>Kurulu bir V2 hızlı öğrenen kafatası implantı.</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 hızlı öğrenen kafatası implantı</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>Kurulu bir V3 hızlı öğrenen kafatası implantı.</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 yakın dövüş askeri kafatası implantı</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>Takılı bir V1 yakın dövüş askeri kafatası implantı.</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 yakın dövüş askeri kafatası implantı</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>Takılı bir V2 yakın dövüş askeri kafatası implantı.</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 yakın dövüş askeri kafatası implantı</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>Takılı bir V3 yakın dövüş askeri kafatası implantı.</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>V1 serisi asker kafatası implantı</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>Kurulu bir V1 serisi asker kafatası implantı.</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>V2 serisi asker kafatası implantı</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>Kurulu bir V2 serisi asker kafatası implantı.</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>V3 serisi asker kafatası implantı</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>Kurulu bir V3 serisi asker kafatası implantı.</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

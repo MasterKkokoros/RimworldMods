@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>τεχνητά εμφυτεύματα κρανίου</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Ξεκλειδώνει τη δυνατότητα δημιουργίας εμφυτευμάτων κρανίου και εγκατάστασης τους.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>προηγμένα εμφυτεύματα κρανίου</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Σας επιτρέπει να δημιουργήσετε προηγμένα εμφυτεύματα κρανίου.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>υπερκρανιακά εμφυτεύματα</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Σας επιτρέπει να δημιουργήσετε εμφυτεύματα υπερκρανίου.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

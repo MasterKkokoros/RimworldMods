@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>人工頭蓋骨インプラント</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>頭蓋骨インプラントを作成して設置する機能のロックを解除します。</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>先進的な頭蓋骨インプラント</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>高度な頭蓋骨インプラントを作成できるようになります。</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ウルトラスカルインプラント</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>ウルトラスカルインプラントを作成できるようになります。</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

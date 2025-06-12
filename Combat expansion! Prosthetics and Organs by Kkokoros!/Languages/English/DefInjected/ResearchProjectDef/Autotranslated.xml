@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionic combat addons</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Adds bionic combat addons like built-in autopistol or claw.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Advanced combat addons</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Adds advanced bionic combat addons like built-in autopistol or claw.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra combat addons</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Adds ultra bionic combat addons like built-in autopistol or claw.</KokuUltraBionicsGun.description>
+</LanguageData>

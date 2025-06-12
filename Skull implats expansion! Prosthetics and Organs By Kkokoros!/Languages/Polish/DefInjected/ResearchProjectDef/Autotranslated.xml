@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>sztuczne implanty czaszki</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Odblokowuje możliwość wytwarzania implantów czaszki i ich instalowania.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>zaawansowane implanty czaszkowe</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Umożliwia wytwarzanie zaawansowanych implantów czaszkowych.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>implanty ultra czaszki</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Umożliwia wytwarzanie ultraimplantów czaszkowych.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>

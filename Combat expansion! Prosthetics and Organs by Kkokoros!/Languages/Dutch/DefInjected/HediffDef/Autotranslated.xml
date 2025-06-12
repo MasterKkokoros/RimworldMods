@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Bionische klauw</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>een bionische klauw</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Een geïnstalleerde bionische klauw.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>bionische klauw</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Bionische pistoolarm</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>een bionische geweerarm</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Een geïnstalleerde bionische pistoolarm.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>bionische pistoolarm</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Bionische EMP-arm</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>een geïnstalleerde bionische EMP-arm</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Een geïnstalleerde bionische EMP-arm.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>bionische EMP-arm</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Bionische brandgevaarlijke arm</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>een geïnstalleerde bionische brandgevaarlijke arm</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Een geïnstalleerde bionische brandgevaarlijke arm.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>bionische brandgevaarlijke arm</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Bionische rookarm</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>een geïnstalleerde bionische rookarm</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Een geïnstalleerde bionische rookarm.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>bionische rookarm</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Bionische vuurademkaak</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>een geïnstalleerde bionische vuurademkaak</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Een geïnstalleerde bionische vuurademkaak.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>geavanceerde bionische klauw</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>een geavanceerde bionische klauw</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Een geïnstalleerde geavanceerde bionische klauw.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>geavanceerde bionische klauw</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>geavanceerde bionische pistoolarm</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>een geavanceerde bionische pistoolarm</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Een geïnstalleerde geavanceerde bionische pistoolarm.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>geavanceerde bionische pistoolarm</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Geavanceerde bionische EMP-arm</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>een geïnstalleerde geavanceerde bionische EMP-arm</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Een geïnstalleerde geavanceerde bionische EMP-arm.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>geavanceerde bionische EMP-arm</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Geavanceerde bionische brandgevaarlijke arm</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>een geïnstalleerde geavanceerde bionische brandgevaarlijke arm</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Een geïnstalleerde geavanceerde bionische brandgevaarlijke arm.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>geavanceerde bionische brandgevaarlijke arm</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Geavanceerde bionische rookarm</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>een geïnstalleerde geavanceerde bionische rookarm</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Een geïnstalleerde geavanceerde bionische rookarm.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>geavanceerde bionische rookarm</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Geavanceerde bionische vuurademkaak</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>een geïnstalleerde geavanceerde bionische vuurademkaak</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Een geïnstalleerde geavanceerde bionische vuurademkaak.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ultra bionische klauw</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>een ultrabionische klauw</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Een geïnstalleerde ultrabionische klauw.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ultra bionische klauw</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ultra bionische pistoolarm</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>een ultrabionische geweerarm</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Een geïnstalleerde ultrabionische wapenarm.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ultra bionische pistoolarm</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ultra bionische EMP-arm</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>een geïnstalleerde ultrabionische EMP-arm</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Een geïnstalleerde ultrabionische EMP-arm.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ultra bionische EMP-arm</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ultra bionische brandgevaarlijke arm</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>een geïnstalleerde ultrabionische brandgevaarlijke arm</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Een geïnstalleerde ultrabionische brandgevaarlijke arm.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>ultra bionische brandgevaarlijke arm</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ultra bionische rookarm</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>een geïnstalleerde ultra bionische rookarm</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Een geïnstalleerde ultra bionische rookarm.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>ultra bionische rookarm</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ultra bionische vuurademkaak</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>een geïnstalleerde ultrabionische vuurademkaak</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Een geïnstalleerde ultrabionische vuurademkaak.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

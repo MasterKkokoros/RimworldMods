@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicsCombat.label>Bionic-taistelulisäosat</KokuBionicsCombat.label>
+    <KokuBionicsCombat.description>Lisää bionisia taistelulisäosia, kuten sisäänrakennetun automaattipistoolin tai kynsiä.</KokuBionicsCombat.description>
+    <KokuAdvancedBionicsCombat.label>Kehittyneet taistelulisäosat</KokuAdvancedBionicsCombat.label>
+    <KokuAdvancedBionicsCombat.description>Lisää kehittyneitä bionisia taistelulisäosia, kuten sisäänrakennettu autopistooli tai kynsi.</KokuAdvancedBionicsCombat.description>
+    <KokuUltraBionicsGun.label>Ultra-taistelulisäosat</KokuUltraBionicsGun.label>
+    <KokuUltraBionicsGun.description>Lisää ultrabionic-taistelulisäosia, kuten sisäänrakennetun autopistoolin tai kynnen.</KokuUltraBionicsGun.description>
+</LanguageData>

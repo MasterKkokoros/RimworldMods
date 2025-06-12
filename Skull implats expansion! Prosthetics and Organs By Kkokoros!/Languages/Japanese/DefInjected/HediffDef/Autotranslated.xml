@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuV1SleepLessSkullImplant.label>V1 スリープレス頭蓋骨インプラント</KokuV1SleepLessSkullImplant.label>
+    <KokuV1SleepLessSkullImplant.description>取り付けられた V1 スリープレス頭蓋骨インプラント。</KokuV1SleepLessSkullImplant.description>
+    <KokuV2SleepLessSkullImplant.label>V2 スリープレス頭蓋骨インプラント</KokuV2SleepLessSkullImplant.label>
+    <KokuV2SleepLessSkullImplant.description>取り付けられた V2 スリープレス頭蓋骨インプラント。</KokuV2SleepLessSkullImplant.description>
+    <KokuV3SleepLessSkullImplant.label>V3 スリープレス頭蓋骨インプラント</KokuV3SleepLessSkullImplant.label>
+    <KokuV3SleepLessSkullImplant.description>取り付けられた V3 スリープレス頭蓋骨インプラント。</KokuV3SleepLessSkullImplant.description>
+    <KokuV1PsychicLessSkullImplant.label>V1 サイキックレス頭蓋骨インプラント</KokuV1PsychicLessSkullImplant.label>
+    <KokuV1PsychicLessSkullImplant.description>取り付けられた V1 サイキックレス頭蓋骨インプラント。</KokuV1PsychicLessSkullImplant.description>
+    <KokuV2PsychicLessSkullImplant.label>V2 サイキックレス頭蓋骨インプラント</KokuV2PsychicLessSkullImplant.label>
+    <KokuV2PsychicLessSkullImplant.description>取り付けられた V2 サイキックレス頭蓋骨インプラント。</KokuV2PsychicLessSkullImplant.description>
+    <KokuV3PsychicLessSkullImplant.label>V3 サイキックレス頭蓋骨インプラント</KokuV3PsychicLessSkullImplant.label>
+    <KokuV3PsychicLessSkullImplant.description>取り付けられた V3 サイキックレス頭蓋骨インプラント。</KokuV3PsychicLessSkullImplant.description>
+    <KokuV1ResearcherSkullImplant.label>V1 研究者の頭蓋骨インプラント</KokuV1ResearcherSkullImplant.label>
+    <KokuV1ResearcherSkullImplant.description>取り付けられた V1 研究者の頭蓋骨インプラント。</KokuV1ResearcherSkullImplant.description>
+    <KokuV2ResearcherSkullImplant.label>V2 研究者の頭蓋骨インプラント</KokuV2ResearcherSkullImplant.label>
+    <KokuV2ResearcherSkullImplant.description>取り付けられた V2 研究者インプラント。</KokuV2ResearcherSkullImplant.description>
+    <KokuV3ResearcherSkullImplant.label>V3 研究者の頭蓋骨インプラント</KokuV3ResearcherSkullImplant.label>
+    <KokuV3ResearcherSkullImplant.description>取り付けられた V3 研究者の頭蓋骨インプラント。</KokuV3ResearcherSkullImplant.description>
+    <KokuV1MinerSkullImplant.label>V1 鉱夫の頭蓋骨インプラント</KokuV1MinerSkullImplant.label>
+    <KokuV1MinerSkullImplant.description>取り付けられた V1 鉱山労働者の頭蓋骨インプラント。</KokuV1MinerSkullImplant.description>
+    <KokuV2MinerSkullImplant.label>V2 鉱夫の頭蓋骨インプラント</KokuV2MinerSkullImplant.label>
+    <KokuV2MinerSkullImplant.description>インストールされた V2 マイナー インプラント。</KokuV2MinerSkullImplant.description>
+    <KokuV3MinerSkullImplant.label>V3 鉱夫の頭蓋骨インプラント</KokuV3MinerSkullImplant.label>
+    <KokuV3MinerSkullImplant.description>取り付けられた V3 鉱夫の頭蓋骨インプラント。</KokuV3MinerSkullImplant.description>
+    <KokuV1FarmerSkullImplant.label>V1 ファーマー頭蓋骨インプラント</KokuV1FarmerSkullImplant.label>
+    <KokuV1FarmerSkullImplant.description>取り付けられた V1 ファーマー頭蓋骨インプラント。</KokuV1FarmerSkullImplant.description>
+    <KokuV2FarmerSkullImplant.label>V2 ファーマー頭蓋骨インプラント</KokuV2FarmerSkullImplant.label>
+    <KokuV2FarmerSkullImplant.description>インストールされた V2 ファーマー インプラント。</KokuV2FarmerSkullImplant.description>
+    <KokuV3FarmerSkullImplant.label>V3 ファーマー頭蓋骨インプラント</KokuV3FarmerSkullImplant.label>
+    <KokuV3FarmerSkullImplant.description>取り付けられた V3 ファーマー頭蓋骨インプラント。</KokuV3FarmerSkullImplant.description>
+    <KokuV1RancherSkullImplant.label>V1 ランチャー頭蓋骨インプラント</KokuV1RancherSkullImplant.label>
+    <KokuV1RancherSkullImplant.description>取り付けられた V1 ランチャー頭蓋骨インプラント。</KokuV1RancherSkullImplant.description>
+    <KokuV2RancherSkullImplant.label>V2 ランチャー頭蓋骨インプラント</KokuV2RancherSkullImplant.label>
+    <KokuV2RancherSkullImplant.description>V2 ランチャー インプラントが取り付けられています。</KokuV2RancherSkullImplant.description>
+    <KokuV3RancherSkullImplant.label>V3 ランチャー頭蓋骨インプラント</KokuV3RancherSkullImplant.label>
+    <KokuV3RancherSkullImplant.description>取り付けられた V3 ランチャー頭蓋骨インプラント。</KokuV3RancherSkullImplant.description>
+    <KokuV1ChefSkullImplant.label>V1 シェフ頭蓋骨インプラント</KokuV1ChefSkullImplant.label>
+    <KokuV1ChefSkullImplant.description>取り付けられた V1 シェフ頭蓋骨インプラント。</KokuV1ChefSkullImplant.description>
+    <KokuV2ChefSkullImplant.label>V2 シェフ頭蓋骨インプラント</KokuV2ChefSkullImplant.label>
+    <KokuV2ChefSkullImplant.description>取り付けられた V2 シェフ インプラント。</KokuV2ChefSkullImplant.description>
+    <KokuV3ChefSkullImplant.label>V3 シェフ頭蓋骨インプラント</KokuV3ChefSkullImplant.label>
+    <KokuV3ChefSkullImplant.description>取り付けられた V3 シェフの頭蓋骨インプラント。</KokuV3ChefSkullImplant.description>
+    <KokuV1BuilderSkullImplant.label>V1 ビルダー頭蓋骨インプラント</KokuV1BuilderSkullImplant.label>
+    <KokuV1BuilderSkullImplant.description>取り付けられた V1 ビルダー頭蓋骨インプラント。</KokuV1BuilderSkullImplant.description>
+    <KokuV2BuilderSkullImplant.label>V2 ビルダー頭蓋骨インプラント</KokuV2BuilderSkullImplant.label>
+    <KokuV2BuilderSkullImplant.description>インストールされた V2 ビルダー インプラント。</KokuV2BuilderSkullImplant.description>
+    <KokuV3BuilderSkullImplant.label>V3 ビルダー頭蓋骨インプラント</KokuV3BuilderSkullImplant.label>
+    <KokuV3BuilderSkullImplant.description>取り付けられた V3 ビルダーの頭蓋骨インプラント。</KokuV3BuilderSkullImplant.description>
+    <KokuV1MaidSkullImplant.label>V1メイドスカルインプラント</KokuV1MaidSkullImplant.label>
+    <KokuV1MaidSkullImplant.description>取り付けられた V1 メイド頭蓋骨インプラント。</KokuV1MaidSkullImplant.description>
+    <KokuV2MaidSkullImplant.label>V2メイドスカルインプラント</KokuV2MaidSkullImplant.label>
+    <KokuV2MaidSkullImplant.description>V2メイドインプラントを装着しました。</KokuV2MaidSkullImplant.description>
+    <KokuV3MaidSkullImplant.label>V3メイドスカルインプラント</KokuV3MaidSkullImplant.label>
+    <KokuV3MaidSkullImplant.description>取り付けられた V3 メイド頭蓋骨インプラント。</KokuV3MaidSkullImplant.description>
+    <KokuV1SocialSkullImplant.label>V1 ソーシャルスカルインプラント</KokuV1SocialSkullImplant.label>
+    <KokuV1SocialSkullImplant.description>取り付けられた V1 ソーシャルスカルインプラント。</KokuV1SocialSkullImplant.description>
+    <KokuV2SocialSkullImplant.label>V2 ソーシャルスカルインプラント</KokuV2SocialSkullImplant.label>
+    <KokuV2SocialSkullImplant.description>インストールされた V2 ソーシャル インプラント。</KokuV2SocialSkullImplant.description>
+    <KokuV3SocialSkullImplant.label>V3 ソーシャルスカルインプラント</KokuV3SocialSkullImplant.label>
+    <KokuV3SocialSkullImplant.description>取り付けられた V3 ソーシャルスカルインプラント。</KokuV3SocialSkullImplant.description>
+    <KokuV1MedicSkullImplant.label>V1 メディックスカルインプラント</KokuV1MedicSkullImplant.label>
+    <KokuV1MedicSkullImplant.description>取り付けられた V1 メディック頭蓋骨インプラント。</KokuV1MedicSkullImplant.description>
+    <KokuV2MedicSkullImplant.label>V2 メディックスカルインプラント</KokuV2MedicSkullImplant.label>
+    <KokuV2MedicSkullImplant.description>インストールされた V2 ファーマー インプラント。</KokuV2MedicSkullImplant.description>
+    <KokuV3MedicSkullImplant.label>V3 メディックスカルインプラント</KokuV3MedicSkullImplant.label>
+    <KokuV3MedicSkullImplant.description>取り付けられた V3 メディック頭蓋骨インプラント。</KokuV3MedicSkullImplant.description>
+    <KokuV1FastLearnerSkullImplant.label>V1 高速学習用頭蓋骨インプラント</KokuV1FastLearnerSkullImplant.label>
+    <KokuV1FastLearnerSkullImplant.description>取り付けられた V1 高速学習頭蓋骨インプラント。</KokuV1FastLearnerSkullImplant.description>
+    <KokuV2FastLearnerSkullImplant.label>V2 高速学習用頭蓋骨インプラント</KokuV2FastLearnerSkullImplant.label>
+    <KokuV2FastLearnerSkullImplant.description>取り付けられた V2 高速学習頭蓋骨インプラント。</KokuV2FastLearnerSkullImplant.description>
+    <KokuV3FastLearnerSkullImplant.label>V3 高速学習用頭蓋骨インプラント</KokuV3FastLearnerSkullImplant.label>
+    <KokuV3FastLearnerSkullImplant.description>取り付けられた V3 高速学習頭蓋骨インプラント。</KokuV3FastLearnerSkullImplant.description>
+    <KokuV1MeleeSoldierSkullImplant.label>V1 近接兵士の頭蓋骨インプラント</KokuV1MeleeSoldierSkullImplant.label>
+    <KokuV1MeleeSoldierSkullImplant.description>取り付けられた V1 近接兵士の頭蓋骨インプラント。</KokuV1MeleeSoldierSkullImplant.description>
+    <KokuV2MeleeSoldierSkullImplant.label>V2 近接兵士の頭蓋骨インプラント</KokuV2MeleeSoldierSkullImplant.label>
+    <KokuV2MeleeSoldierSkullImplant.description>取り付けられた V2 近接兵士の頭蓋骨インプラント。</KokuV2MeleeSoldierSkullImplant.description>
+    <KokuV3MeleeSoldierSkullImplant.label>V3 近接兵士の頭蓋骨インプラント</KokuV3MeleeSoldierSkullImplant.label>
+    <KokuV3MeleeSoldierSkullImplant.description>取り付けられた V3 近接兵士の頭蓋骨インプラント。</KokuV3MeleeSoldierSkullImplant.description>
+    <KokuV1RangeSoldierSkullImplant.label>V1 範囲兵士の頭蓋骨インプラント</KokuV1RangeSoldierSkullImplant.label>
+    <KokuV1RangeSoldierSkullImplant.description>取り付けられた V1 範囲の兵士の頭蓋骨インプラント。</KokuV1RangeSoldierSkullImplant.description>
+    <KokuV2RangeSoldierSkullImplant.label>V2 範囲兵士の頭蓋骨インプラント</KokuV2RangeSoldierSkullImplant.label>
+    <KokuV2RangeSoldierSkullImplant.description>取り付けられた V2 範囲兵士の頭蓋骨インプラント。</KokuV2RangeSoldierSkullImplant.description>
+    <KokuV3RangeSoldierSkullImplant.label>V3 範囲兵士の頭蓋骨インプラント</KokuV3RangeSoldierSkullImplant.label>
+    <KokuV3RangeSoldierSkullImplant.description>取り付けられた V3 範囲兵士の頭蓋骨インプラント。</KokuV3RangeSoldierSkullImplant.description>
+</LanguageData>

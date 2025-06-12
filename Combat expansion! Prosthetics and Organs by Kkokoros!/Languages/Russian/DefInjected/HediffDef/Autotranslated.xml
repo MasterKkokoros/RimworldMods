@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuBionicClaw.label>Бионический коготь</KokuBionicClaw.label>
+    <KokuBionicClaw.labelNoun>бионический коготь</KokuBionicClaw.labelNoun>
+    <KokuBionicClaw.description>Установленный бионический коготь.</KokuBionicClaw.description>
+    <KokuBionicClaw.comps.tools.bionic claw.label>бионический коготь</KokuBionicClaw.comps.tools.bionic claw.label>
+    <KokuBionicGunArm.label>Бионическая рука-пушка</KokuBionicGunArm.label>
+    <KokuBionicGunArm.labelNoun>рука с бионическим пистолетом</KokuBionicGunArm.labelNoun>
+    <KokuBionicGunArm.description>Установленная бионическая рука-пушка.</KokuBionicGunArm.description>
+    <KokuBionicGunArm.comps.tools.bionic gun arm.label>рука с бионическим пистолетом</KokuBionicGunArm.comps.tools.bionic gun arm.label>
+    <KokuBionicEMPArm.label>Бионическая ЭМИ-рука</KokuBionicEMPArm.label>
+    <KokuBionicEMPArm.labelNoun>установленная бионическая рука с ЭМИ</KokuBionicEMPArm.labelNoun>
+    <KokuBionicEMPArm.description>Установленная бионическая рука с ЭМИ.</KokuBionicEMPArm.description>
+    <KokuBionicEMPArm.comps.tools.bionic EMP arm.label>бионическая ЭМИ рука</KokuBionicEMPArm.comps.tools.bionic EMP arm.label>
+    <KokuBionicIncendiaryArm.label>Бионическая зажигательная рука</KokuBionicIncendiaryArm.label>
+    <KokuBionicIncendiaryArm.labelNoun>установленная бионическая зажигательная рука</KokuBionicIncendiaryArm.labelNoun>
+    <KokuBionicIncendiaryArm.description>Установленная бионическая зажигательная рука.</KokuBionicIncendiaryArm.description>
+    <KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>бионическая зажигательная рука</KokuBionicIncendiaryArm.comps.tools.bionic incendiary arm.label>
+    <KokuBionicSmokeArm.label>Бионическая дымовая рука</KokuBionicSmokeArm.label>
+    <KokuBionicSmokeArm.labelNoun>установленная бионическая дымовая рука</KokuBionicSmokeArm.labelNoun>
+    <KokuBionicSmokeArm.description>Установлен бионический дымовой манипулятор.</KokuBionicSmokeArm.description>
+    <KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>бионическая дымовая рука</KokuBionicSmokeArm.comps.tools.bionic smoke arm.label>
+    <KokuBionicFireBreathJaw.label>Бионическая челюсть с огненным дыханием</KokuBionicFireBreathJaw.label>
+    <KokuBionicFireBreathJaw.labelNoun>установленная бионическая челюсть с огненным дыханием</KokuBionicFireBreathJaw.labelNoun>
+    <KokuBionicFireBreathJaw.description>Установленная бионическая челюсть огненного дыхания.</KokuBionicFireBreathJaw.description>
+    <KokuAdvancedBionicClaw.label>продвинутый бионический коготь</KokuAdvancedBionicClaw.label>
+    <KokuAdvancedBionicClaw.labelNoun>продвинутый бионический коготь</KokuAdvancedBionicClaw.labelNoun>
+    <KokuAdvancedBionicClaw.description>Установлен усовершенствованный бионический коготь.</KokuAdvancedBionicClaw.description>
+    <KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>продвинутый бионический коготь</KokuAdvancedBionicClaw.comps.tools.advanced bionic claw.label>
+    <KokuAdvancedBionicGunArm.label>усовершенствованная бионическая рука-пушка</KokuAdvancedBionicGunArm.label>
+    <KokuAdvancedBionicGunArm.labelNoun>усовершенствованная бионическая рука-пушка</KokuAdvancedBionicGunArm.labelNoun>
+    <KokuAdvancedBionicGunArm.description>Установленная усовершенствованная бионическая рука-пушка.</KokuAdvancedBionicGunArm.description>
+    <KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>усовершенствованная бионическая рука-пушка</KokuAdvancedBionicGunArm.comps.tools.advanced bionic gun arm.label>
+    <KokuAdvancedBionicEMPArm.label>Усовершенствованная бионическая ЭМИ-рука</KokuAdvancedBionicEMPArm.label>
+    <KokuAdvancedBionicEMPArm.labelNoun>установленная усовершенствованная бионическая рука с ЭМИ</KokuAdvancedBionicEMPArm.labelNoun>
+    <KokuAdvancedBionicEMPArm.description>Установленная усовершенствованная бионическая рука с ЭМИ.</KokuAdvancedBionicEMPArm.description>
+    <KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>усовершенствованная бионическая рука с ЭМИ</KokuAdvancedBionicEMPArm.comps.tools.advanced bionic EMP arm.label>
+    <KokuAdvancedBionicIncendiaryArm.label>Усовершенствованная бионическая зажигательная рука</KokuAdvancedBionicIncendiaryArm.label>
+    <KokuAdvancedBionicIncendiaryArm.labelNoun>установленная усовершенствованная бионическая зажигательная рука</KokuAdvancedBionicIncendiaryArm.labelNoun>
+    <KokuAdvancedBionicIncendiaryArm.description>Установлена ​​усовершенствованная бионическая зажигательная рука.</KokuAdvancedBionicIncendiaryArm.description>
+    <KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>усовершенствованная бионическая зажигательная рука</KokuAdvancedBionicIncendiaryArm.comps.tools.advanced bionic incendiary arm.label>
+    <KokuAdvancedBionicSmokeArm.label>Усовершенствованная бионическая дымовая рука</KokuAdvancedBionicSmokeArm.label>
+    <KokuAdvancedBionicSmokeArm.labelNoun>установленная усовершенствованная бионическая дымовая рука</KokuAdvancedBionicSmokeArm.labelNoun>
+    <KokuAdvancedBionicSmokeArm.description>Установлен усовершенствованный бионический дымовой манипулятор.</KokuAdvancedBionicSmokeArm.description>
+    <KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>усовершенствованная бионическая дымовая рука</KokuAdvancedBionicSmokeArm.comps.tools.advanced bionic smoke arm.label>
+    <KokuAdvancedBionicFireBreathJaw.label>Усовершенствованная бионическая челюсть с огненным дыханием</KokuAdvancedBionicFireBreathJaw.label>
+    <KokuAdvancedBionicFireBreathJaw.labelNoun>установленная усовершенствованная бионическая челюсть огненного дыхания</KokuAdvancedBionicFireBreathJaw.labelNoun>
+    <KokuAdvancedBionicFireBreathJaw.description>Установленная усовершенствованная бионическая челюсть огненного дыхания.</KokuAdvancedBionicFireBreathJaw.description>
+    <KokuUltraBionicClaw.label>ультра бионический коготь</KokuUltraBionicClaw.label>
+    <KokuUltraBionicClaw.labelNoun>ультрабионический коготь</KokuUltraBionicClaw.labelNoun>
+    <KokuUltraBionicClaw.description>Установленный ультрабионический коготь.</KokuUltraBionicClaw.description>
+    <KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>ультра бионический коготь</KokuUltraBionicClaw.comps.tools.ultra bionic claw.label>
+    <KokuUltraBionicGunArm.label>ультра бионическая рука-пистолет</KokuUltraBionicGunArm.label>
+    <KokuUltraBionicGunArm.labelNoun>ультрабионическая рука-пистолет</KokuUltraBionicGunArm.labelNoun>
+    <KokuUltraBionicGunArm.description>Установленная ультрабионическая рука-пушка.</KokuUltraBionicGunArm.description>
+    <KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>ультра бионическая рука-пистолет</KokuUltraBionicGunArm.comps.tools.ultra bionic gun arm.label>
+    <KokuUltraBionicEMPArm.label>Ультрабионическая ЭМИ-рука</KokuUltraBionicEMPArm.label>
+    <KokuUltraBionicEMPArm.labelNoun>установленная ультрабионическая рука с ЭМИ</KokuUltraBionicEMPArm.labelNoun>
+    <KokuUltraBionicEMPArm.description>Установленная ультрабионическая рука с ЭМИ.</KokuUltraBionicEMPArm.description>
+    <KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>ультрабионическая рука с ЭМИ</KokuUltraBionicEMPArm.comps.tools.ultra bionic EMP arm.label>
+    <KokuUltraBionicIncendiaryArm.label>Ультрабионическая зажигательная рука</KokuUltraBionicIncendiaryArm.label>
+    <KokuUltraBionicIncendiaryArm.labelNoun>установленная ультрабионическая зажигательная рука</KokuUltraBionicIncendiaryArm.labelNoun>
+    <KokuUltraBionicIncendiaryArm.description>Установленная ультрабионическая зажигательная рука.</KokuUltraBionicIncendiaryArm.description>
+    <KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>Ультрабионическая зажигательная рука</KokuUltraBionicIncendiaryArm.comps.tools.ultra bionic incendiary arm.label>
+    <KokuUltraBionicSmokeArm.label>Ультрабионическая дымовая рука</KokuUltraBionicSmokeArm.label>
+    <KokuUltraBionicSmokeArm.labelNoun>установленная ультрабионическая дымовая рука</KokuUltraBionicSmokeArm.labelNoun>
+    <KokuUltraBionicSmokeArm.description>Установлен ультрабионический дымовой манипулятор.</KokuUltraBionicSmokeArm.description>
+    <KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>Ультра бионическая дымовая рука</KokuUltraBionicSmokeArm.comps.tools.ultra bionic smoke arm.label>
+    <KokuUltraBionicFireBreathJaw.label>Ультрабионическая челюсть с огненным дыханием</KokuUltraBionicFireBreathJaw.label>
+    <KokuUltraBionicFireBreathJaw.labelNoun>установленная ультрабионическая челюсть с огненным дыханием</KokuUltraBionicFireBreathJaw.labelNoun>
+    <KokuUltraBionicFireBreathJaw.description>Установленная ультрабионическая челюсть с огненным дыханием.</KokuUltraBionicFireBreathJaw.description>
+</LanguageData>

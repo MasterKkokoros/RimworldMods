@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuSkullImplantSurgery.label>kunstige hodeskalleimplantater</KokuSkullImplantSurgery.label>
+    <KokuSkullImplantSurgery.description>Låser opp muligheten til å lage hodeskalleimplantater og installere dem.</KokuSkullImplantSurgery.description>
+    <KokuAdvancedSkullImplantSurgery.label>avanserte hodeskalleimplantater</KokuAdvancedSkullImplantSurgery.label>
+    <KokuAdvancedSkullImplantSurgery.description>Lar deg lage avanserte hodeskalleimplantater.</KokuAdvancedSkullImplantSurgery.description>
+    <KokuUltraSkullImplantSurgery.label>ultra skull implantater</KokuUltraSkullImplantSurgery.label>
+    <KokuUltraSkullImplantSurgery.description>Lar deg lage ultrahodeskalleimplantater.</KokuUltraSkullImplantSurgery.description>
+</LanguageData>
