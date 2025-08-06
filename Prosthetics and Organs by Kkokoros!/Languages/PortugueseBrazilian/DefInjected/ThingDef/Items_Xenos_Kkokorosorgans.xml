@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Asa Hidráulica</KokuHydraulicWing.label>
+    <KokuHydraulicWing.description>Substituto da asa feito de aço.</KokuHydraulicWing.description>
+    <KokuBionicWing.label>Asa Biónica</KokuBionicWing.label>
+    <KokuBionicWing.description>Substituto da asa feito de superliga.</KokuBionicWing.description>
+    <KokuAdvancedBionicWing.label>Asa Biónica Avançada</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.description>Substituto da asa feito de superliga e prata.</KokuAdvancedBionicWing.description>
+    <KokuUltraBionicWing.label>Ultra Asa Biónica</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.description>Substituto da asa feito de superliga e prata com adição de urânio.</KokuUltraBionicWing.description>
+
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Antenna Hidráulica</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.description>Substituto da antena feito de aço.</KokuHydraulicAntenna.description>
+    <KokuBionicAntenna.label>Antenna Biónica</KokuBionicAntenna.label>
+    <KokuBionicAntenna.description>Substituto da antena feito de superliga.</KokuBionicAntenna.description>
+    <KokuAdvancedBionicAntenna.label>Antenna Biónica Avançada</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.description>Substituto da antena feito de superliga e prata.</KokuAdvancedBionicAntenna.description>
+    <KokuUltraBionicAntenna.label>Ultra Antenna Biónica</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.description>Substituto da antena feito de superliga e prata com adição de urânio.</KokuUltraBionicAntenna.description>
+
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Cauda Hidráulica</KokuHydraulicTail.label>
+    <KokuHydraulicTail.description>Substituto da cauda feito de aço.</KokuHydraulicTail.description>
+    <KokuBionicTail.label>Cauda Biónica</KokuBionicTail.label>
+    <KokuBionicTail.description>Substituto da cauda feito de superliga.</KokuBionicTail.description>
+    <KokuAdvancedBionicTail.label>Cauda Biónica Avançada</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.description>Substituto da cauda feito de superliga e prata.</KokuAdvancedBionicTail.description>
+    <KokuUltraBionicTail.label>Ultra Cauda Biónica</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.description>Substituto da cauda feito de superliga e prata com adição de urânio.</KokuUltraBionicTail.description>
+
+    <!--==========abodmen==========-->
+    <KokuBionicAbdomen.label>Abdômen Biónico</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.description>Substituto do abdômen feito de superliga.</KokuBionicAbdomen.description>
+    <KokuAdvancedBionicAbdomen.label>Abdômen Biónico Avançado</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.description>Substituto do coração feito de superliga e prata.</KokuAdvancedBionicAbdomen.description>
+    <KokuUltraBionicAbdomen.label>Ultra Abdômen Biónico</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.description>Substituto do coração feito de superliga e prata com adição de urânio.</KokuUltraBionicAbdomen.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Estômago Artificial de Mel</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.description>Substituto do estômago de mel feito de superliga.</KokuArtificialHoneyStomach.description>
+    <KokuSyntheticHoneyStomach.label>Estômago Sintético de Mel</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.description>Substituto do estômago de mel feito de superliga e prata.</KokuSyntheticHoneyStomach.description>
+    <KokuUltraHoneyStomach.label>Ultra Estômago de Mel</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.description>Substituto do estômago de mel feito de superliga e prata com adição de urânio.</KokuUltraHoneyStomach.description>
+
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Sztuczna śledziona</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.description>Zamiennik śledziony wykonane z superstali. \nWydaje głośny dźwięk.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Syntetyczna śledziona</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.description>Zamiennik śledziony wykonane z superstali i srebra. \nWydaje cichy dźwięk.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ultra śledziona</KokuUltraSpleen.label>
+    <KokuUltraSpleen.description>Zamiennik śledziony wykonane z superstali i srebra z dodatkiem uranu. \nNie wydaje żadnego dźwięku.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Sztuczna trzustka</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.description>Zamiennik trzustki wykonane z superstali. \nWydaje głośny dźwięk.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Syntetyczna trzustka</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.description>Zamiennik trzustki wykonane z superstali i srebra. \nWydaje cichy dźwięk.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ultra trzustka</KokuUltraPancreas.label>
+    <KokuUltraPancreas.description>Zamiennik trzustki wykonane z superstali i srebra z dodatkiem uranu. \nNie wydaje żadnego dźwięku.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Sztuczny pęcherzyk żółciowy</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.description>Zamiennik pęcherzyka żółciowego wykonane z superstali. \nWydaje głośny dźwięk.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Syntetyczny pęcherzyk żółciowy</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.description>Zamiennik pęcherzyka żółciowego wykonane z superstali i srebra. \nWydaje cichy dźwięk.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ultra pęcherzyk żółciowy</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.description>Zamiennik pęcherzyka żółciowego wykonane z superstali i srebra z dodatkiem uranu. \nNie wydaje żadnego dźwięku.</KokuUltraGallbladder.description>
+
+</LanguageData>

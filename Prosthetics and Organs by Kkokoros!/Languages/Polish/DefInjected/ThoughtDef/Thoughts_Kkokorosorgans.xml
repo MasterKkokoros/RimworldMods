@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuDruggedSternumThought.stages.0.label>Narkotyzujący mostek</KokuDruggedSternumThought.stages.0.label>
+    <KokuDruggedSternumThought.stages.0.description>Uuu to mnie relaksuje</KokuDruggedSternumThought.stages.0.description>
+
+    <KokuAdvancedDruggedSternumThought.stages.0.label>Zaawansowany narkotyzujący mostek</KokuAdvancedDruggedSternumThought.stages.0.label>
+    <KokuAdvancedDruggedSternumThought.stages.0.description>Uuu to mnie naprawde relaksuje</KokuAdvancedDruggedSternumThought.stages.0.description>
+
+    <KokuUltraDruggedSternumThought.stages.0.label>Ultra narkotyzujący mostek</KokuUltraDruggedSternumThought.stages.0.label>
+    <KokuUltraDruggedSternumThought.stages.0.description>TO JEST NIESAMOWITE!</KokuUltraDruggedSternumThought.stages.0.description>
+    
+    <KokuMuteJawThought.stages.0.label>Wyciszony na siłe</KokuMuteJawThought.stages.0.label>
+    <KokuMuteJawThought.stages.0.description>Dajcie mi mówić :/</KokuMuteJawThought.stages.0.description>
+    
+</LanguageData>

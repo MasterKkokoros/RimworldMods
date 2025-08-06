@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <KokuDruggedSternumThought.stages.0.label>Narkotisierendes Brustbein</KokuDruggedSternumThought.stages.0.label>
+    <KokuDruggedSternumThought.stages.0.description>Uuu, das entspannt mich.</KokuDruggedSternumThought.stages.0.description>
+    
+    <KokuAdvancedDruggedSternumThought.stages.0.label>Fortgeschrittenes narkotisierendes Brustbein</KokuAdvancedDruggedSternumThought.stages.0.label>
+    <KokuAdvancedDruggedSternumThought.stages.0.description>Uuu, das entspannt mich wirklich.</KokuAdvancedDruggedSternumThought.stages.0.description>
+    
+    <KokuUltraDruggedSternumThought.stages.0.label>Ultra narkotisierendes Brustbein</KokuUltraDruggedSternumThought.stages.0.label>
+    <KokuUltraDruggedSternumThought.stages.0.description>DAS IST UNGLAUBLICH!</KokuUltraDruggedSternumThought.stages.0.description>
+    
+    <KokuMuteJawThought.stages.0.label>Stummgeschaltet</KokuMuteJawThought.stages.0.label>
+    <KokuMuteJawThought.stages.0.description>Lasst mich reden :/</KokuMuteJawThought.stages.0.description>
+</LanguageData>

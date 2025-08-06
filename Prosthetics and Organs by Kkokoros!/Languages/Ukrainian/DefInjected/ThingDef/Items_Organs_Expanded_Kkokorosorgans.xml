@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Штучна селезінка</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.description>Замінник селезінки, виконаний з суперсталі. \nВиділяє гучний звук.</KokuArtificialSpleen.description>
+    <KokuSyntheticSpleen.label>Синтетична селезінка</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.description>Замінник селезінки, виконаний з суперсталі та срібла. \nВиділяє тихий звук.</KokuSyntheticSpleen.description>
+    <KokuUltraSpleen.label>Ультра селезінка</KokuUltraSpleen.label>
+    <KokuUltraSpleen.description>Замінник селезінки, виконаний з суперсталі та срібла з додаванням урану. \nНе видає жодного звуку.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Штучна підшлункова залоза</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.description>Замінник підшлункової залози, виконаний з суперсталі. \nВиділяє гучний звук.</KokuArtificialPancreas.description>
+    <KokuSyntheticPancreas.label>Синтетична підшлункова залоза</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.description>Замінник підшлункової залози, виконаний з суперсталі та срібла. \nВиділяє тихий звук.</KokuSyntheticPancreas.description>
+    <KokuUltraPancreas.label>Ультра підшлункова залоза</KokuUltraPancreas.label>
+    <KokuUltraPancreas.description>Замінник підшлункової залози, виконаний з суперсталі та срібла з додаванням урану. \nНе видає жодного звуку.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Штучний жовчний міхур</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.description>Замінник жовчного міхура, виконаний з суперсталі. \nВиділяє гучний звук.</KokuArtificialGallbladder.description>
+    <KokuSyntheticGallbladder.label>Синтетичний жовчний міхур</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.description>Замінник жовчного міхура, виконаний з суперсталі та срібла. \nВиділяє тихий звук.</KokuSyntheticGallbladder.description>
+    <KokuUltraGallbladder.label>Ультра жовчний міхур</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.description>Замінник жовчного міхура, виконаний з суперсталі та срібла з додаванням урану. \nНе видає жодного звуку.</KokuUltraGallbladder.description>
+
+
+</LanguageData>

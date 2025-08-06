@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--==========kits==========-->
+    <KokuUnfinishedOrgansOrBionics.label>Незавершенный орган или бионическая часть</KokuUnfinishedOrgansOrBionics.label>
+
+    <KokuTier1kit.label>Комплект уровня 1</KokuTier1kit.label>
+    <KokuTier1kit.description>Комплект уровня 1 с инструментами, используемыми для создания бионики. \nОснащен простыми инструментами и немного суперстали.</KokuTier1kit.description>
+
+    <KokuTier2kit.label>Комплект уровня 2</KokuTier2kit.label>
+    <KokuTier2kit.description>Комплект уровня 2 с инструментами, используемыми для создания бионики. \nОснащен современными инструментами и немного суперстали, серебра и компонентов.</KokuTier2kit.description>
+
+    <KokuTier3kit.label>Комплект уровня 3</KokuTier3kit.label>
+    <KokuTier3kit.description>Комплект уровня 3 с инструментами, используемыми для создания бионики. \nОснащен современными инструментами и немного суперстали, серебра, урана и продвинутых компонентов.</KokuTier3kit.description>
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Деревянная рука</KokuWoodenArm.label>
+    <KokuWoodenArm.description>Замена руки, сделанная из дерева. \nВыглядит плохо, ощущается плохо, она плоха.</KokuWoodenArm.description>
+
+    <KokuSimpleHydraulicArm.label>Гидравлическая рука</KokuSimpleHydraulicArm.label>
+    <KokuSimpleHydraulicArm.description>Замена руки, сделанная из стали. \nГораздо удобнее и полезнее, чем деревянная.</KokuSimpleHydraulicArm.description>
+
+    <KokuBionicArm.label>Бионическая рука</KokuBionicArm.label>
+    <KokuBionicArm.description>Замена руки, сделанная из суперстали. \nОбеспечивает пользователю исключительную силу.</KokuBionicArm.description>
+
+    <KokuAdvancedBionicArm.label>Продвинутая бионическая рука</KokuAdvancedBionicArm.label>
+    <KokuAdvancedBionicArm.description>Замена руки, сделанная из суперстали и серебра. \nОбеспечивает пользователю исключительную силу.</KokuAdvancedBionicArm.description>
+
+    <KokuUltraBionicArm.label>Ультра бионическая рука</KokuUltraBionicArm.label>
+    <KokuUltraBionicArm.description>Замена руки, сделанная из суперстали и серебра с добавлением урана. \nЭто просто П%^$^%#E.</KokuUltraBionicArm.description>
+
+    <!--==========leg==========-->
+    <KokuWoodenLeg.label>Деревянная нога</KokuWoodenLeg.label>
+    <KokuWoodenLeg.description>Замена ноги, сделанная из дерева. \nВыглядит плохо, ощущается плохо, она плоха.</KokuWoodenLeg.description>
+
+    <KokuSimpleHydraulicLeg.label>Гидравлическая нога</KokuSimpleHydraulicLeg.label>
+    <KokuSimpleHydraulicLeg.description>Замена ноги, сделанная из стали. \nГораздо удобнее и полезнее, чем деревянная.</KokuSimpleHydraulicLeg.description>
+
+    <KokuBionicLeg.label>Бионическая нога</KokuBionicLeg.label>
+    <KokuBionicLeg.description>Замена ноги, сделанная из суперстали. \nОбеспечивает владельцу исключительный комфорт при ходьбе и силу.</KokuBionicLeg.description>
+
+    <KokuAdvancedBionicLeg.label>Продвинутая бионическая нога</KokuAdvancedBionicLeg.label>
+    <KokuAdvancedBionicLeg.description>Замена ноги, сделанная из суперстали и серебра. \nПомнишь, каково это - ходить? \nЯ тоже не помню.</KokuAdvancedBionicLeg.description>
+
+    <KokuUltraBionicLeg.label>Ультра бионическая нога</KokuUltraBionicLeg.label>
+    <KokuUltraBionicLeg.description>Замена ноги, сделанная из суперстали и серебра с добавлением урана. \nЯ так быстр, что живу в темноте.</KokuUltraBionicLeg.description>
+
+    <!--==========jaw==========-->
+    <KokuWoodenJaw.label>Деревянная челюсть</KokuWoodenJaw.label>
+    <KokuWoodenJaw.description>Замена челюсти, сделанная из дерева. \nПахнет отвратительно и на вкус еще хуже.</KokuWoodenJaw.description>
+
+    <KokuHydraulicJaw.label>Гидравлическая челюсть</KokuHydraulicJaw.label>
+    <KokuHydraulicJaw.description>Замена челюсти, сделанная из стали. \nБольше не источает запах и позволяет пользователю чувствовать простые вкусы!</KokuHydraulicJaw.description>
+
+    <KokuBionicJaw.label>Бионическая челюсть</KokuBionicJaw.label>
+    <KokuBionicJaw.description>Замена челюсти, сделанная из суперстали. \nПозволяет снова нормально есть, в комплект входит также модуль голосового модулятора.</KokuBionicJaw.description>
+
+    <KokuMuteJaw.label>Немая челюсть</KokuMuteJaw.label>
+    <KokuMuteJaw.description>Замена челюсти, сделанная из суперстали. \nЭта версия бионической челюсти лишена модулятора голоса, что полезно для громких пациентов.</KokuMuteJaw.description>
+
+    <KokuAdvancedBionicJaw.label>Продвинутая бионическая челюсть</KokuAdvancedBionicJaw.label>
+    <KokuAdvancedBionicJaw.description>Замена челюсти, сделанная из суперстали и серебра. \nПозволяет есть, как монстр!</KokuAdvancedBionicJaw.description>
+
+    <KokuUltraBionicJaw.label>Ультра бионическая челюсть</KokuUltraBionicJaw.label>
+    <KokuUltraBionicJaw.description>Замена челюсти, сделанная из суперстали и серебра с добавлением урана. \nЭй, пережуй этот бутерброд за меня!</KokuUltraBionicJaw.description>
+
+    <!--==========nose==========-->
+    <KokuArtificialNose.label>Искусственный нос</KokuArtificialNose.label>
+    <KokuArtificialNose.description>Замена носа, сделанная из стали. \nЗакрывает отверстие в лице и позволяет пользователю вдыхать простые вещества.</KokuArtificialNose.description>
+
+    <KokuBionicNose.label>Бионический нос</KokuBionicNose.label>
+    <KokuBionicNose.description>Замена носа, сделанная из суперстали. \nОбеспечивает владельцу невероятно острое обоняние.</KokuBionicNose.description>
+
+    <KokuAdvancedBionicNose.label>Продвинутый бионический нос</KokuAdvancedBionicNose.label>
+    <KokuAdvancedBionicNose.description>Замена носа, сделанная из суперстали и серебра. \nОбеспечивает владельцу невероятно острое обоняние.</KokuAdvancedBionicNose.description>
+
+    <KokuUltraBionicNose.label>Ультра бионический нос</KokuUltraBionicNose.label>
+    <KokuUltraBionicNose.description>Замена носа, сделанная из суперстали и серебра с добавлением урана. \nКто-то пукнул? \nО, захватчики...</KokuUltraBionicNose.description>
+
+    <!--==========ear==========-->
+    <KokuArtificialEar.label>Искусственное ухо</KokuArtificialEar.label>
+    <KokuArtificialEar.description>Замена уха, сделанная из стали. \nЗакрывает отверстие в голове и позволяет пользователю слышать простые звуки.</KokuArtificialEar.description>
+
+    <KokuBionicEar.label>Бионическое ухо</KokuBionicEar.label>
+    <KokuBionicEar.description>Замена уха, сделанная из суперстали. \nПозволяет восстановить нормальный слух.</KokuBionicEar.description>
+
+    <KokuAdvancedBionicEar.label>Продвинутое бионическое ухо</KokuAdvancedBionicEar.label>
+    <KokuAdvancedBionicEar.description>Замена уха, сделанная из суперстали и серебра. \nПозволяет слышать еще лучше!</KokuAdvancedBionicEar.description>
+
+    <KokuUltraBionicEar.label>Ультра бионическое ухо</KokuUltraBionicEar.label>
+    <KokuUltraBionicEar.description>Замена уха, сделанная из суперстали и серебра с добавлением урана. \n"Я слышу тебя!"</KokuUltraBionicEar.description>
+
+    <!--==========eye==========-->
+    <KokuArtificialEye.label>Искусственный глаз</KokuArtificialEye.label>
+    <KokuArtificialEye.description>Замена глаза, сделанная из стали. \nСпособен обнаруживать свет и даже расстояние. Как смотреть через камеру, но без цветов.</KokuArtificialEye.description>
+
+    <KokuBionicEye.label>Бионический глаз</KokuBionicEye.label>
+    <KokuBionicEye.description>Замена глаза, сделанная из суперстали. \nОбеспечивает сверхъестественные способности зрения.</KokuBionicEye.description>
+
+    <KokuAdvancedBionicEye.label>Продвинутое бионический глаз</KokuAdvancedBionicEye.label>
+    <KokuAdvancedBionicEye.description>Замена глаза, сделанная из суперстали и серебра. \nОбеспечивает сверхъестественные способности зрения.</KokuAdvancedBionicEye.description>
+
+    <KokuUltraBionicEye.label>Ультра бионический глаз</KokuUltraBionicEye.label>
+    <KokuUltraBionicEye.description>Замена глаза, сделанная из суперстали и серебра с добавлением урана. \nЭто не обман?</KokuUltraBionicEye.description>
+
+    <!--==========spine==========-->
+    <KokuBionicSpine.label>Бионический позвоночник</KokuBionicSpine.label>
+    <KokuBionicSpine.description>Замена позвоночника, сделанная из суперстали.</KokuBionicSpine.description>
+
+    <KokuAdvancedBionicSpine.label>Усовершенствованный бионический позвоночник</KokuAdvancedBionicSpine.label>
+    <KokuAdvancedBionicSpine.description>Замена позвоночника, сделанная из суперстали и серебра. \nЭто светящееся устройство невероятно!</KokuAdvancedBionicSpine.description>
+
+    <KokuUltraBionicSpine.label>Ультра бионический позвоночник</KokuUltraBionicSpine.label>
+    <KokuUltraBionicSpine.description>Замена позвоночника, сделанная из суперстали и серебра с добавлением урана. \nЯ всегда был таким легким?</KokuUltraBionicSpine.description>
+
+    <!--==========pelvis==========-->
+    <KokuBionicPelvis.label>Бионический таз</KokuBionicPelvis.label>
+    <KokuBionicPelvis.description>Замена таза, сделанная из суперстали.</KokuBionicPelvis.description>
+
+    <KokuAdvancedBionicPelvis.label>Усовершенствованный бионический таз</KokuAdvancedBionicPelvis.label>
+    <KokuAdvancedBionicPelvis.description>Замена таза, сделанная из суперстали и серебра. \nЭто светящееся устройство невероятно!</KokuAdvancedBionicPelvis.description>
+
+    <KokuUltraBionicPelvis.label>Ультра бионический таз</KokuUltraBionicPelvis.label>
+    <KokuUltraBionicPelvis.description>Замена таза, сделанная из суперстали и серебра с добавлением урана. \nЯ всегда был таким легким?</KokuUltraBionicPelvis.description>
+
+    <!--==========neck==========-->
+    <KokuBionicNeck.label>Бионическая шея</KokuBionicNeck.label>
+    <KokuBionicNeck.description>Имплантат шеи, сделанный из суперстали.</KokuBionicNeck.description>
+
+    <KokuAdvancedBionicNeck.label>Усовершенствованная бионическая шея</KokuAdvancedBionicNeck.label>
+    <KokuAdvancedBionicNeck.description>Имплантат шеи, сделанный из суперстали и серебра. \nЭто светящееся устройство невероятно!</KokuAdvancedBionicNeck.description>
+
+    <KokuUltraBionicNeck.label>Ультра бионическая шея</KokuUltraBionicNeck.label>
+    <KokuUltraBionicNeck.description>Имплантат шеи, сделанный из суперстали и серебра с добавлением урана. \nЯ всегда был таким легким?</KokuUltraBionicNeck.description>
+
+    <!--==========medsternum==========-->
+    <KokuMedicalSternum.label>Медицинская грудина</KokuMedicalSternum.label>
+    <KokuMedicalSternum.description>Замена грудины, сделанная из суперстали. \nОснащена небольшими фильтрами крови и дозаторами антибиотиков, чтобы поддерживать здоровье пользователя.</KokuMedicalSternum.description>
+
+    <KokuAdvancedMedicalSternum.label>Усовершенствованная медицинская грудина</KokuAdvancedMedicalSternum.label>
+    <KokuAdvancedMedicalSternum.description>Замена грудины, сделанная из суперстали и серебра. \nОснащена небольшими фильтрами крови и дозаторами антибиотиков, чтобы поддерживать здоровье пользователя.</KokuAdvancedMedicalSternum.description>
+
+    <KokuUltraMedicalSternum.label>Ультра медицинская грудина</KokuUltraMedicalSternum.label>
+    <KokuUltraMedicalSternum.description>Замена грудины, сделанная из суперстали и серебра с добавлением урана. \nОснащена небольшими фильтрами крови и дозаторами антибиотиков, чтобы поддерживать здоровье пользователя.</KokuUltraMedicalSternum.description>
+
+    <!--==========druggsternum==========-->
+    <KokuDruggedSternum.label>Наркотический грудин</KokuDruggedSternum.label>
+    <KokuDruggedSternum.description>Замена грудины, сделанная из суперстали. \nОснащена небольшими дозаторами наркотиков для удовлетворения пользователя. Рекомендуется синтетическая печень.</KokuDruggedSternum.description>
+
+    <KokuAdvancedDruggedSternum.label>Усовершенствованная наркотическая грудина</KokuAdvancedDruggedSternum.label>
+    <KokuAdvancedDruggedSternum.description>Замена грудины, сделанная из суперстали и серебра. \nОснащена небольшими дозаторами наркотиков для удовлетворения пользователя. Рекомендуется синтетическая печень.</KokuAdvancedDruggedSternum.description>
+
+    <KokuUltraDruggedSternum.label>Ультра наркотическая грудина</KokuUltraDruggedSternum.label>
+    <KokuUltraDruggedSternum.description>Замена грудины, сделанная из суперстали и серебра с добавлением урана. \nОснащена небольшими дозаторами наркотиков для удовлетворения пользователя. Рекомендуется синтетическая печень.</KokuUltraDruggedSternum.description>
+
+    <!--==========adrsternum==========-->
+    <KokuAdrenalineSternum.label>Грудина с адреналином</KokuAdrenalineSternum.label>
+    <KokuAdrenalineSternum.description>Замена грудины, сделанная из суперстали. \nОснащена небольшими дозаторами адреналина, чтобы поддерживать пользователя в хорошей форме и скорости.</KokuAdrenalineSternum.description>
+
+    <KokuAdvancedAdrenalineSternum.label>Усовершенствованный грудина с адреналином</KokuAdvancedAdrenalineSternum.label>
+    <KokuAdvancedAdrenalineSternum.description>Замена грудины, сделанная из суперстали и серебра. \nОснащена небольшими дозаторами адреналина, чтобы поддерживать пользователя в хорошей форме и скорости.</KokuAdvancedAdrenalineSternum.description>
+
+    <KokuUltraAdrenalineSternum.label>Ультра грудина с адреналином</KokuUltraAdrenalineSternum.label>
+    <KokuUltraAdrenalineSternum.description>Замена грудины, сделанная из суперстали и серебра с добавлением урана. \nОснащена небольшими дозаторами адреналина, чтобы поддерживать пользователя в хорошей форме и скорости.</KokuUltraAdrenalineSternum.description>
+
+    <!--==========painsternum==========-->
+    <KokuPainkillerSternum.label>Обезболивающая грудина</KokuPainkillerSternum.label>
+    <KokuPainkillerSternum.description>Замена грудины, сделанная из суперстали. \nОснащена небольшими дозаторами морфина, которые облегчают боль пользователя. Побочными эффектами являются расстройства дыхательной системы.</KokuPainkillerSternum.description>
+
+    <KokuAdvancedPainkillerSternum.label>Усовершенствованная обезболивающая грудина</KokuAdvancedPainkillerSternum.label>
+    <KokuAdvancedPainkillerSternum.description>Замена грудины, сделанная из суперстали и серебра. \nОснащена небольшими дозаторами морфина, которые облегчают боль пользователя. Побочными эффектами являются расстройства дыхательной системы.</KokuAdvancedPainkillerSternum.description>
+
+    <KokuUltraPainkillerSternum.label>Ультра обезболивающая грудина</KokuUltraPainkillerSternum.label>
+    <KokuUltraPainkillerSternum.description>Замена грудины, сделанная из суперстали и серебра с добавлением урана. \nОснащена небольшими дозаторами морфина, которые облегчают боль пользователя. Побочными эффектами являются расстройства дыхательной системы.</KokuUltraPainkillerSternum.description>
+    <!--==========ribcage==========-->
+    <KokuNanomachinesRibcage.label>Клетка грудной клетки с наномашинами</KokuNanomachinesRibcage.label>
+    <KokuNanomachinesRibcage.description>Замена грудной клетки, выполненная из суперстали. \nОснащена небольшими дозаторами наномашин для анестезии ран пользователя.</KokuNanomachinesRibcage.description>
+
+    <KokuAdvancedNanomachinesRibcage.label>Продвинутая клетка грудной клетки с наномашинами</KokuAdvancedNanomachinesRibcage.label>
+    <KokuAdvancedNanomachinesRibcage.description>Замена грудной клетки, выполненная из суперстали и серебра. \nОснащена небольшими дозаторами наномашин для анестезии ран пользователя.</KokuAdvancedNanomachinesRibcage.description>
+
+    <KokuUltraNanomachinesRibcage.label>Ультра клетка грудной клетки с наномашинами</KokuUltraNanomachinesRibcage.label>
+    <KokuUltraNanomachinesRibcage.description>Замена грудной клетки, выполненная из суперстали и серебра с добавлением урана. \nОснащена небольшими дозаторами наномашин для анестезии ран пользователя.</KokuUltraNanomachinesRibcage.description>
+
+    <!--==========exoskeleton==========-->
+    <KokuExoskeleton.label>Экзоскелет</KokuExoskeleton.label>
+    <KokuExoskeleton.description>Экзоскелет, выполненный из суперстали и серебра. \nДелает пользователя сильнее.</KokuExoskeleton.description>
+
+    <KokuUltraExoskeleton.label>Ультра экзоскелет</KokuUltraExoskeleton.label>
+    <KokuUltraExoskeleton.description>Экзоскелет, выполненный из суперстали и серебра с добавлением урана. \nЯ чувствую себя как муравей!</KokuUltraExoskeleton.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuArtificialBrain.label>Искусственный мозг</KokuArtificialBrain.label>
+    <KokuArtificialBrain.description>Имплант мозга, выполненный из суперстали. \nНебольшое устройство, которое делает все возможное, чтобы поддерживать мозг пользователя в работе. \nРекомендуется только в случае серьезного повреждения мозга. \nСтоит помнить, что оно ограничивает мощность мозга! (100%)</KokuArtificialBrain.description>
+
+    <KokuAdvancedBrain.label>Продвинутый мозг</KokuAdvancedBrain.label>
+    <KokuAdvancedBrain.description>Имплант мозга, выполненный из суперстали и серебра. \nУлучшает работу мозга пользователя и слегка его усовершенствует.\n(Заставляет чаще чувствовать голод)</KokuAdvancedBrain.description>
+
+    <KokuUltraBrain.label>Ультра мозг</KokuUltraBrain.label>
+    <KokuUltraBrain.description>Имплант мозга, выполненный из суперстали и серебра с добавлением урана. \nЗаставляет мозг пользователя работать как у гения. \n(Заставляет чаще чувствовать голод)</KokuUltraBrain.description>
+
+    <!--==========lung==========-->
+    <KokuArtificialLung.label>Искусственное легкое</KokuArtificialLung.label>
+    <KokuArtificialLung.description>Замена легкого, выполненная из суперстали. \nИздает громкий звук.</KokuArtificialLung.description>
+
+    <KokuSyntheticLung.label>Синтетическое легкое</KokuSyntheticLung.label>
+    <KokuSyntheticLung.description>Замена легкого, выполненная из суперстали и серебра. \nИздает тихий звук.</KokuSyntheticLung.description>
+
+    <KokuUltraLung.label>Ультра легкое</KokuUltraLung.label>
+    <KokuUltraLung.description>Замена легкого, выполненная из суперстали и серебра с добавлением урана. \nНе издает никаких звуков.</KokuUltraLung.description>
+
+    <!--==========stomach==========-->
+    <KokuArtificialStomach.label>Искусственный желудок</KokuArtificialStomach.label>
+    <KokuArtificialStomach.description>Замена желудка, выполненная из суперстали. \nНе стоит это нюхать!</KokuArtificialStomach.description>
+
+    <KokuSyntheticStomach.label>Синтетический желудок</KokuSyntheticStomach.label>
+    <KokuSyntheticStomach.description>Замена желудка, выполненная из суперстали и серебра. \nБольше не воняет.</KokuSyntheticStomach.description>
+
+    <KokuUltraStomach.label>Ультра желудок</KokuUltraStomach.label>
+    <KokuUltraStomach.description>Замена желудка, выполненная из суперстали и серебра с добавлением урана. \n"Пукания" стали Убийственными О-О.</KokuUltraStomach.description>
+
+    <!--==========liver==========-->
+    <KokuArtificialLiver.label>Искусственная печень</KokuArtificialLiver.label>
+    <KokuArtificialLiver.description>Замена печени, выполненная из суперстали. \nНемного лучше, чем обычный кофейный фильтр.</KokuArtificialLiver.description>
+
+    <KokuSyntheticLiver.label>Синтетическая печень</KokuSyntheticLiver.label>
+    <KokuSyntheticLiver.description>Замена печени, выполненная из суперстали и серебра. \nОчень хорошо фильтрует кровь.</KokuSyntheticLiver.description>
+
+    <KokuUltraLiver.label>Ультра печень</KokuUltraLiver.label>
+    <KokuUltraLiver.description>Замена печени, выполненная из суперстали и серебра с добавлением урана. \nЭто все еще кровь или что-то другое?</KokuUltraLiver.description>
+
+    <!--==========kidney==========-->
+    <KokuArtificialKidney.label>Искусственная почка</KokuArtificialKidney.label>
+    <KokuArtificialKidney.description>Замена почки, выполненная из суперстали. \nЛучше, чем диализ, поверьте мне!, поверьте мне...</KokuArtificialKidney.description>
+
+    <KokuSyntheticKidney.label>Синтетическая почка</KokuSyntheticKidney.label>
+    <KokuSyntheticKidney.description>Замена почки, выполненная из суперстали и серебра. \nТеперь вы можете пить без проблем!</KokuSyntheticKidney.description>
+
+    <KokuUltraKidney.label>Ультра почка</KokuUltraKidney.label>
+    <KokuUltraKidney.description>Замена почки, выполненная из суперстали и серебра с добавлением урана. \n"Напитки" — это всего лишь вода!</KokuUltraKidney.description>
+
+    <!--==========heart==========-->
+    <KokuArtificialHeart.label>Искусственное сердце</KokuArtificialHeart.label>
+    <KokuArtificialHeart.description>Замена сердца, выполненная из суперстали.</KokuArtificialHeart.description>
+
+    <KokuSyntheticHeart.label>Синтетическое сердце</KokuSyntheticHeart.label>
+    <KokuSyntheticHeart.description>Замена сердца, выполненная из суперстали и серебра. \nПоддерживает кровоток.</KokuSyntheticHeart.description>
+
+    <KokuUltraHeart.label>Ультра сердце</KokuUltraHeart.label>
+    <KokuUltraHeart.description>Замена сердца, выполненная из суперстали и серебра с добавлением урана. \nПоддерживает кровоток.</KokuUltraHeart.description>
+
+
+</LanguageData>

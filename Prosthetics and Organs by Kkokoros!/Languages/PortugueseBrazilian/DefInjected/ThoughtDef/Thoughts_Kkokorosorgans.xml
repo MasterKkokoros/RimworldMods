@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <KokuDruggedSternumThought.stages.0.label>Esterno Anestésico</KokuDruggedSternumThought.stages.0.label>
+    <KokuDruggedSternumThought.stages.0.description>Uau, isso me relaxa</KokuDruggedSternumThought.stages.0.description>
+
+    <KokuAdvancedDruggedSternumThought.stages.0.label>Esterno Anestésico Avançado</KokuAdvancedDruggedSternumThought.stages.0.label>
+    <KokuAdvancedDruggedSternumThought.stages.0.description>Uau, isso realmente me relaxa</KokuAdvancedDruggedSternumThought.stages.0.description>
+
+    <KokuUltraDruggedSternumThought.stages.0.label>Ultra Esterno Anestésico</KokuUltraDruggedSternumThought.stages.0.label>
+    <KokuUltraDruggedSternumThought.stages.0.description>ISSO É INCRÍVEL!</KokuUltraDruggedSternumThought.stages.0.description>
+
+    <KokuMuteJawThought.stages.0.label>Mandíbula Silenciada à Força</KokuMuteJawThought.stages.0.label>
+    <KokuMuteJawThought.stages.0.description>Deixem-me falar :/</KokuMuteJawThought.stages.0.description>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    
+    <!--==========Bladder==========-->
+    <KokuBionicBladder.label>Bioniczny pęcherz</KokuBionicBladder.label>
+    <KokuBionicBladder.description>Zamiennik pęcherza wykonane z superstali i srebra z dodatkiem uranu. \nSystem recyklingu chemicznego rozkłada produkty przemiany materii z organizmu na cząsteczki, które są poddawane recyklingowi, a pozostała część jest uwalniana w postaci gazu, czego wadą jest to, że wydziela on gaz dla użytkownika.</KokuBionicBladder.description>
+
+    <KokuAdvancedBionicBladder.label>Zaawansowany bioniczny pęcherz</KokuAdvancedBionicBladder.label>
+    <KokuAdvancedBionicBladder.description>Zamiennik pęcherza wykonane z superstali i srebra z dodatkiem uranu. \nSystem recyklingu chemicznego rozkłada produkty przemiany materii z organizmu na cząsteczki, które są poddawane recyklingowi, a pozostała część jest uwalniana w postaci gazu, czego wadą jest to, że wydziela on gaz dla użytkownika.</KokuAdvancedBionicBladder.description>
+    <KokuUltraBionicBladder.label>Ultra bioniczny pęcherz</KokuUltraBionicBladder.label>
+    <KokuUltraBionicBladder.description>Zamiennik pęcherza wykonane z superstali i srebra z dodatkiem uranu. \nSystem recyklingu chemicznego rozkłada produkty przemiany materii z organizmu na cząsteczki, które są poddawane recyklingowi, a pozostała część jest uwalniana w postaci gazu, czego wadą jest to, że wydziela on gaz dla użytkownika.</KokuUltraBionicBladder.description>
+    <!--==========HygieneEnhancer==========-->
+    <KokuHygieneEnhancer.label>Bioniczny środek poprawiający higienę</KokuHygieneEnhancer.label>
+    <KokuHygieneEnhancer.description>Środek poprawiający higienę wykonane z superstali i srebra z dodatkiem uranu. \nUwalnia mechanity, które rozkładają martwe komórki skóry i inne zanieczyszczenia na skórze i włosach, uwalniając je nieszkodliwie do powietrza.</KokuHygieneEnhancer.description>
+    <KokuAdvancedHygieneEnhancer.label>Zaawansowany bioniczny środek poprawiający higienę</KokuAdvancedHygieneEnhancer.label>
+    <KokuBionicBladder.description>Środek poprawiający higienę wykonane z superstali i srebra z dodatkiem uranu. \nUwalnia zaawansowane mechanity, które rozkładają martwe komórki skóry i inne zanieczyszczenia na skórze i włosach, uwalniając je nieszkodliwie do powietrza.</KokuBionicBladder.description>
+    <KokuUltraHygieneEnhancer.label>Ultra bioniczny środek poprawiający higienę</KokuUltraHygieneEnhancer.label>
+    <KokuBionicBladder.description>Środek poprawiający higienę wykonane z superstali i srebra z dodatkiem uranu. \nUwalnia ultramechanity, które rozkładają martwe komórki skóry i inne zanieczyszczenia na skórze i włosach, uwalniając je nieszkodliwie do powietrza.</KokuBionicBladder.description>
+
+
+    <!--==============================organs==============================-->
+    
+
+
+</LanguageData>

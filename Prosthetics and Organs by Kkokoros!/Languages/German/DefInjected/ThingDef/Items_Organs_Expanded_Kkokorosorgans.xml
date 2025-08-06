@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <!--==============================organs==============================-->
+    <!--==========Spleen==========-->
+    <KokuArtificialSpleen.label>Künstliche Milz</KokuArtificialSpleen.label>
+    <KokuArtificialSpleen.description>Ersatzmilz aus Superstahl. \nGibt ein lautes Geräusch von sich.</KokuArtificialSpleen.description>
+
+    <KokuSyntheticSpleen.label>Synthetische Milz</KokuSyntheticSpleen.label>
+    <KokuSyntheticSpleen.description>Ersatzmilz aus Superstahl und Silber. \nGibt ein leises Geräusch von sich.</KokuSyntheticSpleen.description>
+
+    <KokuUltraSpleen.label>Ultra-Milz</KokuUltraSpleen.label>
+    <KokuUltraSpleen.description>Ersatzmilz aus Superstahl und Silber mit Uranzusatz. \nGibt kein Geräusch von sich.</KokuUltraSpleen.description>
+
+    <!--==========Pancreas==========-->
+    <KokuArtificialPancreas.label>Künstliche Bauchspeicheldrüse</KokuArtificialPancreas.label>
+    <KokuArtificialPancreas.description>Ersatzbauchspeicheldrüse aus Superstahl. \nGibt ein lautes Geräusch von sich.</KokuArtificialPancreas.description>
+
+    <KokuSyntheticPancreas.label>Synthetische Bauchspeicheldrüse</KokuSyntheticPancreas.label>
+    <KokuSyntheticPancreas.description>Ersatzbauchspeicheldrüse aus Superstahl und Silber. \nGibt ein leises Geräusch von sich.</KokuSyntheticPancreas.description>
+
+    <KokuUltraPancreas.label>Ultra-Bauchspeicheldrüse</KokuUltraPancreas.label>
+    <KokuUltraPancreas.description>Ersatzbauchspeicheldrüse aus Superstahl und Silber mit Uranzusatz. \nGibt kein Geräusch von sich.</KokuUltraPancreas.description>
+
+    <!--==========GallBladder==========-->
+    <KokuArtificialGallbladder.label>Künstlicher Gallenblase</KokuArtificialGallbladder.label>
+    <KokuArtificialGallbladder.description>Ersatzgallenblase aus Superstahl. \nGibt ein lautes Geräusch von sich.</KokuArtificialGallbladder.description>
+
+    <KokuSyntheticGallbladder.label>Synthetische Gallenblase</KokuSyntheticGallbladder.label>
+    <KokuSyntheticGallbladder.description>Ersatzgallenblase aus Superstahl und Silber. \nGibt ein leises Geräusch von sich.</KokuSyntheticGallbladder.description>
+
+    <KokuUltraGallbladder.label>Ultra-Gallenblase</KokuUltraGallbladder.label>
+    <KokuUltraGallbladder.description>Ersatzgallenblase aus Superstahl und Silber mit Uranzusatz. \nGibt kein Geräusch von sich.</KokuUltraGallbladder.description>
+</LanguageData>

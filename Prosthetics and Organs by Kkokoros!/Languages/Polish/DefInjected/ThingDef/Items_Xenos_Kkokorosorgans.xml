@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <!--==========wing==========-->
+    <KokuHydraulicWing.label>Hydrauliczne skrzydło</KokuHydraulicWing.label>
+    <KokuHydraulicWing.description>Zamiennik skrzydła wykonane ze stali.</KokuHydraulicWing.description>
+    <KokuBionicWing.label>Bioniczne skrzydło</KokuBionicWing.label>
+    <KokuBionicWing.description>Zamiennik skrzydła wykonane z superstali.</KokuBionicWing.description>
+    <KokuAdvancedBionicWing.label>Zaawansowane bioniczne skrzydło</KokuAdvancedBionicWing.label>
+    <KokuAdvancedBionicWing.description>Zamiennik skrzydła wykonane z superstali i srebra.</KokuAdvancedBionicWing.description>
+    <KokuUltraBionicWing.label>Ultra bioniczne skrzydło</KokuUltraBionicWing.label>
+    <KokuUltraBionicWing.description>Zamiennik skrzydła wykonane z superstali i srebra z dodatkiem uranu.</KokuUltraBionicWing.description>
+    <!--==========Antenna==========-->
+    <KokuHydraulicAntenna.label>Hydrauliczna antenka</KokuHydraulicAntenna.label>
+    <KokuHydraulicAntenna.description>Zamiennik antenki wykonane ze stali.</KokuHydraulicAntenna.description>
+    <KokuBionicAntenna.label>Bioniczna antenka</KokuBionicAntenna.label>
+    <KokuBionicAntenna.description>Zamiennik antenki wykonane z superstali.</KokuBionicAntenna.description>
+    <KokuAdvancedBionicAntenna.label>Zaawansowana bioniczna antenka</KokuAdvancedBionicAntenna.label>
+    <KokuAdvancedBionicAntenna.description>Zamiennik antenki wykonane z superstali i srebra.</KokuAdvancedBionicAntenna.description>
+    <KokuUltraBionicAntenna.label>Ultra bioniczna antenka</KokuUltraBionicAntenna.label>
+    <KokuUltraBionicAntenna.description>Zamiennik antenki wykonane z superstali i srebra z dodatkiem uranu.</KokuUltraBionicAntenna.description>
+    <!--==========Tail==========-->
+    <KokuHydraulicTail.label>Hydrauliczny ogon</KokuHydraulicTail.label>
+    <KokuHydraulicTail.description>Zamiennik ogona wykonane ze stali.</KokuHydraulicTail.description>
+    <KokuBionicTail.label>Bioniczny ogon</KokuBionicTail.label>
+    <KokuBionicTail.description>Zamiennik ogona wykonane z superstali.</KokuBionicTail.description>
+    <KokuAdvancedBionicTail.label>Zaawansowany bioniczny ogon</KokuAdvancedBionicTail.label>
+    <KokuAdvancedBionicTail.description>Zamiennik ogona wykonane z superstali i srebra.</KokuAdvancedBionicTail.description>
+    <KokuUltraBionicTail.label>Ultra bioniczny ogon</KokuUltraBionicTail.label>
+    <KokuUltraBionicTail.description>Zamiennik ogona wykonane z superstali i srebra z dodatkiem uranu.</KokuUltraBionicTail.description>
+
+    <!--==========abodmen==========-->
+    <KokuBionicAbdomen.label>Bioniczny odwłok</KokuBionicAbdomen.label>
+    <KokuBionicAbdomen.description>Zamiennik odwłoku wykonane z superstali.</KokuBionicAbdomen.description>
+    <KokuAdvancedBionicAbdomen.label>Zaawansowany bioniczny odwłok</KokuAdvancedBionicAbdomen.label>
+    <KokuAdvancedBionicAbdomen.description>Zamiennik serca wykonane z superstali i srebra.</KokuAdvancedBionicAbdomen.description>
+    <KokuUltraBionicAbdomen.label>Ultra bioniczny odwłok</KokuUltraBionicAbdomen.label>
+    <KokuUltraBionicAbdomen.description>Zamiennik serca wykonane z superstali i srebra z dodatkiem uranu.</KokuUltraBionicAbdomen.description>
+
+    <!--==============================organs==============================-->
+
+    <!--==========HonechStomach==========-->
+    <KokuArtificialHoneyStomach.label>Sztuczny miodowy żołądek</KokuArtificialHoneyStomach.label>
+    <KokuArtificialHoneyStomach.description>Zamiennik miodowego żołądka wykonane z superstali.</KokuArtificialHoneyStomach.description>
+    <KokuSyntheticHoneyStomach.label>Syntetyczny miodowy żołądek</KokuSyntheticHoneyStomach.label>
+    <KokuSyntheticHoneyStomach.description>Zamiennik miodowego żołądka wykonane z superstali i srebra.</KokuSyntheticHoneyStomach.description>
+    <KokuUltraHoneyStomach.label>Ultra miodowy żołądek</KokuUltraHoneyStomach.label>
+    <KokuUltraHoneyStomach.description>Zamiennik miodowego żołądka wykonane z superstali i srebra z dodatkiem uranu.</KokuUltraHoneyStomach.description>
+
+</LanguageData>

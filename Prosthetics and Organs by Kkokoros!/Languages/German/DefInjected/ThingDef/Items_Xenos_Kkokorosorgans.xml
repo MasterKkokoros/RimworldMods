@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+<!--==========wing==========-->
+<KokuHydraulicWing.label>Hydraulischer Flügel</KokuHydraulicWing.label>
+<KokuHydraulicWing.description>Flügelersatz aus Stahl.</KokuHydraulicWing.description>
+<KokuBionicWing.label>Bionischer Flügel</KokuBionicWing.label>
+<KokuBionicWing.description>Flügelersatz aus Superstahl.</KokuBionicWing.description>
+<KokuAdvancedBionicWing.label>Fortgeschrittener bionischer Flügel</KokuAdvancedBionicWing.label>
+<KokuAdvancedBionicWing.description>Flügelersatz aus Superstahl und Silber.</KokuAdvancedBionicWing.description>
+<KokuUltraBionicWing.label>Ultra bionischer Flügel</KokuUltraBionicWing.label>
+<KokuUltraBionicWing.description>Flügelersatz aus Superstahl und Silber mit Uranzusatz.</KokuUltraBionicWing.description>
+
+<!--==========Antenna==========-->
+<KokuHydraulicAntenna.label>Hydraulische Antenne</KokuHydraulicAntenna.label>
+<KokuHydraulicAntenna.description>Antenneersatz aus Stahl.</KokuHydraulicAntenna.description>
+<KokuBionicAntenna.label>Bionische Antenne</KokuBionicAntenna.label>
+<KokuBionicAntenna.description>Antenneersatz aus Superstahl.</KokuBionicAntenna.description>
+<KokuAdvancedBionicAntenna.label>Fortgeschrittene bionische Antenne</KokuAdvancedBionicAntenna.label>
+<KokuAdvancedBionicAntenna.description>Antenneersatz aus Superstahl und Silber.</KokuAdvancedBionicAntenna.description>
+<KokuUltraBionicAntenna.label>Ultra bionische Antenne</KokuUltraBionicAntenna.label>
+<KokuUltraBionicAntenna.description>Antenneersatz aus Superstahl und Silber mit Uranzusatz.</KokuUltraBionicAntenna.description>
+
+<!--==========Tail==========-->
+<KokuHydraulicTail.label>Hydraulischer Schwanz</KokuHydraulicTail.label>
+<KokuHydraulicTail.description>Schwanzersatz aus Stahl.</KokuHydraulicTail.description>
+<KokuBionicTail.label>Bionischer Schwanz</KokuBionicTail.label>
+<KokuBionicTail.description>Schwanzersatz aus Superstahl.</KokuBionicTail.description>
+<KokuAdvancedBionicTail.label>Fortgeschrittener bionischer Schwanz</KokuAdvancedBionicTail.label>
+<KokuAdvancedBionicTail.description>Schwanzersatz aus Superstahl und Silber.</KokuAdvancedBionicTail.description>
+<KokuUltraBionicTail.label>Ultra bionischer Schwanz</KokuUltraBionicTail.label>
+<KokuUltraBionicTail.description>Schwanzersatz aus Superstahl und Silber mit Uranzusatz.</KokuUltraBionicTail.description>
+
+<!--==========abodmen==========-->
+<KokuBionicAbdomen.label>Bionischer Bauch</KokuBionicAbdomen.label>
+<KokuBionicAbdomen.description>Bauchersatz aus Superstahl.</KokuBionicAbdomen.description>
+<KokuAdvancedBionicAbdomen.label>Fortgeschrittener bionischer Bauch</KokuAdvancedBionicAbdomen.label>
+<KokuAdvancedBionicAbdomen.description>Herzersatz aus Superstahl und Silber.</KokuAdvancedBionicAbdomen.description>
+<KokuUltraBionicAbdomen.label>Ultra bionischer Bauch</KokuUltraBionicAbdomen.label>
+<KokuUltraBionicAbdomen.description>Herzersatz aus Superstahl und Silber mit Uranzusatz.</KokuUltraBionicAbdomen.description>
+
+<!--==============================organs==============================-->
+
+<!--==========HonechStomach==========-->
+<KokuArtificialHoneyStomach.label>Synthetischer Honigmagen</KokuArtificialHoneyStomach.label>
+<KokuArtificialHoneyStomach.description>Honigmagenersatz aus Superstahl.</KokuArtificialHoneyStomach.description>
+<KokuSyntheticHoneyStomach.label>Synthetischer Honigmagen</KokuSyntheticHoneyStomach.label>
+<KokuSyntheticHoneyStomach.description>Honigmagenersatz aus Superstahl und Silber.</KokuSyntheticHoneyStomach.description>
+<KokuUltraHoneyStomach.label>Ultra Honigmagen</KokuUltraHoneyStomach.label>
+<KokuUltraHoneyStomach.description>Honigmagenersatz aus Superstahl und Silber mit Uranzusatz.</KokuUltraHoneyStomach.description>
+</LanguageData>

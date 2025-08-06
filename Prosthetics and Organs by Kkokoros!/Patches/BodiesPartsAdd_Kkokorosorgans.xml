@@ -23,7 +23,7 @@
                     <li>
                         <def>KokuExoskeletonSlot</def>
                         <coverage>0.0</coverage>
-                        <depth>Outside</depth>
+                        <depth>Inside</depth>
                         <groups>
                             <li>Torso</li>
                         </groups>

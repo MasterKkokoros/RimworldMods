@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+    <!--==========kits==========-->
+    <KokuUnfinishedOrgansOrBionics.label>Niedokończony organ lub bioniczna część</KokuUnfinishedOrgansOrBionics.label>
+
+    <KokuTier1kit.label>Zestaw poziomu 1</KokuTier1kit.label>
+	<KokuTier1kit.description>Zestaw poziomu 1 z narzędziami używanymi w tworzeniu bioniki. \nJest wyposażony w proste narzędzia i trochę superstali.</KokuTier1kit.description>
+
+    <KokuTier2kit.label>Zestaw poziomu 2</KokuTier2kit.label>
+	<KokuTier2kit.description>Zestaw poziomu 2 z narzędziami używanymi w tworzeniu bioniki.\nJest wyposażony w zaawansowane narzędzia oraz trochę superstali, srebra i komponentów.</KokuTier2kit.description>
+
+    <KokuTier3kit.label>Zestaw poziomu 3</KokuTier3kit.label>
+	<KokuTier3kit.description>Zestaw poziomu 3 z narzędziami używanymi w tworzeniu bioniki. \nJest wyposażony w zaawansowane narzędzia oraz trochę superstali, srebra, uranu i zaawansowanych komponentów.</KokuTier3kit.description>
+
+    <!--==========arm==========-->
+    <KokuWoodenArm.label>Drewniane ramie</KokuWoodenArm.label>
+	<KokuWoodenArm.description>Zamiennik ramienia wykonane z drewna. \nWygląda źle, czuje się źle, jest zła.</KokuWoodenArm.description>
+
+    <KokuSimpleHydraulicArm.label>Hydraliczne ramie</KokuSimpleHydraulicArm.label>
+	<KokuSimpleHydraulicArm.description>Zamiennik ramienia wykonane ze stali. \nZnacznie wygodniejszy i bardziej użyteczny niż drewniany.</KokuSimpleHydraulicArm.description>
+
+    <KokuBionicArm.label>Bioniczne ramie</KokuBionicArm.label>
+	<KokuBionicArm.description>Zamiennik ramienia wykonane z superstali. \nZapewnia użytkownikowi wyjątkową siłę.</KokuBionicArm.description>
+
+    <KokuAdvancedBionicArm.label>Zaawansowane bioniczne ramie</KokuAdvancedBionicArm.label>
+	<KokuAdvancedBionicArm.description>Zamiennik ramienia wykonane z superstali i srebra. \nZapewnia użytkownikowi wyjątkowo wyjątkową siłę.</KokuAdvancedBionicArm.description>
+
+    <KokuUltraBionicArm.label>Ultra bioniczne ramie</KokuUltraBionicArm.label>
+	<KokuUltraBionicArm.description>Zamiennik ramienia wykonane z superstali i srebra z dodatkiem uranu. \nTo jest P%^$^%#E.</KokuUltraBionicArm.description>
+
+    <!--==========leg==========-->
+    <KokuWoodenLeg.label>Drewniana noga</KokuWoodenLeg.label>
+	<KokuWoodenLeg.description>Zamiennik nogi wykonane z drewna. \nWygląda źle, czuje się źle, jest zła.</KokuWoodenLeg.description>
+
+    <KokuSimpleHydraulicLeg.label>Hydrauliczna noga</KokuSimpleHydraulicLeg.label>
+	<KokuSimpleHydraulicLeg.description>Zamiennik nogi wykonane ze stali. \nZnacznie wygodniejszy i bardziej użyteczny niż drewniany.</KokuSimpleHydraulicLeg.description>
+
+    <KokuBionicLeg.label>Bioniczna noga</KokuBionicLeg.label>
+	<KokuBionicLeg.description>Zamiennik nogi wykonane z superstali. \nZapewnia właścicielowi wyjątkowy komfort chodzenia i siłę.</KokuBionicLeg.description>
+
+    <KokuAdvancedBionicLeg.label>Zaawansowana bioniczna noga</KokuAdvancedBionicLeg.label>
+	<KokuAdvancedBionicLeg.description>Zamiennik nogi wykonane z superstali i srebra. \nCzy pamiętasz, com było chodzenie? \nJa też nie.</KokuAdvancedBionicLeg.description>
+
+    <KokuUltraBionicLeg.label>Ultra bioniczna noga</KokuUltraBionicLeg.label>
+	<KokuUltraBionicLeg.description>Zamiennik nogi wykonane z superstali i srebra z dodatkiem uranu. \nJestem tak szybki, że żyję w ciemnościach.</KokuUltraBionicLeg.description>
+
+    <!--==========jaw==========-->
+    <KokuWoodenJaw.label>Drewniana szczęka</KokuWoodenJaw.label>
+	<KokuWoodenJaw.description>Zamiennik szczęki wykonane z drewna. \nPachnie obrzydliwie i smakuje jeszcze gorzej.</KokuWoodenJaw.description>
+
+    <KokuHydraulicJaw.label>Hydrauliczna szczęka</KokuHydraulicJaw.label>
+	<KokuHydraulicJaw.description>Zamiennik szczęki wykonane ze stali. \nNie wydziela już zapachu i pozwala użytkownikowi poczuć proste smaki!</KokuHydraulicJaw.description>
+
+    <KokuBionicJaw.label>Bioniczna szczęka</KokuBionicJaw.label>
+	<KokuBionicJaw.description>Zamiennik szczęki wykonane z superstali. \nPozwala na ponowne normalne jedzenie, w zestawie znajduje się również modulator głosu.</KokuBionicJaw.description>
+
+    <KokuMuteJaw.label>Niema szczęka</KokuMuteJaw.label>
+	<KokuMuteJaw.description>Zamiennik szczęki wykonane z superstali. \nTa wersja bionicznej szczęki jest pozbawiona modulatora głosu, co jest przydatne dla głośnych pacjentów.</KokuMuteJaw.description>
+
+    <KokuAdvancedBionicJaw.label>Zaawansowana bioniczna szczęka</KokuAdvancedBionicJaw.label>
+	<KokuAdvancedBionicJaw.description>Zamiennik szczęki wykonane z superstali i srebra. \nPozwala jeść jak potwór!</KokuAdvancedBionicJaw.description>
+
+    <KokuUltraBionicJaw.label>Ultra bioniczna szczęka</KokuUltraBionicJaw.label>
+	<KokuUltraBionicJaw.description>Zamiennik szczęki wykonane z superstali i srebra z dodatkiem uranu. \nHej, przeżuj tę kanapkę za mnie!</KokuUltraBionicJaw.description>
+
+    <!--==========nose==========-->
+    <KokuArtificialNose.label>Sztuczny nos</KokuArtificialNose.label>
+	<KokuArtificialNose.description>Zamiennik nosa wykonane ze stali. \nZakrywa otwór w twarzy i pozwala użytkownikowi na wąchanie prostych substancji.</KokuArtificialNose.description>
+    
+    <KokuBionicNose.label>Bioniczny nos</KokuBionicNose.label>
+	<KokuBionicNose.description>Zamiennik nosa wykonane z superstali. \nZapewnia właścicielowi niezwykle wyostrzony zmysł węchu.</KokuBionicNose.description>
+		
+    <KokuAdvancedBionicNose.label>Zaawansowany bioniczny nos</KokuAdvancedBionicNose.label>
+	<KokuAdvancedBionicNose.description>Zamiennik nosa wykonane z superstali i srebra. \nZapewnia właścicielowi niezwykle wyostrzony zmysł węchu.</KokuAdvancedBionicNose.description>
+		
+    <KokuUltraBionicNose.label>Ultra bioniczny nos</KokuUltraBionicNose.label>
+	<KokuUltraBionicNose.description>Zamiennik nosa wykonane z superstali i srebra z dodatkiem uranu. \nCzy ktoś puścił bąka? \nO, najeźdźcy...</KokuUltraBionicNose.description>
+		
+    <!--==========ear==========-->
+    <KokuArtificialEar.label>Sztuczne ucho</KokuArtificialEar.label>
+	<KokuArtificialEar.description>Zamiennik ucha wykonane ze stali. \nZakrywa otwór w głowie i pozwala użytkownikowi słyszeć proste dźwięki.</KokuArtificialEar.description>
+
+    <KokuBionicEar.label>Bionicze ucho</KokuBionicEar.label>
+	<KokuBionicEar.description>Zamiennik ucha wykonane z superstali. \nPozwala odzyskać normalny słuch.</KokuBionicEar.description>
+	
+    <KokuAdvancedBionicEar.label>Zaawansowane bionicze ucho</KokuAdvancedBionicEar.label>
+	<KokuAdvancedBionicEar.description>Zamiennik ucha wykonane z superstali i srebra. \nPozwala słyszeć jeszcze lepiej!</KokuAdvancedBionicEar.description>
+
+    <KokuUltraBionicEar.label>Ultra bionicze ucho</KokuUltraBionicEar.label>
+	<KokuUltraBionicEar.description>Zamiennik ucha wykonane z superstali i srebra z dodatkiem uranu. \n"Słyszę Cię!"</KokuUltraBionicEar.description>
+	
+    <!--==========eye==========-->
+    <KokuArtificialEye.label>Sztuczne oko</KokuArtificialEye.label>
+	<KokuArtificialEye.description>Zamiennik oka wykonane ze stali. \nPotrafi wykryć światło, a nawet odległość. Jak patrzenie przez kamerę, ale bez kolorów.</KokuArtificialEye.description>
+
+    <KokuBionicEye.label>Bioniczne oko</KokuBionicEye.label>
+	<KokuBionicEye.description>Zamiennik oka wykonane z superstali. \nDaje nadprzyrodzone zdolności widzenia.</KokuBionicEye.description>
+	
+    <KokuAdvancedBionicEye.label>Zaawansowane bioniczne oko</KokuAdvancedBionicEye.label>
+	<KokuAdvancedBionicEye.description>Zamiennik oka wykonane z superstali i srebra. \nDaje nadprzyrodzone zdolności widzenia.</KokuAdvancedBionicEye.description>
+	
+    <KokuUltraBionicEye.label>Ultra bioniczne oko</KokuUltraBionicEye.label>
+	<KokuUltraBionicEye.description>Zamiennik oka wykonane z superstali i srebra z dodatkiem uranu. \nCzy to nie jest oszustwo?</KokuUltraBionicEye.description>
+	
+    <!--==========spine==========-->
+    <KokuBionicSpine.label>Bioniczy kręgosłup</KokuBionicSpine.label>
+	<KokuBionicSpine.description>Zamiennik kręgosłupa wykonane z superstali.</KokuBionicSpine.description>
+
+    <KokuAdvancedBionicSpine.label>Zaawansowany bioniczy kręgosłup</KokuAdvancedBionicSpine.label>
+	<KokuAdvancedBionicSpine.description>Zamiennik kręgosłupa wykonane z superstali i srebra. \nTo urządzenie świetlne jest niesamowite!</KokuAdvancedBionicSpine.description>
+
+    <KokuUltraBionicSpine.label>Ultra bioniczy kręgosłup</KokuUltraBionicSpine.label>
+	<KokuUltraBionicSpine.description>Zamiennik kręgosłupa wykonane z superstali i srebra z dodatkiem uranu. \nCzy zawsze byłem taki lekki?</KokuUltraBionicSpine.description>
+
+    <!--==========pelvis==========-->
+    <KokuBionicPelvis.label>Bionicza miednica</KokuBionicPelvis.label>
+	<KokuBionicPelvis.description>Zamiennik miednicy wykonane z superstali.</KokuBionicPelvis.description>
+
+    <KokuAdvancedBionicPelvis.label>Zaawansowana bionicza miednica</KokuAdvancedBionicPelvis.label>
+	<KokuAdvancedBionicPelvis.description>Zamiennik miednicy wykonane z superstali i srebra. \nTo urządzenie świetlne jest niesamowite!</KokuAdvancedBionicPelvis.description>
+
+    <KokuUltraBionicPelvis.label>Ultra bionicza miednica</KokuUltraBionicPelvis.label>
+	<KokuUltraBionicPelvis.description>Zamiennik miednicy wykonane z superstali i srebra z dodatkiem uranu. \nCzy zawsze byłem taki lekki?</KokuUltraBionicPelvis.description>
+    <!--==========neck==========-->
+    <KokuBionicNeck.label>Bionicza szyja</KokuBionicNeck.label>
+	<KokuBionicNeck.description>Implant szyji wykonane z superstali.</KokuBionicNeck.description>
+
+    <KokuAdvancedBionicNeck.label>Zaawansowana bionicza szyja</KokuAdvancedBionicNeck.label>
+	<KokuAdvancedBionicNeck.description>Implant szyji wykonane z superstali i srebra. \nTo urządzenie świetlne jest niesamowite!</KokuAdvancedBionicNeck.description>
+
+    <KokuUltraBionicNeck.label>Ultra bionicza szyja</KokuUltraBionicNeck.label>
+	<KokuUltraBionicNeck.description>Implant szyji wykonane z superstali i srebra z dodatkiem uranu. \nCzy zawsze byłem taki lekki?</KokuUltraBionicNeck.description>
+    <!--==========medsternum==========-->
+    <KokuMedicalSternum.label>Medyczny mostek</KokuMedicalSternum.label>
+	<KokuMedicalSternum.description>Zamiennik mostku wykonane z superstali. \nWyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuMedicalSternum.description>
+
+    <KokuAdvancedMedicalSternum.label>Zaawansowany medyczny mostek</KokuAdvancedMedicalSternum.label>
+	<KokuAdvancedMedicalSternum.description>Zamiennik mostku wykonane z superstali i srebra. \nWyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuAdvancedMedicalSternum.description>
+
+    <KokuUltraMedicalSternum.label>Ultra medyczny mostek</KokuUltraMedicalSternum.label>
+	<KokuUltraMedicalSternum.description>Zamiennik mostku wykonane z superstali i srebra z dodatkiem uranu. \nWyposażony w małe filtry krwi i dozowniki antybiotyków, aby zachować zdrowie użytkownika.</KokuUltraMedicalSternum.description>
+
+    <!--==========druggsternum==========-->
+    <KokuDruggedSternum.label>Narkotyzujący mostek</KokuDruggedSternum.label>
+	<KokuDruggedSternum.description>Zamiennik mostku wykonane z superstali. \nWyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuDruggedSternum.description>
+
+    <KokuAdvancedDruggedSternum.label>Zaawansowany narkotyzujący mostek</KokuAdvancedDruggedSternum.label>
+	<KokuAdvancedDruggedSternum.description>Zamiennik mostku wykonane z superstali i srebra. \nWyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuAdvancedDruggedSternum.description>
+
+    <KokuUltraDruggedSternum.label>Ultra narkotyzujący mostek</KokuUltraDruggedSternum.label>
+	<KokuUltraDruggedSternum.description>Zamiennik mostku wykonane z superstali i srebra z dodatkiem uranu. \nWyposażony w małe dozowniki płatków dla zadowolenia użytkownika. Zalecana syntetyczna wątroba.</KokuUltraDruggedSternum.description>
+
+    <!--==========adrsternum==========-->
+    <KokuAdrenalineSternum.label>Mostek z adrenaliną</KokuAdrenalineSternum.label>
+	<KokuAdrenalineSternum.description>Zamiennik mostku wykonane z superstali. \nWyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i szybkości.</KokuAdrenalineSternum.description>
+
+    <KokuAdvancedAdrenalineSternum.label>Zaawansowany mostek z adrenaliną</KokuAdvancedAdrenalineSternum.label>
+	<KokuAdvancedAdrenalineSternum.description>Zamiennik mostku wykonane z superstali i srebra. \nWyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i szybkości.</KokuAdvancedAdrenalineSternum.description>
+
+    <KokuUltraAdrenalineSternum.label>Ultra mostek z adrenaliną</KokuUltraAdrenalineSternum.label>
+	<KokuUltraAdrenalineSternum.description>Zamiennik mostku wykonane z superstali i srebra z dodatkiem uranu. \nWyposażony w małe dozowniki adrenaliny, aby utrzymać użytkownika w dobrej kondycji i szybkości.</KokuUltraAdrenalineSternum.description>
+
+    <!--==========painsternum==========-->
+    <KokuPainkillerSternum.label>Przeciwbólowy mostek</KokuPainkillerSternum.label>
+	<KokuPainkillerSternum.description>Zamiennik mostku wykonane z superstali. \nWyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuPainkillerSternum.description>
+
+    <KokuAdvancedPainkillerSternum.label>Zaawansowany przeciwbólowy mostek</KokuAdvancedPainkillerSternum.label>
+	<KokuAdvancedPainkillerSternum.description>Zamiennik mostku wykonane z superstali i srebra. \nWyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuAdvancedPainkillerSternum.description>
+
+    <KokuUltraPainkillerSternum.label>Ultra przeciwbólowy mostek</KokuUltraPainkillerSternum.label>
+	<KokuUltraPainkillerSternum.description>Zamiennik mostku wykonane z superstali i srebra z dodatkiem uranu. \nWyposażony w małe dozowniki morfiny, które uśmierzają ból użytkownika. Skutkami ubocznymi są dolegliwości układu oddechowego.</KokuUltraPainkillerSternum.description>
+
+    <!--==========ribcage==========-->
+    <KokuNanomachinesRibcage.label>Klatka piersiowa z nanomaszynami</KokuNanomachinesRibcage.label>
+	<KokuNanomachinesRibcage.description>Zamiennik klatki piersiowej wykonane z superstali. \nWposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuNanomachinesRibcage.description>
+
+    <KokuAdvancedNanomachinesRibcage.label>Zaawansowana klatka piersiowa z nanomaszynami</KokuAdvancedNanomachinesRibcage.label>
+	<KokuAdvancedNanomachinesRibcage.description>Zamiennik klatki piersiowej wykonane z superstali i srebra. \nWyposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuAdvancedNanomachinesRibcage.description>
+
+    <KokuUltraNanomachinesRibcage.label>Ultra klatka piersiowa z nanomaszynami</KokuUltraNanomachinesRibcage.label>
+	<KokuUltraNanomachinesRibcage.description>Zamiennik klatki piersiowej wykonane z superstali i srebra z dodatkiem uranu. \nWyposażona w małe dozowniki nanomaszyn do znieczulania ran użytkownika.</KokuUltraNanomachinesRibcage.description>
+
+    <!--==========exoskeleton==========-->
+    <KokuExoskeleton.label>Egzoszkielet</KokuExoskeleton.label>
+	<KokuExoskeleton.description>Egzoszkielet wykonane z superstali i srebra. \nCzyni użytkownika silniejszym.</KokuExoskeleton.description>
+
+    <KokuUltraExoskeleton.label>Ultra egzoszkielet</KokuUltraExoskeleton.label>
+	<KokuUltraExoskeleton.description>Egoszkielet wykonane z superstali i srebra z dodatkiem uranu. \nCzuję się jak mrówka!</KokuUltraExoskeleton.description>
+
+
+    <!--==============================organs==============================-->
+
+    <!--==========brain==========-->
+    <KokuArtificialBrain.label>Sztuczny mózg</KokuArtificialBrain.label>
+	<KokuArtificialBrain.description>Implant mózgu wykonane z superstali. \nMałe urządzenie, które robi wszystko, co w jego mocy, aby utrzymać mózg użytkownika w pracy. \Zalecane tylko w przypadku poważnego uszkodzenia mózgu. \Warto pamiętać, że ogranicza ono moc mózgu! (100%)</KokuArtificialBrain.description>
+
+    <KokuAdvancedBrain.label>Zaawansowany mózg</KokuAdvancedBrain.label>
+	<KokuAdvancedBrain.description>Implant mózgu wykonane z superstali i srebra. \nPoprawia pracę mózgu użytkownika i nieznacznie go udoskonala.\n(Sprawia, że ​​częściej czujesz głód)</KokuAdvancedBrain.description>
+
+    <KokuUltraBrain.label>Ultra mózg</KokuUltraBrain.label>
+	<KokuUltraBrain.description>Implant mózgu wykonane z superstali i srebra z dodatkiem uranu. \nSprawia, że ​​mózg użytkownika pracuje jak geniusz. \n(Sprawia, że ​​częściej czujesz głód)</KokuUltraBrain.description>
+
+    <!--==========lung==========-->
+    <KokuArtificialLung.label>Sztuczne płuco</KokuArtificialLung.label>
+	<KokuArtificialLung.description>Zamiennik płuca wykonane z superstali. \nWydaje głośny dźwięk.</KokuArtificialLung.description>
+	
+    <KokuSyntheticLung.label>Syntetyczne płuco</KokuSyntheticLung.label>
+	<KokuSyntheticLung.description>Zamiennik szczęki wykonane z superstali i srebra. \nWydaje cichy dźwięk.</KokuSyntheticLung.description>
+	
+    <KokuUltraLung.label>Ultra płuco</KokuUltraLung.label>
+	<KokuUltraLung.description>Zamiennik szczęki wykonane z superstali i srebra z dodatkiem uranu. \nNie wydaje żadnych dźwięków.</KokuUltraLung.description>
+	
+    <!--==========stomach==========-->
+    <KokuArtificialStomach.label>Sztuczny żołądek</KokuArtificialStomach.label>
+	<KokuArtificialStomach.description>Zamiennik żołądka wykonane z superstali. \nNie wąchałbym tego!</KokuArtificialStomach.description>
+	
+    <KokuSyntheticStomach.label>Syntetyczny żołądek</KokuSyntheticStomach.label>
+	<KokuSyntheticStomach.description>Zamiennik żołądka wykonane z superstali i srebra. \nJuż nie śmierdzi.</KokuSyntheticStomach.description>
+	
+    <KokuUltraStomach.label>Ultra żołądek</KokuUltraStomach.label>
+	<KokuUltraStomach.description>Zamiennik żołądka wykonane z superstali i srebra z dodatkiem uranu. \nPierdy stały się Zabójczymi O-O.</KokuUltraStomach.description>
+	
+    <!--==========liver==========-->
+    <KokuArtificialLiver.label>Sztuczna wątroba</KokuArtificialLiver.label>
+	<KokuArtificialLiver.description>Zamiennik wątroby wykonane z superstali. \nNiewiele lepszy niż zwykły filtr do kawy.</KokuArtificialLiver.description>
+	
+    <KokuSyntheticLiver.label>Syntetyczna wątroba</KokuSyntheticLiver.label>
+	<KokuSyntheticLiver.description>Zamiennik wątroby wykonane z superstali i srebra. \nBardzo dobrze filtruje krew.</KokuSyntheticLiver.description>
+	
+    <KokuUltraLiver.label>Ultra wątroba</KokuUltraLiver.label>
+	<KokuUltraLiver.description>Zamiennik wątroby wykonane z superstali i srebra z dodatkiem uranu. \nCzy to wciąż krew czy coś innego?</KokuUltraLiver.description>
+	
+    <!--==========kidney==========-->
+    <KokuArtificialKidney.label>Sztuczna nerka</KokuArtificialKidney.label>
+	<KokuArtificialKidney.description>Zamiennik nerki wykonane z superstali. \nLepsze niż dializa, zaufaj mi!, zaufaj mi...</KokuArtificialKidney.description>
+	
+    <KokuSyntheticKidney.label>Syntetyczna nerka</KokuSyntheticKidney.label>
+	<KokuSyntheticKidney.description>Zamiennik nerki wykonane z superstali i srebra. \nMożesz znowu pić bez problemów!</KokuSyntheticKidney.description>
+	
+    <KokuUltraKidney.label>Ultra nerka</KokuUltraKidney.label>
+	<KokuUltraKidney.description>Zamiennik nerki wykonane z superstali i srebra z dodatkiem uranu. \n„Napoje” to tylko woda!</KokuUltraKidney.description>
+	
+    <!--==========heart==========-->
+    <KokuArtificialHeart.label>Sztuczne serce</KokuArtificialHeart.label>
+	<KokuArtificialHeart.description>Zamiennik serca wykonane z superstali.</KokuArtificialHeart.description>
+
+    <KokuSyntheticHeart.label>Syntetyczne serce</KokuSyntheticHeart.label>
+	<KokuSyntheticHeart.description>Zamiennik serca wykonane z superstali i srebra. \nPodtrzymuje przepływ krwi.</KokuSyntheticHeart.description>
+
+    <KokuUltraHeart.label>Ultra serce</KokuUltraHeart.label>
+	<KokuUltraHeart.description>Zamiennik serca wykonane z superstali i srebra z dodatkiem uranu. \nPodtrzymuje przepływ krwi.</KokuUltraHeart.description>
+
+
+</LanguageData>

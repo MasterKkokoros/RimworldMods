@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+	<!--==========arm==========-->
+	<KokuInstallWoodenArm.label>Дерев'яне рука</KokuInstallWoodenArm.label>
+	<KokuInstallSimpleHydraulicArm.label>Встановити гідравлічну руку</KokuInstallSimpleHydraulicArm.label>
+	<KokuInstallSimpleHydraulicArm.description>Встановлює гідравлічну руку.</KokuInstallSimpleHydraulicArm.description>
+	<KokuInstallSimpleHydraulicArm.jobString>Встановлює гідравлічну руку</KokuInstallSimpleHydraulicArm.jobString>
+
+	<KokuInstallBionicArm.label>Встановити біонічну руку</KokuInstallBionicArm.label>
+	<KokuInstallBionicArm.description>Встановлює біонічну руку.</KokuInstallBionicArm.description>
+	<KokuInstallBionicArm.jobString>Встановлює біонічну руку</KokuInstallBionicArm.jobString>
+
+	<KokuInstallAdvancedBionicArm.label>Встановити вдосконалену руку</KokuInstallAdvancedBionicArm.label>
+	<KokuInstallAdvancedBionicArm.description>Встановлює вдосконалену руку.</KokuInstallAdvancedBionicArm.description>
+	<KokuInstallAdvancedBionicArm.jobString>Встановлює вдосконалену руку</KokuInstallAdvancedBionicArm.jobString>
+
+	<KokuInstallUltraBionicArm.label>Встановити ультра руку</KokuInstallUltraBionicArm.label>
+	<KokuInstallUltraBionicArm.description>Встановлює ультра руку.</KokuInstallUltraBionicArm.description>
+	<KokuInstallUltraBionicArm.jobString>Встановлює ультра руку</KokuInstallUltraBionicArm.jobString>
+
+	<!--==========leg==========-->
+	<KokuInstallSimpleHydraulicLeg.label>Встановити гідравлічну ногу</KokuInstallSimpleHydraulicLeg.label>
+	<KokuInstallSimpleHydraulicLeg.description>Встановлює гідравлічну ногу.</KokuInstallSimpleHydraulicLeg.description>
+	<KokuInstallSimpleHydraulicLeg.jobString>Встановлює гідравлічну ногу</KokuInstallSimpleHydraulicLeg.jobString>
+
+	<KokuInstallHydraulicLeg.label>Встановити гідравлічну ногу</KokuInstallHydraulicLeg.label>
+	<KokuInstallHydraulicLeg.description>Встановлює гідравлічну ногу.</KokuInstallHydraulicLeg.description>
+	<KokuInstallHydraulicLeg.jobString>Встановлює гідравлічну ногу</KokuInstallHydraulicLeg.jobString>
+
+	<KokuInstallBionicLeg.label>Встановити біонічну ногу</KokuInstallBionicLeg.label>
+	<KokuInstallBionicLeg.description>Встановлює біонічну ногу.</KokuInstallBionicLeg.description>
+	<KokuInstallBionicLeg.jobString>Встановлює біонічну ногу</KokuInstallBionicLeg.jobString>
+
+	<KokuInstallAdvancedBionicLeg.label>Встановити вдосконалену ногу</KokuInstallAdvancedBionicLeg.label>
+	<KokuInstallAdvancedBionicLeg.description>Встановлює вдосконалену ногу.</KokuInstallAdvancedBionicLeg.description>
+	<KokuInstallAdvancedBionicLeg.jobString>Встановлює вдосконалену ногу</KokuInstallAdvancedBionicLeg.jobString>
+
+	<KokuInstallUltraBionicLeg.label>Встановити ультра ногу</KokuInstallUltraBionicLeg.label>
+	<KokuInstallUltraBionicLeg.description>Встановлює ультра ногу.</KokuInstallUltraBionicLeg.description>
+	<KokuInstallUltraBionicLeg.jobString>Встановлює ультра ногу</KokuInstallUltraBionicLeg.jobString>
+
+	<!--==========jaw==========-->
+	<KokuInstallWoodenJaw.label>Встановити дерев'яну щелепу</KokuInstallWoodenJaw.label>
+	<KokuInstallWoodenJaw.description>Встановлює дерев'яну щелепу.</KokuInstallWoodenJaw.description>
+	<KokuInstallWoodenJaw.jobString>Встановлює дерев'яну щелепу</KokuInstallWoodenJaw.jobString>
+
+	<KokuInstallHydraulicJaw.label>Встановити гідравлічну щелепу</KokuInstallHydraulicJaw.label>
+	<KokuInstallHydraulicJaw.description>Встановлює гідравлічну щелепу.</KokuInstallHydraulicJaw.description>
+	<KokuInstallHydraulicJaw.jobString>Встановлює гідравлічну щелепу</KokuInstallHydraulicJaw.jobString>
+
+	<KokuInstallBionicJaw.label>Встановити біонічну щелепу</KokuInstallBionicJaw.label>
+	<KokuInstallBionicJaw.description>Встановлює біонічну щелепу.</KokuInstallBionicJaw.description>
+	<KokuInstallBionicJaw.jobString>Встановлює біонічну щелепу</KokuInstallBionicJaw.jobString>
+
+	<KokuInstallMuteJaw.label>Встановити німу щелепу</KokuInstallMuteJaw.label>
+	<KokuInstallMuteJaw.description>Встановлює німу щелепу.</KokuInstallMuteJaw.description>
+	<KokuInstallMuteJaw.jobString>Встановлює німу щелепу</KokuInstallMuteJaw.jobString>
+
+	<KokuInstallAdvancedBionicJaw.label>Встановити вдосконалену щелепу</KokuInstallAdvancedBionicJaw.label>
+	<KokuInstallAdvancedBionicJaw.description>Встановлює вдосконалену щелепу.</KokuInstallAdvancedBionicJaw.description>
+	<KokuInstallAdvancedBionicJaw.jobString>Встановлює вдосконалену щелепу</KokuInstallAdvancedBionicJaw.jobString>
+
+	<KokuInstallUltraBionicJaw.label>Встановити ультра щелепу</KokuInstallUltraBionicJaw.label>
+	<KokuInstallUltraBionicJaw.description>Встановлює ультра щелепу.</KokuInstallUltraBionicJaw.description>
+	<KokuInstallUltraBionicJaw.jobString>Встановлює ультра щелепу</KokuInstallUltraBionicJaw.jobString>
+
+	<!--==========nose==========-->
+	<KokuInstallArtificialNose.label>Встановити штучний ніс</KokuInstallArtificialNose.label>
+	<KokuInstallArtificialNose.description>Встановлює штучний ніс.</KokuInstallArtificialNose.description>
+	<KokuInstallArtificialNose.jobString>Встановлює штучний ніс</KokuInstallArtificialNose.jobString>
+
+	<KokuInstallBionicNose.label>Встановити біонічний ніс</KokuInstallBionicNose.label>
+	<KokuInstallBionicNose.description>Встановлює біонічний ніс.</KokuInstallBionicNose.description>
+	<KokuInstallBionicNose.jobString>Встановлює біонічний ніс</KokuInstallBionicNose.jobString>
+
+	<KokuInstallAdvancedBionicNose.label>Встановити вдосконалений ніс</KokuInstallAdvancedBionicNose.label>
+	<KokuInstallAdvancedBionicNose.description>Встановлює вдосконалений ніс.</KokuInstallAdvancedBionicNose.description>
+	<KokuInstallAdvancedBionicNose.jobString>Встановлює вдосконалений ніс</KokuInstallAdvancedBionicNose.jobString>
+
+	<KokuInstallUltraBionicNose.label>Встановити ультра ніс</KokuInstallUltraBionicNose.label>
+	<KokuInstallUltraBionicNose.description>Встановлює ультра ніс.</KokuInstallUltraBionicNose.description>
+	<KokuInstallUltraBionicNose.jobString>Встановлює ультра ніс</KokuInstallUltraBionicNose.jobString>
+
+
+	<!--==========ear==========-->
+	<KokuInstallArtificialEar.label>Встановити штучне вухо</KokuInstallArtificialEar.label>
+	<KokuInstallArtificialEar.description>Встановлює штучне вухо.</KokuInstallArtificialEar.description>
+	<KokuInstallArtificialEar.jobString>Встановлює штучне вухо</KokuInstallArtificialEar.jobString>
+
+	<KokuInstallBionicEar.label>Встановити біонічне вухо</KokuInstallBionicEar.label>
+	<KokuInstallBionicEar.description>Встановлює біонічне вухо.</KokuInstallBionicEar.description>
+	<KokuInstallBionicEar.jobString>Встановлює біонічне вухо</KokuInstallBionicEar.jobString>
+
+	<KokuInstallAdvancedBionicEar.label>Встановити вдосконалене вухо</KokuInstallAdvancedBionicEar.label>
+	<KokuInstallAdvancedBionicEar.description>Встановлює вдосконалене вухо.</KokuInstallAdvancedBionicEar.description>
+	<KokuInstallAdvancedBionicEar.jobString>Встановлює вдосконалене вухо</KokuInstallAdvancedBionicEar.jobString>
+
+	<KokuInstallUltraBionicEar.label>Встановити ультра вухо</KokuInstallUltraBionicEar.label>
+	<KokuInstallUltraBionicEar.description>Встановлює ультра вухо.</KokuInstallUltraBionicEar.description>
+	<KokuInstallUltraBionicEar.jobString>Встановлює ультра вухо</KokuInstallUltraBionicEar.jobString>
+
+	<!--==========eye==========-->
+	<KokuInstallKokuArtificialEye.label>Встановити штучне око</KokuInstallKokuArtificialEye.label>
+	<KokuInstallKokuArtificialEye.description>Встановлює штучне око.</KokuInstallKokuArtificialEye.description>
+	<KokuInstallKokuArtificialEye.jobString>Встановлює штучне око</KokuInstallKokuArtificialEye.jobString>
+
+	<KokuInstallBionicEye.label>Встановити біонічне око</KokuInstallBionicEye.label>
+	<KokuInstallBionicEye.description>Встановлює біонічне око.</KokuInstallBionicEye.description>
+	<KokuInstallBionicEye.jobString>Встановлює біонічне око</KokuInstallBionicEye.jobString>
+
+	<KokuInstallAdvancedBionicEye.label>Встановити вдосконалене око</KokuInstallAdvancedBionicEye.label>
+	<KokuInstallAdvancedBionicEye.description>Встановлює вдосконалене око.</KokuInstallAdvancedBionicEye.description>
+	<KokuInstallAdvancedBionicEye.jobString>Встановлює вдосконалене око</KokuInstallAdvancedBionicEye.jobString>
+
+	<KokuInstallUltraBionicEye.label>Встановити ультра око</KokuInstallUltraBionicEye.label>
+	<KokuInstallUltraBionicEye.description>Встановлює ультра око.</KokuInstallUltraBionicEye.description>
+	<KokuInstallUltraBionicEye.jobString>Встановлює ультра око</KokuInstallUltraBionicEye.jobString>
+
+	<!--==========spine==========-->
+	<KokuInstallBionicSpine.label>Встановити біонічний хребет</KokuInstallBionicSpine.label>
+	<KokuInstallBionicSpine.description>Встановлює біонічний хребет.</KokuInstallBionicSpine.description>
+	<KokuInstallBionicSpine.jobString>Встановлює біонічний хребет</KokuInstallBionicSpine.jobString>
+
+	<KokuInstallAdvancedBionicSpine.label>Встановити вдосконалений хребет</KokuInstallAdvancedBionicSpine.label>
+	<KokuInstallAdvancedBionicSpine.description>Встановлює вдосконалений хребет.</KokuInstallAdvancedBionicSpine.description>
+	<KokuInstallAdvancedBionicSpine.jobString>Встановлює вдосконалений хребет</KokuInstallAdvancedBionicSpine.jobString>
+
+	<KokuInstallUltraBionicSpine.label>Встановити ультра хребет</KokuInstallUltraBionicSpine.label>
+	<KokuInstallUltraBionicSpine.description>Встановлює ультра хребет.</KokuInstallUltraBionicSpine.description>
+	<KokuInstallUltraBionicSpine.jobString>Встановлює ультра хребет</KokuInstallUltraBionicSpine.jobString>
+
+	<!--==========pelvis==========-->
+	<KokuInstallBionicPelvis.label>Встановити біонічну таз</KokuInstallBionicPelvis.label>
+	<KokuInstallBionicPelvis.description>Встановлює біонічну таз.</KokuInstallBionicPelvis.description>
+	<KokuInstallBionicPelvis.jobString>Встановлює біонічну таз</KokuInstallBionicPelvis.jobString>
+
+	<KokuInstallAdvancedBionicPelvis.label>Встановити вдосконалену таз</KokuInstallAdvancedBionicPelvis.label>
+	<KokuInstallAdvancedBionicPelvis.description>Встановлює вдосконалену таз.</KokuInstallAdvancedBionicPelvis.description>
+	<KokuInstallAdvancedBionicPelvis.jobString>Встановлює вдосконалену таз</KokuInstallAdvancedBionicPelvis.jobString>
+
+	<KokuInstallUltraBionicPelvis.label>Встановити ультра таз</KokuInstallUltraBionicPelvis.label>
+	<KokuInstallUltraBionicPelvis.description>Встановлює ультра таз.</KokuInstallUltraBionicPelvis.description>
+	<KokuInstallUltraBionicPelvis.jobString>Встановлює ультра таз</KokuInstallUltraBionicPelvis.jobString>
+
+	<!--==========neck==========-->
+	<KokuInstallBionicNeck.label>Встановити біонічну шию</KokuInstallBionicNeck.label>
+	<KokuInstallBionicNeck.description>Встановлює біонічну шию.</KokuInstallBionicNeck.description>
+	<KokuInstallBionicNeck.jobString>Встановлює біонічну шию</KokuInstallBionicNeck.jobString>
+
+	<KokuInstallAdvancedBionicNeck.label>Встановити вдосконалену шию</KokuInstallAdvancedBionicNeck.label>
+	<KokuInstallAdvancedBionicNeck.description>Встановлює вдосконалену шию.</KokuInstallAdvancedBionicNeck.description>
+	<KokuInstallAdvancedBionicNeck.jobString>Встановлює вдосконалену шию</KokuInstallAdvancedBionicNeck.jobString>
+
+	<KokuInstallUltraBionicNeck.label>Встановити ультра шию</KokuInstallUltraBionicNeck.label>
+	<KokuInstallUltraBionicNeck.description>Встановлює ультра шию.</KokuInstallUltraBionicNeck.description>
+	<KokuInstallUltraBionicNeck.jobString>Встановлює ультра шию</KokuInstallUltraBionicNeck.jobString>
+
+	<!--==========medsternum==========-->
+	<KokuInstallMedicalSternum.label>Встановити медичну грудину</KokuInstallMedicalSternum.label>
+	<KokuInstallMedicalSternum.description>Встановлює медичну грудину.</KokuInstallMedicalSternum.description>
+	<KokuInstallMedicalSternum.jobString>Встановлює медичну грудину</KokuInstallMedicalSternum.jobString>
+
+	<KokuInstallAdvancedMedicalSternum.label>Встановити вдосконалену медичну грудину</KokuInstallAdvancedMedicalSternum.label>
+	<KokuInstallAdvancedMedicalSternum.description>Встановлює вдосконалену медичну грудину.</KokuInstallAdvancedMedicalSternum.description>
+	<KokuInstallAdvancedMedicalSternum.jobString>Встановлює вдосконалену медичну грудину</KokuInstallAdvancedMedicalSternum.jobString>
+
+	<KokuInstallUltraMedicalSternum.label>Встановити ультра медичну грудину</KokuInstallUltraMedicalSternum.label>
+	<KokuInstallUltraMedicalSternum.description>Встановлює ультра медичну грудину.</KokuInstallUltraMedicalSternum.description>
+	<KokuInstallUltraMedicalSternum.jobString>Встановлює ультра медичну грудину</KokuInstallUltraMedicalSternum.jobString>
+
+
+	<!--==========druggsternum==========-->
+	<KokuInstallDruggedSternum.label>Встановити наркотичний груди</KokuInstallDruggedSternum.label>
+	<KokuInstallDruggedSternum.description>Встановлює наркотичний груди.</KokuInstallDruggedSternum.description>
+	<KokuInstallDruggedSternum.jobString>Встановлює наркотичний груди</KokuInstallDruggedSternum.jobString>
+
+	<KokuInstallAdvancedDruggedSternum.label>Встановити вдосконалений наркотичний груди</KokuInstallAdvancedDruggedSternum.label>
+	<KokuInstallAdvancedDruggedSternum.description>Встановлює вдосконалений наркотичний груди.</KokuInstallAdvancedDruggedSternum.description>
+	<KokuInstallAdvancedDruggedSternum.jobString>Встановлює вдосконалений наркотичний груди</KokuInstallAdvancedDruggedSternum.jobString>
+
+	<KokuInstallUltraDruggedSternum.label>Встановити ультра наркотичний груди</KokuInstallUltraDruggedSternum.label>
+	<KokuInstallUltraDruggedSternum.description>Встановлює ультра наркотичний груди.</KokuInstallUltraDruggedSternum.description>
+	<KokuInstallUltraDruggedSternum.jobString>Встановлює ультра наркотичний груди</KokuInstallUltraDruggedSternum.jobString>
+
+	<!--==========adrsternum==========-->
+	<KokuInstallAdrenalineSternum.label>Встановити адреналіновий груди</KokuInstallAdrenalineSternum.label>
+	<KokuInstallAdrenalineSternum.description>Встановлює адреналіновий груди.</KokuInstallAdrenalineSternum.description>
+	<KokuInstallAdrenalineSternum.jobString>Встановлює адреналіновий груди</KokuInstallAdrenalineSternum.jobString>
+
+	<KokuInstallAdvancedAdrenalineSternum.label>Встановити вдосконалений адреналіновий груди</KokuInstallAdvancedAdrenalineSternum.label>
+	<KokuInstallAdvancedAdrenalineSternum.description>Встановлює вдосконалений адреналіновий груди.</KokuInstallAdvancedAdrenalineSternum.description>
+	<KokuInstallAdvancedAdrenalineSternum.jobString>Встановлює вдосконалений адреналіновий груди</KokuInstallAdvancedAdrenalineSternum.jobString>
+
+	<KokuInstallUltraAdrenalineSternum.label>Встановити ультра адреналіновий груди</KokuInstallUltraAdrenalineSternum.label>
+	<KokuInstallUltraAdrenalineSternum.description>Встановлює ультра адреналіновий груди.</KokuInstallUltraAdrenalineSternum.description>
+	<KokuInstallUltraAdrenalineSternum.jobString>Встановлює ультра адреналіновий груди</KokuInstallUltraAdrenalineSternum.jobString>
+
+	<!--==========painsternum==========-->
+	<KokuInstallPainkillerSternum.label>Встановити знеболювальний груди</KokuInstallPainkillerSternum.label>
+	<KokuInstallPainkillerSternum.description>Встановлює знеболювальний груди.</KokuInstallPainkillerSternum.description>
+	<KokuInstallPainkillerSternum.jobString>Встановлює знеболювальний груди</KokuInstallPainkillerSternum.jobString>
+
+	<KokuInstallAdvancedPainkillerSternum.label>Встановити вдосконалений знеболювальний груди</KokuInstallAdvancedPainkillerSternum.label>
+	<KokuInstallAdvancedPainkillerSternum.description>Встановлює вдосконалений знеболювальний груди.</KokuInstallAdvancedPainkillerSternum.description>
+	<KokuInstallAdvancedPainkillerSternum.jobString>Встановлює вдосконалений знеболювальний груди</KokuInstallAdvancedPainkillerSternum.jobString>
+
+	<KokuInstallUltraPainkillerSternum.label>Встановити ультра знеболювальний груди</KokuInstallUltraPainkillerSternum.label>
+	<KokuInstallUltraPainkillerSternum.description>Встановлює ультра знеболювальний груди.</KokuInstallUltraPainkillerSternum.description>
+	<KokuInstallUltraPainkillerSternum.jobString>Встановлює ультра знеболювальний груди</KokuInstallUltraPainkillerSternum.jobString>
+
+	<!--==========ribcage==========-->
+	<KokuInstallNanomachinesRibcage.label>Встановити грудну клітку з наномашинами</KokuInstallNanomachinesRibcage.label>
+	<KokuInstallNanomachinesRibcage.description>Встановлює грудну клітку з наномашинами.</KokuInstallNanomachinesRibcage.description>
+	<KokuInstallNanomachinesRibcage.jobString>Встановлює грудну клітку з наномашинами</KokuInstallNanomachinesRibcage.jobString>
+
+	<KokuInstallAdvancedNanomachinesRibcage.label>Встановити вдосконалену грудну клітку з наномашинами</KokuInstallAdvancedNanomachinesRibcage.label>
+	<KokuInstallAdvancedNanomachinesRibcage.description>Встановлює вдосконалену грудну клітку з наномашинами.</KokuInstallAdvancedNanomachinesRibcage.description>
+	<KokuInstallAdvancedNanomachinesRibcage.jobString>Встановлює вдосконалену грудну клітку з наномашинами</KokuInstallAdvancedNanomachinesRibcage.jobString>
+
+	<KokuInstallUltraNanomachinesRibcage.label>Встановити ультра грудну клітку з наномашинами</KokuInstallUltraNanomachinesRibcage.label>
+	<KokuInstallUltraNanomachinesRibcage.description>Встановлює ультра грудну клітку з наномашинами.</KokuInstallUltraNanomachinesRibcage.description>
+	<KokuInstallUltraNanomachinesRibcage.jobString>Встановлює ультра грудну клітку з наномашинами</KokuInstallUltraNanomachinesRibcage.jobString>
+
+	<!--==========exoskeleton==========-->
+	<KokuInstallExoskeleton.label>Встановити екзоскелет</KokuInstallExoskeleton.label>
+	<KokuInstallExoskeleton.description>Встановлює екзоскелет.</KokuInstallExoskeleton.description>
+	<KokuInstallExoskeleton.jobString>Встановлює екзоскелет</KokuInstallExoskeleton.jobString>
+
+	<KokuInstallUltraExoskeleton.label>Встановити ультра екзоскелет</KokuInstallUltraExoskeleton.label>
+	<KokuInstallUltraExoskeleton.description>Встановлює ультра екзоскелет.</KokuInstallUltraExoskeleton.description>
+	<KokuInstallUltraExoskeleton.jobString>Встановлює ультра екзоскелет</KokuInstallUltraExoskeleton.jobString>
+
+
+	<!--==============================organs==============================-->
+
+	<!--==========brain==========-->
+	<KokuInstallArtificialBrain.label>Встановити штучний мозок</KokuInstallArtificialBrain.label>
+	<KokuInstallArtificialBrain.description>Встановлює штучний мозок.</KokuInstallArtificialBrain.description>
+	<KokuInstallArtificialBrain.jobString>Встановлює штучний мозок</KokuInstallArtificialBrain.jobString>
+
+	<KokuInstallAdvancedBrain.label>Встановити вдосконалений мозок</KokuInstallAdvancedBrain.label>
+	<KokuInstallAdvancedBrain.description>Встановлює вдосконалений мозок.</KokuInstallAdvancedBrain.description>
+	<KokuInstallAdvancedBrain.jobString>Встановлює вдосконалений мозок</KokuInstallAdvancedBrain.jobString>
+
+
+	<KokuInstallUltraBrain.label>Встановіть ультра мозок</KokuInstallUltraBrain.label>
+	<KokuInstallUltraBrain.description>Встановлює ультра мозок.</KokuInstallUltraBrain.description>
+	<KokuInstallUltraBrain.jobString>Встановлює ультра мозок</KokuInstallUltraBrain.jobString>
+	<!--==========lung==========-->
+	<KokuInstallArtificialLung.label>Встановіть штучне легке</KokuInstallArtificialLung.label>
+	<KokuInstallArtificialLung.description>Встановлює штучне легке.</KokuInstallArtificialLung.description>
+	<KokuInstallArtificialLung.jobString>Встановлює штучне легке</KokuInstallArtificialLung.jobString>
+
+	<KokuInstallSyntheticLung.label>Встановіть синтетичне легке</KokuInstallSyntheticLung.label>
+	<KokuInstallSyntheticLung.description>Встановлює синтетичне легке.</KokuInstallSyntheticLung.description>
+	<KokuInstallSyntheticLung.jobString>Встановлює синтетичне легке</KokuInstallSyntheticLung.jobString>
+
+	<KokuInstallUltraLung.label>Встановіть ультра легке</KokuInstallUltraLung.label>
+	<KokuInstallUltraLung.description>Встановлює ультра легке.</KokuInstallUltraLung.description>
+	<KokuInstallUltraLung.jobString>Встановлює ультра легке</KokuInstallUltraLung.jobString>
+	<!--==========stomach==========-->
+	<KokuInstallArtificialStomach.label>Встановіть штучний шлунок</KokuInstallArtificialStomach.label>
+	<KokuInstallArtificialStomach.description>Встановлює штучний шлунок.</KokuInstallArtificialStomach.description>
+	<KokuInstallArtificialStomach.jobString>Встановлює штучний шлунок</KokuInstallArtificialStomach.jobString>
+
+	<KokuInstallSyntheticStomach.label>Встановіть синтетичний шлунок</KokuInstallSyntheticStomach.label>
+	<KokuInstallSyntheticStomach.description>Встановлює синтетичний шлунок.</KokuInstallSyntheticStomach.description>
+	<KokuInstallSyntheticStomach.jobString>Встановлює синтетичний шлунок</KokuInstallSyntheticStomach.jobString>
+
+	<KokuInstallUltraStomach.label>Встановіть ультра шлунок</KokuInstallUltraStomach.label>
+	<KokuInstallUltraStomach.description>Встановлює ультра шлунок.</KokuInstallUltraStomach.description>
+	<KokuInstallUltraStomach.jobString>Встановлює ультра шлунок</KokuInstallUltraStomach.jobString>
+
+	<!--==========liver==========-->
+	<KokuInstallArtificialLiver.label>Встановіть штучну печінку</KokuInstallArtificialLiver.label>
+	<KokuInstallArtificialLiver.description>Встановлює штучну печінку.</KokuInstallArtificialLiver.description>
+	<KokuInstallArtificialLiver.jobString>Встановлює штучну печінку</KokuInstallArtificialLiver.jobString>
+
+	<KokuInstallSyntheticLiver.label>Встановіть синтетичну печінку</KokuInstallSyntheticLiver.label>
+	<KokuInstallSyntheticLiver.description>Встановлює синтетичну печінку.</KokuInstallSyntheticLiver.description>
+	<KokuInstallSyntheticLiver.jobString>Встановлює синтетичну печінку</KokuInstallSyntheticLiver.jobString>
+
+	<KokuInstallUltraLiver.label>Встановіть ультра печінку</KokuInstallUltraLiver.label>
+	<KokuInstallUltraLiver.description>Встановлює ультра печінку.</KokuInstallUltraLiver.description>
+	<KokuInstallUltraLiver.jobString>Встановлює ультра печінку</KokuInstallUltraLiver.jobString>
+
+	<!--==========kidney==========-->
+	<KokuInstallArtificialKidney.label>Встановіть штучну нирку</KokuInstallArtificialKidney.label>
+	<KokuInstallArtificialKidney.description>Встановлює штучну нирку.</KokuInstallArtificialKidney.description>
+	<KokuInstallArtificialKidney.jobString>Встановлює штучну нирку</KokuInstallArtificialKidney.jobString>
+
+	<KokuInstallSyntheticKidney.label>Встановіть синтетичну нирку</KokuInstallSyntheticKidney.label>
+	<KokuInstallSyntheticKidney.description>Встановлює синтетичну нирку.</KokuInstallSyntheticKidney.description>
+	<KokuInstallSyntheticKidney.jobString>Встановлює синтетичну нирку</KokuInstallSyntheticKidney.jobString>
+
+	<KokuInstallUltraKidney.label>Встановіть ультра нирку</KokuInstallUltraKidney.label>
+	<KokuInstallUltraKidney.description>Встановлює ультра нирку.</KokuInstallUltraKidney.description>
+	<KokuInstallUltraKidney.jobString>Встановлює ультра нирку</KokuInstallUltraKidney.jobString>
+
+	<!--==========heart==========-->
+	<KokuInstallArtificialHeart.label>Встановіть штучне серце</KokuInstallArtificialHeart.label>
+	<KokuInstallArtificialHeart.description>Встановлює штучне серце.</KokuInstallArtificialHeart.description>
+	<KokuInstallArtificialHeart.jobString>Встановлює штучне серце</KokuInstallArtificialHeart.jobString>
+
+	<KokuInstallSyntheticHeart.label>Встановіть синтетичне серце</KokuInstallSyntheticHeart.label>
+	<KokuInstallSyntheticHeart.description>Встановлює синтетичне серце.</KokuInstallSyntheticHeart.description>
+	<KokuInstallSyntheticHeart.jobString>Встановлює синтетичне серце</KokuInstallSyntheticHeart.jobString>
+
+	<KokuInstallUltraHeart.label>Встановіть ультра серце</KokuInstallUltraHeart.label>
+	<KokuInstallUltraHeart.description>Встановлює ультра серце.</KokuInstallUltraHeart.description>
+	<KokuInstallUltraHeart.jobString>Встановлює ультра серце</KokuInstallUltraHeart.jobString>
+
+
+</LanguageData>
