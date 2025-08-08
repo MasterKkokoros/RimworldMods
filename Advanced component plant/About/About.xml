@@ -13,10 +13,10 @@
   <packageId>Kkokoros.AdvComponentPlants</packageId>
   <url>https://github.com/MasterKkokoros/RimworldMods/tree/main/Advanced%20component%20plant</url>
   <description>
-    grow time 25 Days
+    grow time 30 Days
     yeld 1
     no tech needed
-    needs 15 skill in farming
+    needs 10 skill in farming
     sowable in hydroponics
     is ready when it has normal advanced component texture
   </description>

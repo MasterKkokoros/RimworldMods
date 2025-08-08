@@ -23,7 +23,7 @@
       <harvestTag>Standard</harvestTag>
       <harvestedThingDef>ComponentIndustrial</harvestedThingDef>
       <harvestYield>2</harvestYield>
-      <sowMinSkill>12</sowMinSkill>
+      <sowMinSkill>9</sowMinSkill>
       <sowTags>
         <li>Ground</li>
         <li>Hydroponic</li>
