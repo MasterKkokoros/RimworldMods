@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+	<Operation Class="Plants_AdvancedComponent.PatchOperationFindBoolInTestMods">
+		<bools>
+			<li>NeedRichGround</li>
+		</bools>
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="Plant_AdvancedComponent"]/plant</xpath>
+					<value>
+						<fertilityMin>1.40</fertilityMin>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+	<Operation Class="Plants_AdvancedComponent.PatchOperationFindBoolInTestMods">
+		<bools>
+			<li>CanDoHydroponics</li>
+		</bools>
+		<match Class="PatchOperationSequence">
+			<operations>
+
+				<li Class="PatchOperationAdd">
+					<xpath>/Defs/ThingDef[defName="Plant_AdvancedComponent"]/plant/sowTags</xpath>
+					<value>
+						<li>Hydroponic</li>
+					</value>
+				</li>
+
+			</operations>
+		</match>
+	</Operation>
+
+</Patch>
