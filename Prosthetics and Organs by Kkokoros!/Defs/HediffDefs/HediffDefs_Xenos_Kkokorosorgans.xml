@@ -25,7 +25,7 @@
          <partEfficiency>0.75</partEfficiency>
       </addedPartProps>
    </HediffDef>
-   <HediffDef ParentName="KokuaddedProsthetics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <HediffDef ParentName="KokuaddedProsthetics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuHydraulicTail</defName>
       <label>hydraulic tail</label>
       <description>An installed simple hydraulic tail.</description>
@@ -78,7 +78,7 @@
          <partEfficiency>1.25</partEfficiency>
       </addedPartProps>
    </HediffDef>
-   <HediffDef ParentName="KokuaddedBionics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <HediffDef ParentName="KokuaddedBionics" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuBionicTail</defName>
       <label>bionic tail</label>
       <labelNoun>a bionic tail</labelNoun>
@@ -142,7 +142,7 @@
          <partEfficiency>1.45</partEfficiency>
       </addedPartProps>
    </HediffDef>
-   <HediffDef ParentName="KokuaddedAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <HediffDef ParentName="KokuaddedAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuAdvancedBionicTail</defName>
       <label>advanced bionic tail</label>
       <labelNoun>an advanced bionic tail</labelNoun>
@@ -219,7 +219,7 @@
          <partEfficiency>1.55</partEfficiency>
       </addedPartProps>
    </HediffDef>
-   <HediffDef ParentName="KokuaddedUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <HediffDef ParentName="KokuaddedUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuUltraBionicTail</defName>
       <label>ultra bionic tail</label>
       <labelNoun>an ultra bionic tail</labelNoun>

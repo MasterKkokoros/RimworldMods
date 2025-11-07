@@ -51,7 +51,7 @@
       </appliedOnFixedBodyParts>
       <addsHediff>KokuHydraulicAntenna</addsHediff>
    </RecipeDef>
-   <RecipeDef ParentName="KokuSurgerySimple" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <RecipeDef ParentName="KokuSurgerySimple" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuInstallHydraulicTail</defName>
       <label>install hydraulic tail</label>
       <description>Installs hydraulic tail.</description>
@@ -83,6 +83,7 @@
          <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
          <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
          <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+         <li MayRequireAnyOf="MelonDove.WolfeinRace">Wolfein_Tail</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuHydraulicTail</addsHediff>
    </RecipeDef>
@@ -198,7 +199,7 @@
       </appliedOnFixedBodyParts>
       <addsHediff>KokuBionicAbdomen</addsHediff>
    </RecipeDef>
-   <RecipeDef ParentName="KokuSurgeryBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <RecipeDef ParentName="KokuSurgeryBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuInstallBionicTail</defName>
       <label>install bionic tail</label>
       <description>Installs bionic tail.</description>
@@ -230,6 +231,7 @@
          <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
          <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
          <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+         <li MayRequireAnyOf="MelonDove.WolfeinRace">Wolfein_Tail</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuBionicTail</addsHediff>
    </RecipeDef>
@@ -310,7 +312,7 @@
       </appliedOnFixedBodyParts>
       <addsHediff>KokuAdvancedBionicAbdomen</addsHediff>
    </RecipeDef>
-   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <RecipeDef ParentName="KokuSurgeryAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuInstallAdvancedBionicTail</defName>
       <label>install advanced bionic tail</label>
       <description>Installs advanced bionic tail.</description>
@@ -342,6 +344,7 @@
          <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
          <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
          <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+         <li MayRequireAnyOf="MelonDove.WolfeinRace">Wolfein_Tail</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuAdvancedBionicTail</addsHediff>
    </RecipeDef>
@@ -457,7 +460,7 @@
       </appliedOnFixedBodyParts>
       <addsHediff>KokuUltraBionicAbdomen</addsHediff>
    </RecipeDef>
-   <RecipeDef ParentName="KokuSurgeryUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <RecipeDef ParentName="KokuSurgeryUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuInstallUltraBionicTail</defName>
       <label>install ultra bionic tail</label>
       <description>Installs ultra bionic tail.</description>
@@ -489,6 +492,7 @@
          <li MayRequireAnyOf="Ayameduki.HARSilkiera">Silkiera_Tail</li>
          <li MayRequireAnyOf="Nemonian.MY">Moyo_Tail</li>
          <li MayRequireAnyOf="Solaris.RatkinRaceMod">RK_RatTail</li>
+         <li MayRequireAnyOf="MelonDove.WolfeinRace">Wolfein_Tail</li>
       </appliedOnFixedBodyParts>
       <addsHediff>KokuUltraBionicTail</addsHediff>
    </RecipeDef>

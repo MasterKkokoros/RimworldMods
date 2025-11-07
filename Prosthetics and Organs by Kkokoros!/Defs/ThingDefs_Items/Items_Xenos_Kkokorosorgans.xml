@@ -26,7 +26,7 @@
          <Mass>0.5</Mass>
       </statBases>
    </ThingDef>
-   <ThingDef ParentName="KokuSimpleProsthesis" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <ThingDef ParentName="KokuSimpleProsthesis" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuHydraulicTail</defName>
       <label>artificial tail</label>
       <description>Tail replacement made out of steel.</description>
@@ -89,7 +89,7 @@
          <Mass>0.5</Mass>
       </statBases>
    </ThingDef>
-   <ThingDef ParentName="KokuBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <ThingDef ParentName="KokuBionic" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuBionicTail</defName>
       <label>bionic tail</label>
       <description>Tail replacement made out of plasteel.</description>
@@ -140,7 +140,7 @@
          <Mass>0.5</Mass>
       </statBases>
    </ThingDef>
-   <ThingDef ParentName="KokuAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <ThingDef ParentName="KokuAdvanced" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuAdvancedBionicTail</defName>
       <label>advanced bionic tail</label>
       <description>Tail replacement made out of plasteel and silver.</description>
@@ -204,7 +204,7 @@
          <Mass>0.5</Mass>
       </statBases>
    </ThingDef>
-   <ThingDef ParentName="KokuUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod">
+   <ThingDef ParentName="KokuUltra" MayRequireAnyOf="SpankyH.BunRace.core,PickSungYi.Horanrace,Ancot.KiiroRace,VAMV.MaruRaceMod,Farmradish.Nyaron,RunneLatki.RabbieRaceMod,Seioch.Kurin.HAR,Seioch.Naki.HAR,Ayameduki.HARSilkiera,Nemonian.MY,Solaris.RatkinRaceMod,MelonDove.WolfeinRace">
       <defName>KokuUltraBionicTail</defName>
       <label>ultra bionic tail</label>
       <description>Tail replacement made out of plasteel and silver enhanced with uranium.</description>

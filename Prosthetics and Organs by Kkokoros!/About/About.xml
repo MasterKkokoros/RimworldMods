@@ -48,6 +48,7 @@
 		-Silkiera Race (tail,ear)
 		-NewRatkinPlus (tail,ear)
 		-Moyo-From the depth(tail)
+		-Wolfein race(tail)
 
 		Adds orbital Trader that sells Kkokorosorgans Items.
 
@@ -86,6 +87,7 @@
 		<li>Solaris.RatkinRaceMod</li>
 		<li>Nemonian.MY</li>
 		<li>Dubwise.DubsBadHygiene</li>
+		<li>MelonDove.WolfeinRace</li>
 		<li>Kkokoros.expandedorgans</li>
 		<li>MSE2.Core</li>
 	</loadAfter>
